@@ -20,20 +20,25 @@
     },
     {
       "id": "2026-08-04-10",
-      "datetime": "2026-08-04 10:02:18",
+      "datetime": "2026-08-04 10:25:07",
       "date": "2026-08-04",
-      "time": "10:02",
+      "time": "10:25",
       "period": "上午",
-      "summary": "本期采集 21 篇文章，来自 2 个信息源，覆盖 4 个领域，精选 27 条摘要",
+      "summary": "本期采集 104 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 161 条摘要",
       "stats": {
-        "total_items": 27,
-        "total_collected": 21,
-        "sources": 2,
+        "total_items": 161,
+        "total_collected": 104,
+        "sources": 7,
         "source_list": [
           "36氪",
-          "Hacker News"
+          "Hacker News",
+          "The Verge",
+          "华尔街见闻",
+          "央视新闻",
+          "观察者网",
+          "财新网"
         ],
-        "domains": 4
+        "domains": 7
       }
     }
   ]
