@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#007aff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="每日简报">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <title>每日简报</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- 顶部栏 -->
+    <header class="header">
+      <div class="header-left">
+        <h1 class="logo">📰 每日简报</h1>
+      </div>
+      <div class="header-right">
+        <button id="theme-toggle" class="icon-btn" aria-label="切换主题">
+          <span id="theme-icon">🌙</span>
+        </button>
+        <button id="refresh-btn" class="icon-btn" aria-label="刷新">
+          <span>🔄</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- 简报概要 -->
+    <section id="briefing-overview" class="overview-card">
+      <div class="overview-time">
+        <span id="briefing-period" class="period-badge">--</span>
+        <span id="briefing-datetime" class="datetime-text">加载中...</span>
+      </div>
+      <p id="briefing-summary" class="overview-text">正在获取最新简报...</p>
+      <div id="briefing-stats" class="stats-row"></div>
+    </section>
+
+    <!-- 领域标签 -->
+    <nav id="domain-tabs" class="domain-tabs">
+      <div class="tabs-scroll"></div>
+    </nav>
+
+    <!-- 文章列表 -->
+    <main id="article-list" class="article-list">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>加载中...</p>
+      </div>
+    </main>
+
+    <!-- 底部导航 -->
+    <nav class="bottom-nav">
+      <button class="nav-btn active" data-view="latest">
+        <span class="nav-icon">📋</span>
+        <span class="nav-label">最新</span>
+      </button>
+      <button class="nav-btn" data-view="history">
+        <span class="nav-icon">📚</span>
+        <span class="nav-label">历史</span>
+      </button>
+      <button class="nav-btn" data-view="about">
+        <span class="nav-icon">ℹ️</span>
+        <span class="nav-label">关于</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- 历史视图 -->
+  <div id="history-view" class="view hidden">
+    <div class="history-header">
+      <h2>历史简报</h2>
+    </div>
+    <div id="history-list" class="history-list"></div>
+  </div>
+
+  <!-- 关于视图 -->
+  <div id="about-view" class="view hidden">
+    <div class="about-card">
+      <h2>📰 每日简报</h2>
+      <p>个人专属信息聚合工具，自动采集多个平台内容，AI 生成摘要简报。</p>
+      <div class="about-section">
+        <h3>数据来源</h3>
+        <p>微博、B站、知乎、36氪、少数派、BBC中文、华尔街见闻等</p>
+      </div>
+      <div class="about-section">
+        <h3>更新频率</h3>
+        <p>每天 5 次：8:00 / 12:00 / 16:00 / 20:00 / 22:00</p>
+      </div>
+      <div class="about-section">
+        <h3>添加到桌面</h3>
+        <p>iOS: Safari 分享 → 添加到主屏幕<br>Android: 浏览器菜单 → 添加到主屏幕</p>
+      </div>
+      <div class="about-section">
+        <h3>技术栈</h3>
+        <p>GitHub Actions + Gemini API + PWA</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

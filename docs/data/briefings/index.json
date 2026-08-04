@@ -1,0 +1,22 @@
+{
+  "briefings": [
+    {
+      "id": "2026-08-04-15",
+      "datetime": "2026-08-04 15:21:26",
+      "date": "2026-08-04",
+      "time": "15:21",
+      "period": "下午",
+      "summary": "本期采集 26 篇文章，来自 2 个信息源，覆盖 5 个领域，精选 27 条摘要",
+      "stats": {
+        "total_items": 27,
+        "total_collected": 26,
+        "sources": 2,
+        "source_list": [
+          "36氪",
+          "少数派"
+        ],
+        "domains": 5
+      }
+    }
+  ]
+}
