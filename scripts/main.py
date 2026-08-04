@@ -50,17 +50,17 @@ def main():
         print("\n  [!] 过滤后无文章，可能关键词未命中。退出。")
         return
 
-    # Step 3: AI 摘要
+    # Step 3: AI 摘要（可选 - 没有密钥就跳过，直接用原始新闻）
     print("\n--- [3/4] AI 摘要 ---")
-    try:
-        summarizer = Summarizer()
-        domain_summaries = summarizer.summarize_by_domain(
-            articles, interests_cfg, max_per_domain=max_per_domain
-        )
-    except Exception as e:
-        print(f"\n  [!] AI 摘要失败: {e}")
-        print("  使用降级方案（无 AI 摘要）")
-        domain_summaries = []
+    provider = os.getenv("AI_PROVIDER", "gemini").lower()
+    has_api_key = (
+        (provider == "deepseek" and os.getenv("DEEPSEEK_API_KEY"))
+        or (provider == "gemini" and os.getenv("GEMINI_API_KEY"))
+    )
+
+    domain_summaries = []
+    if not has_api_key:
+        print("  未配置 AI 密钥，跳过 AI 摘要（直接使用原始新闻）")
         for art in articles:
             for domain in art.get("matched_domains", ["综合"]):
                 found = next((d for d in domain_summaries if d["name"] == domain), None)
@@ -70,13 +70,38 @@ def main():
                 found["items"].append(
                     {
                         "title": art["title"],
-                        "summary": art["summary"][:150],
+                        "summary": art["summary"][:200] if art["summary"] else "",
                         "importance": "medium",
                         "source": art["source"],
                         "link": art["link"],
                         "published": art["published"],
                     }
                 )
+    else:
+        try:
+            summarizer = Summarizer()
+            domain_summaries = summarizer.summarize_by_domain(
+                articles, interests_cfg, max_per_domain=max_per_domain
+            )
+        except Exception as e:
+            print(f"\n  [!] AI 摘要失败: {e}")
+            print("  使用降级方案（无 AI 摘要）")
+            for art in articles:
+                for domain in art.get("matched_domains", ["综合"]):
+                    found = next((d for d in domain_summaries if d["name"] == domain), None)
+                    if not found:
+                        found = {"name": domain, "summary": "", "items": []}
+                        domain_summaries.append(found)
+                    found["items"].append(
+                        {
+                            "title": art["title"],
+                            "summary": art["summary"][:200] if art["summary"] else "",
+                            "importance": "medium",
+                            "source": art["source"],
+                            "link": art["link"],
+                            "published": art["published"],
+                        }
+                    )
 
     # Step 4: 生成简报
     print("\n--- [4/4] 生成简报 ---")
