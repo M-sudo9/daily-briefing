@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate briefing
         env:
-          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'gemini' }}
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER || 'gemini' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python scripts/main.py
