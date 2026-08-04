@@ -54,40 +54,42 @@
         <p>加载中...</p>
       </div>
     </main>
-
-    <!-- 底部导航 -->
-    <nav class="bottom-nav">
-      <button class="nav-btn active" data-view="latest">
-        <span class="nav-icon">📋</span>
-        <span class="nav-label">最新</span>
-      </button>
-      <button class="nav-btn" data-view="favorites">
-        <span class="nav-icon">⭐</span>
-        <span class="nav-label">收藏</span>
-      </button>
-      <button class="nav-btn" data-view="history">
-        <span class="nav-icon">📚</span>
-        <span class="nav-label">历史</span>
-      </button>
-      <button class="nav-btn" data-view="about">
-        <span class="nav-icon">ℹ️</span>
-        <span class="nav-label">关于</span>
-      </button>
-    </nav>
   </div>
+
+  <!-- 底部导航（始终显示，不受页面切换影响） -->
+  <nav class="bottom-nav">
+    <button class="nav-btn active" data-view="latest">
+      <span class="nav-icon">📋</span>
+      <span class="nav-label">最新</span>
+    </button>
+    <button class="nav-btn" data-view="favorites">
+      <span class="nav-icon">⭐</span>
+      <span class="nav-label">收藏</span>
+    </button>
+    <button class="nav-btn" data-view="history">
+      <span class="nav-icon">📚</span>
+      <span class="nav-label">历史</span>
+    </button>
+    <button class="nav-btn" data-view="about">
+      <span class="nav-icon">ℹ️</span>
+      <span class="nav-label">关于</span>
+    </button>
+  </nav>
 
   <!-- 收藏视图 -->
   <div id="favorites-view" class="view hidden">
-    <div class="favorites-header">
+    <div class="sub-header">
+      <button class="back-btn" data-back="latest">← 返回</button>
       <h2>⭐ 我的收藏</h2>
-      <p class="favorites-count" id="favorites-count"></p>
     </div>
+    <p class="favorites-count" id="favorites-count"></p>
     <div id="favorites-list" class="favorites-list"></div>
   </div>
 
   <!-- 历史视图 -->
   <div id="history-view" class="view hidden">
-    <div class="history-header">
+    <div class="sub-header">
+      <button class="back-btn" data-back="latest">← 返回</button>
       <h2>历史简报</h2>
     </div>
     <div id="history-list" class="history-list"></div>
@@ -95,6 +97,10 @@
 
   <!-- 关于视图 -->
   <div id="about-view" class="view hidden">
+    <div class="sub-header">
+      <button class="back-btn" data-back="latest">← 返回</button>
+      <h2>关于</h2>
+    </div>
     <div class="about-card">
       <h2>📰 每日简报</h2>
       <p>个人专属信息聚合工具，自动采集多个平台内容，AI 生成摘要简报。</p>

@@ -440,6 +440,11 @@
       btn.addEventListener("click", () => switchView(btn.dataset.view));
     });
 
+    // Back buttons
+    $$(".back-btn").forEach((btn) => {
+      btn.addEventListener("click", () => switchView(btn.dataset.back || "latest"));
+    });
+
     // Load latest briefing
     loadLatestBriefing();
 

@@ -279,17 +279,52 @@ a { color: var(--primary); text-decoration: none; }
 .nav-icon { font-size: 20px; }
 .nav-label { font-size: 11px; font-weight: 500; }
 
+/* ===== Sub Page Header (返回栏) ===== */
+.sub-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: var(--header-h);
+  background: var(--card-bg);
+  border-bottom: 0.5px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 12px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.sub-header h2 {
+  font-size: 17px;
+  font-weight: 700;
+  flex: 1;
+}
+.back-btn {
+  flex-shrink: 0;
+  padding: 6px 14px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--primary);
+  background: var(--primary-light);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+.back-btn:active {
+  transform: scale(0.95);
+  background: var(--primary);
+  color: #fff;
+}
+
 /* ===== Favorites View ===== */
 .view {
   padding: 12px 16px;
   padding-bottom: calc(var(--bottom-h) + 20px);
 }
-.favorites-header h2 { font-size: 20px; font-weight: 700; margin-bottom: 4px; }
 .favorites-count { font-size: 13px; color: var(--text-secondary); margin-bottom: 12px; }
-.favorites-list { }
 
 /* ===== History View ===== */
-.history-header h2 { font-size: 20px; font-weight: 700; margin-bottom: 12px; }
 .history-item {
   background: var(--card-bg);
   border-radius: var(--radius);
