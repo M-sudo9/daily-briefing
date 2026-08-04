@@ -1,5 +1,5 @@
 // Service Worker - 离线缓存
-const CACHE_NAME = "daily-briefing-v1";
+const CACHE_NAME = "daily-briefing-v2";
 const STATIC_ASSETS = [
   "./",
   "./index.html",

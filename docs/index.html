@@ -20,6 +20,9 @@
         <h1 class="logo">📰 每日简报</h1>
       </div>
       <div class="header-right">
+        <button id="filter-unread-btn" class="icon-btn" aria-label="只看未读" title="只看未读">
+          <span>👁️</span>
+        </button>
         <button id="theme-toggle" class="icon-btn" aria-label="切换主题">
           <span id="theme-icon">🌙</span>
         </button>
@@ -58,6 +61,10 @@
         <span class="nav-icon">📋</span>
         <span class="nav-label">最新</span>
       </button>
+      <button class="nav-btn" data-view="favorites">
+        <span class="nav-icon">⭐</span>
+        <span class="nav-label">收藏</span>
+      </button>
       <button class="nav-btn" data-view="history">
         <span class="nav-icon">📚</span>
         <span class="nav-label">历史</span>
@@ -67,6 +74,15 @@
         <span class="nav-label">关于</span>
       </button>
     </nav>
+  </div>
+
+  <!-- 收藏视图 -->
+  <div id="favorites-view" class="view hidden">
+    <div class="favorites-header">
+      <h2>⭐ 我的收藏</h2>
+      <p class="favorites-count" id="favorites-count"></p>
+    </div>
+    <div id="favorites-list" class="favorites-list"></div>
   </div>
 
   <!-- 历史视图 -->
@@ -84,11 +100,15 @@
       <p>个人专属信息聚合工具，自动采集多个平台内容，AI 生成摘要简报。</p>
       <div class="about-section">
         <h3>数据来源</h3>
-        <p>微博、B站、知乎、36氪、少数派、BBC中文、华尔街见闻等</p>
+        <p>微博、B站、知乎、36氪、少数派、观察者网、华尔街见闻等</p>
       </div>
       <div class="about-section">
         <h3>更新频率</h3>
         <p>每天 5 次：8:00 / 12:00 / 16:00 / 20:00 / 22:00</p>
+      </div>
+      <div class="about-section">
+        <h3>功能说明</h3>
+        <p>👁️ 点眼睛图标可切换"只看未读"<br>✅ 每条新闻可标记已看/未看<br>⭐ 每条新闻可收藏/取消收藏</p>
       </div>
       <div class="about-section">
         <h3>添加到桌面</h3>
@@ -96,7 +116,7 @@
       </div>
       <div class="about-section">
         <h3>技术栈</h3>
-        <p>GitHub Actions + Gemini API + PWA</p>
+        <p>GitHub Actions + DeepSeek API + PWA</p>
       </div>
     </div>
   </div>

@@ -36,11 +36,11 @@ def _parse_date(entry) -> datetime:
     return datetime.now()
 
 
-def fetch_feed(url: str, source_name: str, category: str, timeout: int = 20) -> List[Dict]:
+def fetch_feed(url: str, source_name: str, category: str, timeout: int = 25) -> List[Dict]:
     """获取并解析单个 RSS 源"""
     try:
         headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; DailyBriefingBot/1.0; +https://github.com)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
         resp = requests.get(url, headers=headers, timeout=timeout)
         resp.raise_for_status()
@@ -83,21 +83,54 @@ def fetch_feed(url: str, source_name: str, category: str, timeout: int = 20) -> 
         return []
 
 
+def _try_rsshub_with_fallbacks(path: str, source_name: str, category: str,
+                                primary: str, fallbacks: List[str]) -> List[Dict]:
+    """尝试用多个 RSSHub 实例获取同一个源"""
+    # 先用主实例
+    url = path.replace("{rsshub_base}", primary.rstrip("/"))
+    items = fetch_feed(url, source_name, category)
+    if items:
+        return items
+
+    # 主实例失败，依次尝试备用实例
+    for fb in fallbacks:
+        fb = fb.rstrip("/")
+        if fb == primary.rstrip("/"):
+            continue
+        print(f"      -> 尝试备用实例: {fb}")
+        url = path.replace("{rsshub_base}", fb)
+        items = fetch_feed(url, source_name, category, timeout=20)
+        if items:
+            return items
+
+    return []
+
+
 def collect_all(config: Dict) -> List[Dict]:
     """采集所有配置的 RSS 源"""
     all_items = []
     rsshub_base = config.get("rsshub_base", "https://rsshub.app").rstrip("/")
+    rsshub_fallbacks = config.get("rsshub_fallbacks", [])
 
     feeds = config.get("feeds", [])
-    print(f"   共 {len(feeds)} 个信息源")
+    print(f"   共 {len(feeds)} 个信息源, {len(rsshub_fallbacks)} 个备用 RSSHub 实例")
 
     for i, feed_cfg in enumerate(feeds, 1):
-        url = feed_cfg["url"].replace("{rsshub_base}", rsshub_base)
+        url_template = feed_cfg["url"]
         name = feed_cfg["name"]
         category = feed_cfg.get("category", "未分类")
 
         print(f"   [{i}/{len(feeds)}] {name} ...", end=" ")
-        items = fetch_feed(url, name, category)
+
+        # 如果是 RSSHub 源，支持多实例回退
+        if "{rsshub_base}" in url_template and rsshub_fallbacks:
+            items = _try_rsshub_with_fallbacks(
+                url_template, name, category, rsshub_base, rsshub_fallbacks
+            )
+        else:
+            url = url_template.replace("{rsshub_base}", rsshub_base)
+            items = fetch_feed(url, name, category)
+
         all_items.extend(items)
         print(f"{len(items)} 条")
 

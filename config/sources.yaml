@@ -4,13 +4,20 @@
 # 修改此文件来增删你的信息源
 # {rsshub_base} 会被替换为下方的 rsshub_base 地址
 
-# RSSHub 实例地址
-# 官方实例可能限流，可替换为其他公共实例或自建实例
-# 公共实例列表: https://docs.rsshub.app/instances
+# RSSHub 主实例
 rsshub_base: "https://rsshub.app"
+
+# RSSHub 备用实例（主实例限流时自动切换）
+# 当主实例获取失败时，会依次尝试这些备用实例
+rsshub_fallbacks:
+  - "https://rsshub.rssforever.com"
+  - "https://rsshub.feeded.xyz"
+  - "https://rss.shab.fun"
 
 # RSS 源列表
 feeds:
+  # ==== 直接 RSS 源（不依赖 RSSHub，最稳定）====
+
   # ---- 科技 / AI ----
   - name: "36氪"
     url: "https://36kr.com/feed"
@@ -20,13 +27,32 @@ feeds:
     url: "https://sspai.com/feed"
     category: "科技"
 
-  - name: "IT之家"
-    url: "{rsshub_base}/ithome/ranking/more/24h"
-    category: "科技"
-
   - name: "Hacker News"
     url: "https://hnrss.org/frontpage"
     category: "科技"
+
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    category: "科技"
+
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: "科技"
+
+  # ---- 新闻 / 综合 ----
+  - name: "BBC中文"
+    url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
+    category: "新闻"
+
+  - name: "中国日报"
+    url: "http://www.chinadaily.com.cn/rss/china_rss.xml"
+    category: "新闻"
+
+  - name: "路透中文"
+    url: "https://rsshub.app/reuters/world/cn"
+    category: "新闻"
+
+  # ==== RSSHub 源（依赖 RSSHub，有备用实例自动切换）====
 
   # ---- 微博 / 社交 ----
   - name: "微博热搜"
@@ -37,11 +63,6 @@ feeds:
     url: "{rsshub_base}/zhihu/hotlist"
     category: "社交"
 
-  # 可添加特定微博用户，替换 uid
-  # - name: "某微博用户"
-  #   url: "{rsshub_base}/weibo/user/1234567890"
-  #   category: "社交"
-
   # ---- B站 ----
   - name: "B站热门"
     url: "{rsshub_base}/bilibili/ranking/0/3/1"
@@ -51,25 +72,20 @@ feeds:
     url: "{rsshub_base}/bilibili/popular/all"
     category: "科技"
 
-  # 可添加特定UP主，替换 uid
-  # - name: "某UP主"
-  #   url: "{rsshub_base}/bilibili/user/video/12345678"
-  #   category: "视频"
-
   # ---- 军事 / 国际 ----
   - name: "观察者网"
     url: "{rsshub_base}/guancha/headline"
+    category: "军事"
+
+  - name: "环球网军事"
+    url: "{rsshub_base}/huanqiu/military"
     category: "军事"
 
   - name: "央视新闻"
     url: "{rsshub_base}/cctv/news"
     category: "新闻"
 
-  # ---- 综合 / 新闻 ----
-  - name: "BBC中文"
-    url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
-    category: "新闻"
-
+  # ---- 综合 ----
   - name: "澎湃新闻"
     url: "{rsshub_base}/thepaper/newsDetail"
     category: "新闻"
@@ -83,22 +99,36 @@ feeds:
     url: "{rsshub_base}/caixin/latest"
     category: "财经"
 
+  # ---- 心理学 / 哲学（通过知乎专栏和豆瓣）----
+  - name: "豆瓣心理学"
+    url: "{rsshub_base}/douban/explore/category/psychology"
+    category: "心理"
+
+  - name: "知乎心理学专栏"
+    url: "{rsshub_base}/zhihu/zhuanlan/psychology"
+    category: "心理"
+
+  # 可添加特定微博用户，替换 uid
+  # - name: "某微博用户"
+  #   url: "{rsshub_base}/weibo/user/1234567890"
+  #   category: "社交"
+
+  # 可添加特定UP主，替换 uid
+  # - name: "某UP主"
+  #   url: "{rsshub_base}/bilibili/user/video/12345678"
+  #   category: "视频"
+
   # ---- 微信公众号 ----
   # 公众号需要通过 RSSHub 获取，替换 mp id
-  # 获取方式: 在微信文章页面查看源码搜索 var biz
   # - name: "某公众号"
   #   url: "{rsshub_base}/wechat/gongshi/xxx"
   #   category: "公众号"
 
-  # 或使用 WeRSS (付费): https://werss.app
-  # - name: "某公众号"
-  #   url: "https://werss.app/feed/xxx"
-  #   category: "公众号"
-
 # ============================================
 # 使用说明:
-# 1. 直接 RSS 源: 填写完整 URL
+# 1. 直接 RSS 源: 填写完整 URL（最稳定）
 # 2. RSSHub 源: 使用 {rsshub_base} 前缀 + RSSHub 路由
 #    路由文档: https://docs.rsshub.app/routes
-# 3. category 用于简报分类，可自定义
+# 3. RSSHub 失败时会自动尝试备用实例
+# 4. category 用于简报分类，可自定义
 # ============================================
