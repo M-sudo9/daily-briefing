@@ -1,6 +1,30 @@
 {
   "briefings": [
     {
+      "id": "2026-09-04-03",
+      "datetime": "2026-09-04 03:24:24",
+      "date": "2026-09-04",
+      "time": "03:24",
+      "period": "凌晨",
+      "summary": "本期采集 75 篇文章，来自 8 个信息源，覆盖 7 个领域，精选 102 条摘要",
+      "stats": {
+        "total_items": 102,
+        "total_collected": 75,
+        "sources": 8,
+        "source_list": [
+          "Hacker News",
+          "TechCrunch",
+          "The Verge",
+          "华尔街见闻",
+          "央视新闻",
+          "少数派",
+          "观察者网",
+          "财新网"
+        ],
+        "domains": 7
+      }
+    },
+    {
       "id": "2026-09-03-15",
       "datetime": "2026-09-03 15:59:03",
       "date": "2026-09-03",
