@@ -1,0 +1,153 @@
+{
+  "id": "2026-10-11-14",
+  "datetime": "2026-10-11 14:46:44",
+  "date": "2026-10-11",
+  "time": "14:46",
+  "period": "下午",
+  "summary": "本期采集 13 篇文章，来自 3 个信息源，覆盖 2 个领域，精选 15 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
+          "summary": "Article URL: https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-su",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+          "published": "Sun, 11 Oct 2026 13:28:03 +0000"
+        },
+        {
+          "title": "Terence Tao: Math 2.0 [pdf]",
+          "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 48 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+          "published": "Sun, 11 Oct 2026 13:16:45 +0000"
+        },
+        {
+          "title": "The tilde in your PATH may not be your HOME",
+          "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 60 # Comments: 33",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+          "published": "Sun, 11 Oct 2026 12:13:13 +0000"
+        },
+        {
+          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+          "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 34 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://verdagon.dev/blog/valen-group-borrowing",
+          "published": "Sun, 11 Oct 2026 12:06:22 +0000"
+        },
+        {
+          "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+          "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 6 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://betterwispr.com/",
+          "published": "Sun, 11 Oct 2026 12:01:28 +0000"
+        },
+        {
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Sun, 11 Oct 2026 12:01:08 +0000"
+        },
+        {
+          "title": "I paid people to try and follow my README",
+          "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 143 # Comments: 84",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+          "published": "Sun, 11 Oct 2026 11:47:29 +0000"
+        },
+        {
+          "title": "Nitter: Update Oct 10th seeking funding and legal help",
+          "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 235 # Comments: 97",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://nitter.net",
+          "published": "Sun, 11 Oct 2026 10:37:55 +0000"
+        },
+        {
+          "title": "IRCv3",
+          "summary": "Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 173 # Comments: 151",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://ircv3.net/",
+          "published": "Sun, 11 Oct 2026 10:11:27 +0000"
+        },
+        {
+          "title": "3rd Yandex Cloud Data Center Was Hit",
+          "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 340 # Comments: 423",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://status.yandex.cloud/en/incidents/2136",
+          "published": "Sun, 11 Oct 2026 07:34:45 +0000"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Sun, 11 Oct 2026 12:01:08 +0000"
+        },
+        {
+          "title": "I paid people to try and follow my README",
+          "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 143 # Comments: 84",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+          "published": "Sun, 11 Oct 2026 11:47:29 +0000"
+        },
+        {
+          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "published": "Sun, 11 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadg",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+          "published": "2026-10-11T08:00:00-04:00"
+        },
+        {
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "published": "2026-10-11T07:00:00-04:00"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 15,
+    "total_collected": 13,
+    "sources": 3,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge"
+    ],
+    "domains": 2
+  }
+}
