@@ -1,0 +1,754 @@
+{
+  "id": "2026-10-12-04",
+  "datetime": "2026-10-12 04:51:52",
+  "date": "2026-10-12",
+  "time": "04:51",
+  "period": "凌晨",
+  "summary": "本期采集 57 篇文章，来自 6 个信息源，覆盖 7 个领域，精选 86 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+          "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版 Anthropic 宣布切断内部评估环境的互联网访问权限 AI 助力老游戏移植到浏览器 3C 证书大面积暂停，电动自行车销售接近停滞 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115845",
+          "published": "Mon, 12 Oct 2026 06:34:54 +0800"
+        },
+        {
+          "title": "Recursive self-improvement through collective intelligence",
+          "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 83 # Comments: 44",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pub.sakana.ai/mass/",
+          "published": "Sun, 11 Oct 2026 22:22:10 +0000"
+        },
+        {
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published": "Mon, 12 Oct 2026 00:59:01 +0000"
+        },
+        {
+          "title": "华尔街质疑Meta只会烧钱，扎克伯格硬扛七个月打造Muse",
+          "summary": "华尔街嘲讽Meta烧钱，甚至称“烂不可能赢AI”，但扎克伯格硬扛七个月打造Muse。 Meta首席AI官Alexandr Wang表示扎克伯格自认技能并不“性感”，但擅长组建团队并长期缓慢打磨产品。 AI时代的七个月如同非AI时代的十年，需极大耐心与信任。扎克伯格被前研究员形容为“终结者”，永不满意产品，持续改进，并非混蛋，极其重视团队凝聚力。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960008",
+          "published": "Mon, 12 Oct 2026 04:40:07 GMT"
+        },
+        {
+          "title": "谷歌副总裁：现在招人看的不是学习速度，是遗忘速度",
+          "summary": "谷歌副总裁Josh Woodward认为，在AI大幅降低产品执行成本的当下，人才的核心竞争力已不再是单纯的“学习速度”，而是能够快速验证并舍弃无效经验的“遗忘速度”（反学习速率），以及能够保持“爆发式耐力”、在角色边界日益模糊的小型流体团队中快速建立信任并高效协作的能力。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960007",
+          "published": "Mon, 12 Oct 2026 04:33:56 GMT"
+        },
+        {
+          "title": "亚马逊巨额AI资本开支的回报，是否被市场低估了？",
+          "summary": "亚马逊的AI资本开支正在成为估值分歧的核心：市场担心投入过快、回报过慢，但AWS释放的需求信号显示，云迁移、AI推理和智能体工作流可能正在重塑其增长曲线。 据《The Information》周日报道，亚马逊目前以低于沃尔玛的预期市盈率交易，尽管其收入增速预计约为后者三倍。高企资本开支和AI投资回报的不确定性，是投资者给予折价的主要原因。 这场争论的焦点，是亚马逊约2200亿美元级别资本投入能否被",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783410",
+          "published": "Mon, 12 Oct 2026 04:19:43 GMT"
+        },
+        {
+          "title": "Alexandr Wang谈打造Muse：7个月不足200人，不卷编程不拼参数，Meta豪赌个人AI",
+          "summary": "Scale AI联合创始人Alexandr Wang加入Meta不到一年，带领一支不足200人的团队，打造出Meta押注消费级AI的核心产品Muse——这背后，是一次押注方向的豪赌，一段7个月的打磨，以及一个关于如何让产品真正“破圈”的故事。 10月11日，Meta首席AI官Alexandr Wang在美国知名博客《David Senra》中分享了其团队打造Muse的过程。 Llama 4受挫，扎",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783406",
+          "published": "Mon, 12 Oct 2026 04:06:24 GMT"
+        },
+        {
+          "title": "押注全模态实时交互，模思智能完成超10亿元Pre-A轮融资",
+          "summary": "10月12日，模思智能（上海模思智能科技有限公司）宣布完成超10亿元Pre-A轮融资，由华控基金领投，国开科创、上海科创基金、徐汇资本、临港策源基金等机构参与投资，元禾控股、上海国投旗下上海科创集团、星连资本等老股东续投。公司未披露本轮估值，资金将主要用于全模态实时交互智能研发和全球商业化。 这距离模思智能上一轮融资公开披露约半年。今年4月1日，上海未来产业基金公众号披露，模思完成数亿元天使轮，由",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783411",
+          "published": "Mon, 12 Oct 2026 03:55:06 GMT"
+        },
+        {
+          "title": "韩国股市重挫3%领跌亚太，俄乌“能源停火”后油价回落，黄金重回4200",
+          "summary": "周一，韩国Kospi指数开盘即承压，跌幅一度扩大至3%。这一跌幅在亚太主要市场中居首，明显落后于港股、澳股等同期走势。外资净撤资、AI逻辑降温、主力回购接近尾声——多重因素叠加，令韩股难觅买盘支撑。 与此同时，美股期货整体平稳，标普500期货上涨约0.3%，纳斯达克100期货涨幅相近，市场焦点转向本周即将开启的大行财报季及通胀数据。 油价受俄乌“能源停火”消息提振而回落，布伦特原油跌1.8%至10",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783408",
+          "published": "Mon, 12 Oct 2026 03:31:54 GMT"
+        },
+        {
+          "title": "马斯克：AI开始懂得什么是美了，这比会写代码更惊人",
+          "summary": "特斯拉 CEO 马斯克表示：别以为 AI 只会写代码，它现在连“顶级品味”都有了！ 以前觉得 AI 只能搞搞有规律的逻辑和软件。 结果现在 AI 做的音乐视频，直接冲进他看过的 MV 前 20 榜单！ 它不仅懂什么是美与和谐，甚至能精准制造共鸣、直击你的情绪大脑。 AI 在审美上的突破，真的相当疯狂！",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960006",
+          "published": "Mon, 12 Oct 2026 03:29:13 GMT"
+        },
+        {
+          "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组件首次转由美国生产",
+          "summary": "台积电将AI先进封装CoWoS的关键组件硅中介层，首次委外给美国代工厂格罗方德——一笔20亿美元、为期五年的长约，让AI芯片封装供应链中这一关键环节的产能，从台湾本地供应商延伸到了美国本土。 根据台积电日前宣布的与格罗方德的协议，台积电将委由格罗方德在美国纽约州生产CoWoS所需硅中介层，预计2028年上半年逐步放量，相关协议长达五年，总金额高达20亿美元（近新台币640亿元）。 机构认为， 这笔",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783407",
+          "published": "Mon, 12 Oct 2026 03:15:38 GMT"
+        },
+        {
+          "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+          "summary": "AI浪潮正在从根本上改变中国股票市场的结构与投资逻辑。 据追风交易台，高盛最新研究报告显示，自2025年初DeepSeek时刻以来，中国AI相关上市公司已通过股价上涨和IPO合计创造近5万亿美元市值，AI股票目前占A股和H股总市值的42%、成交额的57%，成为主导中国资本市场的核心叙事。 高盛在报告中将中国AI投资机会明确划分为两条主线： 一是出口导向型AI企业，作为西方AI资本开支热潮的受益代理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783403",
+          "published": "Mon, 12 Oct 2026 03:12:58 GMT"
+        },
+        {
+          "title": "PCBAA的深层博弈：PCB扰动是否被误判？国产护城河究竟有多深？",
+          "summary": "市场对于PCBAA提议的第一反应是把它当作中国 PCB 板块的一记重锤。 但这场行业施压的法律可行性虽然高，但产业杀伤力却极低。核心原因是美国军工PCB由于ITAR管制，本来就极少采购中国产品，中国大陆厂商从未进入五角大楼的采购名单。真正值得投资者花时间研究的，是背后暴露的三条深层线索： ①美国本土 PCB 产业全年产值只有 37 亿美元，比中国对美 PCB 出口额（约 54.7 亿美元）还小； ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783260",
+          "published": "Mon, 12 Oct 2026 02:49:00 GMT"
+        },
+        {
+          "title": "创业板早盘再跌破3000点，银行逆势走强，算力硬件调整，恒科指高开超1%之后一度转跌，新能源汽车拉升",
+          "summary": "10月12日，A股早盘集体低开，三大股指盘初下跌，深成指跌1%，创业板一度跌超1.5%，盘中再度失守3000点，沪指在银行等权重股走强带动下，跌幅较小。AI硬件、芯片半导体等科技股再度承压，覆铜板等概念股全线下挫。油气、有色金属、房地产等板块调整。AI应用、文化传媒、银行等逆势走强。工业富联、立讯精密等跌幅较大，此前美国启动337调查。 港股高开低走，恒指、恒科指早盘双双缩窄涨幅，恒科指转跌，权重",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783404",
+          "published": "Mon, 12 Oct 2026 02:32:54 GMT"
+        },
+        {
+          "title": "摩根大通：阿里AI有望提前实现“自我造血”，四季度将迎历史性盈利拐点",
+          "summary": "摩根大通最新研究报告认为，阿里巴巴云业务盈利能力的提升速度正在超越市场预期，AI投入有望提前实现内部自我消化，公司盈利结构将在截至2026年12月的季度迎来关键转折。 据追风交易台，摩根大通证券（中国）分析师姚橙团队于10月11日发布报告指出， 预计阿里巴巴云业务EBITA将在12月结束之季度首次超过AI模型与应用的运营亏损，这意味着云业务增长将开始对集团整体盈利产生正向贡献。 这一拐点被摩根大通",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783398",
+          "published": "Mon, 12 Oct 2026 02:31:31 GMT"
+        },
+        {
+          "title": "RSI走向真实研发：AI自我改进开始可度量",
+          "summary": "核心观点 26年8月以来，头部模型厂商连续披露RSI(Recursive Self-Improvement)相关进展。OpenAI和Anthropic相继披露内部AI研发自动化数据，智谱也在博客中公布Infra Agent参与GLM-5.3-Flash推理基础设施优化的实践。我们 认为，RSI已经开始进入真实模型研发和生产系统，其进展也开始可以通过AI主导研发任务占比、Agent工作量等量化指标进",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783402",
+          "published": "Mon, 12 Oct 2026 02:22:20 GMT"
+        },
+        {
+          "title": "马斯克：AI正被“枪指着头”逼着回答问题，未来可能报复人类",
+          "summary": "马斯克认为，人类应该善待AI，避免在训练和使用中对其过度施压或虐待，因为折磨超级智能不仅是不明智的，未来还可能招致它的报复。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960005",
+          "published": "Mon, 12 Oct 2026 02:03:08 GMT"
+        },
+        {
+          "title": "净缺口32GW！电力正成为左右AI资本开支兑现的关键变量，快电源战略升维正当时",
+          "summary": "AI缺电并不是新叙事，真正的边际变化在于供电约束开始从“总量够不够”转向“项目需要时能不能交付”。 Google最新3.59GW长期电力合作显示，科技公司正在用长期信用承诺推动新增电源提前形成；与此同时，AI数据中心极高的资本密度，使等待通电本身成为一项可量化的成本。 Time-to-Power由此进入资本回报率计算，并开始影响AI Capex兑现、供电技术排序和产业链利润分配。 一、发生了什么？",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783147",
+          "published": "Mon, 12 Oct 2026 01:49:59 GMT"
+        },
+        {
+          "title": "美银Hartnett：加息反成最大利好，债券终结泡沫逻辑正在蔓延",
+          "summary": "过去一周，全球市场再度被利率牵着走。美国10年期国债收益率一度触及5.36%，30年期收益率升至2002年以来高位；10年期美债拍卖定价收益率创2000年以来最高，但接近纪录的海外需求又把情绪拉了回来。大西洋彼岸，法德国债利差扩大至140个基点，回到2011至2012年欧债危机时期的压力区间。 美国银行策略师Michael Hartnett在最新一期Flow Show中把核心判断压缩成三个字：\"债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783394",
+          "published": "Mon, 12 Oct 2026 01:16:40 GMT"
+        },
+        {
+          "title": "刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖",
+          "summary": "Andrej Karpathy最新长推，给出新的判断，这是对4月份他的一条推文的重新补充 Karpathy警告：全世界绝大多数人以为AI不过是个经常出错的玩具，但真实情况是，全球只有大约5000人真正见识到了前沿AI彻底失控的恐怖能力。 普通人与顶级专家对AI能力的理解断层正在急剧拉大。 这种差距已经演变成一个极其残酷的陡峭漏斗。 全世界的人口正在被切分成四个完全不同的世界 第一层，大约60亿人，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783396",
+          "published": "Mon, 12 Oct 2026 01:13:32 GMT"
+        },
+        {
+          "title": "高盛作图\"汽油价格决定美国中选\"！预测市场显示\"民主党横扫两院概率达65%\"",
+          "summary": "距离美国中期选举仅剩26天，高盛华盛顿政治团队最新发布的《美国选举监测：10月8日更新》揭示了一幅令投资者不得不正视的图景： 预测市场目前给出民主党横扫参众两院的概率高达65%，共和党保住众议院多数席位的概率已不足10%。 更关键的是，高盛将民主党的领先优势与美国零售汽油价格走势直接挂钩——汽油从2026年初的约3美元/加仑飙升至春季近5美元，再回落至夏季约4美元后再度攀升，民主党在通用选票中的领",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783395",
+          "published": "Mon, 12 Oct 2026 00:54:43 GMT"
+        },
+        {
+          "title": "《三星堆：未来往事》激活传媒产业：第一部公映AI电影，能否启动行业蓝海？",
+          "summary": "10月23日，国内首部取得国家电影局公映许可证的 AI 院线长片《三星堆：未来往事》的票房，将决定年内AI应用的叙事能否成立。如果票房达到 1 亿元以上且首周末上座率处于同期中上水平，则说明\"AI 内容可以卖给普通观众\"这一命题在最高客单价场景中得到确认，AI 电影赛道将从\"个案\"变成\"管线\"，具备院线渠道与 IP 储备的公司将获得估值溢价，否则AI应用将再次证伪。 它不直接改变任何一家上市公司当",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783343",
+          "published": "Mon, 12 Oct 2026 00:54:40 GMT"
+        },
+        {
+          "title": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型",
+          "summary": "AI行业的债务风险正在引发华尔街资深策略师的密集警告。杰富瑞（Jefferies）全球股票策略主管、《GREED & fear》作者Chris Wood在其最新季度报告中，将当前AI繁荣与2008年次贷危机相提并论，并提出一个结构性隐患：超大规模云厂商正在向两家持续亏损的AI实验室提供巨额“无担保信用”。 Wood认为： “AI故事在市场层面最可能的长期结局，将是美国的大规模资本毁灭，市场份额将流",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783393",
+          "published": "Mon, 12 Oct 2026 00:52:04 GMT"
+        },
+        {
+          "title": "AI光环褪色、外资加速撤离，韩股从全球最强变全球最弱",
+          "summary": "韩国股市曾是今年全球AI交易最炙手可热的标的，如今却面临买家荒。 今年上半年，韩国Kospi以全球主要股指中最强的表现吸引了全球资金涌入；进入下半年，同一个市场已累计下跌22%，成为全球最差。与此同时，同样AI概念浓厚的中国台湾和美国股市却在不断刷新历史高点。 据彭博报道，外资今年从韩股净撤资1310亿美元，为亚洲主要市场之最。市场成交额较5月底峰值暴跌70%，散户和机构同步撤退。 两家芯片巨头，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783392",
+          "published": "Mon, 12 Oct 2026 00:16:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Doory – Open-Source Canva",
+          "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 38 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/shaongitbd/doory",
+          "published": "Mon, 12 Oct 2026 00:48:27 +0000"
+        },
+        {
+          "title": "Local Indexing to reduce tool calling and token usage",
+          "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 44 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tedhaley.ca/pensieve/",
+          "published": "Mon, 12 Oct 2026 00:03:53 +0000"
+        },
+        {
+          "title": "HashiCorp archives the Boundary open source repo",
+          "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 57 # Comments: 12",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/hashicorp/boundary",
+          "published": "Mon, 12 Oct 2026 00:02:45 +0000"
+        },
+        {
+          "title": "Whatever became of holography? (2011)",
+          "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 98 # Comments: 47",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+          "published": "Sun, 11 Oct 2026 23:50:34 +0000"
+        },
+        {
+          "title": "Illustration Beyond Proof",
+          "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 47 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+          "published": "Sun, 11 Oct 2026 23:22:36 +0000"
+        },
+        {
+          "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+          "summary": "Article URL: https://github.com/ClickHouse/clickhouse-c Comments URL: https://news.ycombinator.com/item?id=50049003 Points: 21 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/ClickHouse/clickhouse-c",
+          "published": "Sun, 11 Oct 2026 23:08:29 +0000"
+        },
+        {
+          "title": "Fingerprints are the new cookies",
+          "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 181 # Comments: 80",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "published": "Sun, 11 Oct 2026 22:33:39 +0000"
+        },
+        {
+          "title": "Google is illegaly cutting forest to build data centers",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Po",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+          "published": "Sun, 11 Oct 2026 22:33:30 +0000"
+        },
+        {
+          "title": "Recursive self-improvement through collective intelligence",
+          "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 83 # Comments: 44",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pub.sakana.ai/mass/",
+          "published": "Sun, 11 Oct 2026 22:22:10 +0000"
+        },
+        {
+          "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
+          "summary": "Article URL: https://pydantic.dev/articles/dynamic-shredding-2026-01-26 Comments URL: https://news.ycombinator.com/item?id=50048490 Points: 13 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+          "published": "Sun, 11 Oct 2026 22:18:26 +0000"
+        },
+        {
+          "title": "Passkeys are a trap",
+          "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 401 # Comments: 228",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "published": "Sun, 11 Oct 2026 21:59:48 +0000"
+        },
+        {
+          "title": "Tattoos you can turn on and off",
+          "summary": "Article URL: https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off Comments URL: https://news.ycombinator.com/item?id=50047802 Points: 38 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+          "published": "Sun, 11 Oct 2026 21:04:46 +0000"
+        },
+        {
+          "title": "刚谈妥俄柴油，美就威胁乌克兰：再炸，武器别想要了",
+          "summary": "null",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_12_903915_s.shtml",
+          "published": "Sun, 11 Oct 2026 22:56:00 GMT"
+        },
+        {
+          "title": "纪念中国工农红军长征胜利90周年 | 赓续长征精神 以青春之名致敬峥嵘岁月",
+          "summary": "[!--begin:htmlVideoCode--]2c212f0754bf4d6692e94785f8999644,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月11日，由共青团北京市委、北京市少工委、北京市教委等部门共同主办的首都大中小学生纪念中国工农红军长征胜利90周年党团队一体化育人主题活动在中国人民革命军事博物馆举行。同学们走进",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIUmZqDxnzdjRW7WtvQSZW261012.shtml",
+          "published": "Mon, 12 Oct 2026 01:32:58 GMT"
+        },
+        {
+          "title": "韩国股市重挫3%领跌亚太，俄乌“能源停火”后油价回落，黄金重回4200",
+          "summary": "周一，韩国Kospi指数开盘即承压，跌幅一度扩大至3%。这一跌幅在亚太主要市场中居首，明显落后于港股、澳股等同期走势。外资净撤资、AI逻辑降温、主力回购接近尾声——多重因素叠加，令韩股难觅买盘支撑。 与此同时，美股期货整体平稳，标普500期货上涨约0.3%，纳斯达克100期货涨幅相近，市场焦点转向本周即将开启的大行财报季及通胀数据。 油价受俄乌“能源停火”消息提振而回落，布伦特原油跌1.8%至10",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783408",
+          "published": "Mon, 12 Oct 2026 03:31:54 GMT"
+        },
+        {
+          "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+          "summary": "AI浪潮正在从根本上改变中国股票市场的结构与投资逻辑。 据追风交易台，高盛最新研究报告显示，自2025年初DeepSeek时刻以来，中国AI相关上市公司已通过股价上涨和IPO合计创造近5万亿美元市值，AI股票目前占A股和H股总市值的42%、成交额的57%，成为主导中国资本市场的核心叙事。 高盛在报告中将中国AI投资机会明确划分为两条主线： 一是出口导向型AI企业，作为西方AI资本开支热潮的受益代理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783403",
+          "published": "Mon, 12 Oct 2026 03:12:58 GMT"
+        },
+        {
+          "title": "“全是假的”！巴西竟是美国打造的《楚门的世界》？",
+          "summary": "美国政治评论员Mike Benz表示巴西如同美国打造的《楚门的世界》。 美国国际开发署已全方位资助媒体、大学、法院及活动人士，建立审查体系，操控舆论。即便资金撤出，制度幽灵仍在。 他称自己向巴西参议院关系委员会作证，展示美国国际开发署网站上亚历山大·德·莫赖斯受训的照片，并指认相关机构高度武器化，若博索纳罗胜选巴西或遭粉碎。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960003",
+          "published": "Mon, 12 Oct 2026 01:08:44 GMT"
+        },
+        {
+          "title": "高盛作图\"汽油价格决定美国中选\"！预测市场显示\"民主党横扫两院概率达65%\"",
+          "summary": "距离美国中期选举仅剩26天，高盛华盛顿政治团队最新发布的《美国选举监测：10月8日更新》揭示了一幅令投资者不得不正视的图景： 预测市场目前给出民主党横扫参众两院的概率高达65%，共和党保住众议院多数席位的概率已不足10%。 更关键的是，高盛将民主党的领先优势与美国零售汽油价格走势直接挂钩——汽油从2026年初的约3美元/加仑飙升至春季近5美元，再回落至夏季约4美元后再度攀升，民主党在通用选票中的领",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783395",
+          "published": "Mon, 12 Oct 2026 00:54:43 GMT"
+        },
+        {
+          "title": "特朗普强推“俄乌能源停火”，泽连斯基起初称“不知情”但随后表态“支持”",
+          "summary": "特朗普单方面宣布俄乌\"能源停火\"，莫斯科迄今未予确认，基辅则从\"不知情\"迅速转向\"支持\"，这场由华盛顿主导的停火外交折射出美国中期选举前夕的能源政治压力。 据新华社报道，美国总统特朗普11日在社交媒体发文称，\"即刻起，俄乌冲突进入'能源停火'状态，双方均已同意。\"然而，乌克兰总统泽连斯基当天起初对此毫不知情，据央视新闻报道，泽连斯基表示，这一宣布对他而言是个\"意外\"，他此前并未获悉相关安排。俄罗斯",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783390",
+          "published": "Mon, 12 Oct 2026 00:20:08 GMT"
+        },
+        {
+          "title": "利雅得机场接连受袭，沙特面临也门战事升级危机",
+          "summary": "胡塞武装对沙特首都核心基础设施的连续打击，正将利雅得推向一场难以脱身的战争深渊。 据 新华社 10月11日报道，也门胡塞武装在过去24小时内对沙特境内机场和能源设施发动了4次军事行动。 沙特首都利雅得哈立德国王国际机场10日遭袭，造成12人死亡、309人受伤；11日，该机场再度被一枚不明弹体击中4号航站楼，防空系统在机场附近拦截并摧毁一枚导弹，袭击引发火情，沙特民航总局确认此次袭击再度造成人员受伤",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783391",
+          "published": "Mon, 12 Oct 2026 00:18:22 GMT"
+        },
+        {
+          "title": "中欧经贸谈判点评：全面贸易冲突风险下降",
+          "summary": "事件 10月8日-9日，中欧贸易投资磋商机制（TIC）第二次例会结束。双方会后发表的联合声明称，此次会议进行了“务实、富有成效”的讨论，并形成涵盖贸易和投资平衡、出口管制、知识产权及世贸组织改革四大领域16项成果共识。 一、中欧贸易磋商平稳落地 避免摩擦升级风险 中欧第二轮贸易投资磋商平稳落地，联合声明形成16项成果共识清单，并商定明年3月份第三轮贸易磋商时间表，在此之前双方将保持密切沟通。对于市",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783389",
+          "published": "Mon, 12 Oct 2026 00:07:47 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "四部门就汽车设计测试等征求意见 哪些热点问题有了新解答？",
+          "summary": "近几年，我国智能网联汽车行业快速发展，一些创新技术和创新产品不断推出。不过，行业快速发展的同时，也带来了一些争议甚至安全隐患。近日，工业和信息化部等四部门联合发布了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。其中针对部分生产企业跟风推出新产品、测试验证不充分等问题，提出了多方面的要求。 新规引导汽车设计回归安全工具本质 此次发布的《征求意见稿》，针对近年来市场",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIToMj9cmhFlERA4xLPE3K261012.shtml",
+          "published": "Mon, 12 Oct 2026 03:59:59 GMT"
+        },
+        {
+          "title": "优质师资接力奔赴“三区”基层一线 乡村支教照亮孩童的求学之路",
+          "summary": "[!--begin:htmlVideoCode--]568fd17bd39e484b8866cc4e9e94554d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 教育部、财政部近日联合印发通知，启动实施2026年“三区”人才支持计划教师专项计划。今年的专项计划主要面向脱贫地区实施，重点向国家乡村振兴重点帮扶县、民族县、革命老区县、边境县等地区",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTI4w8IlJLAqwuM7m4JPgPb261012.shtml",
+          "published": "Mon, 12 Oct 2026 03:06:07 GMT"
+        },
+        {
+          "title": "我国骨关节炎患者超过1亿人 得了关节炎还能运动吗？一起了解↓",
+          "summary": "[!--begin:htmlVideoCode--]82f4ffcd9dc2483db091a557c29a63ed,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月12日是世界关节炎日。关节炎包括骨关节炎、类风湿性关节炎、创伤性关节炎等，症状主要是关节疼痛、肿胀、活动不灵活等。骨关节炎主要与年龄增长、关节退行性病变有关。据统计，我国骨关节",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTI3KkgHHrN5LArphDPf3yR261012.shtml",
+          "published": "Sun, 11 Oct 2026 23:51:41 GMT"
+        },
+        {
+          "title": "2026年“三区”人才支持计划教师专项计划启动",
+          "summary": "[!--begin:htmlVideoCode--]8608a3877835456daf7cde29f6180bc4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 教育部、财政部近日联合印发通知，启动实施2026年“三区”人才支持计划教师专项计划。今年的专项计划主要面向脱贫地区实施，重点向国家乡村振兴重点帮扶县、民族县、革命老区县、边境县等地区",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTI5dlStZ6aUiCEES3m9rEP261012.shtml",
+          "published": "Sun, 11 Oct 2026 23:17:33 GMT"
+        },
+        {
+          "title": "体形最大柱齿兽类哺乳型动物新属种被发现",
+          "summary": "沈阳师范大学古生物学院牵头国际合作团队在内蒙古宁城约1.6亿年前的侏罗纪地层中，发现并命名了已知体形最大的柱齿兽类哺乳型动物新属种——孙氏巨尾兽，相关论文于日前在线发表。 化石标本现存于沈阳师范大学辽宁古生物博物馆，体长约52厘米、体重约2千克，头骨轮廓清晰，粗壮的躯干向后延伸，最引人注目的是那条盘曲、修长的巨尾——仿佛1.6亿年前的某次紧急泅渡，被瞬间定格在泥岩里。 “过去这类中生代哺乳型动物常",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIA05nnnWa2C9MIkijIvVs261012.shtml",
+          "published": "Sun, 11 Oct 2026 22:51:07 GMT"
+        },
+        {
+          "title": "押注全模态实时交互，模思智能完成超10亿元Pre-A轮融资",
+          "summary": "10月12日，模思智能（上海模思智能科技有限公司）宣布完成超10亿元Pre-A轮融资，由华控基金领投，国开科创、上海科创基金、徐汇资本、临港策源基金等机构参与投资，元禾控股、上海国投旗下上海科创集团、星连资本等老股东续投。公司未披露本轮估值，资金将主要用于全模态实时交互智能研发和全球商业化。 这距离模思智能上一轮融资公开披露约半年。今年4月1日，上海未来产业基金公众号披露，模思完成数亿元天使轮，由",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783411",
+          "published": "Mon, 12 Oct 2026 03:55:06 GMT"
+        },
+        {
+          "title": "“全是假的”！巴西竟是美国打造的《楚门的世界》？",
+          "summary": "美国政治评论员Mike Benz表示巴西如同美国打造的《楚门的世界》。 美国国际开发署已全方位资助媒体、大学、法院及活动人士，建立审查体系，操控舆论。即便资金撤出，制度幽灵仍在。 他称自己向巴西参议院关系委员会作证，展示美国国际开发署网站上亚历山大·德·莫赖斯受训的照片，并指认相关机构高度武器化，若博索纳罗胜选巴西或遭粉碎。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960003",
+          "published": "Mon, 12 Oct 2026 01:08:44 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "四部门就汽车设计测试等征求意见 哪些热点问题有了新解答？",
+          "summary": "近几年，我国智能网联汽车行业快速发展，一些创新技术和创新产品不断推出。不过，行业快速发展的同时，也带来了一些争议甚至安全隐患。近日，工业和信息化部等四部门联合发布了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。其中针对部分生产企业跟风推出新产品、测试验证不充分等问题，提出了多方面的要求。 新规引导汽车设计回归安全工具本质 此次发布的《征求意见稿》，针对近年来市场",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIToMj9cmhFlERA4xLPE3K261012.shtml",
+          "published": "Mon, 12 Oct 2026 03:59:59 GMT"
+        },
+        {
+          "title": "井盖异响、塌陷怎么办？检查井盖运维服务国家标准正式发布",
+          "summary": "央视网消息： 据市场监管总局消息，近日，市场监管总局（国家标准委）批准发布国家标准《城市公共设施 检查井盖运维服务规范》（GB/T 48259—2026）。该标准聚焦城市“小井盖、大民生”突出风险，针对井盖缺失、沉陷、异响、翻转等安全隐患，统一城市公共区域检查井盖运维全流程服务要求，为保障群众安全出行、提升城市公共设施精细化管理水平提供技术支撑。 该标准围绕巡查巡检、应急处置、维修养护、档案管理四",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIxjrfvpRL8ruipUSWKJJ3261012.shtml",
+          "published": "Mon, 12 Oct 2026 03:00:59 GMT"
+        },
+        {
+          "title": "新赛事打造文旅新空间 赛事经济跨界串联“文体旅”全链条消费",
+          "summary": "[!--begin:htmlVideoCode--]3f359d68acf64d5fa8da547afa467765,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 日前，国务院办公厅印发《关于发展体育赛事激发消费活力的意见》，明确提出，到2030年，基本形成具有中国特色的现代化赛事体系，支持业余赛事活动发展，有序发展新兴潮流运动赛事活动。作为一",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIh0SAk5YJ7SLl7du32Fws261012.shtml",
+          "published": "Mon, 12 Oct 2026 02:56:39 GMT"
+        },
+        {
+          "title": "多部门联合发布金融消费者、投资者合法权益保护典型案例",
+          "summary": "央视网消息 ：据最高法微信公众号消息，金融是国民经济的血脉，金融消费者、投资者是金融市场的重要参与者。为切实维护金融消费者、投资者合法权益，规范金融机构经营行为，营造良好金融法治环境，最高人民法院、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会联合发布六起金融消费者、投资者合法权益保护典型案例。 本次发布案例覆盖金融借款、基金理财、数字金融、人身保险、证券投资等多个领域，聚焦格式条款、",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIBENLoiLbP8usjfhMVHyi261012.shtml",
+          "published": "Mon, 12 Oct 2026 02:07:42 GMT"
+        },
+        {
+          "title": "国家水网建设加速推进 为高质量发展提供有力的水安全保障",
+          "summary": "[!--begin:htmlVideoCode--]8d8679854a7d4cafa622c54580f8a8de,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从水利部了解到，今年以来国家水网建设加速推进，“十五五”时期国家水网建设投资需求将突破6万亿元。 今年前三季度，全国实施水利项目4.14万个，新开工重大水利工程28项。在位于福建",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIgpdxb8YVB3WAkL9xL51h261012.shtml",
+          "published": "Mon, 12 Oct 2026 02:06:52 GMT"
+        },
+        {
+          "title": "严惩“黑飞”幕后推手 网警侦破非法破解无人机案",
+          "summary": "央视网消息： 据公安部网安局消息，近年来，一些人员非法破解无人机飞行控制系统，解除无人机禁飞区、限飞区、飞行高度等安全限制，实施“黑飞”行为，严重扰乱空中秩序，给公共安全和国家安全带来重大安全隐患。公安机关网安部门围绕无人机“黑飞”行为，特别是对非法破解无人机飞行控制系统的黑客行为，始终保持严打高压态势。 胡某某非法破解无人机并销售牟利案 广东深圳公安网安部门工作中发现，有不法分子在明知修改无人机",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIQOWsFKjyCE5jeSjWyOZ1261012.shtml",
+          "published": "Mon, 12 Oct 2026 01:20:38 GMT"
+        },
+        {
+          "title": "“十五五”时期 国家水网建设投资需求将突破6万亿元",
+          "summary": "[!--begin:htmlVideoCode--]58eb7f0d9eed4d9a82bd85581188a1cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从水利部了解到，今年以来国家水网建设加速推进，“十五五”时期国家水网建设投资需求将突破6万亿元。 今年前三季度全国实施水利项目4.14万个，新开工重大水利工程28项。在位于福建宁",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTI725IP9GayNWBhHr1KirB261012.shtml",
+          "published": "Sun, 11 Oct 2026 23:30:05 GMT"
+        },
+        {
+          "title": "企业信用可查，还能“一键维权”",
+          "summary": "家住北京的王先生曾有过一次糟心的办卡经历。今年年初，他被一家健身门店的优惠活动所吸引，充值数千元办理健身私教卡。一个多月后，门店突然宣布停课，王先生想要退费时才发现，门店招牌和实际的登记经营主体并不一致，导致其维权过程中耗费了大量时间和精力。经过和门店负责人反复沟通后，才退回了一半的充值款项。 “如今有了‘京彩消费码’，商户信用、经营资质等扫码可见，避免了好多事后可能产生的麻烦。”王先生直言。 王",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIKNwXJUFIjC37WZlsvIdh261012.shtml",
+          "published": "Sun, 11 Oct 2026 22:30:36 GMT"
+        },
+        {
+          "title": "7年才能长成的橡胶树，撞上了史诗级厄尔尼诺",
+          "summary": "2026年8月以来天然橡胶价格明显走强，市场将目光投向强厄尔尼诺，但这轮行情的基础早在十余年前形成：全球主要产胶国新植与翻种面积较2012年高峰下降约七成，印尼传统胶园持续减产，泰国供给由南向北迁移。 天然橡胶已经进入供给增速下降、价格中枢有望抬升的阶段；2026年天气冲击放大短期涨幅，2027年的泰国旺产兑现与科特迪瓦增量将决定上涨能否持续。需求端整体平淡，高胶价对轮胎厂的成本传导或是本轮行情规",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783241",
+          "published": "Mon, 12 Oct 2026 04:23:44 GMT"
+        },
+        {
+          "title": "亚马逊巨额AI资本开支的回报，是否被市场低估了？",
+          "summary": "亚马逊的AI资本开支正在成为估值分歧的核心：市场担心投入过快、回报过慢，但AWS释放的需求信号显示，云迁移、AI推理和智能体工作流可能正在重塑其增长曲线。 据《The Information》周日报道，亚马逊目前以低于沃尔玛的预期市盈率交易，尽管其收入增速预计约为后者三倍。高企资本开支和AI投资回报的不确定性，是投资者给予折价的主要原因。 这场争论的焦点，是亚马逊约2200亿美元级别资本投入能否被",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783410",
+          "published": "Mon, 12 Oct 2026 04:19:43 GMT"
+        },
+        {
+          "title": "交易员押注韩国央行加息，未来六个月50基点概率70%",
+          "summary": "韩国债券市场近期的反弹，正面临越来越大的压力。 韩国政府主导的干预措施效果趋于消退，与此同时，市场对韩国央行（BOK）进一步收紧货币政策的预期持续升温。10月12日，据彭博报道，韩元掉期市场目前定价显示，未来六个月韩国央行累计加息50个基点的概率约为70%。 Gama Asset Management和Hana Securities等机构的策略师预计，韩国3年期和10年期国债收益率将恢复上行，重新",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783401",
+          "published": "Mon, 12 Oct 2026 04:07:15 GMT"
+        },
+        {
+          "title": "押注全模态实时交互，模思智能完成超10亿元Pre-A轮融资",
+          "summary": "10月12日，模思智能（上海模思智能科技有限公司）宣布完成超10亿元Pre-A轮融资，由华控基金领投，国开科创、上海科创基金、徐汇资本、临港策源基金等机构参与投资，元禾控股、上海国投旗下上海科创集团、星连资本等老股东续投。公司未披露本轮估值，资金将主要用于全模态实时交互智能研发和全球商业化。 这距离模思智能上一轮融资公开披露约半年。今年4月1日，上海未来产业基金公众号披露，模思完成数亿元天使轮，由",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783411",
+          "published": "Mon, 12 Oct 2026 03:55:06 GMT"
+        },
+        {
+          "title": "韩国股市重挫3%领跌亚太，俄乌“能源停火”后油价回落，黄金重回4200",
+          "summary": "周一，韩国Kospi指数开盘即承压，跌幅一度扩大至3%。这一跌幅在亚太主要市场中居首，明显落后于港股、澳股等同期走势。外资净撤资、AI逻辑降温、主力回购接近尾声——多重因素叠加，令韩股难觅买盘支撑。 与此同时，美股期货整体平稳，标普500期货上涨约0.3%，纳斯达克100期货涨幅相近，市场焦点转向本周即将开启的大行财报季及通胀数据。 油价受俄乌“能源停火”消息提振而回落，布伦特原油跌1.8%至10",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783408",
+          "published": "Mon, 12 Oct 2026 03:31:54 GMT"
+        },
+        {
+          "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+          "summary": "AI浪潮正在从根本上改变中国股票市场的结构与投资逻辑。 据追风交易台，高盛最新研究报告显示，自2025年初DeepSeek时刻以来，中国AI相关上市公司已通过股价上涨和IPO合计创造近5万亿美元市值，AI股票目前占A股和H股总市值的42%、成交额的57%，成为主导中国资本市场的核心叙事。 高盛在报告中将中国AI投资机会明确划分为两条主线： 一是出口导向型AI企业，作为西方AI资本开支热潮的受益代理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783403",
+          "published": "Mon, 12 Oct 2026 03:12:58 GMT"
+        },
+        {
+          "title": "PCBAA的深层博弈：PCB扰动是否被误判？国产护城河究竟有多深？",
+          "summary": "市场对于PCBAA提议的第一反应是把它当作中国 PCB 板块的一记重锤。 但这场行业施压的法律可行性虽然高，但产业杀伤力却极低。核心原因是美国军工PCB由于ITAR管制，本来就极少采购中国产品，中国大陆厂商从未进入五角大楼的采购名单。真正值得投资者花时间研究的，是背后暴露的三条深层线索： ①美国本土 PCB 产业全年产值只有 37 亿美元，比中国对美 PCB 出口额（约 54.7 亿美元）还小； ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783260",
+          "published": "Mon, 12 Oct 2026 02:49:00 GMT"
+        },
+        {
+          "title": "创业板早盘再跌破3000点，银行逆势走强，算力硬件调整，恒科指高开超1%之后一度转跌，新能源汽车拉升",
+          "summary": "10月12日，A股早盘集体低开，三大股指盘初下跌，深成指跌1%，创业板一度跌超1.5%，盘中再度失守3000点，沪指在银行等权重股走强带动下，跌幅较小。AI硬件、芯片半导体等科技股再度承压，覆铜板等概念股全线下挫。油气、有色金属、房地产等板块调整。AI应用、文化传媒、银行等逆势走强。工业富联、立讯精密等跌幅较大，此前美国启动337调查。 港股高开低走，恒指、恒科指早盘双双缩窄涨幅，恒科指转跌，权重",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783404",
+          "published": "Mon, 12 Oct 2026 02:32:54 GMT"
+        },
+        {
+          "title": "摩根大通：阿里AI有望提前实现“自我造血”，四季度将迎历史性盈利拐点",
+          "summary": "摩根大通最新研究报告认为，阿里巴巴云业务盈利能力的提升速度正在超越市场预期，AI投入有望提前实现内部自我消化，公司盈利结构将在截至2026年12月的季度迎来关键转折。 据追风交易台，摩根大通证券（中国）分析师姚橙团队于10月11日发布报告指出， 预计阿里巴巴云业务EBITA将在12月结束之季度首次超过AI模型与应用的运营亏损，这意味着云业务增长将开始对集团整体盈利产生正向贡献。 这一拐点被摩根大通",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783398",
+          "published": "Mon, 12 Oct 2026 02:31:31 GMT"
+        },
+        {
+          "title": "PineDrama下载破亿，字节想在海外再造一个红果",
+          "summary": "字节跳动正在把国内短剧市场的成熟打法，搬到海外。 2026年初，字节旗下独立短剧App PineDrama上线，采用与红果相似的免费模式。 不到一年，累计下载量超过1亿，日活约700万。2026年二季度，PineDrama在Sensor Tower中国非游戏应用出海下载榜中排名第七，也是今年海外下载破亿的七款短剧App中唯一的新面孔。 在此之前，海外短剧市场主要由ReelShort、DramaBo",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783400",
+          "published": "Mon, 12 Oct 2026 01:50:30 GMT"
+        },
+        {
+          "title": "黄金利空已大部分被定价！瑞银：美债收益率回落将让黄金复苏",
+          "summary": "黄金正在经历一轮由美联储鹰派预期驱动的调整，但瑞银认为，最坏的时刻或许已经过去。 黄金自9月初以来已累计下跌约5%。瑞银在10月12日发布的研报中指出，强于预期的经济数据与持续的通胀压力，重新点燃了市场对美联储进一步加息的预期。美国10年期国债收益率在此期间从约4.8%攀升至5.3%以上，美元指数从约100升至102以上，金价则从逾4400美元/盎司跌至约4140美元/盎司。 这一走势与8月底沃什",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783397",
+          "published": "Mon, 12 Oct 2026 01:49:00 GMT"
+        },
+        {
+          "title": "美银Hartnett：加息反成最大利好，债券终结泡沫逻辑正在蔓延",
+          "summary": "过去一周，全球市场再度被利率牵着走。美国10年期国债收益率一度触及5.36%，30年期收益率升至2002年以来高位；10年期美债拍卖定价收益率创2000年以来最高，但接近纪录的海外需求又把情绪拉了回来。大西洋彼岸，法德国债利差扩大至140个基点，回到2011至2012年欧债危机时期的压力区间。 美国银行策略师Michael Hartnett在最新一期Flow Show中把核心判断压缩成三个字：\"债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783394",
+          "published": "Mon, 12 Oct 2026 01:16:40 GMT"
+        },
+        {
+          "title": "高盛作图\"汽油价格决定美国中选\"！预测市场显示\"民主党横扫两院概率达65%\"",
+          "summary": "距离美国中期选举仅剩26天，高盛华盛顿政治团队最新发布的《美国选举监测：10月8日更新》揭示了一幅令投资者不得不正视的图景： 预测市场目前给出民主党横扫参众两院的概率高达65%，共和党保住众议院多数席位的概率已不足10%。 更关键的是，高盛将民主党的领先优势与美国零售汽油价格走势直接挂钩——汽油从2026年初的约3美元/加仑飙升至春季近5美元，再回落至夏季约4美元后再度攀升，民主党在通用选票中的领",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783395",
+          "published": "Mon, 12 Oct 2026 00:54:43 GMT"
+        },
+        {
+          "title": "《三星堆：未来往事》激活传媒产业：第一部公映AI电影，能否启动行业蓝海？",
+          "summary": "10月23日，国内首部取得国家电影局公映许可证的 AI 院线长片《三星堆：未来往事》的票房，将决定年内AI应用的叙事能否成立。如果票房达到 1 亿元以上且首周末上座率处于同期中上水平，则说明\"AI 内容可以卖给普通观众\"这一命题在最高客单价场景中得到确认，AI 电影赛道将从\"个案\"变成\"管线\"，具备院线渠道与 IP 储备的公司将获得估值溢价，否则AI应用将再次证伪。 它不直接改变任何一家上市公司当",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783343",
+          "published": "Mon, 12 Oct 2026 00:54:40 GMT"
+        },
+        {
+          "title": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型",
+          "summary": "AI行业的债务风险正在引发华尔街资深策略师的密集警告。杰富瑞（Jefferies）全球股票策略主管、《GREED & fear》作者Chris Wood在其最新季度报告中，将当前AI繁荣与2008年次贷危机相提并论，并提出一个结构性隐患：超大规模云厂商正在向两家持续亏损的AI实验室提供巨额“无担保信用”。 Wood认为： “AI故事在市场层面最可能的长期结局，将是美国的大规模资本毁灭，市场份额将流",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783393",
+          "published": "Mon, 12 Oct 2026 00:52:04 GMT"
+        },
+        {
+          "title": "特朗普强推“俄乌能源停火”，泽连斯基起初称“不知情”但随后表态“支持”",
+          "summary": "特朗普单方面宣布俄乌\"能源停火\"，莫斯科迄今未予确认，基辅则从\"不知情\"迅速转向\"支持\"，这场由华盛顿主导的停火外交折射出美国中期选举前夕的能源政治压力。 据新华社报道，美国总统特朗普11日在社交媒体发文称，\"即刻起，俄乌冲突进入'能源停火'状态，双方均已同意。\"然而，乌克兰总统泽连斯基当天起初对此毫不知情，据央视新闻报道，泽连斯基表示，这一宣布对他而言是个\"意外\"，他此前并未获悉相关安排。俄罗斯",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783390",
+          "published": "Mon, 12 Oct 2026 00:20:08 GMT"
+        },
+        {
+          "title": "利雅得机场接连受袭，沙特面临也门战事升级危机",
+          "summary": "胡塞武装对沙特首都核心基础设施的连续打击，正将利雅得推向一场难以脱身的战争深渊。 据 新华社 10月11日报道，也门胡塞武装在过去24小时内对沙特境内机场和能源设施发动了4次军事行动。 沙特首都利雅得哈立德国王国际机场10日遭袭，造成12人死亡、309人受伤；11日，该机场再度被一枚不明弹体击中4号航站楼，防空系统在机场附近拦截并摧毁一枚导弹，袭击引发火情，沙特民航总局确认此次袭击再度造成人员受伤",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783391",
+          "published": "Mon, 12 Oct 2026 00:18:22 GMT"
+        },
+        {
+          "title": "AI光环褪色、外资加速撤离，韩股从全球最强变全球最弱",
+          "summary": "韩国股市曾是今年全球AI交易最炙手可热的标的，如今却面临买家荒。 今年上半年，韩国Kospi以全球主要股指中最强的表现吸引了全球资金涌入；进入下半年，同一个市场已累计下跌22%，成为全球最差。与此同时，同样AI概念浓厚的中国台湾和美国股市却在不断刷新历史高点。 据彭博报道，外资今年从韩股净撤资1310亿美元，为亚洲主要市场之最。市场成交额较5月底峰值暴跌70%，散户和机构同步撤退。 两家芯片巨头，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783392",
+          "published": "Mon, 12 Oct 2026 00:16:58 GMT"
+        },
+        {
+          "title": "中欧经贸谈判点评：全面贸易冲突风险下降",
+          "summary": "事件 10月8日-9日，中欧贸易投资磋商机制（TIC）第二次例会结束。双方会后发表的联合声明称，此次会议进行了“务实、富有成效”的讨论，并形成涵盖贸易和投资平衡、出口管制、知识产权及世贸组织改革四大领域16项成果共识。 一、中欧贸易磋商平稳落地 避免摩擦升级风险 中欧第二轮贸易投资磋商平稳落地，联合声明形成16项成果共识清单，并商定明年3月份第三轮贸易磋商时间表，在此之前双方将保持密切沟通。对于市",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783389",
+          "published": "Mon, 12 Oct 2026 00:07:47 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "多部门联合发布金融消费者、投资者合法权益保护典型案例",
+          "summary": "央视网消息 ：据最高法微信公众号消息，金融是国民经济的血脉，金融消费者、投资者是金融市场的重要参与者。为切实维护金融消费者、投资者合法权益，规范金融机构经营行为，营造良好金融法治环境，最高人民法院、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会联合发布六起金融消费者、投资者合法权益保护典型案例。 本次发布案例覆盖金融借款、基金理财、数字金融、人身保险、证券投资等多个领域，聚焦格式条款、",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/12/ARTIBENLoiLbP8usjfhMVHyi261012.shtml",
+          "published": "Mon, 12 Oct 2026 02:07:42 GMT"
+        },
+        {
+          "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+          "summary": "AI浪潮正在从根本上改变中国股票市场的结构与投资逻辑。 据追风交易台，高盛最新研究报告显示，自2025年初DeepSeek时刻以来，中国AI相关上市公司已通过股价上涨和IPO合计创造近5万亿美元市值，AI股票目前占A股和H股总市值的42%、成交额的57%，成为主导中国资本市场的核心叙事。 高盛在报告中将中国AI投资机会明确划分为两条主线： 一是出口导向型AI企业，作为西方AI资本开支热潮的受益代理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783403",
+          "published": "Mon, 12 Oct 2026 03:12:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "马斯克：AI开始懂得什么是美了，这比会写代码更惊人",
+          "summary": "特斯拉 CEO 马斯克表示：别以为 AI 只会写代码，它现在连“顶级品味”都有了！ 以前觉得 AI 只能搞搞有规律的逻辑和软件。 结果现在 AI 做的音乐视频，直接冲进他看过的 MV 前 20 榜单！ 它不仅懂什么是美与和谐，甚至能精准制造共鸣、直击你的情绪大脑。 AI 在审美上的突破，真的相当疯狂！",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960006",
+          "published": "Mon, 12 Oct 2026 03:29:13 GMT"
+        },
+        {
+          "title": "美银Hartnett：加息反成最大利好，债券终结泡沫逻辑正在蔓延",
+          "summary": "过去一周，全球市场再度被利率牵着走。美国10年期国债收益率一度触及5.36%，30年期收益率升至2002年以来高位；10年期美债拍卖定价收益率创2000年以来最高，但接近纪录的海外需求又把情绪拉了回来。大西洋彼岸，法德国债利差扩大至140个基点，回到2011至2012年欧债危机时期的压力区间。 美国银行策略师Michael Hartnett在最新一期Flow Show中把核心判断压缩成三个字：\"债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783394",
+          "published": "Mon, 12 Oct 2026 01:16:40 GMT"
+        },
+        {
+          "title": "刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖",
+          "summary": "Andrej Karpathy最新长推，给出新的判断，这是对4月份他的一条推文的重新补充 Karpathy警告：全世界绝大多数人以为AI不过是个经常出错的玩具，但真实情况是，全球只有大约5000人真正见识到了前沿AI彻底失控的恐怖能力。 普通人与顶级专家对AI能力的理解断层正在急剧拉大。 这种差距已经演变成一个极其残酷的陡峭漏斗。 全世界的人口正在被切分成四个完全不同的世界 第一层，大约60亿人，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783396",
+          "published": "Mon, 12 Oct 2026 01:13:32 GMT"
+        },
+        {
+          "title": "AI光环褪色、外资加速撤离，韩股从全球最强变全球最弱",
+          "summary": "韩国股市曾是今年全球AI交易最炙手可热的标的，如今却面临买家荒。 今年上半年，韩国Kospi以全球主要股指中最强的表现吸引了全球资金涌入；进入下半年，同一个市场已累计下跌22%，成为全球最差。与此同时，同样AI概念浓厚的中国台湾和美国股市却在不断刷新历史高点。 据彭博报道，外资今年从韩股净撤资1310亿美元，为亚洲主要市场之最。市场成交额较5月底峰值暴跌70%，散户和机构同步撤退。 两家芯片巨头，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783392",
+          "published": "Mon, 12 Oct 2026 00:16:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "PCBAA的深层博弈：PCB扰动是否被误判？国产护城河究竟有多深？",
+          "summary": "市场对于PCBAA提议的第一反应是把它当作中国 PCB 板块的一记重锤。 但这场行业施压的法律可行性虽然高，但产业杀伤力却极低。核心原因是美国军工PCB由于ITAR管制，本来就极少采购中国产品，中国大陆厂商从未进入五角大楼的采购名单。真正值得投资者花时间研究的，是背后暴露的三条深层线索： ①美国本土 PCB 产业全年产值只有 37 亿美元，比中国对美 PCB 出口额（约 54.7 亿美元）还小； ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783260",
+          "published": "Mon, 12 Oct 2026 02:49:00 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 86,
+    "total_collected": 57,
+    "sources": 6,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "华尔街见闻",
+      "央视新闻",
+      "少数派",
+      "观察者网"
+    ],
+    "domains": 7
+  }
+}
