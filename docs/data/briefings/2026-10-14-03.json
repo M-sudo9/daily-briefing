@@ -1,0 +1,795 @@
+{
+  "id": "2026-10-14-03",
+  "datetime": "2026-10-14 03:58:10",
+  "date": "2026-10-14",
+  "time": "03:58",
+  "period": "凌晨",
+  "summary": "本期采集 64 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 91 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+          "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116138",
+          "published": "Wed, 14 Oct 2026 08:40:39 +0800"
+        },
+        {
+          "title": "I built a tool to track what AI leaders say and how their views change on video",
+          "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 24 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blumify.io/people",
+          "published": "Wed, 14 Oct 2026 01:09:13 +0000"
+        },
+        {
+          "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+          "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger an",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pulseos.finance",
+          "published": "Tue, 13 Oct 2026 23:13:23 +0000"
+        },
+        {
+          "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+          "summary": "Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0 Comments URL: https://news.ycombinator.com/item?id=50078686 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+          "published": "Tue, 13 Oct 2026 21:01:12 +0000"
+        },
+        {
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 454 # Comments: 397",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "published": "Tue, 13 Oct 2026 20:23:55 +0000"
+        },
+        {
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+          "published": "Tue, 13 Oct 2026 23:13:31 +0000"
+        },
+        {
+          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "published": "Tue, 13 Oct 2026 23:05:34 +0000"
+        },
+        {
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "published": "Tue, 13 Oct 2026 22:36:59 +0000"
+        },
+        {
+          "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+          "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+          "published": "Tue, 13 Oct 2026 20:59:11 +0000"
+        },
+        {
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "published": "Tue, 13 Oct 2026 20:36:44 +0000"
+        },
+        {
+          "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+          "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "published": "2026-10-13T16:45:25-04:00"
+        },
+        {
+          "title": "AI翻譯：還有多久會完全取代人類？",
+          "summary": "人工智能已主導翻譯行業，但高風險的範疇仍然需要人類，例如法律、醫療等領域。",
+          "importance": "medium",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/trad?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 02:38:13 GMT"
+        },
+        {
+          "title": "戴尔CEO：AI数据中心建设没有放缓，2027年增长预期不变",
+          "summary": "戴尔CEO认为，AI数据中心的建设并未放缓，行业正通过提升系统效率和发展模块化等方式应对能耗等挑战，这不会对公司2027年的增长预期构成重大障碍。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960027",
+          "published": "Wed, 14 Oct 2026 03:38:30 GMT"
+        },
+        {
+          "title": "美债收益率飙升的两段故事：美联储送上5%，债务推向5.31%",
+          "summary": "10年期美债收益率9月23日首次突破5%，随后一路冲至5.31%。华尔街给出了各种解释——油价、AI、日本、法国。 但荷兰合作银行（Rabobank）高级美国策略师Philip Marey在最新报告《更高的地基》（ Higher Ground ）中，将10年期美债收益率的上行拆分为两个截然不同的阶段。其认为， 美联储把收益率推到了5%，美国债务把它推到了5.31%。 Marey在报告中写道：“20",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783591",
+          "published": "Wed, 14 Oct 2026 03:21:07 GMT"
+        },
+        {
+          "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
+          "summary": "AI基础设施竞争的逻辑正在发生根本性转变。 据追风交易台，美银证券研究团队在跟踪OCP全球峰会后发布报告， AI算力的基本计算单元已从单颗芯片升级为整机架系统，电力供给、散热能力与网络互联正取代芯片性能本身，成为决定AI基础设施竞争力的核心变量。 AMD首席执行官Lisa Su在峰会上披露，过去两年AI token消耗量月度增幅高达95倍。英伟达则已将系统设计框架从芯片算力转向token吞吐量、每",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783589",
+          "published": "Wed, 14 Oct 2026 03:09:58 GMT"
+        },
+        {
+          "title": "鸽派信号提振，亚太股市止跌反弹，韩股涨超1%有望终结五连跌，太阳诱电大涨7%",
+          "summary": "亚太股市周三从连续两日的跌势中企稳回升，科技与半导体板块领涨，此前纽约联储主席John Williams释放鸽派信号，提振市场情绪。 周三MSCI亚太股票指数上涨0.2%，韩国综指冲高回落；日经225指数高开涨约0.5%。澳大利亚S&P/ASX 200则下跌近1%，表现相对偏弱。 Williams表示，他认为2027年无需进一步收紧货币政策，但仍视今年再加息一次为合适之举。这一表态缓和了市场对加息",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783586",
+          "published": "Wed, 14 Oct 2026 02:53:11 GMT"
+        },
+        {
+          "title": "创业板早盘跌1%，PCB、覆铜板再大涨，电力、煤炭活跃，恒科指低开高走涨超1%，权重科网股反弹",
+          "summary": "10月14日，A股早盘低开，盘初三大股指震荡分化，沪指徘徊于3800点关口附近，创业板则跌1%，AI硬件股局部拉升，覆铜板、电路板等概念股再爆发，油气、煤炭、电力、港口等板块走强，汽车、零售、贵金属等陷入调整。 港股低开高走，恒指、恒科指早盘双双拉升，恒科指涨超1%，盘初曾跌近1%，权重科网股反弹，美团、阿里、小米、京东等纷纷走高，芯片半导体亦部分回暖，鸿腾精密、华虹宏力等反弹。AI大模型股反弹。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783588",
+          "published": "Wed, 14 Oct 2026 02:41:38 GMT"
+        },
+        {
+          "title": "传奇投资人：2027年美股将非常艰难",
+          "summary": "华尔街传奇投资人Paul Tudor Jones认为，2027年美股将面临严峻挑战。从资金流向来看，当前美股呈现出自2002年以来最负面的资金流向图景。过去支撑市场的企业资金底层力量已发生逆转，SpaceX、Anthropic、OpenAI等大型AI私募公司的高估值进一步改变了市场资金格局，加剧了公开市场的压力。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960026",
+          "published": "Wed, 14 Oct 2026 01:43:47 GMT"
+        },
+        {
+          "title": "报道：Anthropic今天将公布Q3财务数据",
+          "summary": "Anthropic将于本周三向机构投资者披露第三季度财务数据，此举标志着这家AI巨头正式迈出史上最大规模IPO的关键一步。 周三，据CNBC援引两位知情人士消息， Anthropic将在旧金山总部召集一批潜在机构投资者，首次公开其第三季度营收数字。 此次披露将帮助公司高管和承销银行评估投资者兴趣，并检验市场对其最新财务数据的反应。 这一时机颇为敏感。就在上周，OpenAI向现有投资者披露的最新年化",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783580",
+          "published": "Wed, 14 Oct 2026 00:55:33 GMT"
+        },
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "summary": "Tudor Investment创始人、对冲基金传奇人物Paul Tudor Jones周二在CNBC《Squawk Box》节目中发出罕见的全面看空美股信号。 他警告： “2027年对股市来说将会非常、非常艰难。” 当前美股的供需格局是“自2002年以来最糟糕的”，类似于1999年科网股泡沫破裂前夕，并宣布自己明年将全年做空美股。 与此同时，他看多原油，预计油价还有20至25美元的上涨空间。他警",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783579",
+          "published": "Wed, 14 Oct 2026 00:48:52 GMT"
+        },
+        {
+          "title": "传奇投资人：AI让美股疯狂分化，1999年的一幕重演了",
+          "summary": "Paul Tudor Jones认为，当前美股市场与1999年极为相似，AI驱动下市场已完美分化为”双速”格局——拥抱新技术的资产与传统资产背道而驰，这种分化短期或许令人兴奋，但长期风险不容忽视。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960023",
+          "published": "Wed, 14 Oct 2026 00:44:42 GMT"
+        },
+        {
+          "title": "周受资：AI广告只要1美元，短剧行业正在被颠覆",
+          "summary": "TikTok CEO周受资称AI正渗透TikTok全体验。 过去品牌做视频广告需百至上千美元，如今用ctdance上传产品图即可生成，成本仅1至10美元，最低约1美元。 短剧行业正被颠覆，多数作品由Seedance等AI模型制作。他认为人类创意仍是核心，但AI会让视频生成更好。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960022",
+          "published": "Wed, 14 Oct 2026 00:22:56 GMT"
+        },
+        {
+          "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
+          "summary": "自动驾驶软件公司Applied Intuition正寻求以至少300亿美元估值完成新一轮融资，较其六月份估值翻番，跻身全球顶级AI独角兽行列。 据科技媒体The Information 10月13日报道，知情人士透露，Applied Intuition已收到多份投资报价，估值均不低于300亿美元， 这很可能推动该公司在未来数月内完成至少10亿美元的融资 。这一估值水平将使其与编程智能体Cognit",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783576",
+          "published": "Wed, 14 Oct 2026 00:15:49 GMT"
+        },
+        {
+          "title": "AI角色扮演独角兽Character.ai宣布破产，迪士尼接盘",
+          "summary": "曾被视为AI领域明星初创公司的Character.ai因不堪高昂成本与法律诉讼重负，正式申请破产保护，迪士尼将作为初始竞标者介入。 据The Information10月13日报道，成立五年的AI角色扮演初创公司Character.ai周一宣布，已申请第11章破产保护。 该公司在声明中明确指出，破产是因为遭遇了“重大的法律、监管和运营阻力”。 作为破产拍卖程序的一部分，迪士尼将担任初始竞标者。迪士",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783577",
+          "published": "Wed, 14 Oct 2026 00:13:29 GMT"
+        },
+        {
+          "title": "十五年来最大单周净买入！Citadel分析师：散户又开始就买AI股了",
+          "summary": "散户投资者正以罕见的力度重返人工智能交易。 Citadel Securities股票与衍生品策略主管Scott Rubner在最新研报中指出， 上周散户投资者通过该公司平台净买入美国股票91亿美元，创下近15年来最大单周净买入纪录，资金高度集中于AI相关股票及ETF。 这一资金回流推动纳斯达克100指数与标普500指数双双刷新历史高点，尽管市场对AI泡沫的警告声从未消散。对于关注科技板块的投资者而",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783574",
+          "published": "Wed, 14 Oct 2026 00:11:51 GMT"
+        },
+        {
+          "title": "微软新增逾1300亿美元数据中心租约，计划将算力扩大逾两倍",
+          "summary": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。 根据微软周三提交的监管文件， 这家软件巨头单季新增逾1300亿美元数据中心租约，并计划到2032年将全球数据中心容量从约12吉瓦扩大至38吉瓦以上，增幅逾两倍。 截至6月30日当季末，该公司尚未启动的租约承诺总额达3291亿美元，较上一季度的1966亿美元大幅跃升，单季增幅超过67%，为该公司有史以来最大季度租赁跳升。 微软在",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783573",
+          "published": "Tue, 13 Oct 2026 23:56:44 GMT"
+        },
+        {
+          "title": "谷歌Gemini 4 Argon全球上线，推广价截至11月底，Pro用户可在搜索AI模式体验",
+          "summary": "谷歌将旗舰AI模型Gemini 4 Argon推向全球用户。在此前近三周仅向网络安全防御合作伙伴开放后，这款模型周二正式扩大开放范围，面向普通用户、开发者和企业提供服务。谷歌希望借助其在编程、复杂推理和网络安全领域的能力，进一步巩固在前沿AI竞争中的位置。 美东时间10月13日周二，谷歌宣布，Gemini 4 Argon已在全球范围内上线。Google AI Pro和Ultra订阅用户可以在Gem",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783572",
+          "published": "Tue, 13 Oct 2026 23:03:30 GMT"
+        },
+        {
+          "title": "机构揭示供油格局生变：美封锁令伊朗海上原油出口“清零”，俄罗斯出口环比增6%",
+          "summary": "美国对伊朗的封锁正在直接切断其海运原油出口。能源情报机构Vortexa数据显示，伊朗原油海运出口自9月第二周降至零后，截至10月5日仍未恢复；与此同时，俄罗斯原油出口逆势增长，9月环比增加6%至每日379万桶。伊朗与俄罗斯的出口走势分化，正重塑受制裁原油的供应格局。 Vortexa数据显示，9月初伊朗原油海运出口的14日平均水平仍为每日23万桶，随后迅速降至零。该机构海上风险与情报主管Claire",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783570",
+          "published": "Tue, 13 Oct 2026 23:01:07 GMT"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
+          "summary": "连续第9年的财经“神”历，也是你第九年的陪伴 2027见闻历预售开启｜超值早鸟价 99元 让每一个重要日子，都有备而来。 华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 要闻精选 重庆市委原副书记、市政府原市长黄奇帆 涉嫌严重违纪违法 ，目前正接受中央纪委国家监委纪律审查和监察调查。 美联储三把手威廉姆斯 称， 今年可能再加息一次，但2027年没有必要继续加息 。 美联储理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783569",
+          "published": "Tue, 13 Oct 2026 23:00:17 GMT"
+        },
+        {
+          "title": "AI热+通胀高 韩国央行行长申铉松谈如何应对K型经济",
+          "summary": "韩国通胀高，但汇率还可以容忍更多升值，同时要保证金融稳定；这三者指向的货币政策是同一方向，这很少见，但韩国的当前情况确实如此 韩国央行行长申铉松。图：视觉中国 【财新网】 “在韩国，我们用‘K’来命名很多东西，有韩国流行文化K-pop、有韩国央行点阵图K-dot，现在我们又面临‘K型经济’。”谈起当前的韩国经济，韩国央行行长申铉松不无幽默地介绍道。 这是10月13日的2026年国际货币基金组织（I",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493278.html",
+          "published": "Wed, 14 Oct 2026 03:44:03 GMT"
+        },
+        {
+          "title": "腾讯AI办公智能体WorkBuddy打通企业微信",
+          "summary": "各互联网公司将智能体产品与自身的IM（即时通信）应用打通，是这轮“AI办公大战”的一大特点 【财新网】 腾讯进一步为AI智能体产品整合生态。10月14日，腾讯将旗下两大办公产品企业微信与WorkBuddy全面打通，腾讯将其称之为“双向深度联合”。今年3月推出的WorkBuddy是当前腾讯办公智能体的主力产品，正与字节跳动的“豆包工作”以及阿里巴巴的“千问办公”同赛道竞争。 为支持这次打通，企业微信",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-14/102493268.html",
+          "published": "Wed, 14 Oct 2026 03:34:02 GMT"
+        },
+        {
+          "title": "阿里千问发布新一代AI眼镜及耳机 AI公司为何看好智能硬件？",
+          "summary": "阿里认为AI硬件走向主动服务需要持续感知与交互创新，N1 Pro引入眼动追踪等技术，但未配备显示功能 千问AI硬件新品发布会现场。图：千问AI眼镜 【财新网】 AI模型厂商加速尝试AI落地消费级智能硬件。10月13日，阿里巴巴千问发布两款AI眼镜及一款AI耳夹式耳机，主打实时感知，增强AI的“主动服务”能力。 “新的N1系列更侧重前沿技术探索，希望通过增强设备的环境感知能力，探索AI进一步融入日常",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-14/102493257.html",
+          "published": "Wed, 14 Oct 2026 03:14:37 GMT"
+        },
+        {
+          "title": "育儿思絮之九：起早贪黑上学，学会生活了吗？｜亲子",
+          "summary": "我们持续十数年甚至将近二十年早晨没觉睡、起早落黑上下学的生活，到底让我们学到了哪些有用的生活技能，从而支撑起我们剩下的余生？ 绘图：赵凌筠 AI辅助生成 节假日和周六日之外，每天早晨，我都会在6:40——冬天这会儿天还没亮——叫醒女儿，让她醒五分钟起床。通常她会睡回去，6:45让她起床的时候，她依然很困很难受。没办法，我们就活在这台早起的机器里。 我猜想，这百年来每一代上过学的人，孩提时候可能都没",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-14/102493199.html",
+          "published": "Wed, 14 Oct 2026 02:40:36 GMT"
+        },
+        {
+          "title": "【市场动态】英伟达拟在欧洲追加投资20亿美元 黄仁勋呼吁加快AI布局",
+          "summary": "英伟达创始人黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493174.html",
+          "published": "Wed, 14 Oct 2026 01:35:37 GMT"
+        },
+        {
+          "title": "美国投顾业务发展对中国的启示",
+          "summary": "美国投顾业务走了86年，成功的主要因素有三个最突出：有机增长、人才和新科技——即目前AI的应用 美国的投顾业务自1940年开始以来，至今已有86年的历史。投顾业务的资产规模截至2025年底已达到176.8万亿美元。 这一数字为SEC注册投顾机构的全部管理资产，包含机构客户和基金资产、个人及家庭客户。回顾美国投顾业务的发展历程，其成功的主要因素是什么？ 本文用两类材料。一类是嘉信理财（Charles",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493139.html",
+          "published": "Wed, 14 Oct 2026 01:18:01 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "I built a tool to track what AI leaders say and how their views change on video",
+          "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 24 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blumify.io/people",
+          "published": "Wed, 14 Oct 2026 01:09:13 +0000"
+        },
+        {
+          "title": "High-speed video reveals how honey bee stingers pump venom",
+          "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 33 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+          "published": "Wed, 14 Oct 2026 01:05:23 +0000"
+        },
+        {
+          "title": "Grace Hopper Celebration Cancelled",
+          "summary": "Article URL: https://anitab.org/press-release Comments URL: https://news.ycombinator.com/item?id=50080007 Points: 16 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://anitab.org/press-release",
+          "published": "Tue, 13 Oct 2026 22:46:49 +0000"
+        },
+        {
+          "title": "Recreational Programming",
+          "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 90 # Comments: 32",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.cphiri.dev/presentations/recreational-programming",
+          "published": "Tue, 13 Oct 2026 22:33:33 +0000"
+        },
+        {
+          "title": "AlphaNIST",
+          "summary": "Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 55 # Comments: 14",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://alpha-nist.github.io/",
+          "published": "Tue, 13 Oct 2026 21:57:29 +0000"
+        },
+        {
+          "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+          "summary": "Article URL: https://www.pi.website/blog/api-beta Comments URL: https://news.ycombinator.com/item?id=50079437 Points: 43 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.pi.website/blog/api-beta",
+          "published": "Tue, 13 Oct 2026 21:55:25 +0000"
+        },
+        {
+          "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+          "summary": "Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0 Comments URL: https://news.ycombinator.com/item?id=50078686 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+          "published": "Tue, 13 Oct 2026 21:01:12 +0000"
+        },
+        {
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 454 # Comments: 397",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "published": "Tue, 13 Oct 2026 20:23:55 +0000"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
+          "summary": "连续第9年的财经“神”历，也是你第九年的陪伴 2027见闻历预售开启｜超值早鸟价 99元 让每一个重要日子，都有备而来。 华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 要闻精选 重庆市委原副书记、市政府原市长黄奇帆 涉嫌严重违纪违法 ，目前正接受中央纪委国家监委纪律审查和监察调查。 美联储三把手威廉姆斯 称， 今年可能再加息一次，但2027年没有必要继续加息 。 美联储理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783569",
+          "published": "Tue, 13 Oct 2026 23:00:17 GMT"
+        },
+        {
+          "title": "美俄柴油交易各取所需，俄乌“能源停火”落地难",
+          "summary": "柴油交易是美俄各取所需的现实交换，“能源停火”却要求各方在安全上作出让步，俄方不确认、乌方求对等、欧洲拒背书，信任难建 10月9日特朗普政府与俄罗斯达成柴油交易。随后，美国又推动俄乌“能源停火”，试图将缓解燃料价格压力与促成外交突破联系起来。针对特朗普提出的“能源停火”，乌克兰强调俄方必须对等停止攻击其能源设施，而俄罗斯只表示相关接触正在进行。10月12日特朗普再次确认俄乌双方已经同意停止相互攻击",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493201.html",
+          "published": "Wed, 14 Oct 2026 02:40:36 GMT"
+        },
+        {
+          "title": "【市场动态】沙特拦截胡塞武装新一轮导弹袭击 特朗普组织发出隐晦威胁",
+          "summary": "美国总统特朗普周二在社交媒体上发布似乎针对胡塞武装的隐晦威胁，称该组织在11月美国选举前“奉伊朗之命”募集意向推高毒品",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493179.html",
+          "published": "Wed, 14 Oct 2026 01:44:54 GMT"
+        },
+        {
+          "title": "今日开盘：两市双双低开 沪指跌幅0.27%",
+          "summary": "沪指开盘报3790.63点，跌幅0.27%；深成指报12308.64点，跌幅0.36% 财新网10月14日电:沪指开盘报3790.63点，跌幅0.27%。 深成指报12308.64点，跌幅0.36%；创业板指报2943.01点，跌幅0.52%；中小板指报7622.71点，跌幅0.27%。 盘面上，石油石化领涨，综合、纺织服饰、建筑装饰、社会服务、银行等板块涨幅居前，传媒领跌，有色金属、国防军工、通",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493171.html",
+          "published": "Wed, 14 Oct 2026 01:29:53 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "首批俄柴油仅够美国一天需求，特朗普压油价交易遭现实检验",
+          "summary": "特朗普试图借俄罗斯柴油供应为美国燃料价格降温，但首批数量相对于美国需求几乎微不足道。这笔交易的市场意义，正在被供给规模，执行风险和价格反应同时检验。 据CNBC报道，特朗普上周五在Truth Social上称，俄罗斯将立即向全球市场供应30万吨柴油。按S&P Global Platts换算， 首批到货量约225万桶，只够覆盖美国一天多的柴油需求。 市场反应显示，交易员并未将其视为足以改变供需格局的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783583",
+          "published": "Wed, 14 Oct 2026 03:26:47 GMT"
+        },
+        {
+          "title": "美债收益率飙升的两段故事：美联储送上5%，债务推向5.31%",
+          "summary": "10年期美债收益率9月23日首次突破5%，随后一路冲至5.31%。华尔街给出了各种解释——油价、AI、日本、法国。 但荷兰合作银行（Rabobank）高级美国策略师Philip Marey在最新报告《更高的地基》（ Higher Ground ）中，将10年期美债收益率的上行拆分为两个截然不同的阶段。其认为， 美联储把收益率推到了5%，美国债务把它推到了5.31%。 Marey在报告中写道：“20",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783591",
+          "published": "Wed, 14 Oct 2026 03:21:07 GMT"
+        },
+        {
+          "title": "鸽派信号提振，亚太股市止跌反弹，韩股涨超1%有望终结五连跌，太阳诱电大涨7%",
+          "summary": "亚太股市周三从连续两日的跌势中企稳回升，科技与半导体板块领涨，此前纽约联储主席John Williams释放鸽派信号，提振市场情绪。 周三MSCI亚太股票指数上涨0.2%，韩国综指冲高回落；日经225指数高开涨约0.5%。澳大利亚S&P/ASX 200则下跌近1%，表现相对偏弱。 Williams表示，他认为2027年无需进一步收紧货币政策，但仍视今年再加息一次为合适之举。这一表态缓和了市场对加息",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783586",
+          "published": "Wed, 14 Oct 2026 02:53:11 GMT"
+        },
+        {
+          "title": "Visa等了九年，中国支付市场已经变了",
+          "summary": "10月13日，中国人民银行批准威士信息技术（北京）有限公司（下称“威士”）筹备银行卡清算机构。 至此，Visa正式成为继美国运通、万事达后，第三家获筹备资格的国际卡组织。 Visa首席执行官麦凯恩（Ryan McInerney）称，获批是Visa服务中国市场的“又一重要里程碑”； 麦凯恩表示，Visa参与中国支付产业发展已有四十多年，是支付生态建设的长期贡献者，公司将按中国人民银行规定推进工作，以",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783590",
+          "published": "Wed, 14 Oct 2026 02:45:29 GMT"
+        },
+        {
+          "title": "创业板早盘跌1%，PCB、覆铜板再大涨，电力、煤炭活跃，恒科指低开高走涨超1%，权重科网股反弹",
+          "summary": "10月14日，A股早盘低开，盘初三大股指震荡分化，沪指徘徊于3800点关口附近，创业板则跌1%，AI硬件股局部拉升，覆铜板、电路板等概念股再爆发，油气、煤炭、电力、港口等板块走强，汽车、零售、贵金属等陷入调整。 港股低开高走，恒指、恒科指早盘双双拉升，恒科指涨超1%，盘初曾跌近1%，权重科网股反弹，美团、阿里、小米、京东等纷纷走高，芯片半导体亦部分回暖，鸿腾精密、华虹宏力等反弹。AI大模型股反弹。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783588",
+          "published": "Wed, 14 Oct 2026 02:41:38 GMT"
+        },
+        {
+          "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
+          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "published": "Wed, 14 Oct 2026 02:07:15 GMT"
+        },
+        {
+          "title": "中国9月货物贸易进出口首破5万亿元，增长27.5%",
+          "summary": "据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22.3%。月度增速连续6个月保持两位数增长，9月份进出口5.16万亿元，首次突破了5万亿元，增长27.5%。其中，出口3.03万亿元，增长29.6%；进口2.13万亿元，增长24.6%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783587",
+          "published": "Wed, 14 Oct 2026 02:00:33 GMT"
+        },
+        {
+          "title": "科技股暴跌之际，高盛出了一份美股看多报告，但读完后人们更担心了……",
+          "summary": "高盛策略师Tony Pasquariello于10月12日周一发布报告，力证美股市场广度“没有外界描述的那么糟糕”。 但这份报告在为多头辩护的同时，两度援引互联网泡沫作类比。其一，报告提及标普500中位股距52周高点下跌15%，为互联网泡沫以来最差读数；其二，2027年美股潜在净股票供给规模或创2000年互联网时期以来最高。 报告发布当天，纳斯达克期货下跌，美债收益率走低，报告中推荐的两个核心方向",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783582",
+          "published": "Wed, 14 Oct 2026 01:53:38 GMT"
+        },
+        {
+          "title": "传奇投资人：2027年美股将非常艰难",
+          "summary": "华尔街传奇投资人Paul Tudor Jones认为，2027年美股将面临严峻挑战。从资金流向来看，当前美股呈现出自2002年以来最负面的资金流向图景。过去支撑市场的企业资金底层力量已发生逆转，SpaceX、Anthropic、OpenAI等大型AI私募公司的高估值进一步改变了市场资金格局，加剧了公开市场的压力。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960026",
+          "published": "Wed, 14 Oct 2026 01:43:47 GMT"
+        },
+        {
+          "title": "中国9月CPI同比0.9%，前值为0.8%。 中国9月PPI同比5.0%，预估为4.4%，前值为3.8%。",
+          "summary": "中国9月CPI同比0.9%，前值为0.8%。\n中国9月PPI同比5.0%，预估为4.4%，前值为3.8%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783584",
+          "published": "Wed, 14 Oct 2026 01:30:58 GMT"
+        },
+        {
+          "title": "美国2027年赤字率预计-6.1%，居五大发达经济体之首",
+          "summary": "全球债务危机将变得更加严重！ 美国财政赤字预计将在2027年扩大至GDP的-6.1%，这是自2012年以来最大的赤字，不包括2020年和2021年的疫情年份。 这将是五大发达经济体（包括英国、德国、法国和日本）中财政赤字占GDP百分比最大的。 此外，德国的赤字预计将从2025年的GDP的-2.7%扩大至2027年的-4.1%，这是自2010年以来最大的赤字，不包括2020年疫情。 日本的财政赤字预",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960024",
+          "published": "Wed, 14 Oct 2026 00:59:23 GMT"
+        },
+        {
+          "title": "中欧同时踩下油门，海上风电超级周期来了？",
+          "summary": "经历数年调整，全球海上风电正酝酿新一轮建设周期。中国“十五五”规划提出海风新增开工约100GW，未来年均开工规模有望达到过去数年的3倍；欧洲则通过拍卖机制改革，推动积压项目重新启动。 深远海开发与海外订单复苏形成共振，万亿元级投资空间逐步打开，海缆、海工基础及输电系统迎来技术升级与需求扩张的双重机遇。不过，项目经济性、审批进度与订单兑现节奏，仍将决定这轮超级周期的高度与持续性。 一、发生了什么？海",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783502",
+          "published": "Wed, 14 Oct 2026 00:56:18 GMT"
+        },
+        {
+          "title": "报道：Anthropic今天将公布Q3财务数据",
+          "summary": "Anthropic将于本周三向机构投资者披露第三季度财务数据，此举标志着这家AI巨头正式迈出史上最大规模IPO的关键一步。 周三，据CNBC援引两位知情人士消息， Anthropic将在旧金山总部召集一批潜在机构投资者，首次公开其第三季度营收数字。 此次披露将帮助公司高管和承销银行评估投资者兴趣，并检验市场对其最新财务数据的反应。 这一时机颇为敏感。就在上周，OpenAI向现有投资者披露的最新年化",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783580",
+          "published": "Wed, 14 Oct 2026 00:55:33 GMT"
+        },
+        {
+          "title": "六成股票已跌入熊市，科技七巨头独撑标普！BTIG：美股距倒下也许只差“轻轻一推”",
+          "summary": "标普500指数距历史高点仅一步之遥，但这一平静表象之下，市场内部已严重分化。当前支撑指数的，几乎只剩下\"科技七巨头\"这一个支柱——而这恰恰也是市场最大的风险所在。 技术分析机构BTIG的Jonathan Krinsky在最新报告《最后的守门人》（Last Man Standing）中警告，科技七巨头是标普500中唯一尚未出现明显疲态的板块，也是当前市场持仓最为拥挤的板块。他指出， 一旦这一趋势开始",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783578",
+          "published": "Wed, 14 Oct 2026 00:55:27 GMT"
+        },
+        {
+          "title": "美媒：“大手笔政治支出”，马斯克成美国中期选举最大金主",
+          "summary": "据美国消费者新闻与商业频道（CNBC）12日报道，自7月以来，美国企业家马斯克向共和党阵营团体的新增捐款总额超过2.76亿美元。共和党力争在今年11月保住其在华盛顿国会的多数席位，马斯克也由此成为2026年美国中期选举已知的最大捐赠人。 根据马斯克的代表向《纽约时报》提供的数据，其中最大一笔1.58亿美元捐给了“参议院领导力基金会”——支持共和党参议员候选人的主要政治行动委员会。由马斯克创立的“美",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783581",
+          "published": "Wed, 14 Oct 2026 00:49:50 GMT"
+        },
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "summary": "Tudor Investment创始人、对冲基金传奇人物Paul Tudor Jones周二在CNBC《Squawk Box》节目中发出罕见的全面看空美股信号。 他警告： “2027年对股市来说将会非常、非常艰难。” 当前美股的供需格局是“自2002年以来最糟糕的”，类似于1999年科网股泡沫破裂前夕，并宣布自己明年将全年做空美股。 与此同时，他看多原油，预计油价还有20至25美元的上涨空间。他警",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783579",
+          "published": "Wed, 14 Oct 2026 00:48:52 GMT"
+        },
+        {
+          "title": "传奇投资人：AI让美股疯狂分化，1999年的一幕重演了",
+          "summary": "Paul Tudor Jones认为，当前美股市场与1999年极为相似，AI驱动下市场已完美分化为”双速”格局——拥抱新技术的资产与传统资产背道而驰，这种分化短期或许令人兴奋，但长期风险不容忽视。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960023",
+          "published": "Wed, 14 Oct 2026 00:44:42 GMT"
+        },
+        {
+          "title": "高盛：巴西大选首轮结果触发\"史上最繁忙一周\"，外资押注博索纳罗胜选",
+          "summary": "外资潮水般涌入巴西市场，高盛交易台将上周描述为\"巴西史上最繁忙的一周\"。这一切的导火索，是右翼参议员小博纳索罗在巴西大选首轮投票中意外领先卢拉，打破主流民调预期。 华尔街见闻提及 ，巴西基准股指Bovespa本月迄今累计上涨12.2%，并于上周五收于历史高点，创下2020年4月9日以来最大单周涨幅，同期标普500指数涨幅仅约2%。 追踪巴西股市的iShares MSCI巴西ETF（EWZ）本月累计",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783575",
+          "published": "Wed, 14 Oct 2026 00:33:47 GMT"
+        },
+        {
+          "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
+          "summary": "自动驾驶软件公司Applied Intuition正寻求以至少300亿美元估值完成新一轮融资，较其六月份估值翻番，跻身全球顶级AI独角兽行列。 据科技媒体The Information 10月13日报道，知情人士透露，Applied Intuition已收到多份投资报价，估值均不低于300亿美元， 这很可能推动该公司在未来数月内完成至少10亿美元的融资 。这一估值水平将使其与编程智能体Cognit",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783576",
+          "published": "Wed, 14 Oct 2026 00:15:49 GMT"
+        },
+        {
+          "title": "十五年来最大单周净买入！Citadel分析师：散户又开始就买AI股了",
+          "summary": "散户投资者正以罕见的力度重返人工智能交易。 Citadel Securities股票与衍生品策略主管Scott Rubner在最新研报中指出， 上周散户投资者通过该公司平台净买入美国股票91亿美元，创下近15年来最大单周净买入纪录，资金高度集中于AI相关股票及ETF。 这一资金回流推动纳斯达克100指数与标普500指数双双刷新历史高点，尽管市场对AI泡沫的警告声从未消散。对于关注科技板块的投资者而",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783574",
+          "published": "Wed, 14 Oct 2026 00:11:51 GMT"
+        },
+        {
+          "title": "美国9月通胀虚火与核心降温：10月加息暂停，美债利率能否阶段性见顶？",
+          "summary": "北京时间10月14日晚间，美国劳工统计局将公布9月份CPI数据。目前市场预期整体CPI显著回升，同比+3.6%（前值+3.4%），环比+0.6%（前值+0.4%）；核心CPI环比涨势放缓，同比+2.5%（前值+2.4%），环比+0.2%（前值+0.3%）。 整体CPI在能源价格大幅上涨推动下明显加速，成为近5个月来最大月度涨幅；9月下旬零售汽油价格接近每加仑4.50美元，创四个月新高，带动能源CP",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783522",
+          "published": "Wed, 14 Oct 2026 00:11:41 GMT"
+        },
+        {
+          "title": "微软新增逾1300亿美元数据中心租约，计划将算力扩大逾两倍",
+          "summary": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。 根据微软周三提交的监管文件， 这家软件巨头单季新增逾1300亿美元数据中心租约，并计划到2032年将全球数据中心容量从约12吉瓦扩大至38吉瓦以上，增幅逾两倍。 截至6月30日当季末，该公司尚未启动的租约承诺总额达3291亿美元，较上一季度的1966亿美元大幅跃升，单季增幅超过67%，为该公司有史以来最大季度租赁跳升。 微软在",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783573",
+          "published": "Tue, 13 Oct 2026 23:56:44 GMT"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
+          "summary": "连续第9年的财经“神”历，也是你第九年的陪伴 2027见闻历预售开启｜超值早鸟价 99元 让每一个重要日子，都有备而来。 华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 要闻精选 重庆市委原副书记、市政府原市长黄奇帆 涉嫌严重违纪违法 ，目前正接受中央纪委国家监委纪律审查和监察调查。 美联储三把手威廉姆斯 称， 今年可能再加息一次，但2027年没有必要继续加息 。 美联储理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783569",
+          "published": "Tue, 13 Oct 2026 23:00:17 GMT"
+        },
+        {
+          "title": "AI热+通胀高 韩国央行行长申铉松谈如何应对K型经济",
+          "summary": "韩国通胀高，但汇率还可以容忍更多升值，同时要保证金融稳定；这三者指向的货币政策是同一方向，这很少见，但韩国的当前情况确实如此 韩国央行行长申铉松。图：视觉中国 【财新网】 “在韩国，我们用‘K’来命名很多东西，有韩国流行文化K-pop、有韩国央行点阵图K-dot，现在我们又面临‘K型经济’。”谈起当前的韩国经济，韩国央行行长申铉松不无幽默地介绍道。 这是10月13日的2026年国际货币基金组织（I",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493278.html",
+          "published": "Wed, 14 Oct 2026 03:44:03 GMT"
+        },
+        {
+          "title": "财新调查｜9月新增信贷和社融或同比小幅收缩 融资结构转型继续",
+          "summary": "企业中长期贷款或或相对改善，但居民贷款预计仍维持同比负增状态；政府债券发行有所反弹，企业债券发行可能已成为拖累因素 【财新网】 又到季末冲量时节，9月新增信贷和社融能否实现“金九”？ 近日财新对11家境内外机构的调查显示，受访经济学家对2026年9月新增人民币贷款的预测均值为1.01万亿元；所有预测一致认为9月将环比8月“洼地”的600亿元显著增加，但在融资结构转型的大背景下，较上年同期的1.29",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493262.html",
+          "published": "Wed, 14 Oct 2026 03:20:05 GMT"
+        },
+        {
+          "title": "全球银行股“东升西落”的启示",
+          "summary": "同样是政府加杠杆，为什么海外银行股调整，而中国银行股表现较好？为什么过去几年利好欧美银行的高利率环境，反而开始成为市场担忧的因素？ 8月以来，受到高利率冲击，海外系统重要性银行股价平均下跌8%，部分欧洲大型银行股价从高点回撤幅度达到20%左右。相比之下，中国大型银行股价表现出较强韧性，8月以来上涨约9%，跑赢海外同业，年初至今平均回报达到32%，同样位居全球同业前列。尽管短期股价表现不足以说明长期",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493243.html",
+          "published": "Wed, 14 Oct 2026 03:10:41 GMT"
+        },
+        {
+          "title": "失能老人一年花费12万元 长护险能赔多少？",
+          "summary": "商业保险的产品设计与居民真实护理需求之间存在显著错配，是制约商业护理保险市场扩容的核心因素 【财新网】 居家照护一名五级重度失能老人，一年需要花费多少钱？在上海，这个数字是12万元。若按照上海长护险合规待待遇测算，长护险基金的年度报销金额为2.13万元，仅覆盖该家庭全部实际照护总支出的约14.8%。 日前，小雨伞保险经纪、手回保险代理与南开大学金融学院联合发布《健康与养老保险保障指数（2025）》",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493234.html",
+          "published": "Wed, 14 Oct 2026 02:55:05 GMT"
+        },
+        {
+          "title": "欧债问题：危险三国",
+          "summary": "欧债危机的幽灵似乎从未远离，目前高债务率+高赤字率组合的国家有：意大利、法国和比利时 同一个央行，不同的财政部，初始制度条件为欧洲的债务问题埋下伏笔。2009年次贷危机之后，欧债危机的幽灵似乎从未远离。“大萧条”时期的债务违约历史告诉我们，主权债务先违约的国家先复苏；而欧债危机告诉我们，经历过危机重生的国家债务问题控制得更好（详见2026年9月29日财新专栏 《全球主权债务风险再评估：衰退还是过热",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493228.html",
+          "published": "Wed, 14 Oct 2026 02:47:34 GMT"
+        },
+        {
+          "title": "9月CPI同比涨幅微升、PPI超预期高增5% 上下游价格分化加剧",
+          "summary": "汽油和电子产品贡献了CPI大部分同比涨幅，核心CPI环比由上涨转为持平；国际市场定价的能源、有色金属等价格上涨，推高生产资料PPI，生活资料价格相对平稳 【财新网】 主要受国际价格上涨影响，9月中国工业生产者出厂价格指数（PPI）同比涨幅创2022年下半年以来新高，但居民消费价格指数（CPI）低于市场预期、生活资料PPI同比和环比均维持在0附近，显示需求疲软之下，上游涨价向下游的传导仍不顺畅。 国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-10-14/102493224.html",
+          "published": "Wed, 14 Oct 2026 02:45:45 GMT"
+        },
+        {
+          "title": "能源内参｜“金九”车市失色 国内零售同比下跌近三成；比亚迪计划扩大欧洲布局 当地员工数量有望在2030年突破4万人",
+          "summary": "新能源汽车出口优惠收紧 增值税退税率降至9%；“十五五”时期国家水网建设投资需求将突破6万亿元 2026年9月11日，浙江金华，消费者在选购车型。图：IC photo 【财新网】 “金九”车市失色 国内零售同比下跌近三成 财新网10月13日报道，9月车市 “旺季不旺”，传统“金九”成色严重不足。10月12日，中国汽车流通协会乘用车联席分会（下称“乘联分会”）秘书长崔东树在月度市场分析会上作出上述判",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-14/102493203.html",
+          "published": "Wed, 14 Oct 2026 02:42:28 GMT"
+        },
+        {
+          "title": "【商圈】从售假入狱到搅动债券江湖 “宣城帮”占狂为的狂飙人生",
+          "summary": "早年制假、售假，近年来又参与结构化发债骗局和操盘利率债利益输送，前后三次涉刑案被查 【财新数据专稿】 债券市场正在经历新一轮司法风暴，利率债等交易中的利益输送问题成为调查重点。 据财新近期独家报道，2026年1月以来，已有数百名从业人员先后被带至无锡接受调查，涉案者既有银行、券商等金融机构人士，也有来自货币经纪公司及“宣城帮”等市场中介。其中，来自“宣城帮”的债市中间人占狂为，尤为引人关注。（参见",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493195.html",
+          "published": "Wed, 14 Oct 2026 02:04:06 GMT"
+        },
+        {
+          "title": "梁建章：中国如何维持800万的出生人口",
+          "summary": "由于出生人口取决于育龄女性数量和生育率，而育龄女性数量近年仍然继续下降，所以，未来每年出生人口要维持800万的数量级，生育率需维持在1.1以上 自从2017年以来，除了2024年以外，中国每年出生人口逐年下降，2025年出生人口降至792万，也就是接近800万。那么，未来中国出生人口能不能维持800万左右的数量级？ 中国近年来育龄女性数量持续减少 出生人口主要由育龄女性数量和生育率这两个因素决定。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493181.html",
+          "published": "Wed, 14 Oct 2026 01:49:44 GMT"
+        },
+        {
+          "title": "【市场动态】沙特拦截胡塞武装新一轮导弹袭击 特朗普组织发出隐晦威胁",
+          "summary": "美国总统特朗普周二在社交媒体上发布似乎针对胡塞武装的隐晦威胁，称该组织在11月美国选举前“奉伊朗之命”募集意向推高毒品",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493179.html",
+          "published": "Wed, 14 Oct 2026 01:44:54 GMT"
+        },
+        {
+          "title": "【市场动态】尽管跌幅虽低，但仍大幅跑赢全球；中国债券吸引投资者重估估值",
+          "summary": "在全球债市普遍存在高风险的情况下，低额的中国债券成为一匹黑马，过去12个月重回全球市场“一骑绝尘”，这也吸引更多境外投资者开始重新评估其配置价值",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493175.html",
+          "published": "Wed, 14 Oct 2026 01:35:40 GMT"
+        },
+        {
+          "title": "【市场动态】英伟达拟在欧洲追加投资20亿美元 黄仁勋呼吁加快AI布局",
+          "summary": "英伟达创始人黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493174.html",
+          "published": "Wed, 14 Oct 2026 01:35:37 GMT"
+        },
+        {
+          "title": "今日开盘：两市双双低开 沪指跌幅0.27%",
+          "summary": "沪指开盘报3790.63点，跌幅0.27%；深成指报12308.64点，跌幅0.36% 财新网10月14日电:沪指开盘报3790.63点，跌幅0.27%。 深成指报12308.64点，跌幅0.36%；创业板指报2943.01点，跌幅0.52%；中小板指报7622.71点，跌幅0.27%。 盘面上，石油石化领涨，综合、纺织服饰、建筑装饰、社会服务、银行等板块涨幅居前，传媒领跌，有色金属、国防军工、通",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493171.html",
+          "published": "Wed, 14 Oct 2026 01:29:53 GMT"
+        },
+        {
+          "title": "美国投顾业务发展对中国的启示",
+          "summary": "美国投顾业务走了86年，成功的主要因素有三个最突出：有机增长、人才和新科技——即目前AI的应用 美国的投顾业务自1940年开始以来，至今已有86年的历史。投顾业务的资产规模截至2025年底已达到176.8万亿美元。 这一数字为SEC注册投顾机构的全部管理资产，包含机构客户和基金资产、个人及家庭客户。回顾美国投顾业务的发展历程，其成功的主要因素是什么？ 本文用两类材料。一类是嘉信理财（Charles",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-14/102493139.html",
+          "published": "Wed, 14 Oct 2026 01:18:01 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "鸽派信号提振，亚太股市止跌反弹，韩股涨超1%有望终结五连跌，太阳诱电大涨7%",
+          "summary": "亚太股市周三从连续两日的跌势中企稳回升，科技与半导体板块领涨，此前纽约联储主席John Williams释放鸽派信号，提振市场情绪。 周三MSCI亚太股票指数上涨0.2%，韩国综指冲高回落；日经225指数高开涨约0.5%。澳大利亚S&P/ASX 200则下跌近1%，表现相对偏弱。 Williams表示，他认为2027年无需进一步收紧货币政策，但仍视今年再加息一次为合适之举。这一表态缓和了市场对加息",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783586",
+          "published": "Wed, 14 Oct 2026 02:53:11 GMT"
+        },
+        {
+          "title": "报道：Anthropic今天将公布Q3财务数据",
+          "summary": "Anthropic将于本周三向机构投资者披露第三季度财务数据，此举标志着这家AI巨头正式迈出史上最大规模IPO的关键一步。 周三，据CNBC援引两位知情人士消息， Anthropic将在旧金山总部召集一批潜在机构投资者，首次公开其第三季度营收数字。 此次披露将帮助公司高管和承销银行评估投资者兴趣，并检验市场对其最新财务数据的反应。 这一时机颇为敏感。就在上周，OpenAI向现有投资者披露的最新年化",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783580",
+          "published": "Wed, 14 Oct 2026 00:55:33 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "summary": "Tudor Investment创始人、对冲基金传奇人物Paul Tudor Jones周二在CNBC《Squawk Box》节目中发出罕见的全面看空美股信号。 他警告： “2027年对股市来说将会非常、非常艰难。” 当前美股的供需格局是“自2002年以来最糟糕的”，类似于1999年科网股泡沫破裂前夕，并宣布自己明年将全年做空美股。 与此同时，他看多原油，预计油价还有20至25美元的上涨空间。他警",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783579",
+          "published": "Wed, 14 Oct 2026 00:48:52 GMT"
+        },
+        {
+          "title": "【市场动态】尽管跌幅虽低，但仍大幅跑赢全球；中国债券吸引投资者重估估值",
+          "summary": "在全球债市普遍存在高风险的情况下，低额的中国债券成为一匹黑马，过去12个月重回全球市场“一骑绝尘”，这也吸引更多境外投资者开始重新评估其配置价值",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-14/102493175.html",
+          "published": "Wed, 14 Oct 2026 01:35:40 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "失能老人一年花费12万元 长护险能赔多少？",
+          "summary": "商业保险的产品设计与居民真实护理需求之间存在显著错配，是制约商业护理保险市场扩容的核心因素 【财新网】 居家照护一名五级重度失能老人，一年需要花费多少钱？在上海，这个数字是12万元。若按照上海长护险合规待待遇测算，长护险基金的年度报销金额为2.13万元，仅覆盖该家庭全部实际照护总支出的约14.8%。 日前，小雨伞保险经纪、手回保险代理与南开大学金融学院联合发布《健康与养老保险保障指数（2025）》",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493234.html",
+          "published": "Wed, 14 Oct 2026 02:55:05 GMT"
+        },
+        {
+          "title": "能源内参｜“金九”车市失色 国内零售同比下跌近三成；比亚迪计划扩大欧洲布局 当地员工数量有望在2030年突破4万人",
+          "summary": "新能源汽车出口优惠收紧 增值税退税率降至9%；“十五五”时期国家水网建设投资需求将突破6万亿元 2026年9月11日，浙江金华，消费者在选购车型。图：IC photo 【财新网】 “金九”车市失色 国内零售同比下跌近三成 财新网10月13日报道，9月车市 “旺季不旺”，传统“金九”成色严重不足。10月12日，中国汽车流通协会乘用车联席分会（下称“乘联分会”）秘书长崔东树在月度市场分析会上作出上述判",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-14/102493203.html",
+          "published": "Wed, 14 Oct 2026 02:42:28 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "今日开盘：两市双双低开 沪指跌幅0.27%",
+          "summary": "沪指开盘报3790.63点，跌幅0.27%；深成指报12308.64点，跌幅0.36% 财新网10月14日电:沪指开盘报3790.63点，跌幅0.27%。 深成指报12308.64点，跌幅0.36%；创业板指报2943.01点，跌幅0.52%；中小板指报7622.71点，跌幅0.27%。 盘面上，石油石化领涨，综合、纺织服饰、建筑装饰、社会服务、银行等板块涨幅居前，传媒领跌，有色金属、国防军工、通",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-14/102493171.html",
+          "published": "Wed, 14 Oct 2026 01:29:53 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 91,
+    "total_collected": 64,
+    "sources": 7,
+    "source_list": [
+      "BBC中文",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "少数派",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
