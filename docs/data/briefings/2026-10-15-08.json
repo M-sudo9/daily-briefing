@@ -1,0 +1,954 @@
+{
+  "id": "2026-10-15-08",
+  "datetime": "2026-10-15 08:57:01",
+  "date": "2026-10-15",
+  "time": "08:57",
+  "period": "上午",
+  "summary": "本期采集 76 篇文章，来自 6 个信息源，覆盖 7 个领域，精选 111 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "AI was great until it was not",
+          "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 7 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+          "published": "Thu, 15 Oct 2026 08:18:38 +0000"
+        },
+        {
+          "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+          "summary": "Article URL: https://github.com/awslabs/aidlc-workflows Comments URL: https://news.ycombinator.com/item?id=50100387 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/awslabs/aidlc-workflows",
+          "published": "Thu, 15 Oct 2026 07:20:39 +0000"
+        },
+        {
+          "title": "Figma announces new features to define how agents work on its platform",
+          "summary": "Figma is also releasing its code layers feature in open beta.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "published": "Thu, 15 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "published": "Thu, 15 Oct 2026 01:01:32 +0000"
+        },
+        {
+          "title": "新变化、新亮点，多项“首次”突破！“数”说广交会焕发新光彩",
+          "summary": "[!--begin:htmlVideoCode--]e0cd1a2a53e74587bd8729592fff9252,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 1957年创办的广交会，每年春秋两季在广州举行，至今已有70年。不仅有传统货物贸易，这里同时汇聚了最新的产品和技术，成为新型贸易发展的风向标。第140届广交会今起正式开展，从10月1",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIxsd2KCK8XUNctGSVT2zZ261015.shtml",
+          "published": "Thu, 15 Oct 2026 06:42:51 GMT"
+        },
+        {
+          "title": "IMF上调2026年亚太地区经济增长预期",
+          "summary": "△国际货币基金组织（资料图） 当地时间10月15日，国际货币基金组织（IMF）发布最新一期亚太地区经济展望报告并举行新闻发布会，IMF预计2026年亚太地区经济增长4.8%，高于该机构今年4月预测的4.4%。 报告指出，尽管中东冲突引发的能源冲击给地区经济带来压力，但人工智能相关技术需求强劲、亚洲内部贸易保持韧性，支撑了亚太地区经济增长。（总台记者 杨探骊 黄铮铮）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:28:01 GMT"
+        },
+        {
+          "title": "多点开花、加速落地 我国太空算力产业展现强劲发展势头",
+          "summary": "[!--begin:htmlVideoCode--]6ddf501fba674a11b665fcc539365782,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月14日19时40分，琶洲太空智算星组首批两颗算力卫星在酒泉卫星发射中心，由“朱雀二号”改进型运载火箭搭载发射升空。卫星顺利进入预定轨道，发射任务取得圆满成功。 此次发射的“琶洲",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIcOXaLE5t3tNWawQTXgWN261015.shtml",
+          "published": "Thu, 15 Oct 2026 01:55:38 GMT"
+        },
+        {
+          "title": "库克：Apple Intelligence将于10月底在中国发布测试版本，但不包括Siri AI",
+          "summary": "10月15日，苹果董事会执行主席蒂姆·库克在上海走访，接受媒体采访。在谈及Apple Intelligence（苹果智能）相关问题时，库克表示苹果智能及相关阿里千问大模型确已获得批准，将在十月晚些时候发布测试版本，其中包含实时翻译、书写工具、照片清除工具等首批苹果智能功能，但是Siri AI这次不包括在内。“但是我们很高兴，首批核心的苹果智能功能是可以慢慢上线了。”库克说道。 本文来源： 界面新闻",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783701",
+          "published": "Thu, 15 Oct 2026 08:43:23 GMT"
+        },
+        {
+          "title": "科技股暴跌、美债避险交易卷土重来？10年期美债收益率跌至三周低点",
+          "summary": "AI叙事接连遭受冲击，正在以反直觉的逻辑重塑市场定价框架。在通胀数据火热出炉的背景下，美债收益率非但未见上行，反而随科技股暴跌一同俯冲。 10年期美债收益率周四在亚洲交易时段下行10个基点至5.09%，触及三周低点。与此同时，MSCI亚太股票指数重挫逾3%，韩国综合指数单日暴跌9%，三星电子与SK Hynix均重挫11%。标普500期货跌0.4%，纳斯达克100期货跌逾1%。避险资金大举涌入主权债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783698",
+          "published": "Thu, 15 Oct 2026 08:14:32 GMT"
+        },
+        {
+          "title": "商务部部长王文涛会见美国苹果公司执行董事长蒂姆·库克",
+          "summary": "10月15日，商务部部长王文涛会见苹果公司执行董事长蒂姆·库克。双方就中美经贸关系、人工智能发展、苹果公司在华业务等议题进行交流。 王文涛表示，在两国元首构建“基于尊重、公平、对等的中美建设性战略稳定关系”的共识引领下，中美经贸磋商取得积极成果。中方倡导人工智能发展安全可控、普惠向善、治理合作。希望苹果公司发挥沟通桥梁作用，为推动中美经贸关系持续稳定向好发展贡献力量。当前，中国坚定不移扩大高水平对",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179282",
+          "published": "Thu, 15 Oct 2026 08:02:21 GMT"
+        },
+        {
+          "title": "逼近“死亡交叉”！韩股遭遇“黑色星期四”，KOSPI连续跌破200日均线，长期熊市将至？",
+          "summary": "韩国股市正站在技术形态的危险边缘。KOSPI连续跌破200日均线后，10月15日再度暴跌逾7%，触发多重熔断机制，外资连续八个交易日净卖出累计逾16万亿韩元。技术面上，\"死亡交叉\"一旦成形，叠加美联储加息预期升温与AI投资盈利质疑，韩股能否在未来两周内收复200日均线，将成为判断本轮下跌是短期波动还是长期熊市的关键分水岭。 10月15日，KOSPI收报5554.22点，单日暴跌454.59点，跌幅",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783697",
+          "published": "Thu, 15 Oct 2026 07:59:53 GMT"
+        },
+        {
+          "title": "美债收益率飙升，美国经济与股市还能撑多久？AI或成最脆弱一环",
+          "summary": "全球债券收益率攀升至数十年高位，但经济与市场迄今展现出异乎寻常的韧性。随着欧洲主权债券市场等领域压力初现，这一韧性能否持续，成为市场最迫切的追问。 高盛最新研究报告汇集了国际货币基金组织、穆迪分析及高盛经济学家的多方研判。IMF顾问Tobias Adrian持审慎乐观立场，认为只要收益率上行不失序加速，全球经济有望延续抗压态势；高盛经济学家则预计高利率对美国经济增长的拖累将相对温和，2027年约为",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783684",
+          "published": "Thu, 15 Oct 2026 07:22:11 GMT"
+        },
+        {
+          "title": "“超八成新云厂商将出局”！机构警告：一旦CoreWeave违约，行业将迎来一场灾难",
+          "summary": "AI算力租赁行业正面临一场严峻的估值重构。信用市场对CoreWeave违约风险的定价持续飙升，知名研究机构Gartner警告，预测逾八成新兴云计算服务商（neocloud）将在2030年前无法独立存续。 CoreWeave周三收跌15.5%，报65.78美元，盘中跌幅一度达17%，创上市以来最大单日跌幅纪录。公司五年期信用违约互换（CDS）利差扩大135个基点至历史新高1117个基点，隐含五年内违",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783693",
+          "published": "Thu, 15 Oct 2026 07:20:13 GMT"
+        },
+        {
+          "title": "韩股财报季下周启动，摩根大通称存储股进入“预期重置季”，回调带来买入机会",
+          "summary": "摩根大通亚太股票研究团队认为，韩国三季度业绩期将于10月19日当周正式启动，存储芯片股近期的大幅回撤正在创造中期买入机会，科技与金融板块有望成为本轮业绩期的主要胜负手。 据摩根大通分析师Jay Kwon等人10月15日发布的最新研报，上周三星电子初步业绩符合预期、LG电子不及预期、LG新能源超预期， 三组先兆信号已为本轮业绩期定下基调 。 报告称，Jay Kwon在走访亚洲逾百位投资者后指出， 存",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783689",
+          "published": "Thu, 15 Oct 2026 06:52:25 GMT"
+        },
+        {
+          "title": "AI巨头卷模型，高质量数据商闷声发财",
+          "summary": "",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960036",
+          "published": "Thu, 15 Oct 2026 06:11:50 GMT"
+        },
+        {
+          "title": "为什么值得专程去一趟香港金融科技周？答案不只在会场",
+          "summary": "作为连接资本、创新与全球市场的“超级联系人”，香港对于投资者和创业者，正在孕育哪些新机遇? AI正如何从独立的技术议题，变成所有产业都要具备的新能力？中国企业出海，如何跨越监管、规则与文化的壁垒，真正接入国际资本、客户与产业伙伴体系？ 11月，我们一起去香港和深圳，近距离找答案。 11月2日至3日，走进香港金融科技周，听全球金融机构、科技企业和监管者的观点分享； 11月4日，与金融机构面对面，交流",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783608",
+          "published": "Thu, 15 Oct 2026 05:17:09 GMT"
+        },
+        {
+          "title": "崩了5个小时，DeepSeek刚刚恢复服务",
+          "summary": "15日早间8时左右，有多名网友在社交媒体上反映称在使用DeepSeek时显示“服务器暂时不可用”或“服务器繁忙，请稍后重试”。截至15日13时，查询DeepSeek客户端，发现其已正常恢复服务。（中新经纬）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179128",
+          "published": "Thu, 15 Oct 2026 05:14:37 GMT"
+        },
+        {
+          "title": "算力用电激增，曾毓群称储能已是“不可或缺的新型基础设施”",
+          "summary": "作者 | 周智宇 10月15日，在2026世界储能大会上，宁德时代董事长曾毓群表示，储能正从新能源的配套设施，逐步成为电力系统不可或缺的新型基础设施。 据SNE Research数据，今年上半年，全球锂离子储能电池出货量达到461.3GWh，同比增长71%；中国以外市场占比达到56%，首次超过一半。 曾毓群提出，储能行业需要强化三项能力：一是面向多元化电网需求，打造整站级解决能力；二是坚持底层创新",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783682",
+          "published": "Thu, 15 Oct 2026 04:05:37 GMT"
+        },
+        {
+          "title": "Deepseek服务器宕机，中断3小时仍未恢复",
+          "summary": "DeepSeek再度遭遇大规模服务中断，网页端与API接口同步失效，故障持续时间远超此前多次短暂异常，凸显这一快速扩张的AI平台在稳定性方面面临的持续压力。 10月15日上午8时左右，DeepSeek对话服务及DeepSeek V4.1 Flash API服务相继出现异常。截至上午11时，故障已持续近三小时仍未恢复，网页端与手机App均无法正常回复消息，页面显示\"服务器暂时不可用\"提示。 Deep",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783681",
+          "published": "Thu, 15 Oct 2026 03:46:03 GMT"
+        },
+        {
+          "title": "AI 的借贷潮要破了吗？Coreweave大跌15%背后的警报拉响",
+          "summary": "2026年10月14日，CoreWeave股价单日暴跌15.5%，其2032年到期无担保债价格跌破面值的80%、收益率逼近15%，利差跨过1,000个基点的违约警示线。同一天，甲骨文、戴尔、Nebius 同步下挫，AI 基础设施板块合计蒸发约 800 亿美元市值。 这可能不是崩盘的开始，而是信用分层的中段， 市场正把「AI 基建」从一个整体，拆成两种资产：可被投资级资金承接的，和必须自己承担风险的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783678",
+          "published": "Thu, 15 Oct 2026 03:45:03 GMT"
+        },
+        {
+          "title": "摩根大通警告：本轮科技股暴跌与7月截然不同！散户放弃抄底，逼空弹药已枯竭",
+          "summary": "摩根大通最新研究报告指出，当前AI基础设施股票的下跌环境明显劣于去年7月的那轮调整，散户投资者迄今缺乏\"逢低买入\"行为，叠加回购流量悬崖、空头仓位稀薄以及杠杆ETF规模偏高等多重不利因素，令本轮反弹的技术支撑基础远比上次脆弱。 据追风交易台，摩根大通全球市场策略团队10月14日发布的《资金流动与流动性》报告，以韩国存储芯片股为代表的AI基础设施板块近期再度承压，导火索同样是市场对竞争的担忧——与去",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783672",
+          "published": "Thu, 15 Oct 2026 02:02:27 GMT"
+        },
+        {
+          "title": "A股三大指数集体低开",
+          "summary": "09:26 上证指数低开1.5%，创业板指跌3.13%。AI硬件侧大幅调整，覆铜板、存储、光通信板块领跌。银行股活跃。 09:21 恒生指数开盘跌0.8%，恒生科技指数跌2.21%，AI概念股普跌，联想集团跌超7%领跌蓝筹。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783670",
+          "published": "Thu, 15 Oct 2026 01:26:02 GMT"
+        },
+        {
+          "title": "通胀重燃加息预期，亚洲股市重挫，日经跌3%，韩股跌超5%，SK海力士暴跌9%",
+          "summary": "美国通胀数据意外走高，叠加人工智能估值泡沫担忧，全球科技股遭遇新一轮冲击波。亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，交易所被迫启动熔断机制。 周四韩国综指开盘重挫逾6%，触发交易所熔断机制，韩国交易所相继对KOSPI与KOSDAQ启动Sidecar机制，暂停程序化卖盘。三星电子与SK海力士均大跌。 日经225指数跌幅超过3%，软银重挫逾8%，铠侠跌幅超过8%。MSCI亚太指数下跌逾1%至2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783663",
+          "published": "Thu, 15 Oct 2026 01:06:52 GMT"
+        },
+        {
+          "title": "人工智能赋能保险资产管理行业的应用研究",
+          "summary": "中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋能转变 在全球人工智能技术加速渗透的背景下，国际大型资产管理机构已将人工智能技术从单点工具试验推进至全流程业务嵌入阶段。与国际实践相比，当前国内人工智能应用更偏向辅助赋能。中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493677.html",
+          "published": "Thu, 15 Oct 2026 05:56:02 GMT"
+        },
+        {
+          "title": "【华尔街原声】AI债券遭抛售 投资者开始质疑云计算巨头前景",
+          "summary": "部分AI企业债券价格持续承压，未来融资成本或进一步上升，债券供给增加也可能推高整体市场收益率",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-15/102493594.html",
+          "published": "Thu, 15 Oct 2026 02:57:24 GMT"
+        },
+        {
+          "title": "【华尔街原声】贝莱德CEO芬克：美国正面临资本短缺",
+          "summary": "美国政府债务持续攀升，加剧信贷市场资金竞争；芬克呼吁释放私人资本，为经济增长及AI基础设施建设提供融资",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-15/102493587.html",
+          "published": "Thu, 15 Oct 2026 02:25:12 GMT"
+        },
+        {
+          "title": "光刻机巨头ASML三季度营收创新高 开始接洽2030年订单",
+          "summary": "ASML CEO傅恪礼认为中国本土厂商不会对其构成竞争威胁，因为“中国光刻机厂商的进展并不显著，动力也不足” 荷兰Veldhoven，ASML总部。图：视觉中国 【财新网】 存储扩产需求强劲，荷兰光刻机巨头阿斯麦（ASML）营收创新高。10月14日，ASML发布2026年第三季度财报，当季实现净销售额117亿欧元（约合人民币878亿元），同比增长55%并创单季历史新高；净利润为50亿欧元（约合人民",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493580.html",
+          "published": "Thu, 15 Oct 2026 02:21:01 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "AI was great until it was not",
+          "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 7 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+          "published": "Thu, 15 Oct 2026 08:18:38 +0000"
+        },
+        {
+          "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+          "summary": "Article URL: https://github.com/awslabs/aidlc-workflows Comments URL: https://news.ycombinator.com/item?id=50100387 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/awslabs/aidlc-workflows",
+          "published": "Thu, 15 Oct 2026 07:20:39 +0000"
+        },
+        {
+          "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+          "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most impo",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/andunieee/flipflop",
+          "published": "Thu, 15 Oct 2026 04:25:28 +0000"
+        },
+        {
+          "title": "The Double Headed Stack Allocator",
+          "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 61 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+          "published": "Thu, 15 Oct 2026 02:06:36 +0000"
+        },
+        {
+          "title": "泽连斯基有牌打了",
+          "summary": "本视频提及事件以及信息来源如下：\n《俄称若乌大选可在选举日停火，此前俄拒绝了乌克兰总统泽连斯基提出的60天停火设想》来自：钱江晚报，2026-10-12 19:33发布\n《泽连斯基与多个欧洲国家领导人通话》来自：新华网，2026-10-11 06:27发布\n《泽连斯基回应特朗普：若停火60天 乌克兰便可举行大选》来自：央视新闻，2026-10-12 13:42:05发布\n《特朗普一个月内第二次宣布",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1nyJ66PEPQ",
+          "published": "Thu, 15 Oct 2026 03:50:00 GMT"
+        },
+        {
+          "title": "祀：冰火第四人，锦上添花还是画龙点睛？干员实战攻略，武器装备潜能配队全面测评",
+          "summary": "",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1rCpS6iESY",
+          "published": "Thu, 15 Oct 2026 03:32:52 GMT"
+        },
+        {
+          "title": "外交部：日当政者应正视历史，反省罪责，洗心革面",
+          "summary": "[!--begin:htmlVideoCode--]4d45e53bb8d74e9ab30379e557f87c53,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月15日，外交部发言人毛宁主持例行记者会。有记者问：近日，日本媒体首次公开靖国神社内部会议记录，系统披露14名甲级战犯被供奉的决策过程。记录显示，日本政府早在上世纪60年代就与靖国神社方面就供",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTI4vHIsFbbVYqWeBamJJ3A261015.shtml",
+          "published": "Thu, 15 Oct 2026 08:51:16 GMT"
+        },
+        {
+          "title": "德国铁路公司在全国约5700座火车站实施禁酒令",
+          "summary": "当地时间10月15日起，德国铁路公司在全国约5700座火车站全面实施禁酒令， 禁止旅客在车站大厅、站台等区域饮用酒精饮料 ，以改善车站安全和卫生状况。 根据德国铁路公司的规定， 车站内的餐饮场所不受禁令限制，旅客仍可携带未开封的酒精饮料乘车，列车上原则上允许饮酒 。铁路安保人员将在日常巡查中劝阻违规行为，多次违反规定者可能被禁止进入车站。 德国铁路公司表示，此前已在近40座大型火车站试行禁酒措施，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIjLUAxbcdAHif7k3HWKAO261015.shtml",
+          "published": "Thu, 15 Oct 2026 08:49:18 GMT"
+        },
+        {
+          "title": "中央网信办等部门：开展网络涉军不当营销和炒作信息专项整治",
+          "summary": "央视网消息： 据“网信中国”公众号消息，各省、自治区、直辖市党委网信办，新疆生产建设兵团党委网信办，各省、自治区、直辖市退役军人事务厅（局），新疆生产建设兵团退役军人事务局，解放军各单位和武警部队政治工作部（局、办公室）、党委政法委员会： 为进一步规范互联网军事信息传播管理，深入排查整治网络涉军不当营销和炒作信息，中央网信办、退役军人事务部、中央军委政治工作部、中央军委政法委员会决定从10月份开始",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIeYLdbLpBEJShYe5zv2mt261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:16:26 GMT"
+        },
+        {
+          "title": "格陵兰岛官员否认美国即将上岛大规模勘探",
+          "summary": "△美国总统特朗普（资料图） 针对美国总统特朗普14日关于美国即将在格陵兰岛进行大规模石油、天然气和矿产资源勘探的言论，格陵兰岛官员表示，距离开展这些活动“还早”。 与此同时，丹麦外交部表示，美国、丹麦及其自治领地格陵兰岛9月签署的协议并未给予美国在获取格陵兰岛自然资源方面任何优待。 格陵兰岛矿业部副部长约恩·哈梅肯-霍尔姆称，的确有美国企业在该岛开展小型勘探活动，但“离大规模勘探还早”。 美国、丹",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml",
+          "published": "Thu, 15 Oct 2026 06:55:11 GMT"
+        },
+        {
+          "title": "IMF上调2026年亚太地区经济增长预期",
+          "summary": "△国际货币基金组织（资料图） 当地时间10月15日，国际货币基金组织（IMF）发布最新一期亚太地区经济展望报告并举行新闻发布会，IMF预计2026年亚太地区经济增长4.8%，高于该机构今年4月预测的4.4%。 报告指出，尽管中东冲突引发的能源冲击给地区经济带来压力，但人工智能相关技术需求强劲、亚洲内部贸易保持韧性，支撑了亚太地区经济增长。（总台记者 杨探骊 黄铮铮）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:28:01 GMT"
+        },
+        {
+          "title": "中国驻沙特大使馆就当前沙特局势发布安全提醒",
+          "summary": "央视网消息： 10月15日，中国驻沙特大使馆发布关于当前沙特局势的安全提醒。 连日来，沙特利雅得、达曼等地机场和重要设施持续遭导弹和无人机袭击，造成重大损失和人员伤亡。利雅得哈立德国王国际机场目前仍无恢复运营确切信息，多地机场航班大面积异常。一些城市内民房因拦截导弹碎片落入导致人员和财产损失。多地学校改为线上授课，部分企业要求居家办公。局势还有可能进一步恶化。 中国驻沙特使领馆再次提醒在沙中资机构",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml",
+          "published": "Thu, 15 Oct 2026 01:13:58 GMT"
+        },
+        {
+          "title": "欧洲主权风险多米诺：法国之后，英国能否成为债市风暴眼？",
+          "summary": "过去数周，欧洲主权债券市场经历剧烈预期修正。 法国主权债务风险持续发酵， 而英国金融市场的脆弱性也在同步加剧。随着英国财政风险持续升温，英国30年期国债收益率一度升至6.036%，创1998年以来新高；10年期收益率升至5.48%，接近2007年以来的最高水平。 当前英国最突出的问题在于财政缓冲在融资成本上升和宏观环境恶化的过程中持续收窄。英国公共债务已接近GDP的95.7%，其中约22%的政府债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783622",
+          "published": "Thu, 15 Oct 2026 07:52:24 GMT"
+        },
+        {
+          "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+          "summary": "黄金的长期牛市从不死于价格，而 死于恐惧的消散 。 瑞士私人银行嘉盛银行（Bank J. Safra Sarasin）资深投资策略师Thomas Bollinger在最新研报中指出，自1971年布雷顿森林体系瓦解以来，黄金经历了三轮完整的长周期，每一轮的终结都不是因为问题被解决，而是因为市场最坏的担忧被消除——届时， 黄金作为“B计划”的吸引力迅速瓦解，利率重新成为定价主导因子 。 本轮黄金上行周",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783694",
+          "published": "Thu, 15 Oct 2026 07:31:55 GMT"
+        },
+        {
+          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
+          "summary": "美军正在为可能重启对伊朗大规模军事行动制定新的打击方案，其中包括动用美军现役最大非核炸弹\"炸弹之母\"，目标涵盖伊朗能源基础设施与核设施。 据 新华社 援引美国有线电视新闻网（CNN）报道，美国军方已制定包含\"炸弹之母\"（MOAB，mother of all bombs，GBU-43/B型巨型空爆炸弹）的新打击计划，目标包括伊朗能源基础设施和核设施。此前，美国国防部日前已指示美军中央司令部，在数日内",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783688",
+          "published": "Thu, 15 Oct 2026 06:07:54 GMT"
+        },
+        {
+          "title": "能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击",
+          "summary": "乌克兰总统泽连斯基宣布恢复对俄罗斯炼油厂的打击行动，国际油市面临新的不确定性。 据 央视新闻 报道，当地时间10月15日，央视 总台记者 获悉，乌克兰总统泽连斯基在接受采访时表示，乌方将恢复对俄罗斯炼油厂的打击。 他表示，应美国的请求，乌方已停止攻击俄罗斯能源基础设施3天。 据彭博10月15日报道，泽连斯基在接受《金融时报》采访时表示，乌克兰将恢复对俄罗斯石油炼厂的打击，理由是 莫斯科在停火期间持",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783686",
+          "published": "Thu, 15 Oct 2026 05:42:15 GMT"
+        },
+        {
+          "title": "从IMF展望看全球经济韧性与加速分化",
+          "summary": "总量稳定的背后，一场更加深刻的结构变化正在发生：全球经济的韧性正在由共同承压走向结构分化 面对共同的冲击，不同经济体的增长表现既取决于自身的缓冲空间，也取决于对新一轮技术周期的承接能力。图：IC photo “疾风知劲草，烈火见真金。”2026年以来，中东冲突持续，能源价格波动，贸易摩擦加剧，融资成本抬升，全球经济受到地缘政治、供给冲击与金融条件收紧的多重考验。尽管置身多重外部冲击交织的复杂环境中",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493619.html",
+          "published": "Thu, 15 Oct 2026 04:12:13 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "探科技 访民生 美国青少年在行走中感知中国 为传承中美友谊注入青年力量",
+          "summary": "[!--begin:htmlVideoCode--]778e99e8b4684fe984ae0ed76d29230e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 继“5年邀请5万名美国青少年来华交流学习”目标提前完成后，今年9月，中方再次提出新的交流倡议，“未来5年将邀请10万名美国青少年来华交流学习”。作为新倡议的落地举措之一，由教育部中外",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIQ8tIlqc1XE5iBU0D5tRY261015.shtml",
+          "published": "Thu, 15 Oct 2026 08:44:23 GMT"
+        },
+        {
+          "title": "情满重阳",
+          "summary": "情满重阳 10月14日，浙江台州，路桥区农商银行路北支行的党团员青年志愿者来到当地隆湖社区，为社区里的老人过集体生日，提前送上重阳节的祝福。视觉中国 情满重阳 10月14日，山东省邹平市西董街道段家村孝善食堂的老人在一起观赏书法家赠送的“寿”字。视觉中国 情满重阳 10月14日，新疆沙湾市大泉乡养老院，孩子们为老人送上祝福贺卡，用温暖拥抱传递节日问候。视觉中国 情满重阳 10月14日，浙江嘉兴，海",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/10/15/PHOArmPTGY8ibyOT5rSlC3is261015.shtml",
+          "published": "Thu, 15 Oct 2026 02:43:00 GMT"
+        },
+        {
+          "title": "烟霾弥漫 印尼近两月呼吸道急症超28万例",
+          "summary": "新华社北京10月14日电　印度尼西亚卫生部14日通报，受近期烟霾影响，近两个月来该国相关地区呼吸道感染病例激增，截至13日已报告超过28万例。 印尼一名卫生部官员在当天新闻发布会上说，8月18日至10月13日，印尼受烟霾影响地区共记录283270例呼吸道感染病例。 近几周来，印尼多地持续受到林火和烟霾影响，部分地区空气质量达到“危险”级别。印尼每到天气干燥季节便常发林火，而今年受厄尔尼诺现象影响，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTI7PR5FVGpvJvXViB3tvlQ261015.shtml",
+          "published": "Thu, 15 Oct 2026 01:54:47 GMT"
+        },
+        {
+          "title": "中国驻沙特大使馆就当前沙特局势发布安全提醒",
+          "summary": "央视网消息： 10月15日，中国驻沙特大使馆发布关于当前沙特局势的安全提醒。 连日来，沙特利雅得、达曼等地机场和重要设施持续遭导弹和无人机袭击，造成重大损失和人员伤亡。利雅得哈立德国王国际机场目前仍无恢复运营确切信息，多地机场航班大面积异常。一些城市内民房因拦截导弹碎片落入导致人员和财产损失。多地学校改为线上授课，部分企业要求居家办公。局势还有可能进一步恶化。 中国驻沙特使领馆再次提醒在沙中资机构",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml",
+          "published": "Thu, 15 Oct 2026 01:13:58 GMT"
+        },
+        {
+          "title": "【商圈】梅向荣：“宇宙大所”原掌门人沉浮",
+          "summary": "清华汽车工程系出身，跨界进入律师业，逐步将盈科打造成“宇宙第一大所”，也形成了规模庞大的“盈科系”家族生意，终因非法集资爆雷身陷囹圄 【财新数据专稿】 盈科律师事务所（下称“盈科”）原主任梅向荣将于上海受审。10月12日，上海市检察院第二分院发布被害人诉讼权利义务告知书，称梅向荣涉嫌非法吸收公众存款、集资诈骗一案，已由上海市静安区检察院报送至该院审查起诉。 30年前，毕业于清华大学汽车工程系内燃机",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-15/102493693.html",
+          "published": "Thu, 15 Oct 2026 07:39:04 GMT"
+        },
+        {
+          "title": "跨境金融创新提速 上海中外资金融机构境外贷款余额破万亿",
+          "summary": "目前上海汇集各类跨境人民币资金池约1600个。截至6月末，上海中外资金融机构本外币境外贷款余额1.08万亿元，较年初增长11% 10月13日，上海市银行业同业公会召开新闻发布会，就上海落地跨境投融资便利化、自贸试验区制度创新等高水平开放政策介绍情况。图：上海市银行业同业公会 【财新网】 自今年6月国家金融监督管理总局等六部门联合印发《上海国际金融中心发展离岸金融行动方案》，以及陆家嘴论坛期间金融监",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-15/102493605.html",
+          "published": "Thu, 15 Oct 2026 03:20:54 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "检察机关依法分别对贵州省医学会原会长杨克勤等5人提起公诉",
+          "summary": "央视网消息： 据最高检消息，检察机关依法分别对贵州省医学会原会长、原贵州省卫生和计划生育委员会巡视员杨克勤，青海省供销合作社联合社原党组书记、主任朱小青，内蒙古自治区乌兰察布市人大常委会原党组成员、副主任尉代青，青海省西宁经济技术开发区管委会原副主任刘云洲，贵州省贵定县委原书记班代荣提起公诉。 贵州检察机关依法对杨克勤涉嫌受贿、利用影响力受贿案提起公诉 日前，贵州省医学会原会长、原贵州省卫生和计划",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIcCO53MKcOdAPL2pxM3TT261015.shtml",
+          "published": "Thu, 15 Oct 2026 08:42:03 GMT"
+        },
+        {
+          "title": "商务部：我国外商直接投资权益存量位居全球第二",
+          "summary": "记者从商务部15日举行的例行新闻发布会上获悉，近期，商务部会同相关部门汇总完成了2025年外商投资信息报告年报数据。数据显示，2025年，共有46.1万家外资企业提交年报，同比增长5.7%。我国外商直接投资权益存量26.8万亿元，连续6年实现增长，位居全球第二。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIChgrhZXpUN4ixiFTI0gi261015.shtml",
+          "published": "Thu, 15 Oct 2026 08:34:26 GMT"
+        },
+        {
+          "title": "涉出具虚假报告等 市场监管总局曝光一批“内卷式”竞争严重违法失信名单",
+          "summary": "市场监管总局今天（15日）集中曝光一批因生产不合格产品、出具虚假检验检测报告等引发“内卷式”竞争被列入严重违法失信名单的经营主体，旨在震慑此类扰乱公平竞争市场秩序的不法行为，营造良好市场环境。 一、山东省济宁市兖州区市场监管局将生产不合格铅酸蓄电池的山东 诺力 新能源科技有限公司列入严重违法失信名单 山东诺力新能源科技有限公司作为蓄电池产品生产企业，为压减成本，在生产过程中以次充好，致使生产的电动",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIoKg0FhF8xxwshf3HsWoN261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:31:13 GMT"
+        },
+        {
+          "title": "格陵兰岛官员否认美国即将上岛大规模勘探",
+          "summary": "△美国总统特朗普（资料图） 针对美国总统特朗普14日关于美国即将在格陵兰岛进行大规模石油、天然气和矿产资源勘探的言论，格陵兰岛官员表示，距离开展这些活动“还早”。 与此同时，丹麦外交部表示，美国、丹麦及其自治领地格陵兰岛9月签署的协议并未给予美国在获取格陵兰岛自然资源方面任何优待。 格陵兰岛矿业部副部长约恩·哈梅肯-霍尔姆称，的确有美国企业在该岛开展小型勘探活动，但“离大规模勘探还早”。 美国、丹",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml",
+          "published": "Thu, 15 Oct 2026 06:55:11 GMT"
+        },
+        {
+          "title": "从田间一粒豆到餐桌百样味 大豆“链”上大市场变身乡村振兴“金豆豆”",
+          "summary": "[!--begin:htmlVideoCode--]49e0808e36fa49f58cd8bbeee78624c0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下正值皖北大豆集中收获时节。作为安徽省大豆核心主产区，亳州市涡阳县今年大豆种植面积达到108.5万亩，占了全县秋粮面积的六成。今年大豆的收成和品质如何？ 记者来到涡阳县的一处大豆高",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTInZghFGxAqVcGjOBNZJnm261015.shtml",
+          "published": "Thu, 15 Oct 2026 05:47:41 GMT"
+        },
+        {
+          "title": "美联储“褐皮书”显示高油价对经济产生广泛影响",
+          "summary": "美国联邦储备委员会14日发布的全国经济形势调查报告显示，8月25日到10月5日的最近一个报告期内，高油价让美国面临广泛的物价上涨压力，并对经济产生广泛影响。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告显示，3个联邦储备区整体物价强劲上涨，8个联邦储备区物价温和上涨，仅1个联邦储备区物价",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIIv81mJ58uQ3djesrix76261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:38:18 GMT"
+        },
+        {
+          "title": "IMF上调2026年亚太地区经济增长预期",
+          "summary": "△国际货币基金组织（资料图） 当地时间10月15日，国际货币基金组织（IMF）发布最新一期亚太地区经济展望报告并举行新闻发布会，IMF预计2026年亚太地区经济增长4.8%，高于该机构今年4月预测的4.4%。 报告指出，尽管中东冲突引发的能源冲击给地区经济带来压力，但人工智能相关技术需求强劲、亚洲内部贸易保持韧性，支撑了亚太地区经济增长。（总台记者 杨探骊 黄铮铮）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:28:01 GMT"
+        },
+        {
+          "title": "从高速增长转向高质量发展 我国地理信息产业发展实现稳中有进、提质扩量",
+          "summary": "[!--begin:htmlVideoCode--]d1f4f037e6f64cdfa150187b01ae8072,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者10月15日从中国地理信息产业协会获悉，2025年我国地理信息产业总产值超过9000亿元，产业结构规模持续扩大，已经构建起完整的地理信息产业链。 最新数据显示，2025年，我国地",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIU9CdUxZeNvSQprXgbwYy261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:19:16 GMT"
+        },
+        {
+          "title": "辽宁省大连市交通运输局原局长王少成被开除党籍",
+          "summary": "央视网消息： 中央纪委国家监委网站10月15日通报，据大连市纪委监委消息：日前，经大连市委批准，大连市纪委监委对大连市交通运输局原党组书记、局长王少成严重违纪违法问题进行了立案审查调查。 经查，王少成丧失理想信念，背弃初心使命，私自存放并阅看具有严重政治问题的资料；无视中央八项规定精神，收受可能影响公正执行公务的礼品、礼金；违反组织原则，不如实报告个人有关事项，在职务晋升方面为他人谋取利益；以高于",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTI8hm3dYiHwGRpXgM9CzIg261015.shtml",
+          "published": "Thu, 15 Oct 2026 02:00:03 GMT"
+        },
+        {
+          "title": "流感病毒活跃度上升 接种疫苗的这些注意事项请知晓→",
+          "summary": "[!--begin:htmlVideoCode--]b1085f26941a4512a0103ef0608a0eaa,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 随着多地气温逐渐走低，部分地区的流感病毒活跃度上升，接种流感疫苗是预防流感最经济有效的手段。目前，各地接种工作已陆续启动。今年流感形势如何？流感疫苗如何选择？打疫苗又该注意什么呢？ ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIcN1yODJRIVCgoWzRl5tr261015.shtml",
+          "published": "Thu, 15 Oct 2026 01:28:43 GMT"
+        },
+        {
+          "title": "库克：Apple Intelligence将于10月底在中国发布测试版本，但不包括Siri AI",
+          "summary": "10月15日，苹果董事会执行主席蒂姆·库克在上海走访，接受媒体采访。在谈及Apple Intelligence（苹果智能）相关问题时，库克表示苹果智能及相关阿里千问大模型确已获得批准，将在十月晚些时候发布测试版本，其中包含实时翻译、书写工具、照片清除工具等首批苹果智能功能，但是Siri AI这次不包括在内。“但是我们很高兴，首批核心的苹果智能功能是可以慢慢上线了。”库克说道。 本文来源： 界面新闻",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783701",
+          "published": "Thu, 15 Oct 2026 08:43:23 GMT"
+        },
+        {
+          "title": "科技股暴跌、美债避险交易卷土重来？10年期美债收益率跌至三周低点",
+          "summary": "AI叙事接连遭受冲击，正在以反直觉的逻辑重塑市场定价框架。在通胀数据火热出炉的背景下，美债收益率非但未见上行，反而随科技股暴跌一同俯冲。 10年期美债收益率周四在亚洲交易时段下行10个基点至5.09%，触及三周低点。与此同时，MSCI亚太股票指数重挫逾3%，韩国综合指数单日暴跌9%，三星电子与SK Hynix均重挫11%。标普500期货跌0.4%，纳斯达克100期货跌逾1%。避险资金大举涌入主权债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783698",
+          "published": "Thu, 15 Oct 2026 08:14:32 GMT"
+        },
+        {
+          "title": "美国9月通胀虚火与核心降温：10月加息暂停，美债利率能否阶段性见顶？",
+          "summary": "北京时间10月14日晚间，美国劳工统计局将公布9月份CPI数据。目前市场预期整体CPI显著回升，同比+3.6%（前值+3.4%），环比+0.6%（前值+0.4%）；核心CPI环比涨势放缓，同比+2.5%（前值+2.4%），环比+0.2%（前值+0.3%）。 整体CPI在能源价格大幅上涨推动下明显加速，成为近5个月来最大月度涨幅；9月下旬零售汽油价格接近每加仑4.50美元，创四个月新高，带动能源CP",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783522",
+          "published": "Thu, 15 Oct 2026 08:02:56 GMT"
+        },
+        {
+          "title": "商务部部长王文涛会见美国苹果公司执行董事长蒂姆·库克",
+          "summary": "10月15日，商务部部长王文涛会见苹果公司执行董事长蒂姆·库克。双方就中美经贸关系、人工智能发展、苹果公司在华业务等议题进行交流。 王文涛表示，在两国元首构建“基于尊重、公平、对等的中美建设性战略稳定关系”的共识引领下，中美经贸磋商取得积极成果。中方倡导人工智能发展安全可控、普惠向善、治理合作。希望苹果公司发挥沟通桥梁作用，为推动中美经贸关系持续稳定向好发展贡献力量。当前，中国坚定不移扩大高水平对",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179282",
+          "published": "Thu, 15 Oct 2026 08:02:21 GMT"
+        },
+        {
+          "title": "逼近“死亡交叉”！韩股遭遇“黑色星期四”，KOSPI连续跌破200日均线，长期熊市将至？",
+          "summary": "韩国股市正站在技术形态的危险边缘。KOSPI连续跌破200日均线后，10月15日再度暴跌逾7%，触发多重熔断机制，外资连续八个交易日净卖出累计逾16万亿韩元。技术面上，\"死亡交叉\"一旦成形，叠加美联储加息预期升温与AI投资盈利质疑，韩股能否在未来两周内收复200日均线，将成为判断本轮下跌是短期波动还是长期熊市的关键分水岭。 10月15日，KOSPI收报5554.22点，单日暴跌454.59点，跌幅",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783697",
+          "published": "Thu, 15 Oct 2026 07:59:53 GMT"
+        },
+        {
+          "title": "欧洲主权风险多米诺：法国之后，英国能否成为债市风暴眼？",
+          "summary": "过去数周，欧洲主权债券市场经历剧烈预期修正。 法国主权债务风险持续发酵， 而英国金融市场的脆弱性也在同步加剧。随着英国财政风险持续升温，英国30年期国债收益率一度升至6.036%，创1998年以来新高；10年期收益率升至5.48%，接近2007年以来的最高水平。 当前英国最突出的问题在于财政缓冲在融资成本上升和宏观环境恶化的过程中持续收窄。英国公共债务已接近GDP的95.7%，其中约22%的政府债",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783622",
+          "published": "Thu, 15 Oct 2026 07:52:24 GMT"
+        },
+        {
+          "title": "多款美元存款产品利率突破4%，部分银行长短期限美元存款利率出现倒挂现象",
+          "summary": "记者注意到，近期多家银行跟进上调美元存款利率。10月14日，每经记者走访上海地区多家银行发现，多款美元存款产品利率突破4%，部分银行长短期限美元存款利率出现倒挂现象。 天府立言金融研究院院长曾刚分析称，美元存款利率走高，首先源于美元无风险利率中枢上移，此外还与银行自身跨境结算等需求以及人民币存款利率走低有关。他提醒，若投资者单纯追逐高息应谨慎决策，需注意换汇以及汇率波动风险。（每经）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179260",
+          "published": "Thu, 15 Oct 2026 07:37:29 GMT"
+        },
+        {
+          "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+          "summary": "黄金的长期牛市从不死于价格，而 死于恐惧的消散 。 瑞士私人银行嘉盛银行（Bank J. Safra Sarasin）资深投资策略师Thomas Bollinger在最新研报中指出，自1971年布雷顿森林体系瓦解以来，黄金经历了三轮完整的长周期，每一轮的终结都不是因为问题被解决，而是因为市场最坏的担忧被消除——届时， 黄金作为“B计划”的吸引力迅速瓦解，利率重新成为定价主导因子 。 本轮黄金上行周",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783694",
+          "published": "Thu, 15 Oct 2026 07:31:55 GMT"
+        },
+        {
+          "title": "美债收益率飙升，美国经济与股市还能撑多久？AI或成最脆弱一环",
+          "summary": "全球债券收益率攀升至数十年高位，但经济与市场迄今展现出异乎寻常的韧性。随着欧洲主权债券市场等领域压力初现，这一韧性能否持续，成为市场最迫切的追问。 高盛最新研究报告汇集了国际货币基金组织、穆迪分析及高盛经济学家的多方研判。IMF顾问Tobias Adrian持审慎乐观立场，认为只要收益率上行不失序加速，全球经济有望延续抗压态势；高盛经济学家则预计高利率对美国经济增长的拖累将相对温和，2027年约为",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783684",
+          "published": "Thu, 15 Oct 2026 07:22:11 GMT"
+        },
+        {
+          "title": "“超八成新云厂商将出局”！机构警告：一旦CoreWeave违约，行业将迎来一场灾难",
+          "summary": "AI算力租赁行业正面临一场严峻的估值重构。信用市场对CoreWeave违约风险的定价持续飙升，知名研究机构Gartner警告，预测逾八成新兴云计算服务商（neocloud）将在2030年前无法独立存续。 CoreWeave周三收跌15.5%，报65.78美元，盘中跌幅一度达17%，创上市以来最大单日跌幅纪录。公司五年期信用违约互换（CDS）利差扩大135个基点至历史新高1117个基点，隐含五年内违",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783693",
+          "published": "Thu, 15 Oct 2026 07:20:13 GMT"
+        },
+        {
+          "title": "国家发改委：2026年10月15日国内成品油价格不作调整",
+          "summary": "9月24日国内成品油价格调整以来，中东地缘局势复杂多变，国际市场原油价格短暂回落后又出现较大幅度上涨。根据国际市场油价变化情况，本次汽、柴油价格不作调整。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179219",
+          "published": "Thu, 15 Oct 2026 07:00:03 GMT"
+        },
+        {
+          "title": "韩股财报季下周启动，摩根大通称存储股进入“预期重置季”，回调带来买入机会",
+          "summary": "摩根大通亚太股票研究团队认为，韩国三季度业绩期将于10月19日当周正式启动，存储芯片股近期的大幅回撤正在创造中期买入机会，科技与金融板块有望成为本轮业绩期的主要胜负手。 据摩根大通分析师Jay Kwon等人10月15日发布的最新研报，上周三星电子初步业绩符合预期、LG电子不及预期、LG新能源超预期， 三组先兆信号已为本轮业绩期定下基调 。 报告称，Jay Kwon在走访亚洲逾百位投资者后指出， 存",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783689",
+          "published": "Thu, 15 Oct 2026 06:52:25 GMT"
+        },
+        {
+          "title": "韩国金融委员会就股市召开紧急会议",
+          "summary": "韩国金融委员会就股市召开紧急会议。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783692",
+          "published": "Thu, 15 Oct 2026 06:08:49 GMT"
+        },
+        {
+          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
+          "summary": "美军正在为可能重启对伊朗大规模军事行动制定新的打击方案，其中包括动用美军现役最大非核炸弹\"炸弹之母\"，目标涵盖伊朗能源基础设施与核设施。 据 新华社 援引美国有线电视新闻网（CNN）报道，美国军方已制定包含\"炸弹之母\"（MOAB，mother of all bombs，GBU-43/B型巨型空爆炸弹）的新打击计划，目标包括伊朗能源基础设施和核设施。此前，美国国防部日前已指示美军中央司令部，在数日内",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783688",
+          "published": "Thu, 15 Oct 2026 06:07:54 GMT"
+        },
+        {
+          "title": "台积电预计第四季度销售额523亿美元至543亿美元，市场预估503.5亿美元",
+          "summary": "台积电预计第四季度毛利率65％至67％，市场预估66.1％；台积电预计第四季度营业利益率56.5％至58.5％，市场预估58％。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783691",
+          "published": "Thu, 15 Oct 2026 06:07:20 GMT"
+        },
+        {
+          "title": "SpaceX要抢美国三大电信巨头的饭碗了",
+          "summary": "ARK Invest研究团队拆解 SpaceX 抢滩美国电信市场的新打法，靠低轨卫星把信号送到屋顶天线锅，再转发到每部手机，它不再只是补位服务，而要直接吃下用户整份月度套餐。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960035",
+          "published": "Thu, 15 Oct 2026 05:32:44 GMT"
+        },
+        {
+          "title": "台积电第三季度净利润7,631亿元台币，市场预估7,394.9亿元台币",
+          "summary": "台积电 第三季度净利润7,631亿元台币，市场预估7,394.9亿元台币。 更多消息，持续更新中…… 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783687",
+          "published": "Thu, 15 Oct 2026 05:30:52 GMT"
+        },
+        {
+          "title": "为什么值得专程去一趟香港金融科技周？答案不只在会场",
+          "summary": "作为连接资本、创新与全球市场的“超级联系人”，香港对于投资者和创业者，正在孕育哪些新机遇? AI正如何从独立的技术议题，变成所有产业都要具备的新能力？中国企业出海，如何跨越监管、规则与文化的壁垒，真正接入国际资本、客户与产业伙伴体系？ 11月，我们一起去香港和深圳，近距离找答案。 11月2日至3日，走进香港金融科技周，听全球金融机构、科技企业和监管者的观点分享； 11月4日，与金融机构面对面，交流",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783608",
+          "published": "Thu, 15 Oct 2026 05:17:09 GMT"
+        },
+        {
+          "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
+          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "published": "Thu, 15 Oct 2026 05:05:15 GMT"
+        },
+        {
+          "title": "险资加仓到了分歧点",
+          "summary": "保险资金的新一轮入市，正出现两组方向不同的信号。 截至2026年二季度末，人身险公司股票投资余额约3.86万亿元，占资金运用余额的10.47%，较上年同期提高2.14个百分点。 但在举牌这一最受市场关注的动作上，险资却放慢了脚步。 截至10月9日，年内仅有5家保险公司举牌上市公司股票9次，不足去年同期的三分之一。 更大的分歧在于，下一步是否继续提高权益比例。 平安联席首席执行官郭晓涛在中期业绩会上",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783683",
+          "published": "Thu, 15 Oct 2026 04:35:19 GMT"
+        },
+        {
+          "title": "算力用电激增，曾毓群称储能已是“不可或缺的新型基础设施”",
+          "summary": "作者 | 周智宇 10月15日，在2026世界储能大会上，宁德时代董事长曾毓群表示，储能正从新能源的配套设施，逐步成为电力系统不可或缺的新型基础设施。 据SNE Research数据，今年上半年，全球锂离子储能电池出货量达到461.3GWh，同比增长71%；中国以外市场占比达到56%，首次超过一半。 曾毓群提出，储能行业需要强化三项能力：一是面向多元化电网需求，打造整站级解决能力；二是坚持底层创新",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783682",
+          "published": "Thu, 15 Oct 2026 04:05:37 GMT"
+        },
+        {
+          "title": "短期内没有快速解决方案！IEA警告：柴油短缺将持续到2027年",
+          "summary": "全球柴油市场的紧张局面正在从价格冲击演变为供应约束。IEA警告，柴油和汽油类中间馏分油短缺可能持续到2027年，短期内难以通过炼厂增产或库存释放迅速化解。 IEA在10月《石油市场报告》中表示，全球柴油市场在三季度出现反季节性收紧。中东和俄罗斯出口长期受扰，迫使市场在秋季炼厂检修和北半球冬季需求高峰到来前提前消耗库存。 IEA称，即便全球炼厂开工率在年底前快速恢复，四季度柴油供应仍将低于需求。 这",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783677",
+          "published": "Thu, 15 Oct 2026 03:47:53 GMT"
+        },
+        {
+          "title": "AI 的借贷潮要破了吗？Coreweave大跌15%背后的警报拉响",
+          "summary": "2026年10月14日，CoreWeave股价单日暴跌15.5%，其2032年到期无担保债价格跌破面值的80%、收益率逼近15%，利差跨过1,000个基点的违约警示线。同一天，甲骨文、戴尔、Nebius 同步下挫，AI 基础设施板块合计蒸发约 800 亿美元市值。 这可能不是崩盘的开始，而是信用分层的中段， 市场正把「AI 基建」从一个整体，拆成两种资产：可被投资级资金承接的，和必须自己承担风险的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783678",
+          "published": "Thu, 15 Oct 2026 03:45:03 GMT"
+        },
+        {
+          "title": "摩根大通警告：本轮科技股暴跌与7月截然不同！散户放弃抄底，逼空弹药已枯竭",
+          "summary": "摩根大通最新研究报告指出，当前AI基础设施股票的下跌环境明显劣于去年7月的那轮调整，散户投资者迄今缺乏\"逢低买入\"行为，叠加回购流量悬崖、空头仓位稀薄以及杠杆ETF规模偏高等多重不利因素，令本轮反弹的技术支撑基础远比上次脆弱。 据追风交易台，摩根大通全球市场策略团队10月14日发布的《资金流动与流动性》报告，以韩国存储芯片股为代表的AI基础设施板块近期再度承压，导火索同样是市场对竞争的担忧——与去",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783672",
+          "published": "Thu, 15 Oct 2026 02:02:27 GMT"
+        },
+        {
+          "title": "A股三大指数集体低开",
+          "summary": "09:26 上证指数低开1.5%，创业板指跌3.13%。AI硬件侧大幅调整，覆铜板、存储、光通信板块领跌。银行股活跃。 09:21 恒生指数开盘跌0.8%，恒生科技指数跌2.21%，AI概念股普跌，联想集团跌超7%领跌蓝筹。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783670",
+          "published": "Thu, 15 Oct 2026 01:26:02 GMT"
+        },
+        {
+          "title": "通胀重燃加息预期，亚洲股市重挫，日经跌3%，韩股跌超5%，SK海力士暴跌9%",
+          "summary": "美国通胀数据意外走高，叠加人工智能估值泡沫担忧，全球科技股遭遇新一轮冲击波。亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，交易所被迫启动熔断机制。 周四韩国综指开盘重挫逾6%，触发交易所熔断机制，韩国交易所相继对KOSPI与KOSDAQ启动Sidecar机制，暂停程序化卖盘。三星电子与SK海力士均大跌。 日经225指数跌幅超过3%，软银重挫逾8%，铠侠跌幅超过8%。MSCI亚太指数下跌逾1%至2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783663",
+          "published": "Thu, 15 Oct 2026 01:06:52 GMT"
+        },
+        {
+          "title": "美国扩大电子产品进口限制 封堵华为、中兴等公司出产的零部件",
+          "summary": "美国禁止一些中国企业的电子设备成品在美销售，现在把限制扩大到了组装设备的零部件 【财新网】 美国继续收紧对中国电子产品进入美国市场的限制。当地时间10月13日，美国联邦政府的独立机构美国联邦通信委员会（FCC）的一条新规生效，该规定要求，如果一台设备所含的逻辑处理硬件由华为、中兴等“FCC管制清单”（FCC Covered List）上的实体生产，那么这台设备将难以获得FCC的认证而出口到美国。 ",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493706.html",
+          "published": "Thu, 15 Oct 2026 08:45:15 GMT"
+        },
+        {
+          "title": "楼市没爆，风险在银行：美国固定按揭的久期陷阱",
+          "summary": "利率大幅上行之后，美国楼市为何表现为“交易急冻”而不是“价格崩塌”？加息的成本最终落在了谁身上？ 本轮美国住宅市场调整由融资条件主导。房地美30年期固定按揭利率升至7.40%，NAR待签约指数降至71.2，成屋库存回升至162万套，但全国房价同比仍增长约2.5%，量价明显错位。利率大幅上行之后，美国楼市为何表现为“交易急冻”而不是“价格崩塌”？加息的成本最终落在了谁身上？ 结论有两层。第一，美国按",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493694.html",
+          "published": "Thu, 15 Oct 2026 07:41:35 GMT"
+        },
+        {
+          "title": "铜价“脱缰”？供给周期的启示",
+          "summary": "铜价中枢最大决定因素是供给。每一轮供给周期后半段，都对应铜价完成中枢上移。供给周期，才蕴含铜价真正的大机会 传统铜价分析往往从全球制造业、房地产或者库存周期入手，这一框架能够解释铜价短周期的波动（3-5年），却难以解释一个更重要的问题：为什么相同的需求增速，在不同时期对应的铜价水平完全不同。 我们尝试从跨度更长的矿山资本开支-产能周期，辨析供给曲线变化对铜价中枢的影响，进而解释，为什么本轮铜价超过",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493683.html",
+          "published": "Thu, 15 Oct 2026 06:52:32 GMT"
+        },
+        {
+          "title": "人工智能赋能保险资产管理行业的应用研究",
+          "summary": "中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋能转变 在全球人工智能技术加速渗透的背景下，国际大型资产管理机构已将人工智能技术从单点工具试验推进至全流程业务嵌入阶段。与国际实践相比，当前国内人工智能应用更偏向辅助赋能。中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493677.html",
+          "published": "Thu, 15 Oct 2026 05:56:02 GMT"
+        },
+        {
+          "title": "被指数剔除只是开始？茶百道IPO包盘案两大团伙渐渐浮出水面",
+          "summary": "刻意制造新股认购需求的虚假表象，扭曲IPO配售真实供需 【财新网】 香港证监会发起近年力度罕见的IPO操纵专项执法行动，点名涉及三只股份、两个操盘团伙，冻结合共46.6亿港元资金。（详见财新网《 香港证监会重拳出手查IPO包盘 冻结46亿涉案资产破纪录 》） 最新的进展是，涉案股份茶百道（02555.HK）继10月13日开市前被勒令停牌，10月14日遭恒生指数公司通告，将其剔除出恒生指数系列，10",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-15/102493670.html",
+          "published": "Thu, 15 Oct 2026 05:33:39 GMT"
+        },
+        {
+          "title": "货币霸权不是是非题而是选择题",
+          "summary": "走上货币霸权之路以及霸权的兴衰绝不是是非问题，而是一系列励精图治又充满抱负的选择结果，愿意为自己的货币被广泛接受做出相应的自我约束和改革 当下为人民币国际化鼓与呼的人不少，并且有种种迹象表明这正是站在趋势之上。从2025年4月美国发动贸易战开始，人民币从低点 7.3463到撰文的6.7040，17个月共升值8.7%；但是同期美元指数则从102.9贬至101.38，虽然中间坐了过山车，但掐头去尾似乎",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493650.html",
+          "published": "Thu, 15 Oct 2026 05:16:40 GMT"
+        },
+        {
+          "title": "从IMF展望看全球经济韧性与加速分化",
+          "summary": "总量稳定的背后，一场更加深刻的结构变化正在发生：全球经济的韧性正在由共同承压走向结构分化 面对共同的冲击，不同经济体的增长表现既取决于自身的缓冲空间，也取决于对新一轮技术周期的承接能力。图：IC photo “疾风知劲草，烈火见真金。”2026年以来，中东冲突持续，能源价格波动，贸易摩擦加剧，融资成本抬升，全球经济受到地缘政治、供给冲击与金融条件收紧的多重考验。尽管置身多重外部冲击交织的复杂环境中",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493619.html",
+          "published": "Thu, 15 Oct 2026 04:12:13 GMT"
+        },
+        {
+          "title": "跨境金融创新提速 上海中外资金融机构境外贷款余额破万亿",
+          "summary": "目前上海汇集各类跨境人民币资金池约1600个。截至6月末，上海中外资金融机构本外币境外贷款余额1.08万亿元，较年初增长11% 10月13日，上海市银行业同业公会召开新闻发布会，就上海落地跨境投融资便利化、自贸试验区制度创新等高水平开放政策介绍情况。图：上海市银行业同业公会 【财新网】 自今年6月国家金融监督管理总局等六部门联合印发《上海国际金融中心发展离岸金融行动方案》，以及陆家嘴论坛期间金融监",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-15/102493605.html",
+          "published": "Thu, 15 Oct 2026 03:20:54 GMT"
+        },
+        {
+          "title": "【华尔街原声】AI债券遭抛售 投资者开始质疑云计算巨头前景",
+          "summary": "部分AI企业债券价格持续承压，未来融资成本或进一步上升，债券供给增加也可能推高整体市场收益率",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-15/102493594.html",
+          "published": "Thu, 15 Oct 2026 02:57:24 GMT"
+        },
+        {
+          "title": "【华尔街原声】贝莱德CEO芬克：美国正面临资本短缺",
+          "summary": "美国政府债务持续攀升，加剧信贷市场资金竞争；芬克呼吁释放私人资本，为经济增长及AI基础设施建设提供融资",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-15/102493587.html",
+          "published": "Thu, 15 Oct 2026 02:25:12 GMT"
+        },
+        {
+          "title": "光刻机巨头ASML三季度营收创新高 开始接洽2030年订单",
+          "summary": "ASML CEO傅恪礼认为中国本土厂商不会对其构成竞争威胁，因为“中国光刻机厂商的进展并不显著，动力也不足” 荷兰Veldhoven，ASML总部。图：视觉中国 【财新网】 存储扩产需求强劲，荷兰光刻机巨头阿斯麦（ASML）营收创新高。10月14日，ASML发布2026年第三季度财报，当季实现净销售额117亿欧元（约合人民币878亿元），同比增长55%并创单季历史新高；净利润为50亿欧元（约合人民",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493580.html",
+          "published": "Thu, 15 Oct 2026 02:21:01 GMT"
+        },
+        {
+          "title": "厄尔尼诺：宏观冲击何时达峰",
+          "summary": "本轮厄尔尼诺或在11月左右达峰，但影响峰值滞后于次年夏季。宏观影响具有显著的季节差异，可能集中体现于2026年冬季与2027年夏季 当地时间2026年10月13日，印度尼西亚龙目岛，佩努亚克村的稻田因长期干旱出现干裂景象。图：视觉中国 本轮厄尔尼诺或为史上最强，对宏观经济的影响节奏如何，结构有何特征？ “超强”厄尔尼诺影响“时间线” 要点1：本轮厄尔尼诺或演变为史上最强，持续时间可能在1年以上。厄",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493579.html",
+          "published": "Thu, 15 Oct 2026 02:20:43 GMT"
+        },
+        {
+          "title": "美债的“重新定价”与“战略消耗”",
+          "summary": "短期内以美债为首，带动欧洲、日本乃至全球国债的上行，更像一次“重新定价”，而非市场在定价美国债务或国力出现了根本性问题。对美债而言，这一过程则是漫长的、长期的“战略消耗”，两者应分开看待 长期看，美国债务纪律变差、消耗国力不可否认，但这是一个漫长的过程，短期未必进入金融市场的根本性定价。图：IC photo 短期以美债为首的全球国债收益率上行更像一次“重新定价” 短期内以美债为首，带动欧洲、日本乃",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493574.html",
+          "published": "Thu, 15 Oct 2026 01:47:50 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "中央网信办等部门：开展网络涉军不当营销和炒作信息专项整治",
+          "summary": "央视网消息： 据“网信中国”公众号消息，各省、自治区、直辖市党委网信办，新疆生产建设兵团党委网信办，各省、自治区、直辖市退役军人事务厅（局），新疆生产建设兵团退役军人事务局，解放军各单位和武警部队政治工作部（局、办公室）、党委政法委员会： 为进一步规范互联网军事信息传播管理，深入排查整治网络涉军不当营销和炒作信息，中央网信办、退役军人事务部、中央军委政治工作部、中央军委政法委员会决定从10月份开始",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIeYLdbLpBEJShYe5zv2mt261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:16:26 GMT"
+        },
+        {
+          "title": "以更高标准、更实举措推进全面从严治党",
+          "summary": "以更高标准、更实举措推进全面从严治党 ※ 习近平 “十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期。要把党的二十届四中全会擘画的蓝图变为现实，必须坚持和加强党的全面领导，持之以恒推进全面从严治党，强化全党的使命意识和奋斗意志，巩固党的团结统一，保持党的队伍纯洁，提高党的执政能力和领导水平。 2026年1月12日，中共中央总书记、国家主席、中央军委主席习近平在中国共产党第二十届中央",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIsQLLKHYXFBKOVUj2o7UX261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:09:34 GMT"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
+          "summary": "新华社北京10月15日电　10月16日出版的第20期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《以更高标准、更实举措推进全面从严治党》。 文章强调，“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期。要把党的二十届四中全会擘画的蓝图变为现实，必须坚持和加强党的全面领导，持之以恒推进全面从严治党。 文章指出，要更加坚决有力地贯彻落实党中央重大决策部署。贯",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIqS3koDc6jalqc0anwk8b261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:04:16 GMT"
+        },
+        {
+          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
+          "summary": "美军正在为可能重启对伊朗大规模军事行动制定新的打击方案，其中包括动用美军现役最大非核炸弹\"炸弹之母\"，目标涵盖伊朗能源基础设施与核设施。 据 新华社 援引美国有线电视新闻网（CNN）报道，美国军方已制定包含\"炸弹之母\"（MOAB，mother of all bombs，GBU-43/B型巨型空爆炸弹）的新打击计划，目标包括伊朗能源基础设施和核设施。此前，美国国防部日前已指示美军中央司令部，在数日内",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783688",
+          "published": "Thu, 15 Oct 2026 06:07:54 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "中央网信办等部门：开展网络涉军不当营销和炒作信息专项整治",
+          "summary": "央视网消息： 据“网信中国”公众号消息，各省、自治区、直辖市党委网信办，新疆生产建设兵团党委网信办，各省、自治区、直辖市退役军人事务厅（局），新疆生产建设兵团退役军人事务局，解放军各单位和武警部队政治工作部（局、办公室）、党委政法委员会： 为进一步规范互联网军事信息传播管理，深入排查整治网络涉军不当营销和炒作信息，中央网信办、退役军人事务部、中央军委政治工作部、中央军委政法委员会决定从10月份开始",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIeYLdbLpBEJShYe5zv2mt261015.shtml",
+          "published": "Thu, 15 Oct 2026 07:16:26 GMT"
+        },
+        {
+          "title": "23载“逐梦苍穹”成果丰硕 中国“太空家园”值得期待",
+          "summary": "[!--begin:htmlVideoCode--]59eda9fa608c44948ff5acb0557b7cc1,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是我国首次载人航天飞行任务23周年。2003年10月15日，神舟五号载人飞船成功发射，亿万中国人见证了中国载人航天历史性的一刻。23年来，一代代航天员叩问苍穹，一步步搭建起属于中",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/15/ARTIc5B30Wi17YmL19q6DfG8261015.shtml",
+          "published": "Thu, 15 Oct 2026 03:10:46 GMT"
+        },
+        {
+          "title": "奶茶店开始抢麦当劳生意？喜茶盯上了薯条",
+          "summary": "六年前，喜茶与 Shake Shack 联名推出 9 元一盒的薯条杯；六年后，喜茶要把油锅搬进门店自己做薯条。 深圳中心书城喜茶茶坊 2.0 的围挡上，除了茶特调、茶冰淇淋，多出四个字：鲜作茶食。华尔街见闻了解到，该门店预计10月19日开业。 围挡只是一个信号。据爆料，为了炸好一份薯条，喜茶制茶师甚至要到总部封闭集训 30 天。有网友在社交平台分享了这段经历：从挑选土豆开始，历经现切、浸泡、裹粉、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783696",
+          "published": "Thu, 15 Oct 2026 08:17:43 GMT"
+        },
+        {
+          "title": "韩股财报季下周启动，摩根大通称存储股进入“预期重置季”，回调带来买入机会",
+          "summary": "摩根大通亚太股票研究团队认为，韩国三季度业绩期将于10月19日当周正式启动，存储芯片股近期的大幅回撤正在创造中期买入机会，科技与金融板块有望成为本轮业绩期的主要胜负手。 据摩根大通分析师Jay Kwon等人10月15日发布的最新研报，上周三星电子初步业绩符合预期、LG电子不及预期、LG新能源超预期， 三组先兆信号已为本轮业绩期定下基调 。 报告称，Jay Kwon在走访亚洲逾百位投资者后指出， 存",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783689",
+          "published": "Thu, 15 Oct 2026 06:52:25 GMT"
+        },
+        {
+          "title": "通胀重燃加息预期，亚洲股市重挫，日经跌3%，韩股跌超5%，SK海力士暴跌9%",
+          "summary": "美国通胀数据意外走高，叠加人工智能估值泡沫担忧，全球科技股遭遇新一轮冲击波。亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，交易所被迫启动熔断机制。 周四韩国综指开盘重挫逾6%，触发交易所熔断机制，韩国交易所相继对KOSPI与KOSDAQ启动Sidecar机制，暂停程序化卖盘。三星电子与SK海力士均大跌。 日经225指数跌幅超过3%，软银重挫逾8%，铠侠跌幅超过8%。MSCI亚太指数下跌逾1%至2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783663",
+          "published": "Thu, 15 Oct 2026 01:06:52 GMT"
+        },
+        {
+          "title": "人工智能赋能保险资产管理行业的应用研究",
+          "summary": "中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋能转变 在全球人工智能技术加速渗透的背景下，国际大型资产管理机构已将人工智能技术从单点工具试验推进至全流程业务嵌入阶段。与国际实践相比，当前国内人工智能应用更偏向辅助赋能。中国保险资产管理行业推进人工智能应用可遵循“认知重构—合作实验—流程再造”的递进路径，逐步实现从单点应用向体系化赋",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-15/102493677.html",
+          "published": "Thu, 15 Oct 2026 05:56:02 GMT"
+        },
+        {
+          "title": "依恋风格与健康｜心理",
+          "summary": "如果感到不安全、孤独或孤立、不被爱、不被尊重、被贬低，自身独特性不被看见，或是在试图实现自身潜能时受挫，这些未被满足的需求，都会对我们的健康产生真实的后果 一个人的整体身心健康水平，会受到享受情感亲密关系的能力所影响，包括友情、亲情与爱情 —— 也就是我们所说的依恋风格。图：视觉中国 你是否觉得自己能够掌控自身的身体健康？事实上，如今要想搞清楚什么方法真正对健康有效，似乎越来越难。各类热门信息，不",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-15/102493572.html",
+          "published": "Thu, 15 Oct 2026 01:44:13 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+          "summary": "黄金的长期牛市从不死于价格，而 死于恐惧的消散 。 瑞士私人银行嘉盛银行（Bank J. Safra Sarasin）资深投资策略师Thomas Bollinger在最新研报中指出，自1971年布雷顿森林体系瓦解以来，黄金经历了三轮完整的长周期，每一轮的终结都不是因为问题被解决，而是因为市场最坏的担忧被消除——届时， 黄金作为“B计划”的吸引力迅速瓦解，利率重新成为定价主导因子 。 本轮黄金上行周",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783694",
+          "published": "Thu, 15 Oct 2026 07:31:55 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 111,
+    "total_collected": 76,
+    "sources": 6,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "华尔街见闻",
+      "央视新闻",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
