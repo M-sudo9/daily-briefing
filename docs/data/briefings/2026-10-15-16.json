@@ -1,0 +1,786 @@
+{
+  "id": "2026-10-15-16",
+  "datetime": "2026-10-15 16:30:50",
+  "date": "2026-10-15",
+  "time": "16:30",
+  "period": "下午",
+  "summary": "本期采集 63 篇文章，来自 6 个信息源，覆盖 7 个领域，精选 90 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+          "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/ Comments URL: https://news.ycombinator.com/item?id=50105635 Points: 50 # Comments: 50",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+          "published": "Thu, 15 Oct 2026 16:03:19 +0000"
+        },
+        {
+          "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+          "summary": "Article URL: https://snoutcover.com/one-year Comments URL: https://news.ycombinator.com/item?id=50105344 Points: 61 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://snoutcover.com/one-year",
+          "published": "Thu, 15 Oct 2026 15:44:36 +0000"
+        },
+        {
+          "title": "Celebrating 70 Years of Fortran",
+          "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 54 # Comments: 23",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+          "published": "Thu, 15 Oct 2026 15:03:17 +0000"
+        },
+        {
+          "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+          "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 88 ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "published": "Thu, 15 Oct 2026 14:58:48 +0000"
+        },
+        {
+          "title": "Prompt injection in HTTP headers: what 217M web responses show",
+          "summary": "Article URL: https://www.signalscorps.com/blog/prompt-injection-in-http-headers/ Comments URL: https://news.ycombinator.com/item?id=50104310 Points: 33 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+          "published": "Thu, 15 Oct 2026 14:36:22 +0000"
+        },
+        {
+          "title": "Using AI to reverse engineer hardware",
+          "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 42 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+          "published": "Thu, 15 Oct 2026 14:35:15 +0000"
+        },
+        {
+          "title": "I know why Mathematicians weep",
+          "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 150 # Comments: 215",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+          "published": "Thu, 15 Oct 2026 13:44:32 +0000"
+        },
+        {
+          "title": "Wayland desktop for Linux with skeuomorphic design",
+          "summary": "Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 191 # Comments: 78",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/fyzugx/DEsk",
+          "published": "Thu, 15 Oct 2026 13:23:44 +0000"
+        },
+        {
+          "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+          "summary": "Article URL: https://github.com/konieczkow/gridsnap Comments URL: https://news.ycombinator.com/item?id=50103263 Points: 26 # Comments: 14",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/konieczkow/gridsnap",
+          "published": "Thu, 15 Oct 2026 13:19:07 +0000"
+        },
+        {
+          "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+          "summary": "Article URL: https://www.cppstories.com/2026/cpp26_contracts/ Comments URL: https://news.ycombinator.com/item?id=50103164 Points: 63 # Comments: 59",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.cppstories.com/2026/cpp26_contracts/",
+          "published": "Thu, 15 Oct 2026 13:11:26 +0000"
+        },
+        {
+          "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+          "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 146 # Comments: 73",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://libreboot.org/news/libreboot2610.html",
+          "published": "Thu, 15 Oct 2026 12:52:16 +0000"
+        },
+        {
+          "title": "Show HN: Unfenced – Land for sale that borders public land",
+          "summary": "Article URL: https://unfenced.land/ Comments URL: https://news.ycombinator.com/item?id=50102247 Points: 149 # Comments: 113",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://unfenced.land/",
+          "published": "Thu, 15 Oct 2026 11:38:57 +0000"
+        },
+        {
+          "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+          "summary": "Article URL: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/ Comments URL: https://news.ycombinator.com/item?id=50101813 Points: 130 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+          "published": "Thu, 15 Oct 2026 10:43:36 +0000"
+        },
+        {
+          "title": "银河证券张堃：AI正在拨快市场时钟，波动率将成长期投资资产",
+          "summary": "AI会对市场和证券行业形成怎样的影响，投资者和从业者又该如何应对这不可逆的变化？ 这个时代之问，一直萦绕在人们的心头，而答案或许一定程度上可以在银河证券第二届大宗商品论坛中找到。 在本次论坛上，银河证券创新投资总部负责人张堃提出， AI技术正在系统性加速市场信息传导与交易决策的节奏，高波动可能成为未来市场的长期常态 。他认为，投资者应当转变思维，将波动率视为可投资资产而非单纯风险，并学会在波动中更",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783715",
+          "published": "Thu, 15 Oct 2026 12:22:52 GMT"
+        },
+        {
+          "title": "特朗普提议将俄被冻结资产转入美国监管账户，遭欧洲当场拒绝",
+          "summary": "美国就乌克兰和平谈判提出一项争议性方案， 建议欧洲国家解冻部分俄罗斯主权资产，并将其转移至由华盛顿监管的特殊目的载体 ，此举在欧洲盟友中引发强烈反弹，也令基辅感到震动。 据英国《金融时报》周四报道， 上述提议由特朗普的和平谈判特使在上周于迈阿密举行的多方会谈中提出，与会方包括乌克兰、法国、德国、英国、欧盟及北约官员。欧洲代表当场拒绝了这一方案 ，德国总理Friedrich Merz在布鲁塞尔欧盟峰",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783712",
+          "published": "Thu, 15 Oct 2026 12:12:02 GMT"
+        },
+        {
+          "title": "潘功胜：全球失衡不能依靠汇率调节，中国人民银行将继续实施好适度宽松的货币政策",
+          "summary": "2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财长和央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民银行行长潘功胜出席会议并发言，中国人民银行副行长宣昌能参加会议。 潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、人工智能相关资产估值回调风险加剧了金融脆弱性。促进金融监管现代化不等于放松监管，不应损害金融体系稳定",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179449",
+          "published": "Thu, 15 Oct 2026 11:03:22 GMT"
+        },
+        {
+          "title": "俄炼油厂遭密集攻击，泽连斯基：感觉遭到美国背叛",
+          "summary": "据《央视新闻》，乌克兰海军15日通报称，乌军于10月15日凌晨使用“海王星”岸基导弹系统，打击了俄罗斯沃罗涅日州鲍里索格列布斯克军用机场。乌方称，打击摧毁了6架苏-34M战斗轰炸机及机场部分飞行保障设备。现场出现二次爆炸和火灾，相关情况仍在核实中。 截至目前，俄方对此暂无回应。 另据《CCTV国际时讯》，俄罗斯国防部今天（10月15日）通报称，当地时间今天4时至7时，乌克兰武装力量使用导弹和无人机",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783707",
+          "published": "Thu, 15 Oct 2026 10:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+          "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 88 ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "published": "Thu, 15 Oct 2026 14:58:48 +0000"
+        },
+        {
+          "title": "Using AI to reverse engineer hardware",
+          "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 42 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+          "published": "Thu, 15 Oct 2026 14:35:15 +0000"
+        },
+        {
+          "title": "AI agents are coming to Rivian’s cars",
+          "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+          "published": "Thu, 15 Oct 2026 15:02:36 +0000"
+        },
+        {
+          "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+          "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+          "published": "Thu, 15 Oct 2026 14:47:09 +0000"
+        },
+        {
+          "title": "Google’s Universal Cart shopping tool launches in the US",
+          "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "published": "Thu, 15 Oct 2026 14:29:33 +0000"
+        },
+        {
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Friends don&#8217;t let friends feed their data to AI agents",
+          "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you , regardless of whether or not anyone else actually consented to it. Now, with the adv",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+          "published": "2026-10-15T12:21:45-04:00"
+        },
+        {
+          "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+          "summary": "Following the launch of its $50 subscription-free security camera last month , Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they mov",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+          "published": "2026-10-15T11:00:00-04:00"
+        },
+        {
+          "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+          "summary": "Link your image libraries together into one easy browsing gallery. | Image: Microsoft Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining pho",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+          "published": "2026-10-15T10:53:38-04:00"
+        },
+        {
+          "title": "Trump calls off livestream of execution",
+          "summary": "U.S. Maj. Nidal Hasan is seen in a booking photo after being moved to the Bell County Jail on April 9, 2010 in Belton, Texas. | Getty Images The execution of Fort Hood shooter Nidal Hasan will not be ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+          "published": "2026-10-15T10:43:44-04:00"
+        },
+        {
+          "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+          "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+          "published": "2026-10-15T10:30:00-04:00"
+        },
+        {
+          "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+          "summary": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for t",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+          "published": "2026-10-15T10:07:33-04:00"
+        },
+        {
+          "title": "我造了一块会飞的滑板...",
+          "summary": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！\n掌握之后真的有种御剑飞行的感觉，超级自由。\n感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。\n同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。\n很高兴能够用自己的方式让大家看到我的家乡！",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1KiJk67EQ9",
+          "published": "Thu, 15 Oct 2026 09:30:00 GMT"
+        },
+        {
+          "title": "国内一半AI算力被指在造爽剧，用于研发仅15%",
+          "summary": "近日，“国内超一半算力在造爽剧”的话题，引发广泛关注。 据中文在线在一份“投资者关系活动记录表”中披露， 国内AI Token消耗55%烧在短剧和视频生成，24%烧在电商广告，真正用于研发的只有15%。AI短剧与视频生成的Token消耗量已达到软件开发的两倍以上，成为整个Token经济学中第一大核心消耗场景。 目前，我国短剧发展呈现蓬勃之势。今年4月，由国家广播电视总局发展研究中心等共同完成并发布",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783720",
+          "published": "Thu, 15 Oct 2026 13:28:18 GMT"
+        },
+        {
+          "title": "机器人缺数据，禾赛盯上训练场",
+          "summary": "机器人要走进更多工厂和门店，先要有足够丰富的训练场景。禾赛正尝试把准备这些场景的工作做成一门新生意。 10月14日，禾赛发布Kosmo空间相机及云平台，通过扫描真实环境、重建三维空间，为机器人提供可用于仿真训练的场景，并与银河通用、原力灵机签署战略合作。对一家主要靠交付传感器获得收入的公司而言，这意味着业务延伸到机器人开发中的数据与云服务。 这一变化对应着具身智能产业的现实需求。智能汽车已经可以依",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783721",
+          "published": "Thu, 15 Oct 2026 13:26:07 GMT"
+        },
+        {
+          "title": "“大多头”Yardeni下调标普年底目标：盈利不是问题，估值才是",
+          "summary": "知名市场研究机构Yardeni Research下调标普500年底目标价至7900点，理由是估值压缩风险上升，而非盈利前景恶化。 9月中旬以来持续发酵的避险情绪正在进一步压低股票估值倍数。 Yardeni Research将标普500年底目标从此前的8400点（该目标此前已被推迟至2027年中）下调至7900点，同时将年底远期市盈率目标从19.8倍下调至18.6倍。 与此同时，市场面临多重压力叠加",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783719",
+          "published": "Thu, 15 Oct 2026 13:13:12 GMT"
+        },
+        {
+          "title": "深南电路：预计前三季度归母净利润40.5亿元至41.5亿元，同比增长74.13%至78.43%",
+          "summary": "深南电路公告，预计2026年前三季度归母净利润40.5亿元至41.5亿元，同比增长74.13%至78.43%，上年同期为23.26亿元；扣非净利润40.18亿元至41.18亿元，同比增长84.15%至88.73%，上年同期为21.82亿元；基本每股收益6.02元/股至6.17元/股。 归母净利润同比增长主要因AI算力基础设施投资、产品迭代升级带来市场机遇，AI服务器、高速交换机、光模块、处理器及存",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179508",
+          "published": "Thu, 15 Oct 2026 12:45:55 GMT"
+        },
+        {
+          "title": "银河证券张堃：AI正在拨快市场时钟，波动率将成长期投资资产",
+          "summary": "AI会对市场和证券行业形成怎样的影响，投资者和从业者又该如何应对这不可逆的变化？ 这个时代之问，一直萦绕在人们的心头，而答案或许一定程度上可以在银河证券第二届大宗商品论坛中找到。 在本次论坛上，银河证券创新投资总部负责人张堃提出， AI技术正在系统性加速市场信息传导与交易决策的节奏，高波动可能成为未来市场的长期常态 。他认为，投资者应当转变思维，将波动率视为可投资资产而非单纯风险，并学会在波动中更",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783715",
+          "published": "Thu, 15 Oct 2026 12:22:52 GMT"
+        },
+        {
+          "title": "江波龙Q3净利润预增740.33%至964.26%，公司示警：存储涨价红利正在退潮 | 财报见闻",
+          "summary": "存储芯片模组厂商江波龙交出一份亮眼的业绩预告，但公司同步示警：推动本轮盈利狂飙的存储价格红利正在边际递减，行业驱动逻辑已悄然切换。 江波龙周三发布公告， 预计2026年前三季度归母净利润达140亿至149亿元，同比增长1864.55%至1990.84%；营业收入380亿至400亿元，较上年同期167.34亿元近乎翻倍有余。 第三季度单季，扣非净利润区间为37.53亿至47.53亿元，同比增幅高达7",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783714",
+          "published": "Thu, 15 Oct 2026 12:20:24 GMT"
+        },
+        {
+          "title": "报道：纽约市主计长敦促Anthropic暂停推进IPO",
+          "summary": "纽约市主计长Mark Levine接受采访时表示，他已致信Anthropic首席执行官Dario Amodei，呼吁该公司暂停其计划中的首次公开募股(IPO)。信中敦促Anthropic在全面、透明地回应公司自身提出的AI安全、治理和开发相关担忧之前，暂停IPO计划。Levine写道，公司应把重点放在解决这些风险上，而不是推进IPO。纽约市目前通过私募市场持有Anthropic不到1000万美元的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179477",
+          "published": "Thu, 15 Oct 2026 11:48:55 GMT"
+        },
+        {
+          "title": "亚洲科技股崩盘正演变成全面恐慌",
+          "summary": "亚洲科技股抛售浪潮正在失控。韩国股市暴跌、波动率急剧飙升、超卖程度创下数年来极值，而卖盘却毫无止息迹象—— 这场始于韩国的科技股熔断，正迅速演变为一场席卷整个亚洲半导体板块的全面恐慌。 韩国综合股价指数（KOSPI）在最新一个交易日单日重挫7.6%，长期趋势线告破，指数跌至200日均线大幅下方。与此同时， 此前看似对这场动荡免疫的中国台湾股市也开始出现松动迹象，令市场对AI相关交易的更大范围瓦解的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783710",
+          "published": "Thu, 15 Oct 2026 11:41:58 GMT"
+        },
+        {
+          "title": "宏观、产业、科技“三重奏”，正重新定义大宗商品定价范式",
+          "summary": "秋天是收获的季节，不止农业，也包括人们的投资思想。 日前，在 中国银河证券举办的第二届大宗商品论坛 上，包括券商专业人士、宏观经济学家、能源分析师、化工原料专家、科技行业观察者、煤炭市场研究员与衍生品交易专家在内的各路机构共聚一堂，参会机构普遍赞同： 大宗商品市场正在进入一个宏观、产业、科技多因素交织共振的全新阶段。 其中，银河证券首席经济学家、研究院院长章俊指出当下的全球宏观、地缘、科技创新都深",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783702",
+          "published": "Thu, 15 Oct 2026 11:40:49 GMT"
+        },
+        {
+          "title": "当AI动能开始退潮，巴菲特式\"无聊投资\"悄然回潮",
+          "summary": "市场风向正在悄然转变。 在AI与动能交易主导市场数年之后，以高质量盈利为核心的\"质量因子\"投资策略强势回归，巴菲特长期坚守的投资逻辑正重新获得华尔街的认可。 质量因子近期表现抢眼。高盛交易台数据显示， 其行业与因子中性质量配对指数（GSP1QUAL）过去三个月累计上涨20%，创12个月新高，同期已实现波动率仅约13%。代表\"质量之王\"的相关标的过去五个交易日上涨5%，且五年走势图表明这一趋势并非新",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783708",
+          "published": "Thu, 15 Oct 2026 11:11:26 GMT"
+        },
+        {
+          "title": "潘功胜：全球失衡不能依靠汇率调节，中国人民银行将继续实施好适度宽松的货币政策",
+          "summary": "2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财长和央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民银行行长潘功胜出席会议并发言，中国人民银行副行长宣昌能参加会议。 潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、人工智能相关资产估值回调风险加剧了金融脆弱性。促进金融监管现代化不等于放松监管，不应损害金融体系稳定",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179449",
+          "published": "Thu, 15 Oct 2026 11:03:22 GMT"
+        },
+        {
+          "title": "通胀鹰派但长端美债反涨：AI抛售潮的喘息还是负反馈？",
+          "summary": "在美国9月份CPI数据公布前，美债长端利率已现阶段性回落。10年期美债收益率自5.36%的多年高点回落至5.20%附近，30年期收益率亦自高位下行。 彼时市场逻辑相对清晰：其一，一级市场需求改善，10年期与30年期拍卖需求强劲，一级交易商认购比例下降，终端投资者承接意愿显著增强；其二，估值与仓位提供支撑，债券基金久期仓位处于历史极端低配，收益率已高于基本面公允价值，5y5y远期利率较模型公允价值高",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783706",
+          "published": "Thu, 15 Oct 2026 10:39:03 GMT"
+        },
+        {
+          "title": "瑞芯微：预计前三季度归母净利润13.1亿元至13.5亿元，同比增长68.04%至73.17%",
+          "summary": "瑞芯微公告，预计2026年前三季度营业收入约44.47亿元，同比增长约41.56%；归母净利润13.1亿元至13.5亿元，同比增长68.04%至73.17%；扣非净利润12.8亿元至13.2亿元，同比增长69.32%至74.61%。主要因AIoT（端侧AI）产品线保持高速增长，协处理器RK182X多产品线进入产品发布、项目量产，RK3572等新产品三季度量产。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179404",
+          "published": "Thu, 15 Oct 2026 10:21:17 GMT"
+        },
+        {
+          "title": "黄仁勋谈中国 AI 公司：算力越缺，越逼着他们把架构做到极致",
+          "summary": "“嘿，大家安静！张忠谋打电话来了！” 接到这通电话时，黄仁勋办公室外面的员工正在玩第一代 PlayStation，笑声、喊声混成一片。而他已经为联系台积电等了很久：翻黄页、查号码，反复拨打美国办公室的电话，留下语音，却始终没有收到回电。最后，他给张忠谋写了一封长信。 直到一个傍晚，电话那头传来一句：“我是台积电的张忠谋。” 多年后，黄仁勋仍然记得当时的兴奋：“也许我们不用倒闭了。” 在与 Lex ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783705",
+          "published": "Thu, 15 Oct 2026 10:15:38 GMT"
+        },
+        {
+          "title": "是时候抄底美债了吗？",
+          "summary": "AI泡沫破裂的隐忧正在重塑美债的避险逻辑。尽管美国CPI数据持续超预期，美债收益率却在本周随科技股暴跌而逆势下行，债券与股票的传统相关性出现罕见断裂。这一反常信号，正促使华尔街重新审视美债的配置价值。 10年期美债收益率周四下行逾10个基点至5.081%，触及三周低点，此前一日在通胀数据超预期出炉后同样未见上行，反而收平。与此同时，CoreWeave债务危机引发的AI产业链信用裂缝持续扩散——该公",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783703",
+          "published": "Thu, 15 Oct 2026 10:11:49 GMT"
+        },
+        {
+          "title": "DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还",
+          "summary": "DeepSeek 官方开放平台发布服务恢复及补偿通知：“北京时间 2026 年 10 月 15 日 8:11 至 13:04 期间，我们的服务系统出现故障，导致该时段内 API 服务无法正常使用。对于此次故障给您带来的不便与困扰，我们深表歉意。我们已第一时间启动针对服务稳定性的全面排查和彻底整改，全面梳理并剥离单点依赖，坚决杜绝同类问题再次发生。 作为补偿，我们将按您账号 7 日内（10.8-10",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179380",
+          "published": "Thu, 15 Oct 2026 09:54:41 GMT"
+        },
+        {
+          "title": "美银警告AI泡沫破裂信号：美股与美债收益率同步下跌",
+          "summary": "美国银行衍生品团队发出警告，当AI泡沫最终破裂时，市场将呈现与过去数月截然不同的走势—— 不是\"股跌债跌\"（即股票下跌、美债收益率上升），而是股票与收益率同步下行。 10月8日，英国《金融时报》披露 OpenAI年化收入远低于市场流传数字 ，当日纳斯达克指数重挫逾1%，费城半导体指数跌3.4%，而美债收益率也随即走低——债券市场表现出罕见的避险属性。美国银行衍生品团队在最新一期《全球股票波动率洞察",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783700",
+          "published": "Thu, 15 Oct 2026 08:53:27 GMT"
+        },
+        {
+          "title": "全球科技股持续下跌 市场调整逻辑是什么？",
+          "summary": "多指数、个股连日下跌，半导体材料、光通信、先进封装成为跌幅最深的板块 【财新网】 美国通胀预期、AI基础设施融资风险担忧等多重因素叠加，全球科技股持续调整。10月15日，A股三大指数集体下跌。截至收盘，上证指数跌1.59%；深证成指跌2.43%；创业板指跌2.92%，全市场超过5100只个股下跌；恒生科技指数跌2.72%，明显跑输恒指。 亚太方面，韩国综合股价指数（KOSPI）下跌7.57%，连续",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493760.html",
+          "published": "Thu, 15 Oct 2026 11:46:25 GMT"
+        },
+        {
+          "title": "字节跳动海外短剧APP下载量破亿 两家出海短剧平台合并｜出海·消费",
+          "summary": "Sensor Tower分析，PineDrama能在短时间内实现快速增长，除了TikTok的流量，还在于延续了TikTok的产品逻辑 【财新网】 字节跳动又造出了一款下载量破亿的APP。10月14日，海外移动数据调研机构Sensor Tower官方向财新确认，根据其测算，字节跳动在海外推出的的短剧应用PineDrama下载量超过1亿，日活跃用户约700万，这距离PineDrama上线不到一年。 在",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493746.html",
+          "published": "Thu, 15 Oct 2026 10:42:53 GMT"
+        },
+        {
+          "title": "国产芯片公司算苗科技一年融资近20亿元 预计第一代产品2027年量产",
+          "summary": "国产芯片企业瞄准推理市场的增量空间，在一级市场备受瞩目，但落地量产是关键 【财新网】 10月14日，芯片企业算苗科技宣布，近日完成Pre-A2轮、A轮融资，一年内融资总额近20亿元。算苗科技创始人兼CEO汪福全当天宣布，融资完成后，公司估值达到120亿元。 本次完成的Pre-A2轮、A轮融资，由亦庄国投等北京市区两级国资平台领投，将推动算苗科技与北京亦庄经开区内的产业链各方联动。 人工智能（AI）",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493728.html",
+          "published": "Thu, 15 Oct 2026 09:39:03 GMT"
+        },
+        {
+          "title": "DeepSeek服务异常近5小时 9月以来故障频出",
+          "summary": "9月以来，DeepSeek出现了13个故障，大部分故障是网页及API性能下降所致，有4次涉及网页及API部分中断 【财新网】 10月15日上午，DeepSeek出现网页、APP及API服务中断问题，故障时间接近5小时。 根据DeepSeek官网的服务状态页，自10月15日8点11分起，DeepSeek-V4-Pro API服务、DeepSeek-V4.1-Flash API服务和对话服务陆续出现部",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493714.html",
+          "published": "Thu, 15 Oct 2026 08:54:35 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "纳斯达克警告：网络中断正在影响股市",
+          "summary": "纳斯达克公司周四向客户发出警告称，由于遭遇网络中断，客户可能会在股票市场数据方面出现缺失。 根据其官网发布的系统状态消息，该公司旗下所有美国股票市场——包括纳斯达克、纳斯达克得克萨斯和纳斯达克PSX——均受到各数据源影响。 纳斯达克在更新中表示：“建议客户使用芝加哥数据源作为备用，因为芝加哥目前未受影响。遇到数据缺失的客户还应提交缺失数据的恢复请求。” 该更新称，此次问题源于新泽西州卡特雷特的一处",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179589",
+          "published": "Thu, 15 Oct 2026 15:30:08 GMT"
+        },
+        {
+          "title": "黄仁勋称，CoreWeave的实力每天都在增强，资本成本“实际上在降低”。 周四，CoreWeave信用风险指标创纪录，隐含违约概率达60%",
+          "summary": "黄仁勋称，CoreWeave的实力每天都在增强，资本成本“实际上在降低”。\n周四，CoreWeave信用风险指标创纪录，隐含违约概率达60% 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783724",
+          "published": "Thu, 15 Oct 2026 15:10:40 GMT"
+        },
+        {
+          "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
+          "summary": "针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。 文章来源： 工信微报 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783723",
+          "published": "Thu, 15 Oct 2026 13:40:39 GMT"
+        },
+        {
+          "title": "储能产能红利收窄，百GWh厂商争抢长时市场",
+          "summary": "作者 | 周智宇 百GWh厂商的下一轮扩张，已经与长时产品换代、系统订单争夺绑在了一起。 10月15日，世界储能大会上，工业和信息化部副部长熊继军提出，进一步完善产能预警机制，加快从规模扩张向质量效益为导向转变，并强调提升效率、循环寿命和长期运行可靠性，切实保障储能项目收益。 同日，海辰储能宣布累计出货突破200GWh。公司联合创始人、总裁王鹏程向华尔街见闻等媒体透露，长时储能订单已经接至2027",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783722",
+          "published": "Thu, 15 Oct 2026 13:35:01 GMT"
+        },
+        {
+          "title": "国内一半AI算力被指在造爽剧，用于研发仅15%",
+          "summary": "近日，“国内超一半算力在造爽剧”的话题，引发广泛关注。 据中文在线在一份“投资者关系活动记录表”中披露， 国内AI Token消耗55%烧在短剧和视频生成，24%烧在电商广告，真正用于研发的只有15%。AI短剧与视频生成的Token消耗量已达到软件开发的两倍以上，成为整个Token经济学中第一大核心消耗场景。 目前，我国短剧发展呈现蓬勃之势。今年4月，由国家广播电视总局发展研究中心等共同完成并发布",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783720",
+          "published": "Thu, 15 Oct 2026 13:28:18 GMT"
+        },
+        {
+          "title": "“大多头”Yardeni下调标普年底目标：盈利不是问题，估值才是",
+          "summary": "知名市场研究机构Yardeni Research下调标普500年底目标价至7900点，理由是估值压缩风险上升，而非盈利前景恶化。 9月中旬以来持续发酵的避险情绪正在进一步压低股票估值倍数。 Yardeni Research将标普500年底目标从此前的8400点（该目标此前已被推迟至2027年中）下调至7900点，同时将年底远期市盈率目标从19.8倍下调至18.6倍。 与此同时，市场面临多重压力叠加",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783719",
+          "published": "Thu, 15 Oct 2026 13:13:12 GMT"
+        },
+        {
+          "title": "盛松成：美联储利率路径仍有不确定性",
+          "summary": "自2026年9月16日美联储全票通过加息25个基点至3.75%-4.00%以来，市场对美联储未来加息预期变动较大。受能源价格影响，市场对10月加息概率的定价一度接近65%左右（9月下旬），而随着最新公布的9月新增非农就业数据回落，加息预期又出现明显降温。10月14日美国9月物价数据公布后，CME“美联储观察”工具数据显示，美联储10月加息25个基点的概率从此前的20%左右提高至50%左右。 我们认",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783718",
+          "published": "Thu, 15 Oct 2026 12:48:39 GMT"
+        },
+        {
+          "title": "深南电路：预计前三季度归母净利润40.5亿元至41.5亿元，同比增长74.13%至78.43%",
+          "summary": "深南电路公告，预计2026年前三季度归母净利润40.5亿元至41.5亿元，同比增长74.13%至78.43%，上年同期为23.26亿元；扣非净利润40.18亿元至41.18亿元，同比增长84.15%至88.73%，上年同期为21.82亿元；基本每股收益6.02元/股至6.17元/股。 归母净利润同比增长主要因AI算力基础设施投资、产品迭代升级带来市场机遇，AI服务器、高速交换机、光模块、处理器及存",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179508",
+          "published": "Thu, 15 Oct 2026 12:45:55 GMT"
+        },
+        {
+          "title": "美国9月PPI同比 6.3%，预期 5.4%，前值 5.4%",
+          "summary": "美国9月PPI同比 6.3%，预期 5.4%，前值 5.4%。美国9月核心PPI同比 5.0%，预期 4.4%，前值 4.6%。 更新中。。。。。。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783717",
+          "published": "Thu, 15 Oct 2026 12:30:56 GMT"
+        },
+        {
+          "title": "美国9月零售销售环比 0.8%，预期 0.3%，前值 1.2%",
+          "summary": "美国9月零售销售环比 0.8%，预期 0.3%，前值 1.2%。 更多消息，持续更新中…… 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783716",
+          "published": "Thu, 15 Oct 2026 12:30:18 GMT"
+        },
+        {
+          "title": "银河证券张堃：AI正在拨快市场时钟，波动率将成长期投资资产",
+          "summary": "AI会对市场和证券行业形成怎样的影响，投资者和从业者又该如何应对这不可逆的变化？ 这个时代之问，一直萦绕在人们的心头，而答案或许一定程度上可以在银河证券第二届大宗商品论坛中找到。 在本次论坛上，银河证券创新投资总部负责人张堃提出， AI技术正在系统性加速市场信息传导与交易决策的节奏，高波动可能成为未来市场的长期常态 。他认为，投资者应当转变思维，将波动率视为可投资资产而非单纯风险，并学会在波动中更",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783715",
+          "published": "Thu, 15 Oct 2026 12:22:52 GMT"
+        },
+        {
+          "title": "江波龙Q3净利润预增740.33%至964.26%，公司示警：存储涨价红利正在退潮 | 财报见闻",
+          "summary": "存储芯片模组厂商江波龙交出一份亮眼的业绩预告，但公司同步示警：推动本轮盈利狂飙的存储价格红利正在边际递减，行业驱动逻辑已悄然切换。 江波龙周三发布公告， 预计2026年前三季度归母净利润达140亿至149亿元，同比增长1864.55%至1990.84%；营业收入380亿至400亿元，较上年同期167.34亿元近乎翻倍有余。 第三季度单季，扣非净利润区间为37.53亿至47.53亿元，同比增幅高达7",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783714",
+          "published": "Thu, 15 Oct 2026 12:20:24 GMT"
+        },
+        {
+          "title": "美9月核心CPI超预期通胀磨顶，中国9月出口超预期结构均衡，中国9月票据融资与政府债放量---1015宏观脱水",
+          "summary": "油价推动美国9月CPI同比上行，核心CPI环比与同比均高于预期。数据公布后美联储10月加息概率小幅上升，风险资产承压。核心商品与核心服务均升温，二手车与房租为主要推动力，但可持续性或不强。年内美国通胀可能进入磨顶期，12月加息仍是基准假设。 中国9月美元计价出口同比增速36.3%，进口同比增速31.0%，贸易顺差提升至1335亿美元。出口呈现高技术与非高技术产品同步增长、对美与非美地区同时加速、价",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783713",
+          "published": "Thu, 15 Oct 2026 12:06:30 GMT"
+        },
+        {
+          "title": "报道：纽约市主计长敦促Anthropic暂停推进IPO",
+          "summary": "纽约市主计长Mark Levine接受采访时表示，他已致信Anthropic首席执行官Dario Amodei，呼吁该公司暂停其计划中的首次公开募股(IPO)。信中敦促Anthropic在全面、透明地回应公司自身提出的AI安全、治理和开发相关担忧之前，暂停IPO计划。Levine写道，公司应把重点放在解决这些风险上，而不是推进IPO。纽约市目前通过私募市场持有Anthropic不到1000万美元的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179477",
+          "published": "Thu, 15 Oct 2026 11:48:55 GMT"
+        },
+        {
+          "title": "美联储透明度之争：沉默真的是金吗？",
+          "summary": "美联储主席沃什力推\"更安静\"的央行风格，却在内部遭遇日益公开的阻力。与此同时，利率前景的高度不确定性正在考验这一沉默策略的代价。 自美联储9月加息以来，沃什的同僚们已公开亮相逾40次，通过电视、播客、采访、社交媒体及各类论坛表达政策立场，有效压低了市场对进一步加息的预期。周三公布的通胀数据显示，9月消费者价格同比上涨3.7%，再度搅动市场对美联储决策路径的预判，10月加息目前被视为概率各半。这一罕",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783711",
+          "published": "Thu, 15 Oct 2026 11:45:54 GMT"
+        },
+        {
+          "title": "亚洲科技股崩盘正演变成全面恐慌",
+          "summary": "亚洲科技股抛售浪潮正在失控。韩国股市暴跌、波动率急剧飙升、超卖程度创下数年来极值，而卖盘却毫无止息迹象—— 这场始于韩国的科技股熔断，正迅速演变为一场席卷整个亚洲半导体板块的全面恐慌。 韩国综合股价指数（KOSPI）在最新一个交易日单日重挫7.6%，长期趋势线告破，指数跌至200日均线大幅下方。与此同时， 此前看似对这场动荡免疫的中国台湾股市也开始出现松动迹象，令市场对AI相关交易的更大范围瓦解的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783710",
+          "published": "Thu, 15 Oct 2026 11:41:58 GMT"
+        },
+        {
+          "title": "宏观、产业、科技“三重奏”，正重新定义大宗商品定价范式",
+          "summary": "秋天是收获的季节，不止农业，也包括人们的投资思想。 日前，在 中国银河证券举办的第二届大宗商品论坛 上，包括券商专业人士、宏观经济学家、能源分析师、化工原料专家、科技行业观察者、煤炭市场研究员与衍生品交易专家在内的各路机构共聚一堂，参会机构普遍赞同： 大宗商品市场正在进入一个宏观、产业、科技多因素交织共振的全新阶段。 其中，银河证券首席经济学家、研究院院长章俊指出当下的全球宏观、地缘、科技创新都深",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783702",
+          "published": "Thu, 15 Oct 2026 11:40:49 GMT"
+        },
+        {
+          "title": "百亿级私募基金经理前三季度平均收益率7.07%",
+          "summary": "私募排排网最新数据显示，今年以来，截至9月底，有业绩显示产品在3只及以上的百亿级私募基金经理共有107位，其管理的897只产品今年1-9月收益率均值为7.07%；取得正收益的百亿级私募基金经理共有84位，占比达78.50%。 分策略来看，今年来有业绩显示产品在3只及以上（下同）的百亿级量化私募基金经理共有66位，其中有55位取得正收益，正收益占比为83.33%；同期，百亿级主观基金经理共有29位，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179460",
+          "published": "Thu, 15 Oct 2026 11:13:54 GMT"
+        },
+        {
+          "title": "当AI动能开始退潮，巴菲特式\"无聊投资\"悄然回潮",
+          "summary": "市场风向正在悄然转变。 在AI与动能交易主导市场数年之后，以高质量盈利为核心的\"质量因子\"投资策略强势回归，巴菲特长期坚守的投资逻辑正重新获得华尔街的认可。 质量因子近期表现抢眼。高盛交易台数据显示， 其行业与因子中性质量配对指数（GSP1QUAL）过去三个月累计上涨20%，创12个月新高，同期已实现波动率仅约13%。代表\"质量之王\"的相关标的过去五个交易日上涨5%，且五年走势图表明这一趋势并非新",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783708",
+          "published": "Thu, 15 Oct 2026 11:11:26 GMT"
+        },
+        {
+          "title": "潘功胜：全球失衡不能依靠汇率调节，中国人民银行将继续实施好适度宽松的货币政策",
+          "summary": "2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财长和央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民银行行长潘功胜出席会议并发言，中国人民银行副行长宣昌能参加会议。 潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、人工智能相关资产估值回调风险加剧了金融脆弱性。促进金融监管现代化不等于放松监管，不应损害金融体系稳定",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179449",
+          "published": "Thu, 15 Oct 2026 11:03:22 GMT"
+        },
+        {
+          "title": "赣锋锂业：前三季度归母净利润50.12亿元，同比增19540.50%",
+          "summary": "赣锋锂业公告，2026年前三季度营业收入361.59亿元，同比增长147.24%；归母净利润50.12亿元，同比增长19540.50%，上年同期为2552万元；扣非净利润46.36亿元，上年同期亏损9.36亿元；经营活动现金流净额22.95亿元，同比增长634.77%。第三季度归母净利润7.55亿元，同比增长35.62%。业绩变动主要因锂系列产品售价回升及锂电池系列产品销量增加。 风险提示及免责条",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783709",
+          "published": "Thu, 15 Oct 2026 10:44:50 GMT"
+        },
+        {
+          "title": "通胀鹰派但长端美债反涨：AI抛售潮的喘息还是负反馈？",
+          "summary": "在美国9月份CPI数据公布前，美债长端利率已现阶段性回落。10年期美债收益率自5.36%的多年高点回落至5.20%附近，30年期收益率亦自高位下行。 彼时市场逻辑相对清晰：其一，一级市场需求改善，10年期与30年期拍卖需求强劲，一级交易商认购比例下降，终端投资者承接意愿显著增强；其二，估值与仓位提供支撑，债券基金久期仓位处于历史极端低配，收益率已高于基本面公允价值，5y5y远期利率较模型公允价值高",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783706",
+          "published": "Thu, 15 Oct 2026 10:39:03 GMT"
+        },
+        {
+          "title": "新易盛：控股股东、实际控制人、董事长高光荣提议以人民币8亿元至人民币10亿元回购股份",
+          "summary": "新易盛：控股股东、实际控制人、董事长高光荣提议公司以集中竞价交易方式回购股份，回购资金总额不低于8亿元（含）且不超过10亿元（含），价格不高于董事会审议通过回购方案决议前30个交易日公司股票交易均价的150%，用于股权激励计划或员工持股计划，回购期限为自董事会审议通过回购方案之日起十二个月内。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179403",
+          "published": "Thu, 15 Oct 2026 10:20:30 GMT"
+        },
+        {
+          "title": "是时候抄底美债了吗？",
+          "summary": "AI泡沫破裂的隐忧正在重塑美债的避险逻辑。尽管美国CPI数据持续超预期，美债收益率却在本周随科技股暴跌而逆势下行，债券与股票的传统相关性出现罕见断裂。这一反常信号，正促使华尔街重新审视美债的配置价值。 10年期美债收益率周四下行逾10个基点至5.081%，触及三周低点，此前一日在通胀数据超预期出炉后同样未见上行，反而收平。与此同时，CoreWeave债务危机引发的AI产业链信用裂缝持续扩散——该公",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783703",
+          "published": "Thu, 15 Oct 2026 10:11:49 GMT"
+        },
+        {
+          "title": "中金黄金：预计前三季度归母净利润55.2亿元-58亿元，同比增长50.05%-57.66%",
+          "summary": "中金黄金公告，预计2026年前三季度归母净利润55.2亿元到58亿元，同比增长50.05%-57.66%；扣非净利润55亿元到58亿元，同比增长30.53%-37.65%。业绩增长主要因金铜等主要金属价格同比上涨显著、硫酸等副产品增收及矿产金等核心业务毛利率同比大幅提升。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3179344",
+          "published": "Thu, 15 Oct 2026 09:04:37 GMT"
+        },
+        {
+          "title": "美银警告AI泡沫破裂信号：美股与美债收益率同步下跌",
+          "summary": "美国银行衍生品团队发出警告，当AI泡沫最终破裂时，市场将呈现与过去数月截然不同的走势—— 不是\"股跌债跌\"（即股票下跌、美债收益率上升），而是股票与收益率同步下行。 10月8日，英国《金融时报》披露 OpenAI年化收入远低于市场流传数字 ，当日纳斯达克指数重挫逾1%，费城半导体指数跌3.4%，而美债收益率也随即走低——债券市场表现出罕见的避险属性。美国银行衍生品团队在最新一期《全球股票波动率洞察",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783700",
+          "published": "Thu, 15 Oct 2026 08:53:27 GMT"
+        },
+        {
+          "title": "A股跌破3700点 科技股腰斩、翻倍基金收益全部转负",
+          "summary": "“市值王”长鑫科技“退位”，股价跌破开盘价，二级市场赚钱效应灰飞烟灭 【财新网】 10月14日的缩量普跌之后，10月15日盘面进一步恶化。上证指数最低跌至3674.82点，尾盘勉强守住3700点，收报3707.48点，跌1.59%；深成指跌2.43%，创业板指跌2.92%。全市场5565只个股中共5108只个股下跌，占比达92%。自2024年9月24日开盘至今，全市场共有1116只累计涨跌幅为负，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-15/102493779.html",
+          "published": "Thu, 15 Oct 2026 13:03:39 GMT"
+        },
+        {
+          "title": "全球科技股持续下跌 市场调整逻辑是什么？",
+          "summary": "多指数、个股连日下跌，半导体材料、光通信、先进封装成为跌幅最深的板块 【财新网】 美国通胀预期、AI基础设施融资风险担忧等多重因素叠加，全球科技股持续调整。10月15日，A股三大指数集体下跌。截至收盘，上证指数跌1.59%；深证成指跌2.43%；创业板指跌2.92%，全市场超过5100只个股下跌；恒生科技指数跌2.72%，明显跑输恒指。 亚太方面，韩国综合股价指数（KOSPI）下跌7.57%，连续",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493760.html",
+          "published": "Thu, 15 Oct 2026 11:46:25 GMT"
+        },
+        {
+          "title": "国产芯片公司算苗科技一年融资近20亿元 预计第一代产品2027年量产",
+          "summary": "国产芯片企业瞄准推理市场的增量空间，在一级市场备受瞩目，但落地量产是关键 【财新网】 10月14日，芯片企业算苗科技宣布，近日完成Pre-A2轮、A轮融资，一年内融资总额近20亿元。算苗科技创始人兼CEO汪福全当天宣布，融资完成后，公司估值达到120亿元。 本次完成的Pre-A2轮、A轮融资，由亦庄国投等北京市区两级国资平台领投，将推动算苗科技与北京亦庄经开区内的产业链各方联动。 人工智能（AI）",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493728.html",
+          "published": "Thu, 15 Oct 2026 09:39:03 GMT"
+        },
+        {
+          "title": "四部门通报“纸尿裤检出甲酰胺”调查结果 称机构检测不严谨",
+          "summary": "经监管部门调查组现场监督检查，受检企业均符合消毒产品生产企业卫生规范要求，未发现生产工艺及原材料中存在添加或含有甲酰胺的情况 2026年6月30日，广东佛山，超市货架上售卖的Babycare纸尿裤。图：视觉中国 【财新网】 10月15日，市场监管总局等四部门调查组发布关于婴幼儿纸尿裤甲酰胺问题调查核实情况的通报，监管部门对国内全部168家婴幼儿纸尿裤生产企业进行全面抽检，共抽检180个品牌368批",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493720.html",
+          "published": "Thu, 15 Oct 2026 09:09:35 GMT"
+        },
+        {
+          "title": "美国扩大电子产品进口限制 封堵华为、中兴等公司出产的零部件",
+          "summary": "美国禁止一些中国企业的电子设备成品在美销售，现在把限制扩大到了组装设备的零部件 【财新网】 美国继续收紧对中国电子产品进入美国市场的限制。当地时间10月13日，美国联邦政府的独立机构美国联邦通信委员会（FCC）的一条新规生效，该规定要求，如果一台设备所含的逻辑处理硬件由华为、中兴等“FCC管制清单”（FCC Covered List）上的实体生产，那么这台设备将难以获得FCC的认证而出口到美国。 ",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-15/102493706.html",
+          "published": "Thu, 15 Oct 2026 08:45:15 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "机器人缺数据，禾赛盯上训练场",
+          "summary": "机器人要走进更多工厂和门店，先要有足够丰富的训练场景。禾赛正尝试把准备这些场景的工作做成一门新生意。 10月14日，禾赛发布Kosmo空间相机及云平台，通过扫描真实环境、重建三维空间，为机器人提供可用于仿真训练的场景，并与银河通用、原力灵机签署战略合作。对一家主要靠交付传感器获得收入的公司而言，这意味着业务延伸到机器人开发中的数据与云服务。 这一变化对应着具身智能产业的现实需求。智能汽车已经可以依",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783721",
+          "published": "Thu, 15 Oct 2026 13:26:07 GMT"
+        },
+        {
+          "title": "宏观、产业、科技“三重奏”，正重新定义大宗商品定价范式",
+          "summary": "秋天是收获的季节，不止农业，也包括人们的投资思想。 日前，在 中国银河证券举办的第二届大宗商品论坛 上，包括券商专业人士、宏观经济学家、能源分析师、化工原料专家、科技行业观察者、煤炭市场研究员与衍生品交易专家在内的各路机构共聚一堂，参会机构普遍赞同： 大宗商品市场正在进入一个宏观、产业、科技多因素交织共振的全新阶段。 其中，银河证券首席经济学家、研究院院长章俊指出当下的全球宏观、地缘、科技创新都深",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783702",
+          "published": "Thu, 15 Oct 2026 11:40:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“大多头”Yardeni下调标普年底目标：盈利不是问题，估值才是",
+          "summary": "知名市场研究机构Yardeni Research下调标普500年底目标价至7900点，理由是估值压缩风险上升，而非盈利前景恶化。 9月中旬以来持续发酵的避险情绪正在进一步压低股票估值倍数。 Yardeni Research将标普500年底目标从此前的8400点（该目标此前已被推迟至2027年中）下调至7900点，同时将年底远期市盈率目标从19.8倍下调至18.6倍。 与此同时，市场面临多重压力叠加",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783719",
+          "published": "Thu, 15 Oct 2026 13:13:12 GMT"
+        },
+        {
+          "title": "俄炼油厂遭密集攻击，泽连斯基：感觉遭到美国背叛",
+          "summary": "据《央视新闻》，乌克兰海军15日通报称，乌军于10月15日凌晨使用“海王星”岸基导弹系统，打击了俄罗斯沃罗涅日州鲍里索格列布斯克军用机场。乌方称，打击摧毁了6架苏-34M战斗轰炸机及机场部分飞行保障设备。现场出现二次爆炸和火灾，相关情况仍在核实中。 截至目前，俄方对此暂无回应。 另据《CCTV国际时讯》，俄罗斯国防部今天（10月15日）通报称，当地时间今天4时至7时，乌克兰武装力量使用导弹和无人机",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783707",
+          "published": "Thu, 15 Oct 2026 10:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "美联储透明度之争：沉默真的是金吗？",
+          "summary": "美联储主席沃什力推\"更安静\"的央行风格，却在内部遭遇日益公开的阻力。与此同时，利率前景的高度不确定性正在考验这一沉默策略的代价。 自美联储9月加息以来，沃什的同僚们已公开亮相逾40次，通过电视、播客、采访、社交媒体及各类论坛表达政策立场，有效压低了市场对进一步加息的预期。周三公布的通胀数据显示，9月消费者价格同比上涨3.7%，再度搅动市场对美联储决策路径的预判，10月加息目前被视为概率各半。这一罕",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783711",
+          "published": "Thu, 15 Oct 2026 11:45:54 GMT"
+        },
+        {
+          "title": "通胀鹰派但长端美债反涨：AI抛售潮的喘息还是负反馈？",
+          "summary": "在美国9月份CPI数据公布前，美债长端利率已现阶段性回落。10年期美债收益率自5.36%的多年高点回落至5.20%附近，30年期收益率亦自高位下行。 彼时市场逻辑相对清晰：其一，一级市场需求改善，10年期与30年期拍卖需求强劲，一级交易商认购比例下降，终端投资者承接意愿显著增强；其二，估值与仓位提供支撑，债券基金久期仓位处于历史极端低配，收益率已高于基本面公允价值，5y5y远期利率较模型公允价值高",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783706",
+          "published": "Thu, 15 Oct 2026 10:39:03 GMT"
+        },
+        {
+          "title": "是时候抄底美债了吗？",
+          "summary": "AI泡沫破裂的隐忧正在重塑美债的避险逻辑。尽管美国CPI数据持续超预期，美债收益率却在本周随科技股暴跌而逆势下行，债券与股票的传统相关性出现罕见断裂。这一反常信号，正促使华尔街重新审视美债的配置价值。 10年期美债收益率周四下行逾10个基点至5.081%，触及三周低点，此前一日在通胀数据超预期出炉后同样未见上行，反而收平。与此同时，CoreWeave债务危机引发的AI产业链信用裂缝持续扩散——该公",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783703",
+          "published": "Thu, 15 Oct 2026 10:11:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "俄炼油厂遭密集攻击，泽连斯基：感觉遭到美国背叛",
+          "summary": "据《央视新闻》，乌克兰海军15日通报称，乌军于10月15日凌晨使用“海王星”岸基导弹系统，打击了俄罗斯沃罗涅日州鲍里索格列布斯克军用机场。乌方称，打击摧毁了6架苏-34M战斗轰炸机及机场部分飞行保障设备。现场出现二次爆炸和火灾，相关情况仍在核实中。 截至目前，俄方对此暂无回应。 另据《CCTV国际时讯》，俄罗斯国防部今天（10月15日）通报称，当地时间今天4时至7时，乌克兰武装力量使用导弹和无人机",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783707",
+          "published": "Thu, 15 Oct 2026 10:33:09 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 90,
+    "total_collected": 63,
+    "sources": 6,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
