@@ -1,0 +1,849 @@
+{
+  "id": "2026-10-19-18",
+  "datetime": "2026-10-19 18:28:07",
+  "date": "2026-10-19",
+  "time": "18:28",
+  "period": "晚间",
+  "summary": "本期采集 73 篇文章，来自 5 个信息源，覆盖 7 个领域，精选 98 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
+          "summary": "Article URL: https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/ Comments URL: https://news.ycombinator.com/item?id=50155291 Points: 68 # Comments: 32",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
+          "published": "Mon, 19 Oct 2026 17:30:26 +0000"
+        },
+        {
+          "title": "Mercury 3: Diffusion at scale",
+          "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 82 # Comments: 31",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "published": "Mon, 19 Oct 2026 17:27:11 +0000"
+        },
+        {
+          "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
+          "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html Comments URL: https://news.ycombinator.com/item?id=50155237 Points: ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+          "published": "Mon, 19 Oct 2026 17:26:38 +0000"
+        },
+        {
+          "title": "Evidence (YC S21) Is Hiring Software Engineers",
+          "summary": "Article URL: https://evidence.dev/jobs Comments URL: https://news.ycombinator.com/item?id=50155172 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://evidence.dev/jobs",
+          "published": "Mon, 19 Oct 2026 17:21:33 +0000"
+        },
+        {
+          "title": "Android apps running native on macOS",
+          "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 26 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/kksimp/Mac.apk",
+          "published": "Mon, 19 Oct 2026 16:45:30 +0000"
+        },
+        {
+          "title": "MiniMax M3.1 Flash",
+          "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 46 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.minimax.io/blog/minimax-m31f",
+          "published": "Mon, 19 Oct 2026 16:39:09 +0000"
+        },
+        {
+          "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+          "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp Comments URL: https://news.ycombinator.com/item?id=50153934 Points: 126 # Comments: 92",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+          "published": "Mon, 19 Oct 2026 15:52:26 +0000"
+        },
+        {
+          "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+          "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 204 # Comments: 41",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+          "published": "Mon, 19 Oct 2026 15:28:24 +0000"
+        },
+        {
+          "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+          "summary": "Article URL: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf Comments URL: https://news.ycombinator.com/item?id=50153431 ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+          "published": "Mon, 19 Oct 2026 15:10:20 +0000"
+        },
+        {
+          "title": "Maybe There Was an Egg Cartel After All",
+          "summary": "Article URL: https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411 Comments URL: https://news.ycombinator.com/item?id=50152970 Points: 151 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+          "published": "Mon, 19 Oct 2026 14:31:11 +0000"
+        },
+        {
+          "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+          "summary": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 56 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+          "published": "Mon, 19 Oct 2026 13:36:43 +0000"
+        },
+        {
+          "title": "Wine ported to OpenBSD",
+          "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 327 # Comments: 87",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "published": "Mon, 19 Oct 2026 13:35:34 +0000"
+        },
+        {
+          "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 131 # Comments: 95",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://100toolkit.com/blog/deslop-model/",
+          "published": "Mon, 19 Oct 2026 13:00:47 +0000"
+        },
+        {
+          "title": "The obscure trust looming over Anthropic's IPO",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.ycombinator.com/item?id=50151376 Points: 13 # Comme",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+          "published": "Mon, 19 Oct 2026 12:06:03 +0000"
+        },
+        {
+          "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+          "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 60 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+          "published": "Mon, 19 Oct 2026 11:12:02 +0000"
+        },
+        {
+          "title": "Alternatives to animal testing are finally taking off",
+          "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 214 # Comments: 52",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+          "published": "Mon, 19 Oct 2026 11:10:54 +0000"
+        },
+        {
+          "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+          "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Poin",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+          "published": "Mon, 19 Oct 2026 10:53:39 +0000"
+        },
+        {
+          "title": "美佛州称对古巴革命领袖劳尔·卡斯特罗发逮捕令",
+          "summary": "△古巴革命领袖劳尔·卡斯特罗（资料图） 美国佛罗里达州总检察长詹姆斯·尤思迈耶19日以所谓“参与一级谋杀”的理由对古巴革命领袖劳尔·卡斯特罗发出逮捕令。 今年5月20日，佛州南区联邦地区法院一个大陪审团同意起诉劳尔·卡斯特罗。这一诉讼被认为是美国对古巴施压措施的一部分。 5月21日，古巴国家主席迪亚斯-卡内尔在社交媒体发文，谴责美国政府起诉劳尔·卡斯特罗，强调古巴人民不会容忍对其历史和民族英雄的侮",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIeTz8kJc9BPXaxQsKYUEM261020.shtml",
+          "published": "Mon, 19 Oct 2026 16:12:24 GMT"
+        },
+        {
+          "title": "外交部提醒赴法国中国公民加强安全防范",
+          "summary": "近日，法国巴黎、马赛、里昂等数十个大中城市爆发大规模游行示威，发生暴力事件和警民冲突。 外交部和中国驻法国使领馆再次提醒赴法中国公民提高风险意识，密切关注当地形势，加强安全防范，避免前往游行示威区域，遇突发紧急情况及时报警并联系中国驻法使领馆寻求协助。 联系方式 法国报警电话：17或112 驻法国使馆领事保护与协助电话： +33-153758840 +33-640953607 驻马赛总领馆领事保护",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIwmNuYaYP0LhNWL5GAAWj261019.shtml",
+          "published": "Mon, 19 Oct 2026 14:22:39 GMT"
+        },
+        {
+          "title": "李在明：韩国必须尽快从美方收回战时作战指挥权",
+          "summary": "△韩国总统李在明（资料图） 韩国总统李在明19日表示，韩国必须尽快从美方手中收回战时作战指挥权，且完全有能力做到。韩美之间的协商基本上也朝着收回指挥权的方向推进，只是这一过程不会那么容易。 据韩国总统府青瓦台消息，李在明当天在记者座谈会上说，韩国是一个自主的独立国家，理所应当且完全有能力独立承担国防责任。从全球范围看，如果不算核实力，只看常规军事力量，韩国军事实力排名世界第五。虽然国防开支也涉及韩",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIprN70KS146rdUgEfX4VD261019.shtml",
+          "published": "Mon, 19 Oct 2026 14:20:00 GMT"
+        },
+        {
+          "title": "总书记的人民情怀丨“广大人民群众是长征胜利的力量源泉”",
+          "summary": "原标题：“广大人民群众是长征胜利的力量源泉”（总书记的人民情怀） [!--begin:htmlVideoCode--]8f40db165ad841b68dc95bef25396002,0,1,16:9,news[!--end:htmlVideoCode--] “有高远目标，更有耐心有定力。就像红军长征一样，我们现在进行新的长征”。10月16日，习近平总书记在内蒙古乌兰察布考察时强调。 中国人民革命",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIJxFQ9eIjRsTEzXYHpfPD261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:11:39 GMT"
+        },
+        {
+          "title": "伊朗革命卫队：若美国发动战争 伊方将更严厉回应",
+          "summary": "△伊朗伊斯兰革命卫队发言人侯赛因·穆赫比（资料图） 当地时间19日，伊朗伊斯兰革命卫队发言人穆赫比表示，目前不能排除战争的可能性，如果爆发战争，伊朗的回应将更加严厉，美国将面临巨大的麻烦，世界也将面临严重的能源危机。他强调，如果伊朗不安全，那么地区将不再安全。（总台记者 李健南）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTI6hS4kgaYuD0WOMnDm1Vs261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:01:36 GMT"
+        },
+        {
+          "title": "美方称结束俄乌冲突是美国优先要务",
+          "summary": "△美国国务卿鲁比奥（资料图） 正在乌兹别克斯坦进行访问的美国国务卿鲁比奥19日接受采访时表示，结束俄乌冲突是美国总统的优先要务，美方将持续寻找推动结束冲突的契机。 鲁比奥称，近两年来，美方一直在努力推动结束这场冲突。他说，美国总统特朗普对任何有助于结束冲突的可能性持开放态度，但目前尚未取得期望中的进展。他称，美方之所以近期暂缓对俄实施制裁措施，是想看看目前与俄乌进行的谈判是否能取得积极成果。 鲁比",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTI74fVulPxoJlnjaQ2fF5q261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:55:41 GMT"
+        },
+        {
+          "title": "【赓续长征精神 奋进复兴征程】初心如磐 精神永续 书写新长征路上的崭新答卷",
+          "summary": "[!--begin:htmlVideoCode--]75f8330f0da440009f7af53521567daf,0,1,16:9,news[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年是中国工农红军长征胜利90周年。90多年前，党领导红军在漫漫征途中创造了可歌可泣的战争史诗，谱写出豪情万丈的精神史诗。习近平总书记深刻指出，长征这一人类历史上的伟大壮举留给我们",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIQHGhK1kxVcenVpUijDP3261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:08:52 GMT"
+        },
+        {
+          "title": "泽连斯基警告美若站在普京一边将是巨大悲剧 美方辩解涉俄柴油协议",
+          "summary": "美国能源部长克里斯·赖特同期接受美媒采访时为特朗普辩护，称美俄柴油协议“是一种旨在结束战争的诱因，而不是在给俄罗斯提供经济上的救命索” 【财新网】 当地时间10月18日，特朗普在其所拥有的“真实社交”平台上发文，大篇幅解释他与俄罗斯签订柴油协议及放松涉俄制裁的原因，并对乌克兰总统泽连斯基再次做出公开批评。 特朗普称，目前有关俄乌停战的谈判正在进行中且进展顺利，他不希望“采取任何可能导致俄罗斯退出谈",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-19/102495020.html",
+          "published": "Mon, 19 Oct 2026 15:01:55 GMT"
+        },
+        {
+          "title": "法国西班牙抗议潮外溢至欧洲多国 主因为年轻人生活成本高企",
+          "summary": "抗议者以年轻人为主，他们主要抗议住房危机、生活成本高企和低工资水平等 【财新网】 近来席卷西班牙和法国的抗议浪潮，已经蔓延至意大利、葡萄牙和比利时。 当地时间10月17日，在意大利米兰市中心，一场原本和平的抗议逐步失控，骚乱者与警方发生冲突，并洗劫商店、纵火焚烧财物。 这场抗议原旨在反对生活成本上升和低工资等生活困境。随着抗议进行，有身穿黑衣、戴着面罩的年轻人向防暴警察投掷石块、铺路石、烟花和瓶子",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-19/102495010.html",
+          "published": "Mon, 19 Oct 2026 14:55:52 GMT"
+        },
+        {
+          "title": "潘功胜：人民币在国际支付中占比在6%-7% 排全球第三",
+          "summary": "综合考虑人民币跨境支付和海外离岸支付，将通过人民币跨境支付系统（CIPS）、银行内部系统结算的金额纳入统计后，人民币在国际支付中稳定地排在全球第三位 【财新网】 在国际货币体系格局生变的当下，人民币国际化正处于难得的机遇期。2026年10月19日，在2026金融街论坛年会上，中国人民银行行长潘功胜表示，人民币国际化正式起步于2009年。在市场需求的驱动下，叠加当前国际环境和地缘政治形势变化，国际市",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494963.html",
+          "published": "Mon, 19 Oct 2026 13:02:27 GMT"
+        },
+        {
+          "title": "吴清：跨境跨市场跨行业风险传导值得高度警惕",
+          "summary": "将密切跟踪境内外市场动态，加强风险研判和政策工具储备，巩固完善稳市机制建设，着力加强新型业务风险防范 10月19日，证监会主席吴清在2026金融街论坛年会上发表主题演讲。图：证监会 【财新网】 10月19日，证监会主席吴清在2026金融街论坛年会开幕式上表示，当前百年变局加速演进，新一轮科技革命和产业变革蓬勃发展，世界政治经济格局和金融生态面临深度调整和重塑，对资本市场产生日益广泛而深远的影响，地",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494938.html",
+          "published": "Mon, 19 Oct 2026 12:15:31 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Mercury 3: Diffusion at scale",
+          "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 82 # Comments: 31",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "published": "Mon, 19 Oct 2026 17:27:11 +0000"
+        },
+        {
+          "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
+          "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html Comments URL: https://news.ycombinator.com/item?id=50155237 Points: ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+          "published": "Mon, 19 Oct 2026 17:26:38 +0000"
+        },
+        {
+          "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+          "summary": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find e",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50154029",
+          "published": "Mon, 19 Oct 2026 16:00:18 +0000"
+        },
+        {
+          "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+          "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp Comments URL: https://news.ycombinator.com/item?id=50153934 Points: 126 # Comments: 92",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+          "published": "Mon, 19 Oct 2026 15:52:26 +0000"
+        },
+        {
+          "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+          "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 204 # Comments: 41",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+          "published": "Mon, 19 Oct 2026 15:28:24 +0000"
+        },
+        {
+          "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+          "summary": "Hi all, So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and gett",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/kividbio/kividb",
+          "published": "Mon, 19 Oct 2026 13:53:52 +0000"
+        },
+        {
+          "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+          "summary": "I'm a software engineer from the east coast (who has lived in Boston, NY, the\nbay area, UK, France), and I built a task system called 3 & Done.  It's the\nplace you trust to store everything you need t",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://3anddoneapp.com/try",
+          "published": "Mon, 19 Oct 2026 13:07:07 +0000"
+        },
+        {
+          "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 131 # Comments: 95",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://100toolkit.com/blog/deslop-model/",
+          "published": "Mon, 19 Oct 2026 13:00:47 +0000"
+        },
+        {
+          "title": "The obscure trust looming over Anthropic's IPO",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.ycombinator.com/item?id=50151376 Points: 13 # Comme",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+          "published": "Mon, 19 Oct 2026 12:06:03 +0000"
+        },
+        {
+          "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+          "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Poin",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+          "published": "Mon, 19 Oct 2026 10:53:39 +0000"
+        },
+        {
+          "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+          "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+          "published": "Mon, 19 Oct 2026 18:00:39 +0000"
+        },
+        {
+          "title": "People are using AI to make their smart TVs dumb again",
+          "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+          "published": "Mon, 19 Oct 2026 16:13:22 +0000"
+        },
+        {
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "published": "Mon, 19 Oct 2026 15:37:09 +0000"
+        },
+        {
+          "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+          "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive ",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+          "published": "Mon, 19 Oct 2026 12:56:14 +0000"
+        },
+        {
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "published": "Mon, 19 Oct 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Amazon is funding a new nuclear plant in Indiana",
+          "summary": "It’ll be several years before the facility is complete, but this digital rendering gives us some idea of what it’ll look like. | Image: Amazon Amazon has signed an agreement with X-energy and American",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+          "published": "2026-10-19T11:44:20-04:00"
+        },
+        {
+          "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+          "summary": "The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+          "published": "2026-10-19T10:41:48-04:00"
+        },
+        {
+          "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+          "published": "2026-10-19T10:30:00-04:00"
+        },
+        {
+          "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+          "summary": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Fina",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+          "published": "2026-10-19T10:03:28-04:00"
+        },
+        {
+          "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the tar",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "published": "2026-10-19T09:58:41-04:00"
+        },
+        {
+          "title": "Vibe coding is turning the music gear world upside down",
+          "summary": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes . What ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+          "published": "2026-10-19T08:30:00-04:00"
+        },
+        {
+          "title": "重仅1克 我国科学家研制世界最轻无线介观显微镜",
+          "summary": "新华社北京10月19日电（记者魏梦佳）如何在自然、群体行为中清楚“看到”大脑神经元对复杂行为的调控，是理解智能的重要基础。我国科学家研制出目前世界最轻无线介观显微镜，重量仅1克，可在6毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录8500多个神经元，是现有同类型设备的25倍。该成果19日在线发表于《自然》。 让显微镜同时能“看得广、看得清、戴得轻、不拴线”是神经科学研究的一",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIOTiVLacyXBVuoLHKDo1G261019.shtml",
+          "published": "Mon, 19 Oct 2026 16:14:15 GMT"
+        },
+        {
+          "title": "学习进行时丨推动高质量发展，总书记强调因地制宜",
+          "summary": "10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平总书记在察哈尔高新技术开发区考察，了解绿色算力产业发展等情况。新华社记者 岳月伟 摄 【学习进行时】“因地制宜、扬长补短，走出适合本地区实际的高质量发展之路”，这是习近平总书记在各地考察时十分关注的问题。16日在内蒙古乌兰察布市考察时，习近平总书记再次强调，“因地制宜推动高质量发展”。 乌兰察布这座城",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIkMS54A4U2U8BShSw3fIZ261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:47:03 GMT"
+        },
+        {
+          "title": "国家统计局：“人工智能+”行动持续释放经济新动能",
+          "summary": "在19日举行的国务院新闻办新闻发布会上，国家统计局相关负责人表示，今年以来，我国深化拓展“人工智能+”行动，助力经济提质增效。 有力推动了制造业智能化转型。今年前三季度，规模以上数字产品制造业增加值对规模以上工业增长的贡献率超过了1/3；规模以上制造业企业人工智能技术应用普及率稳步提升，一批具有较高水平的黑灯工厂、数字化车间、智能生产线加快投产。 有力带动了现代服务业发展。前三季度，信息传输、软件",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/19/ARTIdAz1v4ptSp8I4kauyBDC261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:20:14 GMT"
+        },
+        {
+          "title": "我国多措并举加快推进科技兴商",
+          "summary": "[!--begin:htmlVideoCode--]5056f8b58680419792fe068924a06885,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：10月19日，国务院新闻办公室举行新闻发布会，商务部、工业和信息化部、文化和旅游部有关负责人介绍《关于加快推进科技兴商的意见》有关情况。 商务部介绍，18条具体举措聚焦推",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIutwOgEnarBzB7GEVXpjQ261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:13:10 GMT"
+        },
+        {
+          "title": "Anthropic出5%股权设公益基金 马斯克分100亿美元股权给美国儿童",
+          "summary": "Anthropic公益基金股权价值超483亿美元，若上市市值2万亿美元，价值达到1000亿美元，马斯克若分股权给美国儿童，超7000万未满18岁美国人将分100亿美元 【财新网】 美国AI公司争相将超高价值股权做“公益分配”。美国时间10月18日，美国AI公司Anthropic发布公告，称当天设立“公益基金”，基金可以向传统非营利组织提供大额捐赠，或直接向特定群体发放资金。10月19日凌晨，马斯克",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494959.html",
+          "published": "Mon, 19 Oct 2026 13:00:30 GMT"
+        },
+        {
+          "title": "央行如何应对AI浪潮？潘功胜称应前瞻性做好政策考量和准备",
+          "summary": "将审慎评估人工智能技术演进对宏观经济、金融市场、货币政策等的影响 【财新网】 AI应用快速席卷各行各业，使得AI不再只是科技或产业话题，而是宏观政策领域必须面对的新变量。2026年10月19日，在2026金融街论坛年会开幕式上，在中国人民银行行长潘功胜首次在公开场合系统地阐述了他关于人工智能影响和金融政策响应的一些思考。 潘功胜指出，近年来，全球人工智能快速发展，对生产力、投资、就业、收入分配、金",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494955.html",
+          "published": "Mon, 19 Oct 2026 12:51:37 GMT"
+        },
+        {
+          "title": "吴清：跨境跨市场跨行业风险传导值得高度警惕",
+          "summary": "将密切跟踪境内外市场动态，加强风险研判和政策工具储备，巩固完善稳市机制建设，着力加强新型业务风险防范 10月19日，证监会主席吴清在2026金融街论坛年会上发表主题演讲。图：证监会 【财新网】 10月19日，证监会主席吴清在2026金融街论坛年会开幕式上表示，当前百年变局加速演进，新一轮科技革命和产业变革蓬勃发展，世界政治经济格局和金融生态面临深度调整和重塑，对资本市场产生日益广泛而深远的影响，地",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494938.html",
+          "published": "Mon, 19 Oct 2026 12:15:31 GMT"
+        },
+        {
+          "title": "中国半数token消耗靠AI短剧？视频生成超越编程成模型应用第一场景",
+          "summary": "目前，市场上缺乏公信力较高的第三方数据测算国内大致的Token消耗场景分布 【财新网】 近期，一项“短剧Token消耗占比55%”的数据被多家媒体研究机构转发，并形容为“国内一半算力用来造爽剧”，引起热议。 该数据原始出处为A股上市公司中文在线（0300364.SZ）在6月3日举行的北京线下路演活动及线上电话会议，公司投资者关系活动记录表显示，“在国内所有Token消耗份额中，AI短剧与视频生成高",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494889.html",
+          "published": "Mon, 19 Oct 2026 12:11:09 GMT"
+        },
+        {
+          "title": "巴西总统卢拉指控Meta偏袒极右翼候选人 获选举法院支持",
+          "summary": "拥有社交平台Instagram、Facebook 和 WhatsApp的美国社媒科技巨头Meta坚称，其系统在分发内容时并不基于政治意识形态 【财新网】 在拉美第一大经济体巴西的总统选举第二轮投票临近之际，现任温和左翼总统卢拉的竞选团队指控，拥有社交平台Instagram、Facebook 和 WhatsApp的美国社媒科技巨头Meta利用带偏见的算法和人工智能（AI）限制措施，偏袒其政治对手、极",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-19/102494868.html",
+          "published": "Mon, 19 Oct 2026 11:29:22 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“无接触”交通事故 如何定责和防范？",
+          "summary": "[!--begin:htmlVideoCode--]2437794b98c94bc698016879edade96d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：日常出行中，有些驾驶员在遇到“无接触”交通事故时，往往存在这样一个常见的认知误区，以为“没撞到就不需要负责”，其实不一定。“无接触”交通事故，到底谁来担责呢？来看北京二中院近期审理的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTICr2eeOZmpgMh0chSv33k261019.shtml",
+          "published": "Mon, 19 Oct 2026 17:34:32 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "国务院学位办发布意见 5个专业推行用实践成果申请硕博学位",
+          "summary": "[!--begin:htmlVideoCode--]8f6ec6600f6b4b7cb0b0aa14438d14c6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动5个专业学位类别试点先行。 今年毕业季，多所高校扩",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIjaKaNyVu8cUsajfKSjIJ261020.shtml",
+          "published": "Mon, 19 Oct 2026 16:34:20 GMT"
+        },
+        {
+          "title": "9月70城房价数据显示楼市回稳态势增强",
+          "summary": "国家统计局19日公布的数据显示，9月份，70个大中城市中，一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅均收窄。业内人士表示，价格端环比、同比指标均有积极改善，风向标城市发挥稳市场带动作用，住房交易的整体表现更具韧性，楼市回稳态势继续增强。 根据国家统计局数据，9月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅与上月相同。一线城市二手住宅销售价格环比",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/20/ARTIwgp6QK1mN6DeQ0cOf4WX261020.shtml",
+          "published": "Mon, 19 Oct 2026 16:14:41 GMT"
+        },
+        {
+          "title": "重仅1克 我国科学家研制世界最轻无线介观显微镜",
+          "summary": "新华社北京10月19日电（记者魏梦佳）如何在自然、群体行为中清楚“看到”大脑神经元对复杂行为的调控，是理解智能的重要基础。我国科学家研制出目前世界最轻无线介观显微镜，重量仅1克，可在6毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录8500多个神经元，是现有同类型设备的25倍。该成果19日在线发表于《自然》。 让显微镜同时能“看得广、看得清、戴得轻、不拴线”是神经科学研究的一",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIOTiVLacyXBVuoLHKDo1G261019.shtml",
+          "published": "Mon, 19 Oct 2026 16:14:15 GMT"
+        },
+        {
+          "title": "一见·大学建校周年，总书记致信寄语有何深意",
+          "summary": "尺素传寄语，笔端有嘱托。 “为建设教育强国、推进中国式现代化作出新贡献”。近日，习近平总书记致信祝贺湖南大学建校100周年。 从岳麓山下的弦歌不辍，到神州大地的座座学府，新时代以来习近平总书记在多所大学建校周年之际致回信贺信。春风化雨的殷殷关怀，登高望远的战略擘画，指引高等教育与国家同频、与时代同行。 强国建设，高教何为？翻开今年以来的一封封书信，答案清晰而笃定。 字里行间，读懂大学之根。 今年，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIgUa5eZu507NMW6Q03UvS261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:46:43 GMT"
+        },
+        {
+          "title": "视线｜高中生抗议触发连锁反应 法国街头暴力蔓延撬动政局",
+          "summary": "当地时间2026年10月17日，法国利摩日爆发示威游行。此次动员号召得到了广泛支持，参与者包括“黄背心”运动人士、工会成员以及大中学生等。图：IC photo 【财新网】 从巴黎贫困郊区到法国上百座城市，法国高中生对教育危机的怒火已足足燃烧了一个月。自2026年9月17日首场校园抗议爆发以来，这场由破旧校舍与教育不平等引发的争端，迅速与民众对生活成本上涨的长期积怨交织合流。强力维稳并未能平息怒火。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-10-19/102494893.html",
+          "published": "Mon, 19 Oct 2026 12:14:25 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "9月70城房价数据显示楼市回稳态势增强",
+          "summary": "国家统计局19日公布的数据显示，9月份，70个大中城市中，一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅均收窄。业内人士表示，价格端环比、同比指标均有积极改善，风向标城市发挥稳市场带动作用，住房交易的整体表现更具韧性，楼市回稳态势继续增强。 根据国家统计局数据，9月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅与上月相同。一线城市二手住宅销售价格环比",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/20/ARTIwgp6QK1mN6DeQ0cOf4WX261020.shtml",
+          "published": "Mon, 19 Oct 2026 16:14:41 GMT"
+        },
+        {
+          "title": "美佛州称对古巴革命领袖劳尔·卡斯特罗发逮捕令",
+          "summary": "△古巴革命领袖劳尔·卡斯特罗（资料图） 美国佛罗里达州总检察长詹姆斯·尤思迈耶19日以所谓“参与一级谋杀”的理由对古巴革命领袖劳尔·卡斯特罗发出逮捕令。 今年5月20日，佛州南区联邦地区法院一个大陪审团同意起诉劳尔·卡斯特罗。这一诉讼被认为是美国对古巴施压措施的一部分。 5月21日，古巴国家主席迪亚斯-卡内尔在社交媒体发文，谴责美国政府起诉劳尔·卡斯特罗，强调古巴人民不会容忍对其历史和民族英雄的侮",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIeTz8kJc9BPXaxQsKYUEM261020.shtml",
+          "published": "Mon, 19 Oct 2026 16:12:24 GMT"
+        },
+        {
+          "title": "央行、证监会等部门重磅发声！这场年会释放多项金融政策信号",
+          "summary": "2026金融街论坛年会开幕式19日下午在京举行。中国人民银行、国家金融监督管理总局、中国证监会、国家外汇管理局主要负责人分别作主题演讲，围绕 货币政策优化、金融风险监管、资本市场生态、行业转型升级 等披露一系列工作安排，释放多项重磅金融政策信号。 央行 扩大常备借贷便利的适用机构范围等 央行公布系列措施 开幕式上，中国人民银行行长潘功胜宣布中国人民银行即将推动出台的一系列政策措施，包括设立应对非银",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/19/ARTIJ9PSkYt5WmMZ93olxuBJ261019.shtml",
+          "published": "Mon, 19 Oct 2026 14:27:27 GMT"
+        },
+        {
+          "title": "李在明：韩国必须尽快从美方收回战时作战指挥权",
+          "summary": "△韩国总统李在明（资料图） 韩国总统李在明19日表示，韩国必须尽快从美方手中收回战时作战指挥权，且完全有能力做到。韩美之间的协商基本上也朝着收回指挥权的方向推进，只是这一过程不会那么容易。 据韩国总统府青瓦台消息，李在明当天在记者座谈会上说，韩国是一个自主的独立国家，理所应当且完全有能力独立承担国防责任。从全球范围看，如果不算核实力，只看常规军事力量，韩国军事实力排名世界第五。虽然国防开支也涉及韩",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIprN70KS146rdUgEfX4VD261019.shtml",
+          "published": "Mon, 19 Oct 2026 14:20:00 GMT"
+        },
+        {
+          "title": "焦点访谈 | 解读前三季度经济数据：底盘稳固 动能向新 结构向优",
+          "summary": "[!--begin:htmlVideoCode--]bda3a7492d5b415899300faf5a3b39ff,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （焦点访谈）：“十五五”开局之年，中国经济走势备受瞩目。如今，三个季度过去了，我国主要经济指标表现如何呢？今天（10月19日）上午，国家统计局发布了相关数据，前三季度，国内生产总值同比",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIedTCLlazvuck1hyXCTfK261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:46:53 GMT"
+        },
+        {
+          "title": "国家统计局：“人工智能+”行动持续释放经济新动能",
+          "summary": "在19日举行的国务院新闻办新闻发布会上，国家统计局相关负责人表示，今年以来，我国深化拓展“人工智能+”行动，助力经济提质增效。 有力推动了制造业智能化转型。今年前三季度，规模以上数字产品制造业增加值对规模以上工业增长的贡献率超过了1/3；规模以上制造业企业人工智能技术应用普及率稳步提升，一批具有较高水平的黑灯工厂、数字化车间、智能生产线加快投产。 有力带动了现代服务业发展。前三季度，信息传输、软件",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/19/ARTIdAz1v4ptSp8I4kauyBDC261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:20:14 GMT"
+        },
+        {
+          "title": "入境消费持续扩大 游在中国、购在中国成为越来越多国际游客的新选择",
+          "summary": "在国务院新闻办19日举行的新闻发布会上，国家统计局相关负责人介绍， 今年以来，我国消费市场持续扩大，商品和服务供给不断优化，最终消费支出对经济增长的贡献率提高。 前三季度，社会消费商品和服务零售总额同比增长2.6%，最终消费支出对经济增长的贡献率为46.7%。 前三季度，服务消费潜力释放。旅游咨询租赁服务类、文体休闲服务类的零售额分别增长10.7%和9.7%，假日消费的带动作用比较明显。 商品消费",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/19/ARTIeYeJYZonnMvXrC49Db0p261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:15:31 GMT"
+        },
+        {
+          "title": "支持和推动三区域打造科技金融协同发展高地 多部门出台重磅文件",
+          "summary": "近日，中国人民银行、科技部、金融监管总局、中国证监会、国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、国务院国资委、国家知识产权局、国家外汇局联合印发 《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心的指导意见》 （以下简称《意见》）。 《意见》以习近平新时代中国特色社会主义思想为指导，坚持稳中求进工作总基调，紧密结合区域协同创新和产业协作需求，深化金融供",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/19/ARTIhLSsXI2Rr75g4bWJKfOE261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:09:45 GMT"
+        },
+        {
+          "title": "四川马边通报“硫磺熏制鲜竹笋”：已查封相关加工原料及产品",
+          "summary": "央视网消息： 10月19日，四川马边彝族自治县联合调查组发布情况通报： 针对10月19日媒体报道该地存在硫磺熏制鲜竹笋出售问题，该县高度重视，第一时间成立由食安办牵头，会同公安、市场监管、林业等部门组成的联合调查组，赶赴现场核查，同时对全县鲜竹笋收购、加工、销售等环节开展深入排查。 目前，已对有关加工原料及产品进行查封，正在对涉事人员依法开展调查取证。将始终保持“零容忍”的态度，依法严肃查处违法违",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIZwbJmsoecZIrgl575TUA261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:41:02 GMT"
+        },
+        {
+          "title": "云南楚雄游乐船倾覆致4死事故调查报告：17名公职人员被追责",
+          "summary": "央视网消息： 10月19日，云南省公布楚雄“2.17”较大游乐船倾覆事故调查报告。 调查报告显示，2026年2月17日15时33分，楚雄州楚雄市东华镇莲华村委会小五排莲溪湾景区发生一起游乐船倾覆事故，造成4人死亡，直接经济损失约451.58万元。 云南省政府事故调查组经调查认定，云南楚雄“2·17”较大游乐船倾覆事故是一起从业人员驾驶擅自拼装改造且存在技术缺陷的游乐船违规载客，企业主体责任不落实，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTI2cwn0Jz1puA7YifImOkf261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:36:12 GMT"
+        },
+        {
+          "title": "第140届广交会：丰富全链条配套供给 筑牢全球贸易合作根基",
+          "summary": "[!--begin:htmlVideoCode--]05f715674ae0451d9e191f7f4d5ee969,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：第140届广交会首期展览10月19日闭展。首期展览聚焦先进制造主题，形成从核心元器件、中间产品到终端整机的展示链条，体现了我国完备的产业体系和全链条配套能力。 在广交会D",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTI73GZygRjDsBPZdGGMbtH261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:17:26 GMT"
+        },
+        {
+          "title": "前三季度GDP同比增长4.6% 高质量发展取得新成效",
+          "summary": "[!--begin:htmlVideoCode--]fb41479a02a047ab8ecd340f04c7b64e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国务院新闻办公室10月19日举行新闻发布会，国家统计局公布的数据显示，前三季度经济运行总体平稳，保持了动能向新、结构向优、质效向好的发展态势，有力推动了经济高质量发展。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIthOStHFxGFDSKUBfDOo3261019.shtml",
+          "published": "Mon, 19 Oct 2026 12:10:14 GMT"
+        },
+        {
+          "title": "河南南阳西峡县通报药企产品溯源虚假营销调查情况",
+          "summary": "央视网消息： 针对总台曝光的营销机构借“产品溯源活动”开展虚假宣传、会议营销一事，10月19日，河南南阳西峡县“产品溯源”问题联合调查组发布情况通报，公布初步调查结果及相关处置措施。全文如下： 10月18日晚，央视《财经调查》栏目报道有营销机构打着“产品溯源活动”旗号搞虚假宣传、会议营销，涉及西峡县药企产品。县委、县政府立即成立由市场监管、公安等部门组成的联合调查组，连夜开展核实调查。 经初步调查",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIAjDd5rAuSMxAEtpuvLne261019.shtml",
+          "published": "Mon, 19 Oct 2026 10:55:34 GMT"
+        },
+        {
+          "title": "泽连斯基警告美若站在普京一边将是巨大悲剧 美方辩解涉俄柴油协议",
+          "summary": "美国能源部长克里斯·赖特同期接受美媒采访时为特朗普辩护，称美俄柴油协议“是一种旨在结束战争的诱因，而不是在给俄罗斯提供经济上的救命索” 【财新网】 当地时间10月18日，特朗普在其所拥有的“真实社交”平台上发文，大篇幅解释他与俄罗斯签订柴油协议及放松涉俄制裁的原因，并对乌克兰总统泽连斯基再次做出公开批评。 特朗普称，目前有关俄乌停战的谈判正在进行中且进展顺利，他不希望“采取任何可能导致俄罗斯退出谈",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-19/102495020.html",
+          "published": "Mon, 19 Oct 2026 15:01:55 GMT"
+        },
+        {
+          "title": "证监会筹建基金业运行监测中心",
+          "summary": "承担私募基金份额登记和公私募信息收集、风险监测等职责 【财新网】 2026年10月19日，中国证监会主席吴清在北京金融街论坛上宣布，近期将筹建基金业运行监测中心，承担私募基金份额登记和公私募信息收集、风险监测等职责，着力提高基金业风险防控和监管有效性。 此前财新报道，9月证监会基金业运行监测中心已获中央编办批复，内设14个部门，核定编制100多人，是证监会直属正司局级事业单位，其地位与证监会信息中",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102495006.html",
+          "published": "Mon, 19 Oct 2026 14:54:33 GMT"
+        },
+        {
+          "title": "首批18只主动ETF基金获批 本周五启动发行",
+          "summary": "沪深交易所各9只，以大盘价值、大盘均衡等稳健策略为主 【财新网】 10月19日，首批18只主动ETF基金获批，基金业内人士表示最快将在10月23日，即本周五开始募集。 这18只产品将在沪、深交易所各上市9只。其中，在上交所上市的9只分别为：易方达品质均衡主动ETF、华夏质量甄选主动ETF、永赢景气均衡主动ETF、摩根大盘成长主动ETF、华泰柏瑞价值精选主动ETF、汇添富均衡策略智选主动ETF、华安",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494982.html",
+          "published": "Mon, 19 Oct 2026 13:50:40 GMT"
+        },
+        {
+          "title": "金融如何支持三大国际科技创新中心？十部门部署19条指导意见",
+          "summary": "过去，科技金融支持政策多是基于全国层面的考量，还缺乏对重点地区的针对性、系统性举措 【财新网】 建设京津冀、长三角、粤港澳大湾区国际科技创新中心，属于中央的一项重大战略。金融将如何提供支持？ 2026年10月19日，央行会同科技部等10个部门出台《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心的指导意见》（下称《指导意见》），提出优化金融资源布局，完善高水平科技金融服",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494977.html",
+          "published": "Mon, 19 Oct 2026 13:38:51 GMT"
+        },
+        {
+          "title": "朱鹤新：外汇管理改革成效最终要看经营主体活力和竞争力",
+          "summary": "近期外汇局拟集中推出一批增量措施，支持企业更好参与国际合作与竞争，更好利用两个市场、两种资源；同时，开放越深入，越要重视安全，将持续加强宏观审慎管理等 【财新网】 改革开放以来，中国外汇管理制度也经历深刻变革：从缓解外汇短缺约束、推动外汇资源市场化配置，到扩大各类主体用汇自主权、提升开放条件下治理能力。中国的外汇管理改革如何深化？下一步还有哪些新举措？ 10月19日，中国人民银行副行长、国家外汇管",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494972.html",
+          "published": "Mon, 19 Oct 2026 13:37:27 GMT"
+        },
+        {
+          "title": "潘功胜：人民币在国际支付中占比在6%-7% 排全球第三",
+          "summary": "综合考虑人民币跨境支付和海外离岸支付，将通过人民币跨境支付系统（CIPS）、银行内部系统结算的金额纳入统计后，人民币在国际支付中稳定地排在全球第三位 【财新网】 在国际货币体系格局生变的当下，人民币国际化正处于难得的机遇期。2026年10月19日，在2026金融街论坛年会上，中国人民银行行长潘功胜表示，人民币国际化正式起步于2009年。在市场需求的驱动下，叠加当前国际环境和地缘政治形势变化，国际市",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494963.html",
+          "published": "Mon, 19 Oct 2026 13:02:27 GMT"
+        },
+        {
+          "title": "Anthropic出5%股权设公益基金 马斯克分100亿美元股权给美国儿童",
+          "summary": "Anthropic公益基金股权价值超483亿美元，若上市市值2万亿美元，价值达到1000亿美元，马斯克若分股权给美国儿童，超7000万未满18岁美国人将分100亿美元 【财新网】 美国AI公司争相将超高价值股权做“公益分配”。美国时间10月18日，美国AI公司Anthropic发布公告，称当天设立“公益基金”，基金可以向传统非营利组织提供大额捐赠，或直接向特定群体发放资金。10月19日凌晨，马斯克",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494959.html",
+          "published": "Mon, 19 Oct 2026 13:00:30 GMT"
+        },
+        {
+          "title": "央行如何应对AI浪潮？潘功胜称应前瞻性做好政策考量和准备",
+          "summary": "将审慎评估人工智能技术演进对宏观经济、金融市场、货币政策等的影响 【财新网】 AI应用快速席卷各行各业，使得AI不再只是科技或产业话题，而是宏观政策领域必须面对的新变量。2026年10月19日，在2026金融街论坛年会开幕式上，在中国人民银行行长潘功胜首次在公开场合系统地阐述了他关于人工智能影响和金融政策响应的一些思考。 潘功胜指出，近年来，全球人工智能快速发展，对生产力、投资、就业、收入分配、金",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494955.html",
+          "published": "Mon, 19 Oct 2026 12:51:37 GMT"
+        },
+        {
+          "title": "国家林草局原局长张建龙：对中央要求“只表态不落实”",
+          "summary": "官方通报指其为他人在林地占用和专项资金审批、野生动物利用许可、工程项目承揽等方面谋利 资料图：张建龙。图：视觉中国 【财新网】 官宣落马近9个月后，国家林草局原局长张建龙案再有新进展。10月19日，中央纪委国家监委网站公布张建龙和全国社保基金理事会原副理事长王文灵、人保集团原副总裁俞小平等三名落马中管干部被党纪政务处分并移送司法的消息。 至此，2026年已有53名落马中管干部被处分并移送司法，此前",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-10-19/102494946.html",
+          "published": "Mon, 19 Oct 2026 12:36:44 GMT"
+        },
+        {
+          "title": "吴清：跨境跨市场跨行业风险传导值得高度警惕",
+          "summary": "将密切跟踪境内外市场动态，加强风险研判和政策工具储备，巩固完善稳市机制建设，着力加强新型业务风险防范 10月19日，证监会主席吴清在2026金融街论坛年会上发表主题演讲。图：证监会 【财新网】 10月19日，证监会主席吴清在2026金融街论坛年会开幕式上表示，当前百年变局加速演进，新一轮科技革命和产业变革蓬勃发展，世界政治经济格局和金融生态面临深度调整和重塑，对资本市场产生日益广泛而深远的影响，地",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494938.html",
+          "published": "Mon, 19 Oct 2026 12:15:31 GMT"
+        },
+        {
+          "title": "中国半数token消耗靠AI短剧？视频生成超越编程成模型应用第一场景",
+          "summary": "目前，市场上缺乏公信力较高的第三方数据测算国内大致的Token消耗场景分布 【财新网】 近期，一项“短剧Token消耗占比55%”的数据被多家媒体研究机构转发，并形容为“国内一半算力用来造爽剧”，引起热议。 该数据原始出处为A股上市公司中文在线（0300364.SZ）在6月3日举行的北京线下路演活动及线上电话会议，公司投资者关系活动记录表显示，“在国内所有Token消耗份额中，AI短剧与视频生成高",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494889.html",
+          "published": "Mon, 19 Oct 2026 12:11:09 GMT"
+        },
+        {
+          "title": "央行宣布多项新政：设立非银大额赎回流动性支持工具、SLF扩围",
+          "summary": "还包括推动银行间与交易所债券市场互联互通落地、进一步便利境外金融机构在境内外汇市场开展人民币购售业务等 【财新网】 非银机构大额赎回的流动性支持工具、扩大常备借贷便利（SLF）的适用机构范围……2026年10月19日，在2026金融街论坛年会开幕式现场，中国人民银行行长潘功胜宣布一系列新的政策举措。 这些内容具体包括：一是将会同金融监管总局、中国证监会设立应对非银机构大额赎回的流动性支持工具。 潘",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494878.html",
+          "published": "Mon, 19 Oct 2026 11:41:19 GMT"
+        },
+        {
+          "title": "潘功胜谈货币政策转型：隔夜回购将成主要政策利率，退出存贷基准利率",
+          "summary": "推动贷款利率定价基准改革，从比较单一地参考贷款市场报价利率（LPR）定价向更加多元的定价基准转型 【财新网】 6月宣布进一步丰富公开市场操作工具箱、增加隔夜逆回购操作之后，2026年10月19日，在2026金融街论坛年会开幕式现场，中国人民银行行长潘功胜进一步阐述了下一步货币政策框架转型的重点。 他指出，货币政策框架的转型是一个渐进、持续的过程，未来人民银行还将不断地做好评估和完善。从近中期看，重",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494872.html",
+          "published": "Mon, 19 Oct 2026 11:34:47 GMT"
+        },
+        {
+          "title": "巴西总统卢拉指控Meta偏袒极右翼候选人 获选举法院支持",
+          "summary": "拥有社交平台Instagram、Facebook 和 WhatsApp的美国社媒科技巨头Meta坚称，其系统在分发内容时并不基于政治意识形态 【财新网】 在拉美第一大经济体巴西的总统选举第二轮投票临近之际，现任温和左翼总统卢拉的竞选团队指控，拥有社交平台Instagram、Facebook 和 WhatsApp的美国社媒科技巨头Meta利用带偏见的算法和人工智能（AI）限制措施，偏袒其政治对手、极",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-19/102494868.html",
+          "published": "Mon, 19 Oct 2026 11:29:22 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "重仅1克 我国科学家研制世界最轻无线介观显微镜",
+          "summary": "新华社北京10月19日电（记者魏梦佳）如何在自然、群体行为中清楚“看到”大脑神经元对复杂行为的调控，是理解智能的重要基础。我国科学家研制出目前世界最轻无线介观显微镜，重量仅1克，可在6毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录8500多个神经元，是现有同类型设备的25倍。该成果19日在线发表于《自然》。 让显微镜同时能“看得广、看得清、戴得轻、不拴线”是神经科学研究的一",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/20/ARTIOTiVLacyXBVuoLHKDo1G261019.shtml",
+          "published": "Mon, 19 Oct 2026 16:14:15 GMT"
+        },
+        {
+          "title": "学习进行时丨推动高质量发展，总书记强调因地制宜",
+          "summary": "10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平总书记在察哈尔高新技术开发区考察，了解绿色算力产业发展等情况。新华社记者 岳月伟 摄 【学习进行时】“因地制宜、扬长补短，走出适合本地区实际的高质量发展之路”，这是习近平总书记在各地考察时十分关注的问题。16日在内蒙古乌兰察布市考察时，习近平总书记再次强调，“因地制宜推动高质量发展”。 乌兰察布这座城",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIkMS54A4U2U8BShSw3fIZ261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:47:03 GMT"
+        },
+        {
+          "title": "商务部等三部门调整无人机出口管制 碳纤维桨叶等纳入管制",
+          "summary": "中方反对无人机被违规用于非和平目的，同时支持中国企业在民用领域开展无人机国际贸易与合作 【财新网】 无人机出口管制范围有所调整。10月19日，商务部、海关总署、中央军委装备发展部联合发布公告，将特定无刷电机、电子调速器和碳纤维桨叶纳入管制，同时提高无人机气雾剂布撒装置的容量门槛，放宽部分农业无人机的出口管制。新规将于11月18日起实施。 2024年11月发布的《两用物项出口管制清单》已将部分无人机",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494951.html",
+          "published": "Mon, 19 Oct 2026 12:48:02 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "学习新语·走好新时代的长征路丨团结之力",
+          "summary": "长征，是中国共产党和红军谱写的壮丽史诗，是中华民族伟大复兴历史进程中的巍峨丰碑。今年是中国工农红军长征胜利90周年，新华社“学习新语”栏目推出“走好新时代的长征路”系列融合报道，一起学习领悟习近平总书记重要论述，感悟伟大长征精神的时代价值，凝聚起奋进新征程的磅礴力量。本期推出“团结之力”。 [!--begin:htmlVideoCode--]093fe64147684af8b2b9e796740c",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/19/ARTIIrD1IdbjbASXFjHldwC6261019.shtml",
+          "published": "Mon, 19 Oct 2026 13:47:19 GMT"
+        },
+        {
+          "title": "首批18只主动ETF基金获批 本周五启动发行",
+          "summary": "沪深交易所各9只，以大盘价值、大盘均衡等稳健策略为主 【财新网】 10月19日，首批18只主动ETF基金获批，基金业内人士表示最快将在10月23日，即本周五开始募集。 这18只产品将在沪、深交易所各上市9只。其中，在上交所上市的9只分别为：易方达品质均衡主动ETF、华夏质量甄选主动ETF、永赢景气均衡主动ETF、摩根大盘成长主动ETF、华泰柏瑞价值精选主动ETF、汇添富均衡策略智选主动ETF、华安",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494982.html",
+          "published": "Mon, 19 Oct 2026 13:50:40 GMT"
+        },
+        {
+          "title": "Anthropic出5%股权设公益基金 马斯克分100亿美元股权给美国儿童",
+          "summary": "Anthropic公益基金股权价值超483亿美元，若上市市值2万亿美元，价值达到1000亿美元，马斯克若分股权给美国儿童，超7000万未满18岁美国人将分100亿美元 【财新网】 美国AI公司争相将超高价值股权做“公益分配”。美国时间10月18日，美国AI公司Anthropic发布公告，称当天设立“公益基金”，基金可以向传统非营利组织提供大额捐赠，或直接向特定群体发放资金。10月19日凌晨，马斯克",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-19/102494959.html",
+          "published": "Mon, 19 Oct 2026 13:00:30 GMT"
+        },
+        {
+          "title": "央行宣布多项新政：设立非银大额赎回流动性支持工具、SLF扩围",
+          "summary": "还包括推动银行间与交易所债券市场互联互通落地、进一步便利境外金融机构在境内外汇市场开展人民币购售业务等 【财新网】 非银机构大额赎回的流动性支持工具、扩大常备借贷便利（SLF）的适用机构范围……2026年10月19日，在2026金融街论坛年会开幕式现场，中国人民银行行长潘功胜宣布一系列新的政策举措。 这些内容具体包括：一是将会同金融监管总局、中国证监会设立应对非银机构大额赎回的流动性支持工具。 潘",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-19/102494878.html",
+          "published": "Mon, 19 Oct 2026 11:41:19 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 98,
+    "total_collected": 73,
+    "sources": 5,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "央视新闻",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
