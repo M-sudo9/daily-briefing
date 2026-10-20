@@ -1,658 +1,396 @@
 {
-  "id": "2026-10-20-09",
-  "datetime": "2026-10-20 09:15:44",
+  "id": "2026-10-20-16",
+  "datetime": "2026-10-20 16:31:29",
   "date": "2026-10-20",
-  "time": "09:15",
-  "period": "上午",
-  "summary": "本期采集 57 篇文章，来自 7 个信息源，覆盖 6 个领域，精选 91 条摘要",
+  "time": "16:31",
+  "period": "下午",
+  "summary": "本期采集 51 篇文章，来自 5 个信息源，覆盖 6 个领域，精选 60 条摘要",
   "domains": [
-    {
-      "name": "国际军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "Everything is going wrong for Muhammad bin Salman",
-          "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman Comments URL: https://news.ycombinator.com/item?id=50162860 Points: 9 # Comme",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
-          "published": "Tue, 20 Oct 2026 08:16:55 +0000"
-        },
-        {
-          "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-          "summary": "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 10 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://github.com/microg/GmsCore/wiki",
-          "published": "Tue, 20 Oct 2026 06:37:07 +0000"
-        },
-        {
-          "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-          "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 89 # Comments: 32",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://github.com/golang/go/issues/82345",
-          "published": "Tue, 20 Oct 2026 03:05:07 +0000"
-        },
-        {
-          "title": "OpenBSD 8.0",
-          "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 269 # Comments: 78",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.openbsd.org/80.html",
-          "published": "Tue, 20 Oct 2026 02:06:40 +0000"
-        },
-        {
-          "title": "周小川：应当开展研究并做好预案，应对人工智能相关投资失败可能带来的金融风险",
-          "summary": "中国人民银行原行长周小川10月20日在2026外滩年会“AI与生产率革命：技术跃迁下的宏观冲击”圆桌环节上表示，对生产率提升来说，最主要是来自AI应用层。他也表示，要为人工智能相关领域投资失败可能带来的金融风险做好应对预案。 “金融行业正在投资AI相关领域。AI相关领域大致有三个类别。一类是大模型，以及用于训练的算力和数据中心及其他。二是AI应用领域，这也是中国更加关注的领域。三是一些为AI提供支",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784021",
-          "published": "Tue, 20 Oct 2026 09:09:15 GMT"
-        },
-        {
-          "title": "选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票",
-          "summary": "特朗普政府宣布推出新一轮农业补贴计划，以缓解高油价对农业生产的冲击，此举更多折射出中期选举前共和党在摇摆农业州的政治压力。 据路透社20日报道，特朗普周一在堪萨斯州的竞选集会上宣布， 美国农业部将启动一项名为\"丰收燃料救济计划\"的新项目，向农民提供80亿美元资金，用于抵消本次收割季的柴油成本。 农业部随后确认，这笔资金将以一次性支付的形式发放，定位为应对\"临时性市场扰动和生产成本上升\"的短期救济措",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783996",
-          "published": "Tue, 20 Oct 2026 05:55:45 GMT"
-        },
-        {
-          "title": "人流、物流、资金流 战争对迪拜影响多大？｜出海·地缘",
-          "summary": "人口与资金仍在流入，新增企业、旅游、物流明显下滑，迪拜遭遇经济韧性考验 【财新网】 “我们目睹了地区局势的动荡，但过去几十年来，迪拜持续投资于国防、银行、公共服务和能源基础设施，因此在这一时期展现出了很强的韧性。”美伊战事爆发七个多月后，迪拜经济发展公司（Dubai Economic Development Corporation，DEDC）首席执行官哈迪·巴德里（Hadi Badri）在深圳举行",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://companies.caixin.com/2026-10-20/102495160.html",
-          "published": "Tue, 20 Oct 2026 04:51:44 GMT"
-        }
-      ]
-    },
     {
       "name": "AI / 人工智能",
       "summary": "",
       "items": [
         {
-          "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-          "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 89 # Comments: 32",
+          "title": "Voxtral 3",
+          "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 11 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/golang/go/issues/82345",
-          "published": "Tue, 20 Oct 2026 03:05:07 +0000"
+          "link": "https://mistral.ai/news/voxtral-3/",
+          "published": "Tue, 20 Oct 2026 16:02:07 +0000"
         },
         {
-          "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-          "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+          "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+          "summary": "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second. I've alw",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jevcards.com",
+          "published": "Tue, 20 Oct 2026 15:11:56 +0000"
+        },
+        {
+          "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+          "summary": "Article URL: https://github.com/AbdullahAlhariri/penmentor Comments URL: https://news.ycombinator.com/item?id=50167604 Points: 12 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/AbdullahAlhariri/penmentor",
+          "published": "Tue, 20 Oct 2026 15:10:54 +0000"
+        },
+        {
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "summary": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protoco",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50167583",
+          "published": "Tue, 20 Oct 2026 15:09:29 +0000"
+        },
+        {
+          "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+          "summary": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries wit",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/KatrielMoses/voidaccess",
+          "published": "Tue, 20 Oct 2026 14:49:33 +0000"
+        },
+        {
+          "title": "Publish fake stats, get cited in LLMs",
+          "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 157 # Comments: 90",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+          "published": "Tue, 20 Oct 2026 13:06:22 +0000"
+        },
+        {
+          "title": "DeepSeek just open-sourced its inference engine",
+          "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 1654 # Comments: 602",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/deepseek-ai/DeepInfer",
+          "published": "Tue, 20 Oct 2026 09:08:54 +0000"
+        },
+        {
+          "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+          "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-          "published": "Tue, 20 Oct 2026 07:01:00 +0000"
+          "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+          "published": "Tue, 20 Oct 2026 16:20:06 +0000"
         },
         {
-          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+          "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-          "published": "Tue, 20 Oct 2026 01:27:03 +0000"
+          "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "published": "Tue, 20 Oct 2026 16:00:00 +0000"
         },
         {
-          "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-          "summary": "The bright spotlight’s focused beam improves the quality of video captured at night while scaring off unwanted visitors. | Image: Baseus Baseus announced a new addition to its lineup of AI-assisted se",
+          "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+          "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+          "published": "Tue, 20 Oct 2026 15:03:41 +0000"
+        },
+        {
+          "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+          "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+          "published": "Tue, 20 Oct 2026 14:13:32 +0000"
+        },
+        {
+          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+          "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "published": "Tue, 20 Oct 2026 13:07:24 +0000"
+        },
+        {
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+          "summary": "The raise comes as venture dollars pile up on the West Coast.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+          "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+          "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+          "published": "Tue, 20 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+          "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+          "published": "Tue, 20 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+          "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "published": "Tue, 20 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
+          "summary": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-          "published": "2026-10-20T00:00:00-04:00"
+          "link": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
+          "published": "2026-10-20T12:21:18-04:00"
         },
         {
-          "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
-          "summary": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
+          "title": "The Gospel according to Peter (Thiel)",
+          "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the",
           "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 20 Oct 2026 07:42:45 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+          "published": "2026-10-20T11:45:00-04:00"
         },
         {
-          "title": "澳洲國會議員遭汽車「蓄意」撞擊重傷： 我們目前所知情況",
-          "summary": "海倫·海恩斯（Helen Haines）遭汽車撞擊，澳洲總理稱此為一起「蓄意行為」。",
+          "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+          "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
           "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 20 Oct 2026 03:13:27 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+          "published": "2026-10-20T10:18:37-04:00"
         },
         {
-          "title": "就因为我太会用AI写代码，反而差点丢了工作",
-          "summary": "因为公司项目保密，不让我用AI Coding，但是我太依赖AI Coding了！让我回归古法编程，不是我不会，而是我压根赶不上Deadline！本期视频，教你本地部署！本地AI也能帮我Vibe Coding！",
+          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+          "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR . The publication reports that employees were frustrated ove",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+          "published": "2026-10-20T09:11:23-04:00"
+        },
+        {
+          "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+          "summary": "Adobe announced yesterday that the mobile version of Lightroom , available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app det",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+          "published": "2026-10-20T09:06:44-04:00"
+        },
+        {
+          "title": "Final Fantasy dips back into the SNES golden era with Resonance",
+          "summary": "Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1013958/final-fantasy-resonance-review",
+          "published": "2026-10-20T09:00:00-04:00"
+        },
+        {
+          "title": "爱上纯血世家女孩的混血男孩【AI全民制作人】",
+          "summary": "",
           "importance": "medium",
           "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1hVnJ6ZEyU",
-          "published": "Tue, 20 Oct 2026 04:00:00 GMT"
+          "link": "https://www.bilibili.com/video/BV1bKnw6zEsV",
+          "published": "Tue, 20 Oct 2026 09:30:00 GMT"
         },
         {
-          "title": "《鸣潮》共鸣者「锁暝」PV | 契阔",
-          "summary": "“此道，孤身难行，\n所以......且再陪我多走一程吧。”\n\n中文CV \n锁暝：葛子瑞\n蛇菰：卢晓彤\n九契：万舒心\n\n日文CV \n锁暝：大久保瑠美\n蛇菰：寺依沙织\n九契：百富芽衣\n\n英文CV \n锁暝：Miracle Chance\n蛇菰：Haruka Kuroda\n九契：Aisha Goodman\n\n韩文CV \n锁暝：손정민\n蛇菰：임옥균\n九契：정해은",
-          "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1R8nF65Eme",
-          "published": "Tue, 20 Oct 2026 03:00:00 GMT"
-        },
-        {
-          "title": "周小川：应当开展研究并做好预案，应对人工智能相关投资失败可能带来的金融风险",
-          "summary": "中国人民银行原行长周小川10月20日在2026外滩年会“AI与生产率革命：技术跃迁下的宏观冲击”圆桌环节上表示，对生产率提升来说，最主要是来自AI应用层。他也表示，要为人工智能相关领域投资失败可能带来的金融风险做好应对预案。 “金融行业正在投资AI相关领域。AI相关领域大致有三个类别。一类是大模型，以及用于训练的算力和数据中心及其他。二是AI应用领域，这也是中国更加关注的领域。三是一些为AI提供支",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784021",
-          "published": "Tue, 20 Oct 2026 09:09:15 GMT"
-        },
-        {
-          "title": "不止开源模型！DeepSeek全面开放推理框架，剑指算力与能耗成本",
-          "summary": "周二下午，DeepSeek宣布全面开源内部推理框架DeepInfer，进一步开放大模型推理基础设施，旨在帮助开发者和企业降低大规模AI服务的算力成本与能源消耗。 据DeepSeek介绍，DeepInfer集成高性能算子与优化推理引擎，支持分布式推理、推测解码、结构化输出等能力，并兼容英伟达与华为昇腾平台。基于该框架， DeepSeek已实现DeepSeek V4.1 Flash的高吞吐、低延迟大规",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784020",
-          "published": "Tue, 20 Oct 2026 09:00:08 GMT"
-        },
-        {
-          "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心",
-          "summary": "英伟达正将其近百亿美元的欧洲投资计划推进至德国。在柏林举行的\"投资德国\"峰会上，英伟达与德国政府签署合作意向声明，宣布投资四家德国初创企业，并与西门子达成AI工厂合作协议，进一步巩固其在欧洲工业AI领域的战略布局。 德国总理默茨在峰会开幕致辞中向企业界发出呼吁，要求德国中小企业向AI开放数据，并强调德国有意成为全球AI工业应用的领导者。英伟达CEO黄仁勋则在台上表示，AI只能增强人的能力，而非取代",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784018",
-          "published": "Tue, 20 Oct 2026 08:43:49 GMT"
-        },
-        {
-          "title": "长鑫刺穿“存储泡沫”？",
-          "summary": "芯片股“跌跌不休”。 芯片行业“风向标”费城半导体指数连续8个交易日下跌，总计下跌11.41%，创下2008年以来持续时间最长的连续下跌纪录。存储芯片指数跌幅更是达到17.6%。 英伟达9天市值缩水6000亿美元。韩国“存储双雄”SK海力士与三星电子过去一周分别下跌24.3%和17.8%，同样创下2008年以来的最大单周跌幅。 市场的巨幅震荡之下，有人开始讨论各种散户爆仓、基金清算的话题，其中就包",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784014",
-          "published": "Tue, 20 Oct 2026 08:09:44 GMT"
-        },
-        {
-          "title": "周小川：应开展研究并做好预案，防范AI领域投资失败引发的金融风险",
-          "summary": "据界面新闻，中国央行原行长周小川10月20日在2026外滩年会“AI与生产率变革：技术跃迁下的宏观冲击”圆桌论坛上表示，对于人工智能技术演进，我们无疑会面临部分投资失败、部分投资成功的局面，但考虑到如今有如此巨额的资金流向人工智能及相关基础设施，一旦其中一部分失败，就可能引发金融动荡，并酿成危机，这就需要采取大规模的行动来支撑经济，并对部分金融机构实施救助。因此，我们应当开展研究并做好预案，在政策",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181711",
-          "published": "Tue, 20 Oct 2026 08:07:48 GMT"
-        },
-        {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "summary": "美股能否继续上涨，答案或许不在债券市场，而藏于亚洲半导体供应链的月度数据之中。 近日，彭博宏观策略师Simon White指出，投资者目前过于执着于\"多高的国债收益率会压垮股市\"这一问题，这本质上是个伪命题。 真正需要追踪的信号，是韩国与中国台湾的芯片出口数据——一旦出现明显下滑，将提前3至6个月预警资本支出周期见顶，进而触发盈利预期转向，令高收益率环境下的美股骤然承压。 目前，上述出口数据尚未显",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784011",
-          "published": "Tue, 20 Oct 2026 07:54:48 GMT"
-        },
-        {
-          "title": "工信部：支持企业围绕核心环节，建设高质量工业数据集，开发先进适用的垂域大模型和各类工业专用模型",
-          "summary": "国务院新闻办公室今日（10月20日）举行新闻发布会。 会上介绍，党中央、国务院高度重视新一代智能制造发展。今年9月召开的全国先进制造业大会明确提出，要以新一代智能制造为主攻方向，加快推动制造业智能化、绿色化、融合化发展。 目前，工业和信息化部正在研究起草新一代智能制造的有关政策措施，加快推动人工智能与制造业深度融合。 发展新一代智能制造，关键在于推动人工智能技术与制造业全链条深度融合，提升装备和系",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784013",
-          "published": "Tue, 20 Oct 2026 07:34:28 GMT"
-        },
-        {
-          "title": "油价传导超预期，日本央行拟12月加息，10月按兵不动",
-          "summary": "日本央行在通胀黏性与经济复苏之间权衡，政策收紧步伐仍取决于后续物价走势。 10月20日，据路透援引四位知情人士，日本央行可能在本月发布的季度报告中上调2027财年核心通胀预测，以反映近期油价上涨的传导效应。 若日元没有新一轮大幅贬值、进一步推高进口成本，央行预计将在10月30日结束的政策会议上按兵不动，最早可能于12月再次加息。 日本央行上月已将基准利率上调至1.25%，创31年新高。随着潜在通胀",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784010",
-          "published": "Tue, 20 Oct 2026 07:29:43 GMT"
-        },
-        {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "summary": "10月20日，外交部发言人毛宁主持例行记者会。法新社记者提问，美国政府已指示其各机构停止使用中国公司DeepSeek的人工智能工具，美方称该工具可能构成多重威胁，包括敏感数据可能被传输至中国。请问外交部对此有何评论？毛宁表示，中方一贯反对泛化国家安全概念、将科技经贸问题政治化，我们将坚决维护中国企业的合法权益。（澎湃新闻）",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181667",
-          "published": "Tue, 20 Oct 2026 07:15:39 GMT"
-        },
-        {
-          "title": "为什么值得专程去一趟香港金融科技周？答案不只在会场",
-          "summary": "作为连接资本、创新与全球市场的“超级联系人”，香港对于投资者和创业者，正在孕育哪些新机遇? AI正如何从独立的技术议题，变成所有产业都要具备的新能力？中国企业出海，如何跨越监管、规则与文化的壁垒，真正接入国际资本、客户与产业伙伴体系？ 11月，我们一起去香港和深圳，近距离找答案。 11月2日至3日，走进香港金融科技周，听全球金融机构、科技企业和监管者的观点分享； 11月4日，与金融机构面对面，交流",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783608",
-          "published": "Tue, 20 Oct 2026 06:58:02 GMT"
-        },
-        {
-          "title": "存储深度调整，端侧AI突然爆火：AI的下一场财富转移已开始？",
-          "summary": "10月20日，端侧AI从芯片到整机集体走强，恰与此前存储股的深度调整构成反差。存储当期仍在涨价，市场交易的却是未来稀缺溢价能否持续；端侧AI则迎来模型轻量化、端云协作与终端创新的共同推进。 端侧AI已走到“万事俱备，只欠爆款”的关键阶段。连接与低功耗芯片可能最先获得订单，多模态SoC分享计算升级红利，而掌握产品定义和用户入口的设备厂商，有机会成为长期价值的主导者。 一、发生了什么？——存储股退潮，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784005",
-          "published": "Tue, 20 Oct 2026 06:54:55 GMT"
-        },
-        {
-          "title": "国家发展改革委：将及时出台实施增量政策",
-          "summary": "今天（20日），国家发展改革委举行新闻发布会，相关负责人表示，将会同有关部门及时出台实施增量政策，推动存量政策与增量政策协同发力，发挥好宏观政策集成效应，努力实现“十五五”良好开局。 国家发展改革委有关负责人介绍，将进一步增强存量政策实施效能。协同推进“十五五”规划、“六张网”实施方案重大工程项目开工建设，高质量做好项目准备，逐项梳理未开工项目前期工作进展，加强要素保障，提高审批效率，协调有关方面",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784004",
-          "published": "Tue, 20 Oct 2026 06:54:48 GMT"
-        },
-        {
-          "title": "CoreWeave信贷危机更像2023年SVB恐慌，而非2008年次贷危机？",
-          "summary": "CoreWeave无担保债券收益率飙升至约15%、CDS利差突破1000个基点，令市场对整个AI资本支出周期的系统性风险产生强烈质疑。 然而，华尔街头部机构正集体发声：这不是2007年新世纪金融（New Century Financial）式的系统性崩塌，而更像2023年硅谷银行（SVB）引发的阶段性恐慌——一只规模极小、结构极脆弱的工具，正被市场当作万亿美元AI资本支出周期的晴雨表。 巴克莱全球",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784003",
-          "published": "Tue, 20 Oct 2026 06:51:36 GMT"
-        },
-        {
-          "title": "高盛逆势唱多长鑫科技：Q3营收超预期30%，上调目标价至130元",
-          "summary": "AI驱动的DRAM需求强劲爆发，正将长鑫科技推向新的增长轨道。 据追风交易台消息，高盛发布最新研究报告， 维持对长鑫科技的\"买入\"评级，并将12个月目标价从129元小幅上调至130元。 触发此次上调的直接催化剂，是长鑫科技披露的 第三季度业绩预告 —— 高盛预计公司Q3营收区间为1150亿至1200亿元人民币，环比增长15%至20%，中值较高盛此前预测高出约30%。 这一超预期指引，叠加公司宣布第",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784001",
-          "published": "Tue, 20 Oct 2026 06:27:57 GMT"
-        },
-        {
-          "title": "A股风格切换将至？AI科技牛市临近尾声？听徐小庆分享股债汇市场最新洞察，推演四季度配置逻辑",
-          "summary": "2026年三季度以来， 全球市场巨震 ： 股市方面 ，AI科技股遭遇年内第二轮剧烈调整。10月初OpenAI披露年化收入接近500亿美元，远低于市场预期的700亿美元，引发AI概念股大规模抛售。费城半导体指数连跌8个交易日，创2008年以来最长连跌纪录；纳指单周累计下跌4.48%，为6月以来最大单周跌幅；英伟达9个交易日市值较高点蒸发约0.6万亿美元。 韩国股市 由上半年全球最强市场转为重灾区，K",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783994",
-          "published": "Tue, 20 Oct 2026 05:59:36 GMT"
-        },
-        {
-          "title": "亚洲股市集体下跌，韩股重挫4.5%，日股跌逾1%，SK海力士大跌7%",
-          "summary": "亚洲股市周二全线下挫，未能延续华尔街隔夜科技股反弹势头，韩国芯片股跌幅尤为显著。与此同时，美国国债收益率维持高位，投资者等待本周重磅科技公司财报进一步确认市场方向。 周二，韩国主要股指均跌超4%，领跌亚太股市。MSCI亚太指数下跌约1%，11个子行业中8个录得跌幅，下跌个股数量约为上涨个股的三倍。 亚洲市场的疲软与美股形成鲜明反差。周一纽约市场上，费城半导体指数攀升1.6%，终结此前长达八个交易日",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783983",
-          "published": "Tue, 20 Oct 2026 02:13:56 GMT"
-        },
-        {
-          "title": "A股双创指数盘初跌超1%之后翻红，AI硬件股反弹，北证50暴涨5%，宁德时代AH股同步下滑，恒指、恒科指齐跌1%",
-          "summary": "10月20日，A股三大股指低开，早盘震荡走强，创业板翻红，此外一度跌超1%，科创50探底回升，此前亦一度跌超1%，AI硬件股反弹，覆铜板、电路板等概念股集体拉升。北证50暴涨5%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。白酒、煤炭、海运等板块调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783987",
-          "published": "Tue, 20 Oct 2026 01:56:38 GMT"
-        },
-        {
-          "title": "工信部：600亿元国家AI基金投出一批项目 人工智能企业超6600家",
-          "summary": "工信部科技司司长魏巍称，2025年，中国人工智能核心产业规模超1.2万亿元 【财新网】 国家队仍在加码人工智能投资。10月19日，工业和信息化部科技司司长魏巍在国务院新闻办公室新闻发布会上称，600亿元国家人工智能产业投资基金已投出一批优质项目。2025年，中国人工智能核心产业规模超1.2万亿元，规模以上制造业企业人工智能技术应用普及率超30%，截至今年6月底，我国人工智能企业数量超6600家。 ",
+          "title": "国家数据集团成立 计划推进数据资源开发利用",
+          "summary": "国家数据集团成立于河北雄安新区，中国联通和国家数据局官员出任集团领导 【财新网】 数据产业领域新央企成立。10月20日，国务院国资委公告，经国务院批准，组建国家数据集团有限公司，由国务院国有资产监督管理委员会代表国务院履行出资人职责，列入国务院国有资产监督管理委员会履行出资人职责的企业名单。 新华社报道，国家数据集团有限公司在河北雄安新区成立，该集团是一家以数据资源开发利用为主责主业的中央企业。 ",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495228.html",
-          "published": "Tue, 20 Oct 2026 07:09:08 GMT"
+          "link": "https://www.caixin.com/2026-10-20/102495376.html",
+          "published": "Tue, 20 Oct 2026 13:05:40 GMT"
         },
         {
-          "title": "美国土安全部禁止联邦文职行政机构使用DeepSeek以及相关产品",
-          "summary": "从现有信息技术系统中移除DeepSeek相关产品，包括使用DeepSeek 实现方案开发的第三方产品和服务 【财新网】 当地时间10月19日，美国国土安全部公开了一份和DeepSeek相关的禁令。文件要求美国联邦文职行政机构停止采购DeepSeek相关产品和服务，同时从现有信息技术系统中移除DeepSeek相关产品，包括使用DeepSeek实现方案开发的第三方产品和服务。 按美国网络安全和基础设施",
+          "title": "潘功胜：高科技产业快速发展 为人民币资产提供坚实支撑",
+          "summary": "下一阶段，人民银行将进一步支持全球投资者和发行人参与中国金融市场，持续提升投融资便利性。同时，加强境内外金融基础设施联通，持续推进中国金融市场高水平开放 【财新网】 高科技产业对中国吸引投资和金融开放有何影响？10月15日，在2026年IMF/世行年会期间，中国人民银行行长潘功胜出席新兴市场研讨会并作主旨发言时指出，当前全球地缘政治风险上升，国际经济金融环境发生深刻变化，全球投资者对多元分散配置和",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495223.html",
-          "published": "Tue, 20 Oct 2026 06:47:48 GMT"
-        },
-        {
-          "title": "陈燕妮：租不起的曼哈顿｜故事",
-          "summary": "曼哈顿不缺梦想，对于无数在这座著名之岛挣扎流转的人群而言，生活永远会被精打细算成一个昂贵开间的容纳 一 当我把陈镇威（Chun Wai Chan）（详见《 陈燕妮：当上纽约芭蕾舞团首席的陈镇威｜人物 》）在曼哈顿32平米小小开间（Studio）的报道转给儿子看时，他说自己甚至已经看过相关视频。看来，他们这伙子被曼哈顿寸土寸金定义的生存者，对如何处心积虑地用好小空间，有着同仇敌忾的同病相怜。 上月9",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-10-20/102495181.html",
-          "published": "Tue, 20 Oct 2026 06:23:52 GMT"
-        },
-        {
-          "title": "人流、物流、资金流 战争对迪拜影响多大？｜出海·地缘",
-          "summary": "人口与资金仍在流入，新增企业、旅游、物流明显下滑，迪拜遭遇经济韧性考验 【财新网】 “我们目睹了地区局势的动荡，但过去几十年来，迪拜持续投资于国防、银行、公共服务和能源基础设施，因此在这一时期展现出了很强的韧性。”美伊战事爆发七个多月后，迪拜经济发展公司（Dubai Economic Development Corporation，DEDC）首席执行官哈迪·巴德里（Hadi Badri）在深圳举行",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://companies.caixin.com/2026-10-20/102495160.html",
-          "published": "Tue, 20 Oct 2026 04:51:44 GMT"
-        },
-        {
-          "title": "【商圈】AI减员浪潮下，达美航空当家人为何坚持“照顾好员工”",
-          "summary": "资本市场习惯以收入、EBITDA、杠杆率评判航司价值，人力常常被视作可压缩的成本项。但在巴斯蒂安的治理框架中，员工并非单纯成本，而是核心护城河的组成部分",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495125.html",
-          "published": "Tue, 20 Oct 2026 03:35:49 GMT"
-        },
-        {
-          "title": "【华尔街原声】华尔街策略师：债券市场收紧AI融资有助于降低泡沫风险",
-          "summary": "债券投资者开始重新审视AI企业的信用风险，融资成本上升可能抑制过度投资",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495109.html",
-          "published": "Tue, 20 Oct 2026 02:47:12 GMT"
+          "link": "https://finance.caixin.com/2026-10-20/102495274.html",
+          "published": "Tue, 20 Oct 2026 09:39:10 GMT"
         }
       ]
     },
     {
-      "name": "金融 / 投资",
+      "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "周小川：应当开展研究并做好预案，应对人工智能相关投资失败可能带来的金融风险",
-          "summary": "中国人民银行原行长周小川10月20日在2026外滩年会“AI与生产率革命：技术跃迁下的宏观冲击”圆桌环节上表示，对生产率提升来说，最主要是来自AI应用层。他也表示，要为人工智能相关领域投资失败可能带来的金融风险做好应对预案。 “金融行业正在投资AI相关领域。AI相关领域大致有三个类别。一类是大模型，以及用于训练的算力和数据中心及其他。二是AI应用领域，这也是中国更加关注的领域。三是一些为AI提供支",
+          "title": "Voxtral 3",
+          "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 11 # Comments: 0",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784021",
-          "published": "Tue, 20 Oct 2026 09:09:15 GMT"
+          "source": "Hacker News",
+          "link": "https://mistral.ai/news/voxtral-3/",
+          "published": "Tue, 20 Oct 2026 16:02:07 +0000"
         },
         {
-          "title": "事关智能制造、汽车安全、光伏新型储能...工信部最新发声",
-          "summary": "10月20日，国务院新闻办公室举行新闻发布会介绍2026年前三季度工业和信息化发展情况。 会上介绍，前三季度，我国装备工业保持向好发展态势，持续提质增效。装备工业“压舱石”作用持续巩固。 前三季度装备工业增加值同比增长7.1%，对工业增长贡献率达26.6%。 高端装备供给能力增强，工业机器人、数控机床、新能源汽车产量分别同比增长29.1%、13.5%、11%。全国造船完工量同比增长50.7%。下一",
+          "title": "Making a VGA Driver in SystemVerilog",
+          "summary": "Article URL: https://lukaswerner.com/post/2026-10-20@bottom-up-vga Comments URL: https://news.ycombinator.com/item?id=50168376 Points: 7 # Comments: 0",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784017",
-          "published": "Tue, 20 Oct 2026 09:08:17 GMT"
+          "source": "Hacker News",
+          "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+          "published": "Tue, 20 Oct 2026 16:00:15 +0000"
         },
         {
-          "title": "不止开源模型！DeepSeek全面开放推理框架，剑指算力与能耗成本",
-          "summary": "周二下午，DeepSeek宣布全面开源内部推理框架DeepInfer，进一步开放大模型推理基础设施，旨在帮助开发者和企业降低大规模AI服务的算力成本与能源消耗。 据DeepSeek介绍，DeepInfer集成高性能算子与优化推理引擎，支持分布式推理、推测解码、结构化输出等能力，并兼容英伟达与华为昇腾平台。基于该框架， DeepSeek已实现DeepSeek V4.1 Flash的高吞吐、低延迟大规",
+          "title": "Why do we have so many meetings?",
+          "summary": "Article URL: https://www.nber.org/papers/w35706 Comments URL: https://news.ycombinator.com/item?id=50167732 Points: 28 # Comments: 29",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784020",
-          "published": "Tue, 20 Oct 2026 09:00:08 GMT"
+          "source": "Hacker News",
+          "link": "https://www.nber.org/papers/w35706",
+          "published": "Tue, 20 Oct 2026 15:19:19 +0000"
         },
         {
-          "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心",
-          "summary": "英伟达正将其近百亿美元的欧洲投资计划推进至德国。在柏林举行的\"投资德国\"峰会上，英伟达与德国政府签署合作意向声明，宣布投资四家德国初创企业，并与西门子达成AI工厂合作协议，进一步巩固其在欧洲工业AI领域的战略布局。 德国总理默茨在峰会开幕致辞中向企业界发出呼吁，要求德国中小企业向AI开放数据，并强调德国有意成为全球AI工业应用的领导者。英伟达CEO黄仁勋则在台上表示，AI只能增强人的能力，而非取代",
+          "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+          "summary": "Article URL: https://github.com/AbdullahAlhariri/penmentor Comments URL: https://news.ycombinator.com/item?id=50167604 Points: 12 # Comments: 1",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784018",
-          "published": "Tue, 20 Oct 2026 08:43:49 GMT"
+          "source": "Hacker News",
+          "link": "https://github.com/AbdullahAlhariri/penmentor",
+          "published": "Tue, 20 Oct 2026 15:10:54 +0000"
         },
         {
-          "title": "谁在为美股加杠杆？",
-          "summary": "2026年至今，全球股市中的两件事尤为显著：韩国KOSPI市场在去杠杆后崩塌，以及美股市场尤其科技不断续创新高，而这两者背后都有各自杠杆ETF推波助澜。韩国KOSPI指数在上半年累计上涨超过100%，但在6月19日创下9385.59点历史新高后，六周内回撤近30%。这背后的关键因素之一就在于三星和SK海力士在剧烈下挫后，挂钩这两只的韩国个股杠杆ETF导致了自循环的机械卖压和踩踏式下跌。 而与此同时",
+          "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+          "summary": "Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/ Comments URL: https://news.ycombinator.com/item?id=50167560 Points: 5 # Comments: 1",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784015",
-          "published": "Tue, 20 Oct 2026 08:25:43 GMT"
+          "source": "Hacker News",
+          "link": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+          "published": "Tue, 20 Oct 2026 15:07:38 +0000"
         },
         {
-          "title": "铜价高位仍难解供给缺口，机构测算：矿商需3320亿美元新投资才能避免供给冲击",
-          "summary": "全球铜矿业面临一场结构性危机。据BNEF最新测算，在能源转型驱动需求持续攀升的背景下，铜矿行业需要约3320亿美元的新增投资，才能避免未来出现严峻的供给冲击。 BNEF周二发布的报告显示，若无大规模资本投入，全球铜市场到2050年将累计出现2000万吨的供给缺口，并可能于2028年率先陷入供不应求。届时电气化转型进程或将因此受阻。 这一缺口的形成并非源于地下资源匮乏，而在于现有矿山产能加速衰退、新",
+          "title": "Facebook now charging to post more than 2 links a month",
+          "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 204 # Comments: 106",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784019",
-          "published": "Tue, 20 Oct 2026 08:22:56 GMT"
+          "source": "Hacker News",
+          "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+          "published": "Tue, 20 Oct 2026 15:06:08 +0000"
         },
         {
-          "title": "长鑫刺穿“存储泡沫”？",
-          "summary": "芯片股“跌跌不休”。 芯片行业“风向标”费城半导体指数连续8个交易日下跌，总计下跌11.41%，创下2008年以来持续时间最长的连续下跌纪录。存储芯片指数跌幅更是达到17.6%。 英伟达9天市值缩水6000亿美元。韩国“存储双雄”SK海力士与三星电子过去一周分别下跌24.3%和17.8%，同样创下2008年以来的最大单周跌幅。 市场的巨幅震荡之下，有人开始讨论各种散户爆仓、基金清算的话题，其中就包",
+          "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+          "summary": "Article URL: https://github.com/rohan-protocol/sdk Comments URL: https://news.ycombinator.com/item?id=50167533 Points: 6 # Comments: 1",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784014",
-          "published": "Tue, 20 Oct 2026 08:09:44 GMT"
+          "source": "Hacker News",
+          "link": "https://github.com/rohan-protocol/sdk",
+          "published": "Tue, 20 Oct 2026 15:05:53 +0000"
         },
         {
-          "title": "周小川：应开展研究并做好预案，防范AI领域投资失败引发的金融风险",
-          "summary": "据界面新闻，中国央行原行长周小川10月20日在2026外滩年会“AI与生产率变革：技术跃迁下的宏观冲击”圆桌论坛上表示，对于人工智能技术演进，我们无疑会面临部分投资失败、部分投资成功的局面，但考虑到如今有如此巨额的资金流向人工智能及相关基础设施，一旦其中一部分失败，就可能引发金融动荡，并酿成危机，这就需要采取大规模的行动来支撑经济，并对部分金融机构实施救助。因此，我们应当开展研究并做好预案，在政策",
+          "title": "Ofcom Concedes Defeat in the 4chan Case",
+          "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 90 # Comments: 50",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181711",
-          "published": "Tue, 20 Oct 2026 08:07:48 GMT"
+          "source": "Hacker News",
+          "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+          "published": "Tue, 20 Oct 2026 14:30:31 +0000"
         },
         {
-          "title": "中国1年期利率互换跌至2009年以来最低水平。",
-          "summary": "中国1年期利率互换跌至2009年以来最低水平。",
+          "title": "My Friend Bob Cringely",
+          "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 67 # Comments: 23",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181706",
-          "published": "Tue, 20 Oct 2026 08:03:49 GMT"
+          "source": "Hacker News",
+          "link": "https://tyma.com/my-cringe-story/",
+          "published": "Tue, 20 Oct 2026 14:13:49 +0000"
         },
         {
-          "title": "中国货币政策“换锚史”",
-          "summary": "中国货币政策，正在经历一次很重要的”换锚”。 过去看M2、信贷、社融。 现在，越来越看利率。 过去是”MLF—LPR”。 后来明确7天逆回购利率是主要政策利率。 下一步，可能进一步锚定隔夜逆回购利率。 从中期，到7天，再到隔夜。 期限越来越短，信号越来越快，调控越来越精准。 但注意，这不是降息，也不是加息，更不是货币政策突然转向。 国信证券银行业首席分析师王剑在最新报告中讲透了这场”换锚”背后的逻",
+          "title": "EMudhra Intermediate CA Compromise",
+          "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 151 # Comments: 57",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960062",
-          "published": "Tue, 20 Oct 2026 08:01:52 GMT"
+          "source": "Hacker News",
+          "link": "https://emudhra.we-have-a-problem.com/",
+          "published": "Tue, 20 Oct 2026 13:58:33 +0000"
         },
         {
-          "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
-          "summary": "国务院新闻办公室今日（10月20日）举行新闻发布会。会上介绍，近年来，在各方面的团结协作、积极进取下，我国汽车产业技术创新活跃，产品迭代更新速度快，企业生产制造能力和质量管理水平不断提高，中国品牌汽车功能和性能不断提升。但确实也出现了部分企业跟风推出新产品，测试验证不充分等问题。 为进一步提升汽车产品安全技术性能，保障公共安全和公民生命财产安全，近日，工信部会同公安部、生态环境部、市场监管总局等部",
+          "title": "2026 is an exciting year for the Rust compiler (and me)",
+          "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 48 # Comments: 5",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181700",
-          "published": "Tue, 20 Oct 2026 07:58:42 GMT"
+          "source": "Hacker News",
+          "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+          "published": "Tue, 20 Oct 2026 13:53:48 +0000"
         },
         {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "summary": "美股能否继续上涨，答案或许不在债券市场，而藏于亚洲半导体供应链的月度数据之中。 近日，彭博宏观策略师Simon White指出，投资者目前过于执着于\"多高的国债收益率会压垮股市\"这一问题，这本质上是个伪命题。 真正需要追踪的信号，是韩国与中国台湾的芯片出口数据——一旦出现明显下滑，将提前3至6个月预警资本支出周期见顶，进而触发盈利预期转向，令高收益率环境下的美股骤然承压。 目前，上述出口数据尚未显",
+          "title": "How I got over 300 Tor exit nodes removed",
+          "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 109 # Comments: 31",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784011",
-          "published": "Tue, 20 Oct 2026 07:54:48 GMT"
+          "source": "Hacker News",
+          "link": "https://kaba.cx/posts/20261020_Tor/",
+          "published": "Tue, 20 Oct 2026 13:39:24 +0000"
         },
         {
-          "title": "货币政策的“不可能三角”",
-          "summary": "一、学习思考：对金融街会议政策调控的一些思考 2026年10月19日，潘行长在金融街论坛年会上发表主题演讲，公布了多项后续政策安排。我们对其中几项政策的理解如下。 （一）优化短端利率调控机制 会议表述：从现在的情况看，银行间隔夜回购利率实际上已成为央行货币政策调控的目标利率；但与此同时，央行公开市场操作主要品种和主要政策利率的期限还是7天，两者并不完全一致。 为了进一步提高利率调控的精准性，我们将",
+          "title": "Tsrs: A Port of TypeScript to Rust",
+          "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 124 # Comments: 67",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784012",
-          "published": "Tue, 20 Oct 2026 07:39:36 GMT"
+          "source": "Hacker News",
+          "link": "https://blog.cloudflare.com/typescript-rust-port/",
+          "published": "Tue, 20 Oct 2026 13:18:07 +0000"
         },
         {
-          "title": "工信部：支持企业围绕核心环节，建设高质量工业数据集，开发先进适用的垂域大模型和各类工业专用模型",
-          "summary": "国务院新闻办公室今日（10月20日）举行新闻发布会。 会上介绍，党中央、国务院高度重视新一代智能制造发展。今年9月召开的全国先进制造业大会明确提出，要以新一代智能制造为主攻方向，加快推动制造业智能化、绿色化、融合化发展。 目前，工业和信息化部正在研究起草新一代智能制造的有关政策措施，加快推动人工智能与制造业深度融合。 发展新一代智能制造，关键在于推动人工智能技术与制造业全链条深度融合，提升装备和系",
+          "title": "Publish fake stats, get cited in LLMs",
+          "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 157 # Comments: 90",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784013",
-          "published": "Tue, 20 Oct 2026 07:34:28 GMT"
+          "source": "Hacker News",
+          "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+          "published": "Tue, 20 Oct 2026 13:06:22 +0000"
         },
         {
-          "title": "日本养老金加码本土国债，半年净买入1.88万亿日元，创17年新高",
-          "summary": "日本国内投资者正以17年来最强劲的力度回购本土国债，而同日举行的20年期国债拍卖更创下有史以来最高需求纪录，表明高企的收益率正重新激活国内机构的配置意愿。 据日本证券业协会周二公布的数据显示， 截至9月30日的上半财年，日本投资者对本国国债的净买入规模达到18.8万亿日元（约合1190亿美元），为2009年以来最高。 与此同时， 当日20年期日本国债拍卖的投标倍数达到5.84倍，远高于上次的4.0",
+          "title": "Apple broke an essential presentation feature of iPads",
+          "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 250 # Comments: 133",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784006",
-          "published": "Tue, 20 Oct 2026 07:31:44 GMT"
+          "source": "Hacker News",
+          "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+          "published": "Tue, 20 Oct 2026 12:17:28 +0000"
         },
         {
-          "title": "油价传导超预期，日本央行拟12月加息，10月按兵不动",
-          "summary": "日本央行在通胀黏性与经济复苏之间权衡，政策收紧步伐仍取决于后续物价走势。 10月20日，据路透援引四位知情人士，日本央行可能在本月发布的季度报告中上调2027财年核心通胀预测，以反映近期油价上涨的传导效应。 若日元没有新一轮大幅贬值、进一步推高进口成本，央行预计将在10月30日结束的政策会议上按兵不动，最早可能于12月再次加息。 日本央行上月已将基准利率上调至1.25%，创31年新高。随着潜在通胀",
+          "title": "Hazel (YC W24) Is Hiring",
+          "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci Comments URL: https://news.ycombinator.com/item?id=50164991 Points: 0 # Comments: 0",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784010",
-          "published": "Tue, 20 Oct 2026 07:29:43 GMT"
+          "source": "Hacker News",
+          "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+          "published": "Tue, 20 Oct 2026 12:00:32 +0000"
         },
         {
-          "title": "为什么值得专程去一趟香港金融科技周？答案不只在会场",
-          "summary": "作为连接资本、创新与全球市场的“超级联系人”，香港对于投资者和创业者，正在孕育哪些新机遇? AI正如何从独立的技术议题，变成所有产业都要具备的新能力？中国企业出海，如何跨越监管、规则与文化的壁垒，真正接入国际资本、客户与产业伙伴体系？ 11月，我们一起去香港和深圳，近距离找答案。 11月2日至3日，走进香港金融科技周，听全球金融机构、科技企业和监管者的观点分享； 11月4日，与金融机构面对面，交流",
+          "title": "DeepSeek just open-sourced its inference engine",
+          "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 1654 # Comments: 602",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783608",
-          "published": "Tue, 20 Oct 2026 06:58:02 GMT"
+          "source": "Hacker News",
+          "link": "https://github.com/deepseek-ai/DeepInfer",
+          "published": "Tue, 20 Oct 2026 09:08:54 +0000"
         },
         {
-          "title": "存储深度调整，端侧AI突然爆火：AI的下一场财富转移已开始？",
-          "summary": "10月20日，端侧AI从芯片到整机集体走强，恰与此前存储股的深度调整构成反差。存储当期仍在涨价，市场交易的却是未来稀缺溢价能否持续；端侧AI则迎来模型轻量化、端云协作与终端创新的共同推进。 端侧AI已走到“万事俱备，只欠爆款”的关键阶段。连接与低功耗芯片可能最先获得订单，多模态SoC分享计算升级红利，而掌握产品定义和用户入口的设备厂商，有机会成为长期价值的主导者。 一、发生了什么？——存储股退潮，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784005",
-          "published": "Tue, 20 Oct 2026 06:54:55 GMT"
-        },
-        {
-          "title": "国家发展改革委：将及时出台实施增量政策",
-          "summary": "今天（20日），国家发展改革委举行新闻发布会，相关负责人表示，将会同有关部门及时出台实施增量政策，推动存量政策与增量政策协同发力，发挥好宏观政策集成效应，努力实现“十五五”良好开局。 国家发展改革委有关负责人介绍，将进一步增强存量政策实施效能。协同推进“十五五”规划、“六张网”实施方案重大工程项目开工建设，高质量做好项目准备，逐项梳理未开工项目前期工作进展，加强要素保障，提高审批效率，协调有关方面",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784004",
-          "published": "Tue, 20 Oct 2026 06:54:48 GMT"
-        },
-        {
-          "title": "CoreWeave信贷危机更像2023年SVB恐慌，而非2008年次贷危机？",
-          "summary": "CoreWeave无担保债券收益率飙升至约15%、CDS利差突破1000个基点，令市场对整个AI资本支出周期的系统性风险产生强烈质疑。 然而，华尔街头部机构正集体发声：这不是2007年新世纪金融（New Century Financial）式的系统性崩塌，而更像2023年硅谷银行（SVB）引发的阶段性恐慌——一只规模极小、结构极脆弱的工具，正被市场当作万亿美元AI资本支出周期的晴雨表。 巴克莱全球",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784003",
-          "published": "Tue, 20 Oct 2026 06:51:36 GMT"
-        },
-        {
-          "title": "高盛逆势唱多长鑫科技：Q3营收超预期30%，上调目标价至130元",
-          "summary": "AI驱动的DRAM需求强劲爆发，正将长鑫科技推向新的增长轨道。 据追风交易台消息，高盛发布最新研究报告， 维持对长鑫科技的\"买入\"评级，并将12个月目标价从129元小幅上调至130元。 触发此次上调的直接催化剂，是长鑫科技披露的 第三季度业绩预告 —— 高盛预计公司Q3营收区间为1150亿至1200亿元人民币，环比增长15%至20%，中值较高盛此前预测高出约30%。 这一超预期指引，叠加公司宣布第",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784001",
-          "published": "Tue, 20 Oct 2026 06:27:57 GMT"
-        },
-        {
-          "title": "A股半导体概念午后震荡反弹，摩尔线程涨超10%，翱捷科技、云天励飞、沐曦股份、芯原股份等跟涨。",
-          "summary": "A股半导体概念午后震荡反弹，摩尔线程涨超10%，翱捷科技、云天励飞、沐曦股份、芯原股份等跟涨。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3181627",
-          "published": "Tue, 20 Oct 2026 06:20:43 GMT"
-        },
-        {
-          "title": "低价跨境生意承压，速卖通开始争夺亚马逊的品牌客户",
-          "summary": "为今年双11，游戏外设品牌GameSir至少提前三四个月备货发往海外，部分商品甚至提前半年备货。 GameSir在速卖通上的双11目标销售额约为400万美元，为此准备了至少500万美元的货品。 提前备货意味着更多的资金占用和库存风险。但对越来越多中国出海品牌而言，提前数月将商品备至海外仓，已成为把握当地销售机会的必要准备。 过去，中国跨境电商依靠低价商品和国际直邮快速扩张。如今，关税、合规和物流成",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784002",
-          "published": "Tue, 20 Oct 2026 06:12:29 GMT"
-        },
-        {
-          "title": "A股风格切换将至？AI科技牛市临近尾声？听徐小庆分享股债汇市场最新洞察，推演四季度配置逻辑",
-          "summary": "2026年三季度以来， 全球市场巨震 ： 股市方面 ，AI科技股遭遇年内第二轮剧烈调整。10月初OpenAI披露年化收入接近500亿美元，远低于市场预期的700亿美元，引发AI概念股大规模抛售。费城半导体指数连跌8个交易日，创2008年以来最长连跌纪录；纳指单周累计下跌4.48%，为6月以来最大单周跌幅；英伟达9个交易日市值较高点蒸发约0.6万亿美元。 韩国股市 由上半年全球最强市场转为重灾区，K",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783994",
-          "published": "Tue, 20 Oct 2026 05:59:36 GMT"
-        },
-        {
-          "title": "选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票",
-          "summary": "特朗普政府宣布推出新一轮农业补贴计划，以缓解高油价对农业生产的冲击，此举更多折射出中期选举前共和党在摇摆农业州的政治压力。 据路透社20日报道，特朗普周一在堪萨斯州的竞选集会上宣布， 美国农业部将启动一项名为\"丰收燃料救济计划\"的新项目，向农民提供80亿美元资金，用于抵消本次收割季的柴油成本。 农业部随后确认，这笔资金将以一次性支付的形式发放，定位为应对\"临时性市场扰动和生产成本上升\"的短期救济措",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783996",
-          "published": "Tue, 20 Oct 2026 05:55:45 GMT"
-        },
-        {
-          "title": "亚洲股市集体下跌，韩股重挫4.5%，日股跌逾1%，SK海力士大跌7%",
-          "summary": "亚洲股市周二全线下挫，未能延续华尔街隔夜科技股反弹势头，韩国芯片股跌幅尤为显著。与此同时，美国国债收益率维持高位，投资者等待本周重磅科技公司财报进一步确认市场方向。 周二，韩国主要股指均跌超4%，领跌亚太股市。MSCI亚太指数下跌约1%，11个子行业中8个录得跌幅，下跌个股数量约为上涨个股的三倍。 亚洲市场的疲软与美股形成鲜明反差。周一纽约市场上，费城半导体指数攀升1.6%，终结此前长达八个交易日",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783983",
-          "published": "Tue, 20 Oct 2026 02:13:56 GMT"
-        },
-        {
-          "title": "A股双创指数盘初跌超1%之后翻红，AI硬件股反弹，北证50暴涨5%，宁德时代AH股同步下滑，恒指、恒科指齐跌1%",
-          "summary": "10月20日，A股三大股指低开，早盘震荡走强，创业板翻红，此外一度跌超1%，科创50探底回升，此前亦一度跌超1%，AI硬件股反弹，覆铜板、电路板等概念股集体拉升。北证50暴涨5%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。白酒、煤炭、海运等板块调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783987",
-          "published": "Tue, 20 Oct 2026 01:56:38 GMT"
-        },
-        {
-          "title": "三季度北京办公楼租金再降 预期租金2028年迎拐点",
-          "summary": "科技企业的高需求使北京西部的写字楼企稳，部分项租金上调；东西部景气程度分化明显 【财新网】 三季度，北京办公楼市场依旧面临租金下行的压力，不过在以中关村区域为代表的西部地区，科技企业的高需求使得当地的房价率先筑底，部分接近满租的优质项目已实现租金上调；市场预计，北京办公楼整体租金将于2028年迎来拐点。 10月20日，商业地产服务和投资机构仲量联行（NASDAQ：JLL）发布报告显示，2026年三",
+          "title": "人物｜从以军总参谋长到总理挑战者，艾森科特为何脱下戎装从政",
+          "summary": "作为现任以色列总理内塔尼亚胡的主要挑战者，艾森科特在谈及内塔尼亚胡时直言道，“我并不恨他，也无意对他个人进行报复。我只是觉得他失败了。” 当地时间2026年9月7日，以色列，加迪·艾森科特出席活动。图：IC photo 【财新网】 “我的目标，是在选举中彻底击败内塔尼亚胡，让他告别自己的政治生涯。” 谈及即将于今年10月27日举行的以色列大选，以色列反对党正直党（Yashar）领袖、曾任以色列国防",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495265.html",
-          "published": "Tue, 20 Oct 2026 08:55:34 GMT"
+          "link": "https://international.caixin.com/2026-10-20/102495392.html",
+          "published": "Tue, 20 Oct 2026 14:15:45 GMT"
         },
         {
-          "title": "三一重能加速出海 筹划在埃及建厂｜出海·能源",
-          "summary": "三一重能预计未来五年海外业务高增，目前已在哈萨克斯坦、印度布局本地制造；埃及在2025年中国风电出口的海外目的地中排名第二，占比15.1% 2025年9月24日，山东日照，三一重能日照风电设备制造基地总装车间。图：视觉中国 【财新网】 2026年上半年，三一重能海外销售收入同比大增300%。未来五年海外业务保持高速增长。 三一重能（688349.SH）副总经理林志刚10月中旬北京国际风能大会期间接",
+          "title": "特朗普为内塔尼亚胡选前送暖 以色列大选牵动地区紧张神经",
+          "summary": "特朗普接受媒体采访时表示，他支持内塔尼亚胡是因为他们之间有“良好的关系”，如果内塔尼亚胡连任以色列总理，他们“将继续合作愉快” 【财新网】 当地时间10月18日，特朗普在其拥有的社交平台“Truth Social”发表长文，盛赞正在面临议会大选压力的以色列总理内塔尼亚胡，称自己会在即将到来的以色列竞选活动中，给予内塔尼亚胡“全面且彻底的支持”。 特朗普在帖文中用内塔尼亚胡的名字，称他为“Bibi”",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495251.html",
-          "published": "Tue, 20 Oct 2026 08:27:58 GMT"
+          "link": "https://international.caixin.com/2026-10-20/102495367.html",
+          "published": "Tue, 20 Oct 2026 12:46:22 GMT"
         },
         {
-          "title": "东京大学迎来首位女校长，日本性别平等仍有长路要走",
-          "summary": "从学生的升学选择、不同学科的性别分布，到学术界的招聘与晋升，女性面临的障碍仍贯穿多个阶段 2026年9月28日，藤垣裕子被选为东京大学下一任校长。经文部科学大臣任命后，她预定于2027年4月1日就任，任期6年。东京大学将在创校150周年之际迎来历史上首位女性校长，但这次人事决定也在校内外引发争议：藤垣在两轮校内意向投票中均排名第二，却最终获选。与此同时，在她即将执掌的这所大学里，每5名本科生中仍只",
+          "title": "特朗普就美朝会晤可能性降低调门 朝鲜称将继续加强“自卫战争遏制力”",
+          "summary": "韩国军方称，截至20日，尚未发现朝鲜大规模增派战术打击力量的明确迹象，但此前已经观察到朝方为恢复对韩扩音器广播进行准备的活动 【财新网】 当地时间10月19日，美国总统特朗普在白宫回答记者提问时表示，不确定下月访华期间能否同朝鲜最高领导人金正恩会面，较此前的积极表态有所降温。 当被问及能否在中国促成美朝会晤时，特朗普回答说：“我不知道。”不过，他再次强调同金正恩保持着良好的个人关系：“我同他相处得",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-20/102495241.html",
-          "published": "Tue, 20 Oct 2026 07:23:49 GMT"
+          "link": "https://international.caixin.com/2026-10-20/102495363.html",
+          "published": "Tue, 20 Oct 2026 12:31:12 GMT"
         },
         {
-          "title": "工信部：600亿元国家AI基金投出一批项目 人工智能企业超6600家",
-          "summary": "工信部科技司司长魏巍称，2025年，中国人工智能核心产业规模超1.2万亿元 【财新网】 国家队仍在加码人工智能投资。10月19日，工业和信息化部科技司司长魏巍在国务院新闻办公室新闻发布会上称，600亿元国家人工智能产业投资基金已投出一批优质项目。2025年，中国人工智能核心产业规模超1.2万亿元，规模以上制造业企业人工智能技术应用普及率超30%，截至今年6月底，我国人工智能企业数量超6600家。 ",
+          "title": "潘功胜：高科技产业快速发展 为人民币资产提供坚实支撑",
+          "summary": "下一阶段，人民银行将进一步支持全球投资者和发行人参与中国金融市场，持续提升投融资便利性。同时，加强境内外金融基础设施联通，持续推进中国金融市场高水平开放 【财新网】 高科技产业对中国吸引投资和金融开放有何影响？10月15日，在2026年IMF/世行年会期间，中国人民银行行长潘功胜出席新兴市场研讨会并作主旨发言时指出，当前全球地缘政治风险上升，国际经济金融环境发生深刻变化，全球投资者对多元分散配置和",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495228.html",
-          "published": "Tue, 20 Oct 2026 07:09:08 GMT"
-        },
-        {
-          "title": "美国土安全部禁止联邦文职行政机构使用DeepSeek以及相关产品",
-          "summary": "从现有信息技术系统中移除DeepSeek相关产品，包括使用DeepSeek 实现方案开发的第三方产品和服务 【财新网】 当地时间10月19日，美国国土安全部公开了一份和DeepSeek相关的禁令。文件要求美国联邦文职行政机构停止采购DeepSeek相关产品和服务，同时从现有信息技术系统中移除DeepSeek相关产品，包括使用DeepSeek实现方案开发的第三方产品和服务。 按美国网络安全和基础设施",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-20/102495223.html",
-          "published": "Tue, 20 Oct 2026 06:47:48 GMT"
-        },
-        {
-          "title": "人流、物流、资金流 战争对迪拜影响多大？｜出海·地缘",
-          "summary": "人口与资金仍在流入，新增企业、旅游、物流明显下滑，迪拜遭遇经济韧性考验 【财新网】 “我们目睹了地区局势的动荡，但过去几十年来，迪拜持续投资于国防、银行、公共服务和能源基础设施，因此在这一时期展现出了很强的韧性。”美伊战事爆发七个多月后，迪拜经济发展公司（Dubai Economic Development Corporation，DEDC）首席执行官哈迪·巴德里（Hadi Badri）在深圳举行",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://companies.caixin.com/2026-10-20/102495160.html",
-          "published": "Tue, 20 Oct 2026 04:51:44 GMT"
-        },
-        {
-          "title": "贷款定价基准多元化、退出存贷款基准利率 央行有何考量？",
-          "summary": "这是央行利率市场化改革的重要组成部分；央行将择机发布多元化贷款定价基准相关政策指引，同时持续改革完善LPR报价机制 【财新网】 “过去几十年来，贷款基准利率、贷款市场报价利率（LPR）等在我国不同时期较好发挥了贷款定价基准作用。近期，一些金融机构在人民银行指导下，同客户协商一致，引入银行间隔夜回购利率（Depository Institutions Repo Rate，简称DR）等市场利率作为浮动",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-20/102495149.html",
-          "published": "Tue, 20 Oct 2026 04:20:14 GMT"
-        },
-        {
-          "title": "过罚相当、裁量有据 违规减持“明码标价”",
-          "summary": "证监会发布违规转让证券行政处罚规则，细分四类行为、设三级裁量阶次，明确从轻从重情形及分别处罚规则，12月1日起施行 【财新网】 2026年10月19日，中国证监会发布《违规转让证券案件行政处罚实施规则》（以下简称：《规则》），自2026年12月1日起施行。《规则》共十八条，曾于2026年4月17日至5月17日向社会公开征求意见。 在严格遵守《行政处罚法》《证券法》等上位法的规定基础上，《规则》既不",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-20/102495145.html",
-          "published": "Tue, 20 Oct 2026 04:18:43 GMT"
-        },
-        {
-          "title": "特斯拉飞行汽车被指华而不实，改变世界的创新总是毁誉参半？",
-          "summary": "毁誉参半不是创新的意外副作用，它就是创新被社会消化吸收的过程本身。历史上夭折于摇篮的技术，多数不是被骂死的，而是被无视死的 当国内还在讨论刹车踏板用多大的力气才能踩断的时候，特斯拉已经真的会飞了。 10月15日，特斯拉在位于美国得克萨斯州麦格雷戈的SpaceX火箭测试场，发布第二代Roadster，现场演示倒挂行驶、短暂腾空及空中转向等功能。 现场观众看到，一辆Roadster像壁虎一样沿着弧形坡",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-20/102495143.html",
-          "published": "Tue, 20 Oct 2026 03:57:09 GMT"
-        },
-        {
-          "title": "证监会发布先行赔付新规 会计师、律师事务所被纳入适用主体",
-          "summary": "实施流程与各机构协同机制被全面梳理细化 【财新网】 10月19日，证监会发布《证券市场先行赔付指导意见（征求意见稿）》（下称《指导意见》）。 先行赔付是指在证券市场中投资者因发行人欺诈发行、虚假陈述或者其他重大违法行为而遭受损失，由发行人的控股股东、实际控制人、相关的证券公司委托投资者保护机构与投资者达成协议，先行垫资向投资者承担赔偿责任，然后再由先行赔付人向未参与先行赔付的相关责任主体进行追偿的",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-20/102495129.html",
-          "published": "Tue, 20 Oct 2026 03:41:03 GMT"
-        },
-        {
-          "title": "【商圈】AI减员浪潮下，达美航空当家人为何坚持“照顾好员工”",
-          "summary": "资本市场习惯以收入、EBITDA、杠杆率评判航司价值，人力常常被视作可压缩的成本项。但在巴斯蒂安的治理框架中，员工并非单纯成本，而是核心护城河的组成部分",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495125.html",
-          "published": "Tue, 20 Oct 2026 03:35:49 GMT"
-        },
-        {
-          "title": "金监总局丛林：高度警惕长期低利率环境下的寿险利差损风险",
-          "summary": "保险业要优化市场结构，大型保险机构应主动对接国家战略，中小保险机构则应减量提质，立足当地市场；优化负债结构与成本，有序消化高成本的存量保单 【财新网】 10月20日，在2026金融街论坛保险大会上，国家金融监督管理总局副局长丛林表示，“十五五”时期是保险业高质量发展夯基发力的关键阶段。保险业要强化使命担当、提升行业适应性和竞争力，同时统筹发展与安全，牢牢守住不发生系统性风险的底线。 在风险防控方面",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-20/102495120.html",
-          "published": "Tue, 20 Oct 2026 03:30:25 GMT"
-        },
-        {
-          "title": "【华尔街原声】美国经济学家：美元全球主导地位可能加速削弱",
-          "summary": "人民币等货币的国际作用有望扩大，但美元信心若突然下降，可能引发金融市场动荡",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495111.html",
-          "published": "Tue, 20 Oct 2026 02:52:08 GMT"
-        },
-        {
-          "title": "【华尔街原声】华尔街策略师：债券市场收紧AI融资有助于降低泡沫风险",
-          "summary": "债券投资者开始重新审视AI企业的信用风险，融资成本上升可能抑制过度投资",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495109.html",
-          "published": "Tue, 20 Oct 2026 02:47:12 GMT"
+          "link": "https://finance.caixin.com/2026-10-20/102495274.html",
+          "published": "Tue, 20 Oct 2026 09:39:10 GMT"
         }
       ]
     },
@@ -661,36 +399,90 @@
       "summary": "",
       "items": [
         {
-          "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心",
-          "summary": "英伟达正将其近百亿美元的欧洲投资计划推进至德国。在柏林举行的\"投资德国\"峰会上，英伟达与德国政府签署合作意向声明，宣布投资四家德国初创企业，并与西门子达成AI工厂合作协议，进一步巩固其在欧洲工业AI领域的战略布局。 德国总理默茨在峰会开幕致辞中向企业界发出呼吁，要求德国中小企业向AI开放数据，并强调德国有意成为全球AI工业应用的领导者。英伟达CEO黄仁勋则在台上表示，AI只能增强人的能力，而非取代",
+          "title": "未央何处丨燕云X张良仁教授的“考古之旅”",
+          "summary": "值未央城开放之际，我们携手南京大学考古学教授张良仁 @张教授的论文作坊   ，共同走进一次特别的“考古之旅”。\n\n看似不可思议的海上奇境，并非是“烟涛微茫信难求 ”的仙山。从一枚古币、一只寄居蟹、一颗骰子、一艘海船......在大胆猜想与小心求证中，逐步窥得一座海中城池的踪迹。而浩瀚千万载，还有许多过往的故事正等待跨越时空的发掘与重逢。\n\n10月23日『长乐夜未央』版本开启，期待游侠以金船为引、溯",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784018",
-          "published": "Tue, 20 Oct 2026 08:43:49 GMT"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1QpnA62EBM",
+          "published": "Tue, 20 Oct 2026 12:40:22 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "法国55万人大游行！但马克龙和夫人在跳舞",
+          "summary": "本期视频提及的事件以及信息来源如下：\n《马克龙谴责法国抗议活动中的暴力行为》，新华网，2026-10-19\n《法国内政部长：警方应对抗议活动时“局面失控”》，新华网，2026-10-19\n《“不能再资助乌克兰” 勒庞担忧法国经济压力》，新华网，2026-10-15\n《法国多城实施局部宵禁防止骚乱重演》，新华网，2026-10-20\n《国际观察丨法国社会动荡背后的现实矛盾和深层困境》，新华网，202",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1hqnF66Etz",
+          "published": "Tue, 20 Oct 2026 09:50:39 GMT"
         },
         {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "summary": "美股能否继续上涨，答案或许不在债券市场，而藏于亚洲半导体供应链的月度数据之中。 近日，彭博宏观策略师Simon White指出，投资者目前过于执着于\"多高的国债收益率会压垮股市\"这一问题，这本质上是个伪命题。 真正需要追踪的信号，是韩国与中国台湾的芯片出口数据——一旦出现明显下滑，将提前3至6个月预警资本支出周期见顶，进而触发盈利预期转向，令高收益率环境下的美股骤然承压。 目前，上述出口数据尚未显",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784011",
-          "published": "Tue, 20 Oct 2026 07:54:48 GMT"
-        },
-        {
-          "title": "青少年的言语智力从哪里来",
-          "summary": "一项脑影像研究发现，语言能力的发展并非单由语言网络支撑；进入青春期，负责执行控制和意象整合的通用脑网络的作用开始上升 【财新网】 同样是读了很多书的孩子，有的不仅懂得多，还能讲得头头是道，甚至下笔如有神；有的字词都认得，一篇文章读完，却说不出讲了什么；还有的，提笔就卡，勉强写出一段，也跟题目隔着一层。可见，言语智力并不只是“多读书、多认字”就能长出来的。那么，字词之外，还缺什么？ 为了回答这一问题",
+          "title": "趣店创始人罗敏补缴个税7.9亿元 因境内实体历史上的股权重组",
+          "summary": "两家境内公司原本为VIE架构下通过协议控制的实体，近年来均转为股权控制的子公司，相关股权重组或被认定为应税交易 【财新网】 以校园贷起家、美股上市的金融科技公司趣店近日披露，因公司两家境内实体历史上的股权重组事项，创始人罗敏应补税7.9亿元。 趣店美股上市主体High Templar Tech Limited（纽交所代码：HTT）称，公司董事长兼CEO罗敏近期收到厦门市税务局的通知，涉及两家中国境",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-20/102495244.html",
-          "published": "Tue, 20 Oct 2026 07:37:19 GMT"
+          "link": "https://economy.caixin.com/2026-10-20/102495371.html",
+          "published": "Tue, 20 Oct 2026 12:58:10 GMT"
         },
         {
-          "title": "东京大学迎来首位女校长，日本性别平等仍有长路要走",
-          "summary": "从学生的升学选择、不同学科的性别分布，到学术界的招聘与晋升，女性面临的障碍仍贯穿多个阶段 2026年9月28日，藤垣裕子被选为东京大学下一任校长。经文部科学大臣任命后，她预定于2027年4月1日就任，任期6年。东京大学将在创校150周年之际迎来历史上首位女性校长，但这次人事决定也在校内外引发争议：藤垣在两轮校内意向投票中均排名第二，却最终获选。与此同时，在她即将执掌的这所大学里，每5名本科生中仍只",
+          "title": "特朗普为内塔尼亚胡选前送暖 以色列大选牵动地区紧张神经",
+          "summary": "特朗普接受媒体采访时表示，他支持内塔尼亚胡是因为他们之间有“良好的关系”，如果内塔尼亚胡连任以色列总理，他们“将继续合作愉快” 【财新网】 当地时间10月18日，特朗普在其拥有的社交平台“Truth Social”发表长文，盛赞正在面临议会大选压力的以色列总理内塔尼亚胡，称自己会在即将到来的以色列竞选活动中，给予内塔尼亚胡“全面且彻底的支持”。 特朗普在帖文中用内塔尼亚胡的名字，称他为“Bibi”",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-20/102495241.html",
-          "published": "Tue, 20 Oct 2026 07:23:49 GMT"
+          "link": "https://international.caixin.com/2026-10-20/102495367.html",
+          "published": "Tue, 20 Oct 2026 12:46:22 GMT"
+        },
+        {
+          "title": "MiniMax沉寂4个多月后再发新文本模型 大幅降价抢性价比市场",
+          "summary": "新模型公布后，MiniMax股价走高后回落，盘间股价触及168.3港元/股，创下上市以来的最低股价 【财新网】 沉寂4个多月后，MiniMax（00100.HK）再发新文本模型。10月19日晚间，MiniMax正式更新MiniMax M3.1 Flash模型。新模型的API价格较上一代模型MiniMax M3降低，MiniMax称综合使用成本降低70%。 MiniMax创始人兼CEO闫俊杰曾在二季",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-20/102495356.html",
+          "published": "Tue, 20 Oct 2026 11:48:11 GMT"
+        },
+        {
+          "title": "碳信用供给不足 中国加快跨境碳交易制度建设｜出海·能源",
+          "summary": "“一带一路”国家有望优先成为中国碳信用采购对象，如东南亚、非洲、拉美等地区 【财新网】 中国正推进跨境碳交易制度建设，国际市场对此兴趣渐浓，哪些国家和地区有望率先与中国达成合作？ “一带一路”国家有望优先成为中国碳信用采购对象，如东南亚、非洲、拉美地区，特别是中国电动汽车、光伏产品和电池的出口目的地国。近日，环保桥国际公司（Climate Bridge International）首席执行官林善佳",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-20/102495345.html",
+          "published": "Tue, 20 Oct 2026 10:59:45 GMT"
+        },
+        {
+          "title": "潘功胜：高科技产业快速发展 为人民币资产提供坚实支撑",
+          "summary": "下一阶段，人民银行将进一步支持全球投资者和发行人参与中国金融市场，持续提升投融资便利性。同时，加强境内外金融基础设施联通，持续推进中国金融市场高水平开放 【财新网】 高科技产业对中国吸引投资和金融开放有何影响？10月15日，在2026年IMF/世行年会期间，中国人民银行行长潘功胜出席新兴市场研讨会并作主旨发言时指出，当前全球地缘政治风险上升，国际经济金融环境发生深刻变化，全球投资者对多元分散配置和",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-20/102495274.html",
+          "published": "Tue, 20 Oct 2026 09:39:10 GMT"
+        },
+        {
+          "title": "央行完善短端利率调控机制 隔夜回购将成主要操作品种",
+          "summary": "从国际经验看，隔夜利率在主要央行货币政策实施中占有重要位置；围绕隔夜利率确定调控目标、配置日常操作工具，也是多家央行利率调控框架的重要内容 【财新网】 中国人民银行行长潘功胜宣布隔夜回购利率将取代7天期逆回购利率，成为主要政策利率。这背后是怎样的考量？ 2026年10月19日，中国人民银行行长潘功胜在2026金融街论坛年会主题演讲中指出，银行间隔夜回购利率，即通常说的DR001，作为货币市场交易活",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-20/102495270.html",
+          "published": "Tue, 20 Oct 2026 09:34:10 GMT"
+        },
+        {
+          "title": "解决了长寿问题，却消解不了百无聊赖的孤独",
+          "summary": "抽样调查里，约七成老人都赞同发挥余热、参与社会发展。这是一股被大大低估的澎湃力量，可它正卡在'没人引导、没有平台'上，散落在千千万万个空屋子里 舍不得死和不想活的差距，被需要和被供着 这几天笔者脑海里，总是想起四位老人。 一个媒体报道的老太太，一个老大哥家里的老太太；还有两个认识的长辈老头。 他们让我对老年志愿者和“发挥余热“这个老词有了新的理解。 继近期亚运会上最年长志愿者安乐博勋之后，最近中国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-20/102495269.html",
+          "published": "Tue, 20 Oct 2026 09:24:27 GMT"
+        },
+        {
+          "title": "三季度北京办公楼租金再降 预期租金2028年迎拐点",
+          "summary": "科技企业的高需求使北京西部的写字楼企稳，部分项租金上调；东西部景气程度分化明显 【财新网】 三季度，北京办公楼市场依旧面临租金下行的压力，不过在以中关村区域为代表的西部地区，科技企业的高需求使得当地的房价率先筑底，部分接近满租的优质项目已实现租金上调；市场预计，北京办公楼整体租金将于2028年迎来拐点。 10月20日，商业地产服务和投资机构仲量联行（NASDAQ：JLL）发布报告显示，2026年三",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-20/102495265.html",
+          "published": "Tue, 20 Oct 2026 08:55:34 GMT"
         }
       ]
     },
@@ -699,28 +491,20 @@
       "summary": "",
       "items": [
         {
-          "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心",
-          "summary": "英伟达正将其近百亿美元的欧洲投资计划推进至德国。在柏林举行的\"投资德国\"峰会上，英伟达与德国政府签署合作意向声明，宣布投资四家德国初创企业，并与西门子达成AI工厂合作协议，进一步巩固其在欧洲工业AI领域的战略布局。 德国总理默茨在峰会开幕致辞中向企业界发出呼吁，要求德国中小企业向AI开放数据，并强调德国有意成为全球AI工业应用的领导者。英伟达CEO黄仁勋则在台上表示，AI只能增强人的能力，而非取代",
+          "title": "中文已死：为什么我们越来越不敢好好说话？",
+          "summary": "对安全社交的依赖，让“玩梗”成了一种时代刚需。我们越来越习惯用最热闹的流行语，来掩饰最真实的情绪失语——看似什么都表达了，却又好像什么都没说......\n参考文献\n[1] CLARK H H, WILKES-GIBBS D. Referring as a collaborative process[J]. Cognition, 1986, 22(1): 1-39.\n[2] WILKES-GIBBS",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784018",
-          "published": "Tue, 20 Oct 2026 08:43:49 GMT"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
+          "published": "Tue, 20 Oct 2026 09:00:00 GMT"
         },
         {
-          "title": "亚洲股市集体下跌，韩股重挫4.5%，日股跌逾1%，SK海力士大跌7%",
-          "summary": "亚洲股市周二全线下挫，未能延续华尔街隔夜科技股反弹势头，韩国芯片股跌幅尤为显著。与此同时，美国国债收益率维持高位，投资者等待本周重磅科技公司财报进一步确认市场方向。 周二，韩国主要股指均跌超4%，领跌亚太股市。MSCI亚太指数下跌约1%，11个子行业中8个录得跌幅，下跌个股数量约为上涨个股的三倍。 亚洲市场的疲软与美股形成鲜明反差。周一纽约市场上，费城半导体指数攀升1.6%，终结此前长达八个交易日",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783983",
-          "published": "Tue, 20 Oct 2026 02:13:56 GMT"
-        },
-        {
-          "title": "青少年的言语智力从哪里来",
-          "summary": "一项脑影像研究发现，语言能力的发展并非单由语言网络支撑；进入青春期，负责执行控制和意象整合的通用脑网络的作用开始上升 【财新网】 同样是读了很多书的孩子，有的不仅懂得多，还能讲得头头是道，甚至下笔如有神；有的字词都认得，一篇文章读完，却说不出讲了什么；还有的，提笔就卡，勉强写出一段，也跟题目隔着一层。可见，言语智力并不只是“多读书、多认字”就能长出来的。那么，字词之外，还缺什么？ 为了回答这一问题",
+          "title": "解决了长寿问题，却消解不了百无聊赖的孤独",
+          "summary": "抽样调查里，约七成老人都赞同发挥余热、参与社会发展。这是一股被大大低估的澎湃力量，可它正卡在'没人引导、没有平台'上，散落在千千万万个空屋子里 舍不得死和不想活的差距，被需要和被供着 这几天笔者脑海里，总是想起四位老人。 一个媒体报道的老太太，一个老大哥家里的老太太；还有两个认识的长辈老头。 他们让我对老年志愿者和“发挥余热“这个老词有了新的理解。 继近期亚运会上最年长志愿者安乐博勋之后，最近中国",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-20/102495244.html",
-          "published": "Tue, 20 Oct 2026 07:37:19 GMT"
+          "link": "https://opinion.caixin.com/2026-10-20/102495269.html",
+          "published": "Tue, 20 Oct 2026 09:24:27 GMT"
         }
       ]
     },
@@ -729,59 +513,25 @@
       "summary": "",
       "items": [
         {
-          "title": "科大讯飞Q3营收增长接近8%，高研发投入下扣非仍亏损",
-          "summary": "10月19日，科大讯飞（002230）披露2026年第三季度报告。第三季度公司实现营收65.64亿元，同比增长7.99%，归母净利润2.26亿元，同比增长31.05%。扣除非经常性损益后的净利润为亏损1.26亿元，前三季度扣非亏损7.63亿元，同比扩大。 利润结构方面，前三季度公司营收181.87亿元，同比增长7.05%，归母净利润2188.72万元，同比由亏转盈，上年同期为亏损约6668万元。同",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784009",
-          "published": "Tue, 20 Oct 2026 07:05:52 GMT"
-        },
-        {
-          "title": "存储深度调整，端侧AI突然爆火：AI的下一场财富转移已开始？",
-          "summary": "10月20日，端侧AI从芯片到整机集体走强，恰与此前存储股的深度调整构成反差。存储当期仍在涨价，市场交易的却是未来稀缺溢价能否持续；端侧AI则迎来模型轻量化、端云协作与终端创新的共同推进。 端侧AI已走到“万事俱备，只欠爆款”的关键阶段。连接与低功耗芯片可能最先获得订单，多模态SoC分享计算升级红利，而掌握产品定义和用户入口的设备厂商，有机会成为长期价值的主导者。 一、发生了什么？——存储股退潮，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784005",
-          "published": "Tue, 20 Oct 2026 06:54:55 GMT"
-        },
-        {
-          "title": "低价跨境生意承压，速卖通开始争夺亚马逊的品牌客户",
-          "summary": "为今年双11，游戏外设品牌GameSir至少提前三四个月备货发往海外，部分商品甚至提前半年备货。 GameSir在速卖通上的双11目标销售额约为400万美元，为此准备了至少500万美元的货品。 提前备货意味着更多的资金占用和库存风险。但对越来越多中国出海品牌而言，提前数月将商品备至海外仓，已成为把握当地销售机会的必要准备。 过去，中国跨境电商依靠低价商品和国际直邮快速扩张。如今，关税、合规和物流成",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784002",
-          "published": "Tue, 20 Oct 2026 06:12:29 GMT"
-        },
-        {
-          "title": "【交易簿】一笔汽车供应链跨境收购如何在17年后完成价值涅槃",
-          "summary": "十七年，同一份资产，三个价格",
+          "title": "国家数据集团成立 计划推进数据资源开发利用",
+          "summary": "国家数据集团成立于河北雄安新区，中国联通和国家数据局官员出任集团领导 【财新网】 数据产业领域新央企成立。10月20日，国务院国资委公告，经国务院批准，组建国家数据集团有限公司，由国务院国有资产监督管理委员会代表国务院履行出资人职责，列入国务院国有资产监督管理委员会履行出资人职责的企业名单。 新华社报道，国家数据集团有限公司在河北雄安新区成立，该集团是一家以数据资源开发利用为主责主业的中央企业。 ",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495240.html",
-          "published": "Tue, 20 Oct 2026 07:21:56 GMT"
-        },
-        {
-          "title": "【商圈】AI减员浪潮下，达美航空当家人为何坚持“照顾好员工”",
-          "summary": "资本市场习惯以收入、EBITDA、杠杆率评判航司价值，人力常常被视作可压缩的成本项。但在巴斯蒂安的治理框架中，员工并非单纯成本，而是核心护城河的组成部分",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-20/102495125.html",
-          "published": "Tue, 20 Oct 2026 03:35:49 GMT"
+          "link": "https://www.caixin.com/2026-10-20/102495376.html",
+          "published": "Tue, 20 Oct 2026 13:05:40 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 91,
-    "total_collected": 57,
-    "sources": 7,
+    "total_items": 60,
+    "total_collected": 51,
+    "sources": 5,
     "source_list": [
-      "BBC中文",
       "B站科技热门",
       "Hacker News",
       "TechCrunch",
       "The Verge",
-      "华尔街见闻",
       "财新网"
     ],
     "domains": 6
