@@ -1,0 +1,964 @@
+{
+  "id": "2026-10-22-03",
+  "datetime": "2026-10-22 03:42:45",
+  "date": "2026-10-22",
+  "time": "03:42",
+  "period": "凌晨",
+  "summary": "本期采集 79 篇文章，来自 6 个信息源，覆盖 6 个领域，精选 113 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+          "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 34 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+          "published": "Thu, 22 Oct 2026 02:30:52 +0000"
+        },
+        {
+          "title": "LLM Agents Play Pokemon Showdown",
+          "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 13 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://olivergrabner.com/research/pokemon/",
+          "published": "Thu, 22 Oct 2026 02:13:48 +0000"
+        },
+        {
+          "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+          "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552 Comments URL: https://news.ycombinator.com/item?id=50190168 Points: 62 # Comments: 20",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+          "published": "Thu, 22 Oct 2026 01:52:03 +0000"
+        },
+        {
+          "title": "mitmproxy adds --emudhra option",
+          "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 298 # Comments: 79",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+          "published": "Wed, 21 Oct 2026 23:51:37 +0000"
+        },
+        {
+          "title": "There isn't an easy exploit for this PHP vulnerability",
+          "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 246 # Comments: 125",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://eliastaylor.com/noexploit/",
+          "published": "Wed, 21 Oct 2026 23:13:27 +0000"
+        },
+        {
+          "title": "Postgres recovery_prefetch can cause outages",
+          "summary": "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/ Comments URL: https://news.ycombinator.com/item?id=50188614 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+          "published": "Wed, 21 Oct 2026 22:33:08 +0000"
+        },
+        {
+          "title": "Security Disclosure",
+          "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 353 # Comments: 202",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "published": "Wed, 21 Oct 2026 21:58:03 +0000"
+        },
+        {
+          "title": "工业和信息化部等八部门印发《产业基础能力提升“十五五”规划》",
+          "summary": "央视网消息： 产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIgkZVPHCXw7jO5jlBO2er261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:24:34 GMT"
+        },
+        {
+          "title": "航行警告：渤海执行军事任务",
+          "summary": "央视网消息： 据中国海事局网站消息，大连海事局发布航行警告，10月22日9时至13时，渤海部分海域执行军事任务，禁止驶入。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTI3Rz23y1gyjsBOhnWCQUD261022.shtml",
+          "published": "Thu, 22 Oct 2026 01:32:25 GMT"
+        },
+        {
+          "title": "法国总统：坚决杜绝骚乱重演",
+          "summary": "△法国总统马克龙（资料图） 据法国方面消息，正在海湾地区访问的法国总统马克龙21日在卡塔尔多哈对媒体说，法国政府将对游行示威中趁机作乱的人严惩不贷，坚决杜绝此类情况重演。他同时谴责部分外国领导人相关不实言论。 对于预计24日举行的新一轮游行示威，马克龙表示，政府将采取“坚决”态度，“动用一切可用的法律手段”避免17日示威酿成骚乱的情况重演。他说，当前局势没有宣布紧急状态的必要性，政府将认真对待抗议",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIARBeKnV8ZPrpMIUStC1I261022.shtml",
+          "published": "Wed, 21 Oct 2026 23:24:24 GMT"
+        },
+        {
+          "title": "苏丹领导人称拒绝与快速支援部队对话",
+          "summary": "△苏丹主权委员会主席兼武装部队总司令布尔汉（资料图） 当地时间10月21日，苏丹主权委员会主席兼武装部队总司令布尔汉表示，苏丹政府拒绝与苏丹快速支援部队进行对话和谈判。 布尔汉当天发表讲话称，苏丹政府与快速支援部队之间不存在对话空间。快速支援部队唯一的选择是放下武器投降，否则将继续面临军事打击。 布尔汉还表示，苏丹拒绝外部势力干涉苏丹事务，也不会给外部势力的“代理人”留下任何活动空间。他强调，苏丹",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIhcfXHs95C4yqJDTkVDAn261022.shtml",
+          "published": "Wed, 21 Oct 2026 22:34:18 GMT"
+        },
+        {
+          "title": "德国总理：中东冲突严重冲击全球能源市场和供应链",
+          "summary": "△德国总理默茨（资料图） 德国总理默茨21日说，中东冲突对全球能源市场和供应链造成严重冲击。 默茨当天在2026柏林全球对话论坛上说，霍尔木兹海峡和曼德海峡遭封锁进一步加剧相关影响。 谈及欧洲面临的挑战，默茨说，德国和欧洲必须改善营商环境，增加私人投资，并通过创新推动科研成果转化为市场产品。他说，德国经济虽出现恢复增长迹象，但增长基础尚不稳固，仍需推进结构性改革。 默茨还说，德国和欧洲还需要深化国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIBcavYFQ1rlryPlQLO5Xq261022.shtml",
+          "published": "Wed, 21 Oct 2026 22:31:06 GMT"
+        },
+        {
+          "title": "“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声",
+          "summary": "总台记者 获悉，当地时间21日，乌克兰基辅市区响起连续爆炸声。 基辅市市长克利奇科称，基辅遭弹道导弹袭击。 基辅市军事行政管理局通报，截至当地时间21日23时30分，此次袭击已造成5人受伤，伤者均已接受相关医疗救治。（总台记者 董薇）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml",
+          "published": "Wed, 21 Oct 2026 22:24:42 GMT"
+        },
+        {
+          "title": "原油运费已经炸了！一年前3美元/桶，如今最高已达35美元，亚洲炼油商利润告急",
+          "summary": "全球原油运费在一年内暴涨七倍，正在从根本上改变原油贸易格局，并向炼油商和终端消费者传导压力。 据追风交易台消息，高盛10月20日发布的大宗商品研究报告， 全球平均原油运费已从一年前的约3美元/桶飙升至逾20美元/桶，中东航线运费更突破35美元/桶。 该行指出，尽管过去数日运费略有回落，但全球均值仍是一年前的 七倍 ，\"只要中东冲突维持现状，运费大幅下行的可能性不大\"。 该行识别出五大驱动运费飙升的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784168",
+          "published": "Thu, 22 Oct 2026 02:24:43 GMT"
+        },
+        {
+          "title": "暴跌至74还是飙升至130？明年全球油价面临“极端抉择”",
+          "summary": "全球油市正站在一个关键的十字路口。 据追风交易台，德意志银行最新研究显示，布伦特原油价格在2027年存在两种截然相反的极端情景—— 若中东局势走向和谈，油价可能跌至每桶74美元；若战事持续蔓延，则可能飙升至130美元。两种情景之间，相差整整56美元。 这一判断来自德意志银行能源分析师Michael Hsueh。他指出，当前中东地区船只遭袭事件已在10月份升至战争爆发以来的最高水平，国际海事组织（I",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784169",
+          "published": "Thu, 22 Oct 2026 02:06:56 GMT"
+        },
+        {
+          "title": "中期选举后 特朗普能让沙特“亡国”",
+          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783984",
+          "published": "Thu, 22 Oct 2026 01:42:46 GMT"
+        },
+        {
+          "title": "中金：如何对冲AI风险？",
+          "summary": "中金研究 我们仍看好AI资产回报前景，建议通过资产配置应对近期市场波动，为AI资产“购买保险”。在现金、债券和高股息股票等防御性资产外，美元贬值交易同样有助于对冲AI资产风险，增配黄金或为该交易的有效策略。 从AI交易交易到“AI美元”，美元成为全球股市分化的“分界线” 在国际货币秩序重构背景下，我们认为“去美元化”仍是大势所趋，美元面临长期贬值压力（《去美元化结束了吗？》）。但2026年以来，美",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784163",
+          "published": "Thu, 22 Oct 2026 00:17:23 GMT"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+          "summary": "最后1天！连续9年的金融圈网红日历，99元早鸟价今晚结束，错过等一年，点击下方图片锁定最后优惠！ 市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1%，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%；盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784141",
+          "published": "Wed, 21 Oct 2026 23:36:22 GMT"
+        },
+        {
+          "title": "10月22日会员早报：市场押注美国很快重启对伊打击 法国10年期国债收益率24年来首破5%",
+          "summary": "1、【市场押注美国很快重启对伊打击】五角大楼已要求中央司令部完成重启大规模作战的准备，美国增派第三个航母打击群赴中东；同时以军战机被曝抵近伊朗边境，伊朗南部锡里克21日夜传爆炸；国际油价正在为一场可能很快到来的打击定价。 2、【法国10年期国债收益率24年来首破5%】10月21日，法国10年期国债收益率盘中升破5%，为2002年7月以来首次；本周以来累计上行逾20个基点（即0.2个百分点），而全球",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784157",
+          "published": "Wed, 21 Oct 2026 22:25:56 GMT"
+        },
+        {
+          "title": "今日开盘：沪指报3714.48点 涨幅0.04%",
+          "summary": "沪指开盘报3714.48点；深成指报11690.34点 财新网10月22日电:沪指开盘报3714.48点，涨幅0.04%。 深成指报11690.34点，跌幅0.12%；创业板指报2687.94点，跌幅0.25%；中小板指报7353.39点，跌幅0.02%。 盘面上，非银金融领涨，纺织服饰、通信、机械设备、建筑材料、环保等板块涨幅居前，传媒领跌，电力设备、食品饮料、社会服务、煤炭、汽车等走弱。 消息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-22/102495895.html",
+          "published": "Thu, 22 Oct 2026 01:29:53 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "LLM Agents Play Pokemon Showdown",
+          "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 13 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://olivergrabner.com/research/pokemon/",
+          "published": "Thu, 22 Oct 2026 02:13:48 +0000"
+        },
+        {
+          "title": "Security Disclosure",
+          "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 353 # Comments: 202",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "published": "Wed, 21 Oct 2026 21:58:03 +0000"
+        },
+        {
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, a",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "published": "Thu, 22 Oct 2026 00:17:54 +0000"
+        },
+        {
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "published": "Wed, 21 Oct 2026 22:51:22 +0000"
+        },
+        {
+          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+          "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "published": "Wed, 21 Oct 2026 22:45:34 +0000"
+        },
+        {
+          "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+          "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+          "published": "Wed, 21 Oct 2026 22:16:05 +0000"
+        },
+        {
+          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+          "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+          "published": "Wed, 21 Oct 2026 21:16:20 +0000"
+        },
+        {
+          "title": "Meta says Muse has over 10M users, with shopping a top activity",
+          "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "published": "Wed, 21 Oct 2026 21:14:19 +0000"
+        },
+        {
+          "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+          "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+          "published": "Wed, 21 Oct 2026 20:57:40 +0000"
+        },
+        {
+          "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+          "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+          "published": "Wed, 21 Oct 2026 20:33:09 +0000"
+        },
+        {
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "published": "Wed, 21 Oct 2026 20:27:41 +0000"
+        },
+        {
+          "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+          "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Es",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+          "published": "Wed, 21 Oct 2026 19:52:20 +0000"
+        },
+        {
+          "title": "Data centers could erase decades of air quality gains",
+          "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+          "published": "2026-10-21T18:33:44-04:00"
+        },
+        {
+          "title": "Meta to create a new class of shares to fund AI push",
+          "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday , the company says the non-voting stock will also go toward ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+          "published": "2026-10-21T17:30:02-04:00"
+        },
+        {
+          "title": "New York’s first microdrama film festival searches for its audience",
+          "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | G",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+          "published": "2026-10-21T16:49:07-04:00"
+        },
+        {
+          "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+          "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+          "published": "2026-10-21T16:46:56-04:00"
+        },
+        {
+          "title": "PHP: The three letters that shut down sites all over the internet today",
+          "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia , and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" wer",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+          "published": "2026-10-21T16:36:56-04:00"
+        },
+        {
+          "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+          "summary": "As the smoke clears from its outrageous Roadster demo , Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+          "published": "2026-10-21T16:22:31-04:00"
+        },
+        {
+          "title": "Bose acquires Skullcandy to help it reach a wider audience",
+          "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's aud",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+          "published": "2026-10-21T16:15:00-04:00"
+        },
+        {
+          "title": "Airbnb bans making guests do dishes and take out the trash",
+          "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy , which ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+          "published": "2026-10-21T15:54:00-04:00"
+        },
+        {
+          "title": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+          "summary": "过去几年，马路上亮着一盏蓝绿色小灯的车越来越多。有人觉得它挺有科技感，也有人被它晃过眼，还有人以为灯亮了，车就在“自己开”。这盏灯到底该不该亮、谁能亮、亮了意味着什么，一直没有统一的说法。 最近，工信部发布了一份征求意见稿，要给这盏灯立规矩：简单来说， 不具备L3级及以上自动驾驶系统的车辆，禁止安装自动驾驶系统标志灯。 根据公开报道，行业估算，单颗LED模组的物料清单成本大约在50到200元之间；",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIJYe8KmVkNNIh1id6MnFb261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:48:54 GMT"
+        },
+        {
+          "title": "法国总统：坚决杜绝骚乱重演",
+          "summary": "△法国总统马克龙（资料图） 据法国方面消息，正在海湾地区访问的法国总统马克龙21日在卡塔尔多哈对媒体说，法国政府将对游行示威中趁机作乱的人严惩不贷，坚决杜绝此类情况重演。他同时谴责部分外国领导人相关不实言论。 对于预计24日举行的新一轮游行示威，马克龙表示，政府将采取“坚决”态度，“动用一切可用的法律手段”避免17日示威酿成骚乱的情况重演。他说，当前局势没有宣布紧急状态的必要性，政府将认真对待抗议",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIARBeKnV8ZPrpMIUStC1I261022.shtml",
+          "published": "Wed, 21 Oct 2026 23:24:24 GMT"
+        },
+        {
+          "title": "扎克伯格：Muse六周狂揽千万用户，算力却成最大瓶颈",
+          "summary": "扎克伯格在Meta Q3电话会上表示，上线仅一个半月，Muse 就在美加拿下超千万用户，几乎每天稳居 App Store 榜首。 约25%的用户每天都会打开使用，早期用户更是越用留存越高，留存水平达到 Threads 起步期的两倍以上。 最常见的场景是购物：超过四分之一的用户在用它下单，平均每笔超过200美元，合作方 Plaid 说从没见过这么活跃的连接器。 火爆到什么程度？上线第一周就因为交易量",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960075",
+          "published": "Thu, 22 Oct 2026 03:34:14 GMT"
+        },
+        {
+          "title": "刚为CoreWeave站台，又要向Firmus注资——英伟达化身“AI中央银行”",
+          "summary": "英伟达正以越来越像央行的方式介入AI基础设施融资危机。 在口头为旗下重要持股公司CoreWeave背书未能稳住市场后，这家芯片巨头据报正计划向另一家陷入困境的澳大利亚AI云服务商Firmus Grid注入数亿美元资金。 据The Information周二报道， 英伟达正与Firmus就数亿美元规模的投资进行谈判。Firmus本月初在估值300亿美元的IPO计划受挫后，正寻求私募融资至少20亿美元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784173",
+          "published": "Thu, 22 Oct 2026 03:09:48 GMT"
+        },
+        {
+          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
+          "summary": "DeepSeek据悉完成约1000亿元人民币（150亿美元）融资。据知情人士称，DeepSeek在与投资者洽谈期间至少两次上调融资目标，最初为500亿元人民币，随后提高至800亿元，最终达到约1000亿元。宁德时代和腾讯是本轮融资的最大投资者之一。（新浪） 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784177",
+          "published": "Thu, 22 Oct 2026 03:02:57 GMT"
+        },
+        {
+          "title": "正面回应长鑫4F2突破，美光CTO：3D DRAM“长期更可扩展和成本效益”",
+          "summary": "近期，全球存储芯片市场迎来新一轮估值震荡与技术路线论战。资本市场上，费城半导体指数与存储板块出现较大幅度回撤；而在产业端，长鑫存储在4F² DRAM架构上的突破性进展，引发了行业广泛讨论。 10月21日，美光总裁兼首席技术与产品官Scott DeBoer主持了一场技术与产品网络研讨会，核心议题之一是回应此前长鑫披露4F²架构计划后在投资者中引发的担忧。 Scott DeBoer直言 虽然内部曾对4",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784170",
+          "published": "Thu, 22 Oct 2026 02:56:37 GMT"
+        },
+        {
+          "title": "5个门外汉、3个月、20万美元！Claude设计出抗蝎毒蛋白，AI科研门槛被打下来了？",
+          "summary": "5个人，3个几乎不懂生物学，没有自己的实验室，也没有专业制药团队。 结果，他们只花了3个月、20万美元，就干成了一件超级专业的事：让AI从零设计出能抓住蝎毒的蛋白质。 他们让Claude在64小时内，调动300多个AI Agent，消耗上万小时H100算力，一口气设计出31万多个蛋白方案。 最后，211个被送进真实实验室。 其中17个，真的在实验中抓住了蝎毒里的目标毒素！ 虽然距离真正的解毒药还很",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960074",
+          "published": "Thu, 22 Oct 2026 02:49:23 GMT"
+        },
+        {
+          "title": "SemiAnalysis：现在GPU过剩，2028年数据中心就过剩了",
+          "summary": "SemiAnalysis认为，目前GPU供应已出现一定过剩，相比芯片，数据中心供应过剩的风险更值得警惕。 短期来看，获取GPU比获得数据中心所需的电力容量更容易。 但随着供应链持续扩张，2028年可能出现供需关系逆转，数据中心面临过剩风险。 未来需要重点关注芯片供应链的扩张速度，这也将推动半导体晶圆厂建设、设备采购等资本支出增长。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960073",
+          "published": "Thu, 22 Oct 2026 02:39:21 GMT"
+        },
+        {
+          "title": "英伟达柏林GTC说了什么？这是高盛总结",
+          "summary": "10月21日，英伟达首席执行官黄仁勋在GTC柏林大会发表主题演讲，高盛研究团队出席大会后发布报告。 该行在报告中指出， 此次演讲对股价的即时影响预计有限，但英伟达传递的核心信息“强化了我们的判断——AI部署在可预见的未来仍在正轨上推进。” 本次发布会核心信息包括：英伟达推出DSX POD模块化数据中心方案，可将部署周期从数月压缩至两周；供应链伙伴宣布基板产能扩2.5倍、CoWoS封装扩3倍；物理A",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784166",
+          "published": "Thu, 22 Oct 2026 02:14:28 GMT"
+        },
+        {
+          "title": "IBM三季度软件收入增长8%撑起业绩，AI咨询占比提升｜财报见闻",
+          "summary": "IBM第三季度营收与每股盈利双双超出华尔街预期，同时上调全年自由现金流增长指引。 美东时间2026年10月21日盘后，IBM正式发布了2026财年第三季度的财务业绩报告。 第三季度 核心数据如下： 总营收： 171.03亿美元 ，同比增长5%，按固定汇率计算增长6%，超出了华尔街分析师约168.7亿美元的普遍预期。 调整后每股收益： 2.95美元 ，同比增长11%，高于预期的2.86美元。 自由现",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784164",
+          "published": "Thu, 22 Oct 2026 02:03:47 GMT"
+        },
+        {
+          "title": "创业板跌2%，机器人逆势爆发、宇树拉升5%，AI硬件下跌、光模块再调整，恒科指跌3%，权重科网股集体走低",
+          "summary": "10月22日，A股低开低走，三大股指盘初集体下跌，创业板跌2%，AI硬件、AI应用等再度调整，覆铜板、光模块等概念股跌幅居前。海运、文化传媒、保险等板块走低。机器人强势拉升，宇树科技涨5%。稀土永磁、工业母机等概念股活跃。 港股同样低开低走，恒指、恒科指早盘大幅下挫，恒指跌2%，恒科指跌超3%，权重科网股、芯片半导体、AI大模型、新能源汽车等集体下跌，联想集团、阿里巴巴跌超4%，MINIMAX一度",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784171",
+          "published": "Thu, 22 Oct 2026 01:58:17 GMT"
+        },
+        {
+          "title": "马斯克放话：人形机器人没有能和特斯拉比的",
+          "summary": "10月21日，马斯克在特斯拉电话会上表示，Optimus 剩余的 AI、设计和耐用性问题应该会在“明年年底左右”得到解决，那时特斯拉将开始向外部公司交付机器人，他仍然“坚信 Optimus 将成为地球上最大的产品”。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960072",
+          "published": "Thu, 22 Oct 2026 00:52:47 GMT"
+        },
+        {
+          "title": "美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”",
+          "summary": "当内部风控触及上限，华尔街的答案不是踩刹车，而是移动球门柱。 据彭博最新报道，巴克莱银行今年早些时候在亚洲AI股票交易热潮中触及对冲基金客户融资上限后， 通过内部拍卖机制，将宏观利率交易台的部分资本配额借调给大宗经纪业务，以维持对亚洲对冲基金客户的贷款扩张。 与此同时，包括高盛在内的多家银行交易员开始向对冲基金客户施压，鼓励其持有更多空头头寸——这一操作在账面上压缩了资产负债表占用，却并未真正降低",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784162",
+          "published": "Thu, 22 Oct 2026 00:20:09 GMT"
+        },
+        {
+          "title": "贝森特闭门会向华尔街放话：看不出AI有什么“系统性风险”",
+          "summary": "10月21日周三，美国财政部长贝森特在纽约一场华尔街精英聚会的闭门会议上表示，他不认为AI行业存在\"系统性问题\"，并驳斥了将当前AI热潮与互联网泡沫相提并论的说法。 贝森特向数百名金融高管和投资者发表了讲话。此次会议由摩根大通与非营利机构Robin Hood联合举办，门票起价7500美元，不对媒体开放。 据三位与会者向英国《金融时报》透露，贝森特在接受桥水基金首席执行官Nir Bar Dea采访时",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784160",
+          "published": "Thu, 22 Oct 2026 00:19:20 GMT"
+        },
+        {
+          "title": "中金：如何对冲AI风险？",
+          "summary": "中金研究 我们仍看好AI资产回报前景，建议通过资产配置应对近期市场波动，为AI资产“购买保险”。在现金、债券和高股息股票等防御性资产外，美元贬值交易同样有助于对冲AI资产风险，增配黄金或为该交易的有效策略。 从AI交易交易到“AI美元”，美元成为全球股市分化的“分界线” 在国际货币秩序重构背景下，我们认为“去美元化”仍是大势所趋，美元面临长期贬值压力（《去美元化结束了吗？》）。但2026年以来，美",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784163",
+          "published": "Thu, 22 Oct 2026 00:17:23 GMT"
+        },
+        {
+          "title": "美股“最不希望涨的板块”涨起来了",
+          "summary": "医疗健康板块的强势反弹，正在向整个市场发出一个不安的信号。 医疗健康板块近期跃升为标普500表现最佳板块之一。 上周，随着市场对人工智能泡沫的担忧持续升温，该板块相对标普500的估值折价彻底消失——医疗健康精选行业SPDR ETF（XLV）的远期市盈率升至19.3倍，略高于标普500整体水平。就在一年前，该板块相对标普500还存在25%的估值折价。本周一，XLV单日涨幅超过2%，Moderna大涨",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784159",
+          "published": "Thu, 22 Oct 2026 00:13:43 GMT"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+          "summary": "最后1天！连续9年的金融圈网红日历，99元早鸟价今晚结束，错过等一年，点击下方图片锁定最后优惠！ 市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1%，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%；盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784141",
+          "published": "Wed, 21 Oct 2026 23:36:22 GMT"
+        },
+        {
+          "title": "SAP三季度营收增长13%，单季首破100亿欧元，云积压订单同比增长28%｜财报见闻",
+          "summary": "SAP第三季度业绩全面超出预期，云业务加速增长叠加AI工具渗透率提升，令这家欧洲最大软件公司展示出对企业应用市场冲击的韧性。 10月21日美股盘后，软件公司SAP发布2026年第三季度财报， 公司总收入达到102.70亿欧元，同比增长13%，不变汇率下增长12%，首次单季突破100亿欧元 ；非IFRS营业利润达到30.30亿欧元，同比增长18%，同样首次突破30亿欧元。 管理层强调，这反映出SAP",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784158",
+          "published": "Wed, 21 Oct 2026 23:27:07 GMT"
+        },
+        {
+          "title": "扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。 现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。 Met...",
+          "summary": "扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。\n现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。\nMeta美股盘后涨幅超过6.5%，该公司正进行分析师电话会议。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784154",
+          "published": "Wed, 21 Oct 2026 20:41:33 GMT"
+        },
+        {
+          "title": "【华尔街原声】Altimeter创始人：规模成为AI竞争关键",
+          "summary": "格斯特纳认为，SpaceX与特斯拉潜在合并有助于扩大融资能力，AI算力需求仍有增长空间",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495937.html",
+          "published": "Thu, 22 Oct 2026 03:22:20 GMT"
+        },
+        {
+          "title": "【华尔街原声】投资人：SpaceX与特斯拉合并有望获得股东支持",
+          "summary": "Deepwater的蒙斯特认为，两家公司可整合太空算力与自动驾驶、机器人业务，进一步强化马斯克的AI布局",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495935.html",
+          "published": "Thu, 22 Oct 2026 03:20:13 GMT"
+        },
+        {
+          "title": "今日开盘：沪指报3714.48点 涨幅0.04%",
+          "summary": "沪指开盘报3714.48点；深成指报11690.34点 财新网10月22日电:沪指开盘报3714.48点，涨幅0.04%。 深成指报11690.34点，跌幅0.12%；创业板指报2687.94点，跌幅0.25%；中小板指报7353.39点，跌幅0.02%。 盘面上，非银金融领涨，纺织服饰、通信、机械设备、建筑材料、环保等板块涨幅居前，传媒领跌，电力设备、食品饮料、社会服务、煤炭、汽车等走弱。 消息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-22/102495895.html",
+          "published": "Thu, 22 Oct 2026 01:29:53 GMT"
+        },
+        {
+          "title": "T早报｜英伟达出资推动上游扩产；OpenAI模型将登陆谷歌云；豆包手机助手限制金融类App自动操作",
+          "summary": "推荐：SpaceX上市后首次季度盈利带动股价大涨；宁德时代股价下跌逾10%；市监总局：推动平台切实履行好“守门人”责任 当地时间2026年10月21日，德国柏林，美国科技公司英伟达联合创始人、总裁兼首席执行官黄仁勋在2026年英伟达GTC柏林人工智能大会上发表主题演讲。图：视觉中国 【财新网】 SpaceX上市后首次季度盈利带动股价大涨 10月21日，SpaceX（NASDAQ:SPCX）股价大涨",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-22/102495872.html",
+          "published": "Thu, 22 Oct 2026 00:21:49 GMT"
+        },
+        {
+          "title": "AI算力云服务商股价大跌 高杠杆算力扩张模式受质疑",
+          "summary": "CoreWeave股价两周跌超30%，澳大利亚NextDC单日跌幅逾40%，两家数据中心开发商Firmus、Nscale的上市进程也遇阻 【财新网】 AI算力云服务商股价持续走弱，市场正重新审视巨额数据中心投资需求的真实性与回报的成色。 美国AI算力云服务商CoreWeave（CRWV:NASDAQ）的股价在两周内下跌超过30%。10月20日，其股价涨1.65%，报62.13美元/股，但回调力度有",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-22/102495864.html",
+          "published": "Wed, 21 Oct 2026 23:07:13 GMT"
+        },
+        {
+          "title": "财经早知道｜宁德时代单日市值蒸发超1400亿元 股价较年内高点已腰斩",
+          "summary": "推荐：14家民营银行叫停或限制个人异地存款；9月上海二手房价三年来首次同比转涨 早上好，今天是10月22日星期四。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。 24小时热点 中办、国办发布关于推动科技创新和产业创新深度融合的意见，提出 推动集成电路、工业母机、高端仪器等重点领域关键核心技术攻关取得决定性突破 ；以原创",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-22/102495862.html",
+          "published": "Wed, 21 Oct 2026 22:56:41 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "独家视频丨纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话",
+          "summary": "[!--begin:htmlVideoCode--]603ab80153aa435ca15731bf7d567148,0,1,16:9,news[!--end:htmlVideoCode--] 纪念中国工农红军长征胜利90周年大会22日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，国家副主席韩正出席",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIjYAnNYaYHJJq90Zp1nip261022.shtml",
+          "published": "Thu, 22 Oct 2026 03:07:24 GMT"
+        },
+        {
+          "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话",
+          "summary": "新华社快讯：纪念中国工农红军长征胜利90周年大会22日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，国家副主席韩正出席大会。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTImvN4TvYkZj75Gw5Bxr5v261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:14:00 GMT"
+        },
+        {
+          "title": "400多件长征文物将在国博开展 这些藏品到底有多珍贵？",
+          "summary": "由中国国家博物馆、退役军人事务部烈士纪念设施保护中心联合主办的“英名永存 薪火长歌——纪念中国工农红军长征胜利90周年文物联展”，将于10月30日在国博开幕，31日起正式对公众展出，展期至2027年3月15日。 本次展览位于中国国家博物馆南6、南7展厅，汇聚20余家单位及个人藏品400余件，通过“浴血征程”“砺军铸魂”“传咏远播”“薪火传承”“守护创新”五个单元，书写红军突破封锁、万里转战的烽火往",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIQ97fM3A4oD9dXaJEXr3e261022.shtml",
+          "published": "Wed, 21 Oct 2026 23:09:47 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "跨越关山重重 播撒教育火种",
+          "summary": "编者按 长征是红军以双脚踏出的胜利远征，也是一部在血与火中书写、于磨难中淬炼的铸魂育人史诗。征途上没有固定教室，没有成套教材，更没有安稳课桌——皑皑雪山、茫茫草地间，薄薄识字卡片是随身携带的珍贵“课本”；枪林弹雨的战场、行军休整的片刻，铿锵的革命歌谣便是鲜活教材。队伍行进到哪里，革命火种就播撒到哪里；道路延伸向何方，育人根脉就绵延向何方。 九十载岁月流转，硝烟早已远去，而精神火种代代相传。建设教育",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIB5qHALKerZ7Xf2abvu4A261022.shtml",
+          "published": "Thu, 22 Oct 2026 03:04:00 GMT"
+        },
+        {
+          "title": "工业和信息化部等八部门印发《产业基础能力提升“十五五”规划》",
+          "summary": "央视网消息： 产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIgkZVPHCXw7jO5jlBO2er261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:24:34 GMT"
+        },
+        {
+          "title": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+          "summary": "中国天气网讯 今天（10月22日），我国中东部地区降水较少，新疆雨雪持续，局地或现特大暴雪。明后天，东南沿海地区降雨将增多、增强，部分地区有暴雨或大暴雨，局地特大暴雨，需注意防范。气温方面，今天白天至24日，中东部将迎来升温过程，多地气温将较常年同期偏高。 新疆雨雪持续局地有强降雪 东南沿海降雨发展 昨天，我国雨雪天气主要出现在西南地区和新疆等地。监测显示，云南中南部、贵州西南部、广西西北部、浙江",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIXoHOfdauB9RQIvRHRetg261022.shtml",
+          "published": "Thu, 22 Oct 2026 01:13:10 GMT"
+        },
+        {
+          "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
+          "summary": "央视网消息 ：今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北方向移动，也不排除在台湾东北部沿海擦过的可能性。受其影响，23日至26日，上海、浙江、福建等地有大到暴雨，局地大暴雨。中央气象台22日6时发布台风",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIx45J1tFqCNPzlfWzVVWJ261022.shtml",
+          "published": "Thu, 22 Oct 2026 01:02:45 GMT"
+        },
+        {
+          "title": "400多件长征文物将在国博开展 这些藏品到底有多珍贵？",
+          "summary": "由中国国家博物馆、退役军人事务部烈士纪念设施保护中心联合主办的“英名永存 薪火长歌——纪念中国工农红军长征胜利90周年文物联展”，将于10月30日在国博开幕，31日起正式对公众展出，展期至2027年3月15日。 本次展览位于中国国家博物馆南6、南7展厅，汇聚20余家单位及个人藏品400余件，通过“浴血征程”“砺军铸魂”“传咏远播”“薪火传承”“守护创新”五个单元，书写红军突破封锁、万里转战的烽火往",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIQ97fM3A4oD9dXaJEXr3e261022.shtml",
+          "published": "Wed, 21 Oct 2026 23:09:47 GMT"
+        },
+        {
+          "title": "坐火车进站要查充电宝了？12306：一直要求≤100Wh",
+          "summary": "近日，多名网友向红星新闻反映，坐火车进站时遇到查验充电宝。 一名网友表示，近半年来在浙江、广东进站都要查验充电宝以及3C标识。另一名浙江网友表示，近期有一次从杭州到诸暨，没有查验充电宝，但返杭时在诸暨站被查，最终充电宝因能量超限被拦下，后来快递回杭州，但不涉及3C标识问题。 红星新闻记者电话咨询多地12306客服，客服均表示规定仅可携带标识清晰、单块额定能量≤100Wh的充电宝，但对3C标识没有要",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIrDxNpWtAW8t8Q5rB5kua261022.shtml",
+          "published": "Wed, 21 Oct 2026 22:40:29 GMT"
+        },
+        {
+          "title": "5个门外汉、3个月、20万美元！Claude设计出抗蝎毒蛋白，AI科研门槛被打下来了？",
+          "summary": "5个人，3个几乎不懂生物学，没有自己的实验室，也没有专业制药团队。 结果，他们只花了3个月、20万美元，就干成了一件超级专业的事：让AI从零设计出能抓住蝎毒的蛋白质。 他们让Claude在64小时内，调动300多个AI Agent，消耗上万小时H100算力，一口气设计出31万多个蛋白方案。 最后，211个被送进真实实验室。 其中17个，真的在实验中抓住了蝎毒里的目标毒素！ 虽然距离真正的解毒药还很",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960074",
+          "published": "Thu, 22 Oct 2026 02:49:23 GMT"
+        },
+        {
+          "title": "中期选举后 特朗普能让沙特“亡国”",
+          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783984",
+          "published": "Thu, 22 Oct 2026 01:42:46 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "北交所上市公司351家 高新技术企业占比超九成",
+          "summary": "[!--begin:htmlVideoCode--]10b6a64c26b542059f5a652aaca5484d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：21日，记者从2026金融街论坛年会上获悉，中国证监会将加快健全北交所市场产品体系，加大公募基金供给力度，促进投融资两端平衡发展。 证监会公众公司监管司一级巡视员商庆军表示，目前北交",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIAsa714HnVY92h7qvuAfv261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:31:19 GMT"
+        },
+        {
+          "title": "工业和信息化部等八部门印发《产业基础能力提升“十五五”规划》",
+          "summary": "央视网消息： 产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIgkZVPHCXw7jO5jlBO2er261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:24:34 GMT"
+        },
+        {
+          "title": "2025年我国海洋生产总值突破11万亿元",
+          "summary": "国家发展改革委、自然资源部发布的《中国海洋经济发展报告2026》显示，2025年我国海洋生产总值突破11万亿元。 《中国海洋经济发展报告2026》显示，2025年我国海洋生产总值占国内生产总值比重为7.9%，海洋经济成为国民经济重要增长极。 报告系统总结了我国“十四五”时期海洋经济发展成效。报告显示，“十四五”以来，我国现代海洋产业体系加快建设，海上风电并网、新增装机规模保持世界首位，海水淡化工程",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIyEknA0o4XvU8CmeoYTO5261022.shtml",
+          "published": "Thu, 22 Oct 2026 02:05:39 GMT"
+        },
+        {
+          "title": "德国总理：中东冲突严重冲击全球能源市场和供应链",
+          "summary": "△德国总理默茨（资料图） 德国总理默茨21日说，中东冲突对全球能源市场和供应链造成严重冲击。 默茨当天在2026柏林全球对话论坛上说，霍尔木兹海峡和曼德海峡遭封锁进一步加剧相关影响。 谈及欧洲面临的挑战，默茨说，德国和欧洲必须改善营商环境，增加私人投资，并通过创新推动科研成果转化为市场产品。他说，德国经济虽出现恢复增长迹象，但增长基础尚不稳固，仍需推进结构性改革。 默茨还说，德国和欧洲还需要深化国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/22/ARTIBcavYFQ1rlryPlQLO5Xq261022.shtml",
+          "published": "Wed, 21 Oct 2026 22:31:06 GMT"
+        },
+        {
+          "title": "刚为CoreWeave站台，又要向Firmus注资——英伟达化身“AI中央银行”",
+          "summary": "英伟达正以越来越像央行的方式介入AI基础设施融资危机。 在口头为旗下重要持股公司CoreWeave背书未能稳住市场后，这家芯片巨头据报正计划向另一家陷入困境的澳大利亚AI云服务商Firmus Grid注入数亿美元资金。 据The Information周二报道， 英伟达正与Firmus就数亿美元规模的投资进行谈判。Firmus本月初在估值300亿美元的IPO计划受挫后，正寻求私募融资至少20亿美元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784173",
+          "published": "Thu, 22 Oct 2026 03:09:48 GMT"
+        },
+        {
+          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
+          "summary": "DeepSeek据悉完成约1000亿元人民币（150亿美元）融资。据知情人士称，DeepSeek在与投资者洽谈期间至少两次上调融资目标，最初为500亿元人民币，随后提高至800亿元，最终达到约1000亿元。宁德时代和腾讯是本轮融资的最大投资者之一。（新浪） 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784177",
+          "published": "Thu, 22 Oct 2026 03:02:57 GMT"
+        },
+        {
+          "title": "正面回应长鑫4F2突破，美光CTO：3D DRAM“长期更可扩展和成本效益”",
+          "summary": "近期，全球存储芯片市场迎来新一轮估值震荡与技术路线论战。资本市场上，费城半导体指数与存储板块出现较大幅度回撤；而在产业端，长鑫存储在4F² DRAM架构上的突破性进展，引发了行业广泛讨论。 10月21日，美光总裁兼首席技术与产品官Scott DeBoer主持了一场技术与产品网络研讨会，核心议题之一是回应此前长鑫披露4F²架构计划后在投资者中引发的担忧。 Scott DeBoer直言 虽然内部曾对4",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784170",
+          "published": "Thu, 22 Oct 2026 02:56:37 GMT"
+        },
+        {
+          "title": "5个门外汉、3个月、20万美元！Claude设计出抗蝎毒蛋白，AI科研门槛被打下来了？",
+          "summary": "5个人，3个几乎不懂生物学，没有自己的实验室，也没有专业制药团队。 结果，他们只花了3个月、20万美元，就干成了一件超级专业的事：让AI从零设计出能抓住蝎毒的蛋白质。 他们让Claude在64小时内，调动300多个AI Agent，消耗上万小时H100算力，一口气设计出31万多个蛋白方案。 最后，211个被送进真实实验室。 其中17个，真的在实验中抓住了蝎毒里的目标毒素！ 虽然距离真正的解毒药还很",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960074",
+          "published": "Thu, 22 Oct 2026 02:49:23 GMT"
+        },
+        {
+          "title": "英伟达柏林GTC说了什么？这是高盛总结",
+          "summary": "10月21日，英伟达首席执行官黄仁勋在GTC柏林大会发表主题演讲，高盛研究团队出席大会后发布报告。 该行在报告中指出， 此次演讲对股价的即时影响预计有限，但英伟达传递的核心信息“强化了我们的判断——AI部署在可预见的未来仍在正轨上推进。” 本次发布会核心信息包括：英伟达推出DSX POD模块化数据中心方案，可将部署周期从数月压缩至两周；供应链伙伴宣布基板产能扩2.5倍、CoWoS封装扩3倍；物理A",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784166",
+          "published": "Thu, 22 Oct 2026 02:14:28 GMT"
+        },
+        {
+          "title": "暴跌至74还是飙升至130？明年全球油价面临“极端抉择”",
+          "summary": "全球油市正站在一个关键的十字路口。 据追风交易台，德意志银行最新研究显示，布伦特原油价格在2027年存在两种截然相反的极端情景—— 若中东局势走向和谈，油价可能跌至每桶74美元；若战事持续蔓延，则可能飙升至130美元。两种情景之间，相差整整56美元。 这一判断来自德意志银行能源分析师Michael Hsueh。他指出，当前中东地区船只遭袭事件已在10月份升至战争爆发以来的最高水平，国际海事组织（I",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784169",
+          "published": "Thu, 22 Oct 2026 02:06:56 GMT"
+        },
+        {
+          "title": "IBM三季度软件收入增长8%撑起业绩，AI咨询占比提升｜财报见闻",
+          "summary": "IBM第三季度营收与每股盈利双双超出华尔街预期，同时上调全年自由现金流增长指引。 美东时间2026年10月21日盘后，IBM正式发布了2026财年第三季度的财务业绩报告。 第三季度 核心数据如下： 总营收： 171.03亿美元 ，同比增长5%，按固定汇率计算增长6%，超出了华尔街分析师约168.7亿美元的普遍预期。 调整后每股收益： 2.95美元 ，同比增长11%，高于预期的2.86美元。 自由现",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784164",
+          "published": "Thu, 22 Oct 2026 02:03:47 GMT"
+        },
+        {
+          "title": "创业板跌2%，机器人逆势爆发、宇树拉升5%，AI硬件下跌、光模块再调整，恒科指跌3%，权重科网股集体走低",
+          "summary": "10月22日，A股低开低走，三大股指盘初集体下跌，创业板跌2%，AI硬件、AI应用等再度调整，覆铜板、光模块等概念股跌幅居前。海运、文化传媒、保险等板块走低。机器人强势拉升，宇树科技涨5%。稀土永磁、工业母机等概念股活跃。 港股同样低开低走，恒指、恒科指早盘大幅下挫，恒指跌2%，恒科指跌超3%，权重科网股、芯片半导体、AI大模型、新能源汽车等集体下跌，联想集团、阿里巴巴跌超4%，MINIMAX一度",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784171",
+          "published": "Thu, 22 Oct 2026 01:58:17 GMT"
+        },
+        {
+          "title": "宁德时代“单位利润率下降”是新常态吗？大摩：是的，市场利润预期将大幅下修",
+          "summary": "宁德时代三季度业绩低于预期，单位利润率骤降引发市场对其盈利能力的深层质疑。摩根士丹利认为，这一压缩趋势难以快速逆转，市场共识盈利预期面临大幅下修压力。 据追风交易台，摩根士丹利最新研究报告指出，宁德时代三季度净利润为212亿元人民币，同比增长15%， 但较摩根士丹利自身预测低12%。核心压力来自单位净利润率从上半年的0.10元/瓦时骤降至0.08元/瓦时，降幅显著。 摩根士丹利分析师Jack Lu",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784167",
+          "published": "Thu, 22 Oct 2026 01:43:12 GMT"
+        },
+        {
+          "title": "中期选举后 特朗普能让沙特“亡国”",
+          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3783984",
+          "published": "Thu, 22 Oct 2026 01:42:46 GMT"
+        },
+        {
+          "title": "美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”",
+          "summary": "当内部风控触及上限，华尔街的答案不是踩刹车，而是移动球门柱。 据彭博最新报道，巴克莱银行今年早些时候在亚洲AI股票交易热潮中触及对冲基金客户融资上限后， 通过内部拍卖机制，将宏观利率交易台的部分资本配额借调给大宗经纪业务，以维持对亚洲对冲基金客户的贷款扩张。 与此同时，包括高盛在内的多家银行交易员开始向对冲基金客户施压，鼓励其持有更多空头头寸——这一操作在账面上压缩了资产负债表占用，却并未真正降低",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784162",
+          "published": "Thu, 22 Oct 2026 00:20:09 GMT"
+        },
+        {
+          "title": "贝森特闭门会向华尔街放话：看不出AI有什么“系统性风险”",
+          "summary": "10月21日周三，美国财政部长贝森特在纽约一场华尔街精英聚会的闭门会议上表示，他不认为AI行业存在\"系统性问题\"，并驳斥了将当前AI热潮与互联网泡沫相提并论的说法。 贝森特向数百名金融高管和投资者发表了讲话。此次会议由摩根大通与非营利机构Robin Hood联合举办，门票起价7500美元，不对媒体开放。 据三位与会者向英国《金融时报》透露，贝森特在接受桥水基金首席执行官Nir Bar Dea采访时",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784160",
+          "published": "Thu, 22 Oct 2026 00:19:20 GMT"
+        },
+        {
+          "title": "中金：如何对冲AI风险？",
+          "summary": "中金研究 我们仍看好AI资产回报前景，建议通过资产配置应对近期市场波动，为AI资产“购买保险”。在现金、债券和高股息股票等防御性资产外，美元贬值交易同样有助于对冲AI资产风险，增配黄金或为该交易的有效策略。 从AI交易交易到“AI美元”，美元成为全球股市分化的“分界线” 在国际货币秩序重构背景下，我们认为“去美元化”仍是大势所趋，美元面临长期贬值压力（《去美元化结束了吗？》）。但2026年以来，美",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784163",
+          "published": "Thu, 22 Oct 2026 00:17:23 GMT"
+        },
+        {
+          "title": "美股“最不希望涨的板块”涨起来了",
+          "summary": "医疗健康板块的强势反弹，正在向整个市场发出一个不安的信号。 医疗健康板块近期跃升为标普500表现最佳板块之一。 上周，随着市场对人工智能泡沫的担忧持续升温，该板块相对标普500的估值折价彻底消失——医疗健康精选行业SPDR ETF（XLV）的远期市盈率升至19.3倍，略高于标普500整体水平。就在一年前，该板块相对标普500还存在25%的估值折价。本周一，XLV单日涨幅超过2%，Moderna大涨",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784159",
+          "published": "Thu, 22 Oct 2026 00:13:43 GMT"
+        },
+        {
+          "title": "从7天到隔夜：中国政策利率换锚，影响几何？",
+          "summary": "10月19日，人民银行行长潘功胜在金融街论坛上表示，将研究择机把公开市场主要操作品种期限由7天切换为隔夜，公开市场隔夜回购利率（DR001）将相应成为主要政策利率。此举意味着中国货币政策框架由数量型调控向以短端市场利率为核心的价格型调控转型再进一步。 此前，DR001已成为人民银行短期利率调控的目标利率，但公开市场主要操作品种和政策利率期限仍为7天，操作端与目标端存在明显期限错配。此次改革的核心，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784118",
+          "published": "Thu, 22 Oct 2026 00:12:28 GMT"
+        },
+        {
+          "title": "法国10年期国债突破5%，2002年来首次！",
+          "summary": "作为本轮“债券风暴”的中心，法国 10 年期政府债券收益率周三触及 5% 大关，创下 24 年来的新高，这是投资者对法国能否恢复其脆弱的财政状况日益担忧的最新迹象。 与此同时，投资者要求持有法国债券相对于基准 10 年期德国国债的溢价约为 157 个基点，接近 2011 年以来的最高水平。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960071",
+          "published": "Wed, 21 Oct 2026 23:51:20 GMT"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+          "summary": "最后1天！连续9年的金融圈网红日历，99元早鸟价今晚结束，错过等一年，点击下方图片锁定最后优惠！ 市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1%，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%；盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784141",
+          "published": "Wed, 21 Oct 2026 23:36:22 GMT"
+        },
+        {
+          "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？",
+          "summary": "人形机器人尚未大规模走进工厂和家庭，一门围绕“教机器人干活”的生意已经出现规模化采购线索。产业调研显示，部分第一视角数据采集设备单月出货达到万套级；与此同时，数据工厂、动作捕捉、遥操作及仿真平台加速发展。 这场建设的起点是机器人在陌生环境里仍难以稳定完成任务。硬件采购打开了第一层市场，数据质量、生产成本与复用效率决定第二层价值，而机器人能否减少失败、延长有效工作时间，将决定整个产业能走多远。 一、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784100",
+          "published": "Wed, 21 Oct 2026 23:31:20 GMT"
+        },
+        {
+          "title": "SAP三季度营收增长13%，单季首破100亿欧元，云积压订单同比增长28%｜财报见闻",
+          "summary": "SAP第三季度业绩全面超出预期，云业务加速增长叠加AI工具渗透率提升，令这家欧洲最大软件公司展示出对企业应用市场冲击的韧性。 10月21日美股盘后，软件公司SAP发布2026年第三季度财报， 公司总收入达到102.70亿欧元，同比增长13%，不变汇率下增长12%，首次单季突破100亿欧元 ；非IFRS营业利润达到30.30亿欧元，同比增长18%，同样首次突破30亿欧元。 管理层强调，这反映出SAP",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784158",
+          "published": "Wed, 21 Oct 2026 23:27:07 GMT"
+        },
+        {
+          "title": "10月22日会员早报：市场押注美国很快重启对伊打击 法国10年期国债收益率24年来首破5%",
+          "summary": "1、【市场押注美国很快重启对伊打击】五角大楼已要求中央司令部完成重启大规模作战的准备，美国增派第三个航母打击群赴中东；同时以军战机被曝抵近伊朗边境，伊朗南部锡里克21日夜传爆炸；国际油价正在为一场可能很快到来的打击定价。 2、【法国10年期国债收益率24年来首破5%】10月21日，法国10年期国债收益率盘中升破5%，为2002年7月以来首次；本周以来累计上行逾20个基点（即0.2个百分点），而全球",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784157",
+          "published": "Wed, 21 Oct 2026 22:25:56 GMT"
+        },
+        {
+          "title": "电话会：特斯拉CEO马斯克说，目标是到2030年左右每年生产500万辆汽车，2027年所有Megapacks几乎售罄",
+          "summary": "电话会：特斯拉CEO马斯克说，目标是到2030年左右每年生产500万辆汽车，2027年所有Megapacks几乎售罄。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784155",
+          "published": "Wed, 21 Oct 2026 21:36:01 GMT"
+        },
+        {
+          "title": "扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。 现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。 Met...",
+          "summary": "扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。\n现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。\nMeta美股盘后涨幅超过6.5%，该公司正进行分析师电话会议。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784154",
+          "published": "Wed, 21 Oct 2026 20:41:33 GMT"
+        },
+        {
+          "title": "Metals预计四季度营收730亿-760亿美元，分析师预期735.7亿美元。 披露新的非表决权C类普通股发行计划",
+          "summary": "Metals预计四季度营收730亿-760亿美元，分析师预期735.7亿美元。\n披露新的非表决权C类普通股发行计划。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784152",
+          "published": "Wed, 21 Oct 2026 20:01:51 GMT"
+        },
+        {
+          "title": "【华尔街原声】投资人：SpaceX与特斯拉合并有望获得股东支持",
+          "summary": "Deepwater的蒙斯特认为，两家公司可整合太空算力与自动驾驶、机器人业务，进一步强化马斯克的AI布局",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495935.html",
+          "published": "Thu, 22 Oct 2026 03:20:13 GMT"
+        },
+        {
+          "title": "盛松成：从地区社融结构变迁看区域经济发展",
+          "summary": "社融反映的是一定时期内金融体系对实体经济的资金支持，其绝对规模与内部结构所呈现的区域差异本质上是各地经济发展阶段、经济结构与金融生态的映射 社会融资规模（以下简称社融）不仅是反映金融体系对实体经济资金支持的综合性指标，又因分地区数据的发布，成为观察区域经济运行的独特窗口。2014年以来，中国人民银行按季公布分省份社融增量数据，为从金融侧考察区域经济发展情况提供了基础。本文采用2013年至2026年",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-22/102495921.html",
+          "published": "Thu, 22 Oct 2026 02:41:46 GMT"
+        },
+        {
+          "title": "硬道理、大政治和对企业家的启示",
+          "summary": "讲“硬道理”“大政治”，企业是发展新质生产力的“出题人”“答题人”乃至“阅卷人” 10月9日，中共中央、国务院印发《关于发展新质生产力的意见》；仅隔12天，中共中央办公厅、国务院办公厅又经党中央、国务院同意，印发《关于推动科技创新和产业创新深度融合的意见》。一纲一目、一总一分，围绕同一条主线在如此短的时间内接连部署，展示了“十五五”开局之年的关键重点。 在创造性提出“新质生产力”的同时，习近平总书",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-22/102495919.html",
+          "published": "Thu, 22 Oct 2026 02:22:19 GMT"
+        },
+        {
+          "title": "【市场动态】日本寿险公司拟增加购债 为日本国债市场提供支撑",
+          "summary": "寿险公司是长期政府债券尤其重要的买家，因为他们利用这类债券来匹配长期负债",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495901.html",
+          "published": "Thu, 22 Oct 2026 01:37:51 GMT"
+        },
+        {
+          "title": "【市场动态】马斯克称SpaceX与特斯拉已开始研究潜在合并交易",
+          "summary": "他表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495899.html",
+          "published": "Thu, 22 Oct 2026 01:35:29 GMT"
+        },
+        {
+          "title": "【市场动态】中东石油运输接近战前水平 顶住霍尔木兹海峡袭击压力",
+          "summary": "国际能源署(IEA)数据显示，阿联酋已将石油产量提高至纪录水平",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-22/102495898.html",
+          "published": "Thu, 22 Oct 2026 01:35:07 GMT"
+        },
+        {
+          "title": "今日开盘：沪指报3714.48点 涨幅0.04%",
+          "summary": "沪指开盘报3714.48点；深成指报11690.34点 财新网10月22日电:沪指开盘报3714.48点，涨幅0.04%。 深成指报11690.34点，跌幅0.12%；创业板指报2687.94点，跌幅0.25%；中小板指报7353.39点，跌幅0.02%。 盘面上，非银金融领涨，纺织服饰、通信、机械设备、建筑材料、环保等板块涨幅居前，传媒领跌，电力设备、食品饮料、社会服务、煤炭、汽车等走弱。 消息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-22/102495895.html",
+          "published": "Thu, 22 Oct 2026 01:29:53 GMT"
+        },
+        {
+          "title": "AI算力云服务商股价大跌 高杠杆算力扩张模式受质疑",
+          "summary": "CoreWeave股价两周跌超30%，澳大利亚NextDC单日跌幅逾40%，两家数据中心开发商Firmus、Nscale的上市进程也遇阻 【财新网】 AI算力云服务商股价持续走弱，市场正重新审视巨额数据中心投资需求的真实性与回报的成色。 美国AI算力云服务商CoreWeave（CRWV:NASDAQ）的股价在两周内下跌超过30%。10月20日，其股价涨1.65%，报62.13美元/股，但回调力度有",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-22/102495864.html",
+          "published": "Wed, 21 Oct 2026 23:07:13 GMT"
+        },
+        {
+          "title": "财经早知道｜宁德时代单日市值蒸发超1400亿元 股价较年内高点已腰斩",
+          "summary": "推荐：14家民营银行叫停或限制个人异地存款；9月上海二手房价三年来首次同比转涨 早上好，今天是10月22日星期四。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。 24小时热点 中办、国办发布关于推动科技创新和产业创新深度融合的意见，提出 推动集成电路、工业母机、高端仪器等重点领域关键核心技术攻关取得决定性突破 ；以原创",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-22/102495862.html",
+          "published": "Wed, 21 Oct 2026 22:56:41 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？",
+          "summary": "人形机器人尚未大规模走进工厂和家庭，一门围绕“教机器人干活”的生意已经出现规模化采购线索。产业调研显示，部分第一视角数据采集设备单月出货达到万套级；与此同时，数据工厂、动作捕捉、遥操作及仿真平台加速发展。 这场建设的起点是机器人在陌生环境里仍难以稳定完成任务。硬件采购打开了第一层市场，数据质量、生产成本与复用效率决定第二层价值，而机器人能否减少失败、延长有效工作时间，将决定整个产业能走多远。 一、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784100",
+          "published": "Wed, 21 Oct 2026 23:31:20 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 113,
+    "total_collected": 79,
+    "sources": 6,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "财新网"
+    ],
+    "domains": 6
+  }
+}
