@@ -1,196 +1,198 @@
 {
-  "id": "2026-10-23-09",
-  "datetime": "2026-10-23 09:10:24",
+  "id": "2026-10-23-16",
+  "datetime": "2026-10-23 16:38:48",
   "date": "2026-10-23",
-  "time": "09:10",
-  "period": "上午",
-  "summary": "本期采集 89 篇文章，来自 9 个信息源，覆盖 7 个领域，精选 127 条摘要",
+  "time": "16:38",
+  "period": "下午",
+  "summary": "本期采集 92 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 123 条摘要",
   "domains": [
-    {
-      "name": "哲学",
-      "summary": "",
-      "items": [
-        {
-          "title": "破与立：设计视角下的 iPhone Duo",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-          "importance": "medium",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116979",
-          "published": "Fri, 23 Oct 2026 11:07:19 +0800"
-        },
-        {
-          "title": "总书记重要讲话激励全党全军全国各族人民勇毅前行",
-          "summary": "这是惊天动地的革命壮举，这是气壮山河的英雄史诗。 10月22日，纪念中国工农红军长征胜利90周年大会在北京人民大会堂隆重举行，习近平总书记发表重要讲话，回顾我们党领导红军进行长征的伟大历程，总结长征胜利的伟大意义，揭示长征胜利蕴含的党和人民军队铿锵前进的制胜之道，阐发伟大长征精神的时代价值，就弘扬伟大长征精神、走好新的长征路提出“五个必须”的明确要求。 习近平总书记的重要讲话激起全党全军全国各族人",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIod1yCXXA5KtTe6G9t33y261023.shtml",
-          "published": "Fri, 23 Oct 2026 05:47:39 GMT"
-        },
-        {
-          "title": "一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”",
-          "summary": "黄金的避险属性正在接受考验。尽管债务与通胀担忧仍为金价提供长期支撑，但在股市下跌、债券收益率上行的市场环境下，黄金也可能因投资者急于筹集现金而遭到抛售，难以发挥短期避险作用。 10月23日，现货黄金一度跌破4000美元/盎司关口。此前，金价今年曾突破5000美元/盎司，创下历史新高，但随后涨势放缓、价格回落，市场波动加剧。 汇丰资产管理策略师在最新报告中指出，高油价、利率上行及债券收益率飙升，正对",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784308",
-          "published": "Fri, 23 Oct 2026 08:34:22 GMT"
-        },
-        {
-          "title": "美债本轮反弹的持续性如何？",
-          "summary": "美债市场于10月22日迎来自2023年3月地区银行危机以来最大单日收益率下行， 各期限收益率单日下行幅度达15至21个基点 ，10年期美债收益率收于4.95%。 据追风交易台消息，摩根大通在10月22日的研报中称，这场突如其来的“避险狂欢”由欧洲主权债风暴和纳斯达克科技股的持续疲软共同引爆，并非源于美国基本面的实质性改善。 报告称， 尽管宏观层面“去美元化”的喧嚣尘上，但真实数据显示，海外私人资本",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784306",
-          "published": "Fri, 23 Oct 2026 08:19:40 GMT"
-        },
-        {
-          "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？",
-          "summary": "人形机器人尚未大规模走进工厂和家庭，一门围绕“教机器人干活”的生意已经出现规模化采购线索。产业调研显示，部分第一视角数据采集设备单月出货达到万套级；与此同时，数据工厂、动作捕捉、遥操作及仿真平台加速发展。 这场建设的起点是机器人在陌生环境里仍难以稳定完成任务。硬件采购打开了第一层市场，数据质量、生产成本与复用效率决定第二层价值，而机器人能否减少失败、延长有效工作时间，将决定整个产业能走多远。 一、",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784100",
-          "published": "Fri, 23 Oct 2026 06:31:30 GMT"
-        }
-      ]
-    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "I Did This Without Your Knowledge",
-          "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge Comments URL: https://news.ycombinator.com/item?id=50204926 Points: 10 # Comments: 1",
+          "title": "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
+          "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 75 # Comments: 13",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-          "published": "Fri, 23 Oct 2026 05:51:45 +0000"
+          "link": "https://blog.calif.io/p/iphone",
+          "published": "Fri, 23 Oct 2026 16:21:50 +0000"
         },
         {
-          "title": "This I Believe (1952)",
-          "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 80 # Comments: 28",
+          "title": "Pentagon grants DHS permission to test heat ray weapon for use at border",
+          "summary": "Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon Comments URL: https://news.ycombinator.com/item?id=50210075 Points: 29 # Comments: 24",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.awakin.org/v2/read/view.php?tid=468",
-          "published": "Fri, 23 Oct 2026 02:19:38 +0000"
+          "link": "https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon",
+          "published": "Fri, 23 Oct 2026 14:52:47 +0000"
         },
         {
-          "title": "独家｜莫大开除文件已下达，中国留学生发声：这事没完",
-          "summary": "【文/观察者网 安妮】 近日，一面带有日本军国主义象征的旭日旗，出现在俄罗斯莫斯科国立大学（以下简称“莫大”）历史系课堂上，刺痛了不少在俄中国留学生。历史系课堂本应最清楚这段记忆的重量，事件发生后，莫大历史系中国留学生联名请愿，要求校方调查处理。据媒体报道，莫大历史系已表示将尽快公布对涉事学生的处理决定。 观察者网从今日俄罗斯（RT）了解到，消息人士透露，涉事学生的开除文件已下达，但因涉及隐私法律",
+          "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+          "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50210067 Points: 117 # Comments: 46",
           "importance": "medium",
-          "source": "观察者网",
-          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_23_905419_s.shtml",
-          "published": "Fri, 23 Oct 2026 05:02:00 GMT"
+          "source": "Hacker News",
+          "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+          "published": "Fri, 23 Oct 2026 14:52:08 +0000"
         },
         {
-          "title": "伊议员说伊朗已要求中东国家停止支持美国",
-          "summary": "23日有消息称，伊朗议会国家安全和外交政策委员会成员费达-侯赛因·马利基说，伊朗已向中东地区国家发出最后通牒，要求一旦伊朗与美国重燃战火，这些国家必须停止对美方的一切支持。 马利基说，在此前交战中，伊方打击了美军用来袭击伊朗的位于地区国家内所有军事基地。如果伊美再次爆发冲突，伊朗将明确中东地区哪些国家倾向于支持美军，采取的回应措施将不只是打击这些国家的军事基地，这些国家本身将被伊朗列为“敌对国家”",
+          "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+          "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 440 # Comments: 307",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+          "published": "Fri, 23 Oct 2026 13:41:10 +0000"
+        },
+        {
+          "title": "Shitter – A Nitter Fork",
+          "summary": "Article URL: https://codeberg.org/shitter/shitter Comments URL: https://news.ycombinator.com/item?id=50208343 Points: 132 # Comments: 91",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://codeberg.org/shitter/shitter",
+          "published": "Fri, 23 Oct 2026 13:02:23 +0000"
+        },
+        {
+          "title": "OpenSSL 4.1.0",
+          "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0 Comments URL: https://news.ycombinator.com/item?id=50208099 Points: 148 # Comments: 45",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+          "published": "Fri, 23 Oct 2026 12:42:44 +0000"
+        },
+        {
+          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 36 # Comments: 25",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.thisandthat.chat/enron/",
+          "published": "Fri, 23 Oct 2026 12:02:53 +0000"
+        },
+        {
+          "title": "Is this the new cyber normal?",
+          "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 128 # Comments: 138",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+          "published": "Fri, 23 Oct 2026 11:04:53 +0000"
+        },
+        {
+          "title": "Job Loss and Cortisone Mania",
+          "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 94 # Comments: 31",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+          "published": "Fri, 23 Oct 2026 10:31:24 +0000"
+        },
+        {
+          "title": "法国将部署约7万名安全人员应对新一轮示威",
+          "summary": "当地时间10月23日，法国内政部长努内兹宣布，将于24日在全国部署约7万名警察和宪兵，以应对即将举行的新一轮大规模抗议活动。努内兹表示，当局发现社交媒体上出现煽动暴力、抢劫及袭击公共建筑的言论，将对任何暴力和违法行为采取强硬措施。 法国10月17日爆发全国性示威。法国政府估计，全国约55万人参加示威，组织方则称人数达到80万。部分城市的示威活动伴有暴力冲突。据官方统计，法国全国至少3000家商铺遭",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIpExOMeJp9ytcNpyBzQ3g261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:42:05 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIbKhICGGv7PGRK5zK83Ws261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:55:03 GMT"
         },
         {
-          "title": "日本能源白皮书：中东局势暴露日能源体系弱点",
-          "summary": "日本政府23日发布的2025财年（2025年4月至2026年3月）能源白皮书指出，随着中东局势恶化，日本能源供需结构的脆弱性再次凸显。 白皮书指出，长期以来，日本原油进口超九成依赖中东。今年2月底美国和以色列对伊朗发动军事打击后，作为全球能源运输重要通道的霍尔木兹海峡通航受阻，原油及石油产品供应面临不确定性，石脑油等部分石油相关产品的流通因此出现阻滞。 为保障国内能源供应，日本政府自3月以来采取了",
+          "title": "白宫称俄乌同意在奥列什基暂时停火",
+          "summary": "美国白宫23日发表声明说，美国促成俄罗斯和乌克兰达成在赫尔松地区奥列什基的停火协议。俄乌两国同意暂时停止在奥列什基的一切军事行动，以便人道主义物资进入，并安排平民通过指定的安全通道撤离。停火从10月29日开始。（总台记者 郝薇）",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:33:31 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIT7ka7LbVajcqI38Ueqx6261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:52:45 GMT"
         },
         {
-          "title": "韩国国防部向朝方提议举行韩朝军方会谈",
-          "summary": "△韩国国防部（资料图） 韩国国防部23日发表谈话，正式向朝方提议举行韩朝军方会谈，就相互确认韩朝陆地军事分界线的准确位置、恢复军事通信线路以及防止边境地区发生意外冲突的方案进行协商。如有必要，也可以举行包括“联合国军司令部”在内的三方会谈。",
+          "title": "几内亚发生多起涉中国公民交通事故造成严重人员伤亡 中使馆发布提醒",
+          "summary": "央视网消息： 10月23日，据“中国驻几内亚大使馆”公众号消息，今年以来，几内亚发生多起涉中国公民交通事故，造成严重人员伤亡。几内亚交通事故易发、高发，违章驾驶特别是酒驾醉驾极易酿成严重后果，造成恶劣影响。 驻几内亚大使馆在此郑重提醒全体在几中国公民和企业，务必高度重视交通安全，严格遵守几内亚当地法律法规及交通管理规定，牢固树立安全行车意识。日常驾车出行自觉控制车速、文明驾驶、谨慎驾驶，坚决杜绝超",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:30:04 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTICLQhRlHOpbkSSptsfBc5261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:54:50 GMT"
         },
         {
-          "title": "新西兰国防军司令因“诚信问题”辞职",
-          "summary": "新西兰国防军司令托尼·戴维斯23日因“诚信问题”辞职。 新西兰国防部长保罗·戈德史密斯发表声明说，戴维斯已告知他将辞去国防军司令一职，辞职即刻生效。声明说，戴维斯作出这一决定的原因涉及“诚信问题”，这些问题他此前并未披露。 戈德史密斯还表示，他将建议新西兰总督接受戴维斯的辞呈。在正式任命新司令前，国防军副司令马特·威廉姆斯将代理司令一职。 新西兰国防军当天在社交媒体发文引述戴维斯的话说，此次辞职涉",
+          "title": "党和人民军队铿锵前进的制胜之道",
+          "summary": "历史长河奔腾不息，精神坐标巍然矗立。 10月22日上午，纪念中国工农红军长征胜利90周年大会在北京人民大会堂隆重举行。 “90年后的今天，再次回望那段苦难辉煌，我们更加深刻认识到，长征胜利是必然的，其中蕴含着党和人民军队铿锵前进的制胜之道。”习近平总书记深刻指出。 这是一场在绝境中拼出来的胜利，是征服人类生存极限闯出来的胜利——红军长征纵横十余省，长驱二万五千里，跨越近百条江河，翻越皑皑雪山，穿过",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTItlrbi9yJ0qjlOPWThKV3261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:18:28 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTI1wFDH0kHuygAidtwTsyD261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:37:48 GMT"
         },
         {
-          "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
-          "summary": "央视网消息： 据商务部官微消息，商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问。 有记者问：美东时间10月19日，美国防部公布对部分美国高校的科研安全审查结果，提到相关高校已全面终止与1286清单实体的合作关系。1286清单实体中，包括很多中国科研机构。请问商务部对此有何评论？ 答：我们注意到有关情况。中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIXXzX4Zz4pF3kOtcMBtou261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:49:54 GMT"
-        },
-        {
-          "title": "伊议员说伊朗已要求中东国家停止支持美国",
-          "summary": "23日有消息称，伊朗议会国家安全和外交政策委员会成员费达-侯赛因·马利基说，伊朗已向中东地区国家发出最后通牒，要求一旦伊朗与美国重燃战火，这些国家必须停止对美方的一切支持。 马利基说，在此前交战中，伊方打击了美军用来袭击伊朗的位于地区国家内所有军事基地。如果伊美再次爆发冲突，伊朗将明确中东地区哪些国家倾向于支持美军，采取的回应措施将不只是打击这些国家的军事基地，这些国家本身将被伊朗列为“敌对国家”",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIjrwv8uygi3S1NqKkeR1p261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:40:50 GMT"
-        },
-        {
-          "title": "沙特主导联军称拦截胡塞武装向利雅得发射的导弹",
-          "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基23日在社交媒体上表示，联军拦截并摧毁了也门胡塞武装向沙特首都利雅得发射的弹道导弹。 稍早前，沙特首都利雅得发布防空警报，并传出多次爆炸声。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTICfankTZRUBlWF7UcJzUl261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:09:12 GMT"
-        },
-        {
-          "title": "一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”",
-          "summary": "黄金的避险属性正在接受考验。尽管债务与通胀担忧仍为金价提供长期支撑，但在股市下跌、债券收益率上行的市场环境下，黄金也可能因投资者急于筹集现金而遭到抛售，难以发挥短期避险作用。 10月23日，现货黄金一度跌破4000美元/盎司关口。此前，金价今年曾突破5000美元/盎司，创下历史新高，但随后涨势放缓、价格回落，市场波动加剧。 汇丰资产管理策略师在最新报告中指出，高油价、利率上行及债券收益率飙升，正对",
+          "title": "俄确认将与乌在奥列什基停火",
+          "summary": "俄罗斯克里姆林宫方面10月23日证实，在美国的斡旋下，各方就在俄方控制的赫尔松州奥列什基地区停火达成协议，俄乌两军正在协商确定协议的实施日期。白宫早些时候表示，美国总统夫人梅拉尼娅·特朗普促成了此次停火，停火将于10月29日生效。（CCTV国际时讯）",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784308",
-          "published": "Fri, 23 Oct 2026 08:34:22 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184938",
+          "published": "Fri, 23 Oct 2026 15:51:56 GMT"
         },
         {
-          "title": "在OpenAI当FDE是什么体验？",
-          "summary": "入职没几天，就被“逼着”去学怎么设计芯片？辛辛苦苦干了几个月写出来的代码，AI一升级，直接给你删掉了90%？最奇葩的是，在这个岗位上，你干得越好，你可能就越快“失业”？ 这是目前全球最顶尖的AI公司——OpenAI里，做一名FDE工程师的真实经历。 如果说OpenAI的研究员是在实验室里造核武器的人，那FDE团队就是把这些武器带到前线，手把手教企业怎么打赢战争的“特种兵”。他们的任务只有一个：解决",
+          "title": "以军总参谋长：已在所有战线进入最高戒备状态",
+          "summary": "当地时间23日，以军总参谋长扎米尔在约旦河西岸城市希伯伦附近的枪击事件现场表示，以军目前已在所有战线都进入最高戒备状态。他强调，鉴于即将进入以色列议会选举的敏感时期，以军将继续在各区域采取主动军事行动，以确保当地的安全与稳定。 同一天，以军发表声明宣布，将在下周举行大规模军事演习，模拟应对多线袭击并提高防卫准备。此次演习将在以色列北部和中部地区举行，时间定于25日和26日。演习旨在提高以军多线防御",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784313",
-          "published": "Fri, 23 Oct 2026 08:32:25 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184932",
+          "published": "Fri, 23 Oct 2026 15:32:57 GMT"
         },
         {
-          "title": "中期选举后 特朗普能让沙特“亡国”",
-          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "title": "白宫称俄乌同意在奥列什基暂时停火",
+          "summary": "美国白宫23日发表声明说，美国成功促成俄罗斯和乌克兰达成在奥列什基的停火协议。俄乌两国同意暂时停止在奥列什基的一切军事行动，以便人道主义物资进入，并安排平民通过指定的安全通道撤离。停火从10月29日开始。 来源：新华社 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783984",
-          "published": "Fri, 23 Oct 2026 08:10:15 GMT"
+          "link": "https://wallstreetcn.com/articles/3784348",
+          "published": "Fri, 23 Oct 2026 13:31:17 GMT"
         },
         {
-          "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升",
-          "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注半导体板块相对软件板块的结构性机会。 据追风交易台消息，瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低2",
+          "title": "白宫称俄乌同意在奥列什基暂时停火",
+          "summary": "美国白宫23日发表声明说，美国成功促成俄罗斯和乌克兰达成在奥列什基的停火协议。俄乌两国同意暂时停止在奥列什基的一切军事行动，以便人道主义物资进入，并安排平民通过指定的安全通道撤离。停火从10月29日开始。（新华社）",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784302",
-          "published": "Fri, 23 Oct 2026 07:11:22 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184855",
+          "published": "Fri, 23 Oct 2026 13:29:13 GMT"
         },
         {
-          "title": "商务部：敦促美方尊重事实，立即停止对中国科研机构采取歧视性、限制性措施的错误做法",
-          "summary": "10月23日，商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问。 有记者问：美东时间10月19日，美国防部公布对部分美国高校的科研安全审查结果，提到相关高校已全面终止与1286清单实体的合作关系。1286清单实体中，包括很多中国科研机构。请问商务部对此有何评论？ 答：我们注意到有关情况。中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中国科研机构进行无理",
+          "title": "全球铜短缺或从2028年开始显现，2050年供需缺口恐达44%",
+          "summary": "全球铜市正面临日益严峻的结构性供需失衡。绿色能源转型、AI基础设施扩张和新兴市场基建共同推高需求，但矿山开发周期漫长、矿石品位下降及投资不足，令供给难以跟上。铜短缺不仅可能推动价格长期上涨，也可能抬高能源转型成本，制约相关产业发展。 据彭博新能源财经本周发布的报告， 全球铜市将从2028年起出现“大规模长期短缺”，预计2035年供给缺口将达到需求量的8%，到2050年进一步扩大至44%。 国际能源",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784300",
-          "published": "Fri, 23 Oct 2026 06:54:55 GMT"
+          "link": "https://wallstreetcn.com/articles/3784346",
+          "published": "Fri, 23 Oct 2026 13:26:30 GMT"
         },
         {
-          "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
-          "summary": "中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中国科研机构进行无理的“污名化”指责。美方相关做法实质上是在胁迫美国科研机构“选边站队”，蓄意破坏中美正常科研合作，这只会削弱美自身的科技进步与创新发展，搬起石头砸自己的脚。中美加强科研合作符合双方共同利益，搞限制“脱钩”只会损人害己。中方敦促美方尊重事实，顺应全球科技交流合作的普遍规律与时代潮流，立即停止对中国科研机",
+          "title": "梅拉尼娅促成Oleshky地区的俄乌局部停火，乌克兰和俄罗斯局部停火将于10月29日开始。（彭博）",
+          "summary": "梅拉尼娅促成Oleshky地区的俄乌局部停火，乌克兰和俄罗斯局部停火将于10月29日开始。（彭博）",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184257",
-          "published": "Fri, 23 Oct 2026 06:44:47 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184852",
+          "published": "Fri, 23 Oct 2026 13:21:36 GMT"
         },
         {
-          "title": "【华尔街原声】黑石总裁：AI算力需求强劲，融资能力成扩张瓶颈",
-          "summary": "格雷称，旗下企业过去一年AI模型支出增长20倍，地缘政治冲突缓和后IPO市场有望重新活跃",
+          "title": "美官员称美国已准备好与伊朗长期对峙",
+          "summary": "美国常驻联合国代表迈克尔·华尔兹表示，美国已做好与伊朗长期对峙的准备，双方一年后可能仍在僵局中。 据英国方面23日消息，华尔兹承认， 一年后美国和伊朗可能仍陷于僵局，届时双方或许仍未就伊朗核计划达成协议，霍尔木兹海峡航运也可能无法恢复至冲突前水平。 华尔兹希望伊朗能在上述情况发生前“坐到谈判桌前”。 华尔兹称，美国总统特朗普和美国海军“有能力在可预见的未来维持对伊朗港口的封锁”，美政府正进一步加大",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784336",
+          "published": "Fri, 23 Oct 2026 12:26:51 GMT"
+        },
+        {
+          "title": "中国发布外空治理立场：鼓励企业参与外空探索，规范商业航天",
+          "summary": "关于加强外空治理的中国立场 外空是人类生存和发展的新领域和新家园。探索浩瀚宇宙，和平利用外空，是全人类的共同理想，既关乎各国经济建设、科技发展、国家安全和社会进步，更关乎全人类共同福祉。外空探索的成果，应惠及所有国家。 随着航天科技进步及其广泛应用，外空探索、开发和利用活动的频次、密度、深度呈爆发式增长，外空领域现行国际法体系滞后性逐渐显现。各国外空能力发展不平衡、不充分的问题突出，发展中国家获取",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784337",
+          "published": "Fri, 23 Oct 2026 12:18:44 GMT"
+        },
+        {
+          "title": "大西洋观察｜游刃于大国之间：联合国秘书长之争",
+          "summary": "联合国愈发体现国际地缘政治板块碰撞的特点：在新旧板块碰撞摩擦的地带，一种小步为赢、兼收并蓄的方法，将成为未来国际机构和组织主流行事导向 【财新网】 联合国的首脑、全球首席外交官。这些显赫的抬头，是用来描述“战后”成立的联合国秘书长一职的。只不过，在当下以规则与法律为基石的国际秩序遭受剧烈冲击的当下，联合国的话语权与地位日益边缘化。 而就是这个依然重要但吸引力大为下降的职位，在现任秘书长、葡萄牙人古",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496340.html",
-          "published": "Fri, 23 Oct 2026 03:29:35 GMT"
+          "link": "https://international.caixin.com/2026-10-23/102496632.html",
+          "published": "Fri, 23 Oct 2026 12:59:07 GMT"
+        },
+        {
+          "title": "中远海运：能源运输底层逻辑巨变 如何寻找确定性？",
+          "summary": "竞争逻辑从效率转向安全、韧性；合作逻辑从博弈转向协同；发展逻辑从规模转向创新 【财新网】 “研判外部环境比关注自身更重要。”10月22日，中远海运集团总经理助理、中远海能（600026.SH）董事长任永强在舟山举办的第九届世界油商大会上指出，地缘政治波动等因素已使能源运输行业的底层逻辑发生转变。 首先是竞争逻辑从效率转向安全、韧性。任永强解释，在过去相对稳定的国际环境下，能源运输的核心竞争力在于成",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496514.html",
+          "published": "Fri, 23 Oct 2026 09:41:50 GMT"
         }
       ]
     },
@@ -199,220 +201,320 @@
       "summary": "",
       "items": [
         {
-          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 36 # Comments: 25",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.thisandthat.chat/enron/",
+          "published": "Fri, 23 Oct 2026 12:02:53 +0000"
+        },
+        {
+          "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+          "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor and others as angels, it says.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-          "published": "Fri, 23 Oct 2026 04:22:57 +0000"
+          "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+          "published": "Fri, 23 Oct 2026 16:26:29 +0000"
         },
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+          "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-          "published": "Fri, 23 Oct 2026 04:00:00 +0000"
+          "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+          "published": "Fri, 23 Oct 2026 16:02:43 +0000"
         },
         {
-          "title": "PHP是什麼？為何它引發全球網絡安全危機？",
-          "summary": "人工智能發現了長期未被察覺的程式漏洞，引發全球罕見的大規模網絡安全應對行動。",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company ",
           "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 23 Oct 2026 08:09:29 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+          "published": "2026-10-23T10:47:41-04:00"
         },
         {
-          "title": "三年之期已到，恭迎世一上归位！【第14集】",
-          "summary": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
+          "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+          "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrade",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+          "published": "2026-10-23T10:42:46-04:00"
+        },
+        {
+          "title": "Our best tips for using the iPhone Duo",
+          "summary": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. T",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+          "published": "2026-10-23T10:00:00-04:00"
+        },
+        {
+          "title": "Apple revives the original iPod as an Apple Music easter egg",
+          "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+          "published": "2026-10-23T09:58:43-04:00"
+        },
+        {
+          "title": "People are vibe coding their way to better TVs",
+          "summary": "Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "published": "2026-10-23T09:00:00-04:00"
+        },
+        {
+          "title": "Netflix can’t fire its way out of this downward spiral",
+          "summary": "Netflix co-CEO Ted Sarandos. | Photo by Noam Galai/Getty Images Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+          "published": "2026-10-23T09:00:00-04:00"
+        },
+        {
+          "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+          "summary": "The Brick Night is considerably bigger then the OG Brick, and more than double the price. | Image: Brick Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has lau",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+          "published": "2026-10-23T08:50:17-04:00"
+        },
+        {
+          "title": "《原神》7.2版本「坏灭肇始之时」前瞻特别节目",
+          "summary": "《原神》7.2版本「坏灭肇始之时」将于2026年11月4日上线。\n感谢各位旅行者的支持与陪伴，我们将为大家带来更多7.2版本的最新消息~\n\n本次兑换码将于2026年10月26日12:00:00失效，记得尽快兑换哦~\n\n《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
           "importance": "medium",
           "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1pnn46KEdy",
-          "published": "Fri, 23 Oct 2026 04:37:52 GMT"
+          "link": "https://www.bilibili.com/video/BV14Enb6LEBX",
+          "published": "Fri, 23 Oct 2026 12:50:00 GMT"
         },
         {
-          "title": "商务部：1—9月电子商务发展动能持续创新",
-          "summary": "今天（23日），商务部电子商务司负责人介绍2026年1—9月我国电子商务发展情况。1—9月，我国电子商务发展动能持续创新，网上零售支撑消费增长，国际合作走深走实，助力增强我国经济发展的韧性和活力。 发展动能更加向新。 实施品质电商“五优”行动，引导电商行业从规模扩张向质量提升转型。电商平台加快在云服务、大模型、算力芯片领域自主研发，大模型性能水平、月活用户和词元调用量升至全球前列，成为我国人工智能",
+          "title": "具身智能机器人应用技术员：给机器人当“老师”",
+          "summary": "新华社重庆10月23日电（记者杨仕彦）调试机械臂、夹爪和相机，搭建仿真训练环境，采集数据、训练模型，再进行部署测试……对具身智能机器人应用技术员汤子翔来说，他的工作，就是给机器人当“老师”。 在位于重庆两江新区的七腾机器人有限公司，汤子翔通过电脑搭建虚拟训练环境，让机械臂在仿真中学习如何操作电力柜。他通过不断改变旋钮的位置和角度，模拟实际工作中的不同情况，并利用这些操作数据训练人工智能模型，再将训",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTISAMnXdvVBtLLbfxFJQS1261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:00:12 GMT"
+          "link": "https://people.cctv.com/2026/10/23/ARTIc9gtOETi6jtCSiHJUFoy261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:15:28 GMT"
         },
         {
-          "title": "从发票数据透视前三季度经济脉动 各领域“多点开花”发展向好",
-          "summary": "[!--begin:htmlVideoCode--]626e4d78280e4b85801f775f7925aee0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家税务总局发布的最新发票数据显示，今年前三季度，我国经济运行平稳，工业、新动能行业、设备投资等领域发展进一步向好。 发票数据显示，前三季度，工业企业销售收入同比增长7.4%，延续较",
+          "title": "点燃科创热情 澳门学生在大湾区感受人工智能发展",
+          "summary": "10月22日，澳门学生站在深圳腾讯滨海大厦展厅的“敦煌数字藏经洞”前。新华社记者 王丰 摄 新华社深圳10月23日电（记者王丰）“最令我震撼的是AI壁画实景体验，它其实是一块LED屏幕，站在现场观看十分真实。”站在腾讯滨海大厦展厅的“敦煌数字藏经洞”前，圣公会（澳门）蔡高中学高三学生彭慕橙兴奋地说。 10月22日，中国电信（澳门）有限公司联合澳门中华教育会，组织圣公会（澳门）蔡高中学30余名师生赴",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIwMsBMN1j9pGRWyu0KyyW261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:40:55 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIrMKdNbJZtZaN7cFHhks9261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:13:25 GMT"
         },
         {
-          "title": "巴基斯坦反恐行动击毙2名恐怖分子 4名警察殉职",
-          "summary": "中新社北京10月23日电 伊斯兰堡消息：当地时间10月22日，巴基斯坦警方在该国开伯尔-普什图省开展反恐搜剿行动，击毙2名恐怖分子。双方交火期间，4名警察殉职，其中包含一名反恐部门高级警官。 综合巴基斯坦《黎明报》《论坛快报》等媒体报道，开伯尔-普什图省警方发布声明称，恐怖分子此前在该省封锁道路，警方22日中午启动搜剿行动，突袭恐怖组织头目的藏身处，随后双方发生交火。交火中2名恐怖分子被击毙，4名",
+          "title": "基于大模型AI重现历史影像 揭秘《长征颂歌》创作细节",
+          "summary": "22日晚，纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》在总台多平台同步播出。 [!--begin:htmlVideoCode--]5632fcbfaadf4a9f9acd08ed0eec0848,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 在晚会的舞台上，AI技术搭建起时空桥梁，重现长征路上的历史瞬间。这些创新的舞台表达如何为红色故事赋能？节目",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIkZvUEMYtvWWOsk5LMA75261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:22:36 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIHIzmU5QiOXANL3RJjqqJ261023.shtml",
+          "published": "Fri, 23 Oct 2026 14:01:07 GMT"
         },
         {
-          "title": "国务院办公厅：减缓人工智能应用就业替代影响，建立人工智能应用就业风险评估机制",
-          "summary": "国务院办公厅日前印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，对相关工作作出部署。 《意见》部署了6个方面18项主要任务。一是强化人工智能的就业创造效应。拓展新兴领域人工智能就业新空间，培育中小微企业稳岗扩岗新动能，创造人工智能领域就业创业新模式，加快开发人工智能领域新职业。二是构建就业友好型人工智能升级路径。挖掘传统领域人工智能就业潜能，减缓人工智能应用就业替代影响，建立人工",
+          "title": "涉安全生产、高新技术等领域 一批国家标准发布",
+          "summary": "记者今天了解到，市场监管总局批准发布515项重要国家标准及国家标准化指导性技术文件。其中， 涉及安全生产方面，发布智能网联汽车时空数据安全、消防安全等7项公共安全强制性国家标准 ，聚焦智能网联数据防护与城乡火灾风险防控，进一步细化数据安全底线、消防产品和场所管理规则，推动城市安全治理模式向精细化转变。 交通能源与资源环境领域两项强制性国家标准 ，涉及摩托车用锂离子电池、城市轨道交通噪声排放。食品消",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIkrE1cgQMFznY9zexXUuM261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:05:16 GMT"
+        },
+        {
+          "title": "一批重要国家标准发布 涉及高新技术、传统产业、安全生产等",
+          "summary": "央视网消息： 据 市场监管总局消息， 近日，市场监管总局（国家标准委）批准发布515项重要国家标准及国家标准化指导性技术文件。其中，强制性国家标准10项，推荐性国家标准466项，国家标准化指导性技术文件39项。涉及高新技术、传统产业、安全生产、百姓生活等领域。该批标准发布后将在推动产业高质量发展、提升人民群众生活品质、保障生命财产安全等方面发挥重要作用。 在高新技术方面 发布人工智能、人形机器人、",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIyjPvwCCEWTgH7ynJdtyb261023.shtml",
+          "published": "Fri, 23 Oct 2026 10:07:34 GMT"
+        },
+        {
+          "title": "国内首艘分布式特大型耙吸挖泥船“新海鲸1”轮交付",
+          "summary": "今天（10月23日）， 国内首艘采用分布式舱内泥泵设计的25000立方米舱容等级特大型自航耙吸挖泥船“新海鲸1”轮，在江苏启东正式交付。 “新海鲸1”轮总长180米，最大舱容约27580立方米， 最大挖深可达120米 。单次满载泥沙的容量足以填满10多个标准游泳池，120米的深度相当于40层楼之高，能从容应对深海复杂工况。该船舶具备作业范围广、挖掘深度足、续航能力强等优势，可在全海域实现高效施工，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTImRe5sghzqZCB9auV5BOZ261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:49:16 GMT"
+        },
+        {
+          "title": "全力推动商务高质量发展不断取得新成效（权威发布·开局起步“十五五”）",
+          "summary": "10月22日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进“十五五”时期商务高质量发展有关情况。 商务部副部长蒋成华表示，商务工作贯通城乡、联通内外、对接产销，在经济社会发展全局中发挥重要作用。“十五五”时期，将立足商务工作“三个重要”定位，围绕做强国内大循环、畅通国内国际双循环，全力推动商务高质量发展不断取得新成效。 聚焦“活力更足”，培育消费发展新动能。“十五五”时期",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIJiKvP9YqlGxZ4lWISLDp261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:35:40 GMT"
+        },
+        {
+          "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
+          "summary": "以芯片为抵押物的结构性融资，正在成为全球AI扩张的核心资金引擎，并迅速发展为一个规模可能突破万亿美元的全新资产类别。 这一市场的雏形始于2023年黑石向CoreWeave提供的一笔23亿美元私募信贷，成为芯片抵押债务的首单标志性交易。 如今，博通正与华尔街机构磋商为Anthropic安排600亿美元芯片融资，SpaceX据报正寻求为英伟达芯片融资400亿美元，英伟达本身亦宣布与六大贷款机构达成50",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184481",
-          "published": "Fri, 23 Oct 2026 09:01:35 GMT"
+          "link": "https://wallstreetcn.com/articles/3784352",
+          "published": "Fri, 23 Oct 2026 16:07:49 GMT"
         },
         {
-          "title": "在OpenAI当FDE是什么体验？",
-          "summary": "入职没几天，就被“逼着”去学怎么设计芯片？辛辛苦苦干了几个月写出来的代码，AI一升级，直接给你删掉了90%？最奇葩的是，在这个岗位上，你干得越好，你可能就越快“失业”？ 这是目前全球最顶尖的AI公司——OpenAI里，做一名FDE工程师的真实经历。 如果说OpenAI的研究员是在实验室里造核武器的人，那FDE团队就是把这些武器带到前线，手把手教企业怎么打赢战争的“特种兵”。他们的任务只有一个：解决",
+          "title": "AI股遭遇DeepSeek时刻以来最惨一跌！高盛动量组合抹去全年涨幅，半导体指数逼近年线",
+          "summary": "AI动能交易正急转直下。曾在6月一度累计上涨约70%的高贝塔动能组合，如今已悉数回吐年内涨幅；费城半导体指数（SOX）在过去9个交易日相对标普500指数的表现，更创下逾20年来最差纪录。 10月23日，市场对AI投资回报的疑虑进一步升温。 高盛交易台将本轮AI及半导体板块的集中抛售称为“自DeepSeek冲击日以来最差表现”，Meta财报引发的AI投入成本与回报之争，成为本轮跌势加速的催化剂。 抛",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784313",
-          "published": "Fri, 23 Oct 2026 08:32:25 GMT"
+          "link": "https://wallstreetcn.com/articles/3784323",
+          "published": "Fri, 23 Oct 2026 15:39:20 GMT"
         },
         {
-          "title": "Kimi K3.1要来了！月之暗面发布预热视频",
-          "summary": "10月23日消息，今日Kimi官方账号分别在X账号和视频号发布了一段24秒的视频。 开头是一台老式电脑，屏幕上运行着Kimi Code。 有细心的网友发现，左上角的模型栏写着：Model: Kimi K3.1。 这意味着，Kimi又要上新模型了。 此前，10月19日有网友注意到，SGLang的一次代码提交中出现了“Kimi-K3.1 support for the K3 chat encoder”",
+          "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "summary": "回顾9月，AI圈的重磅新闻一个接一个。 9月4日，OpenAI发布GPT-6 Astra。这个发布报告里只字未提机器人的通用模型，转身就空降了机器人评测榜首，甚至让一批机器人Benchmark直接失效。有人半开玩笑地说：机器人领域等了这么多年的“GPT时刻”，居然是GPT自己。 Meta Muse给每个用户配了一台云端电脑，两周就冲上美区App Store榜首；竞争对手Instinct一个月内估值",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784312",
-          "published": "Fri, 23 Oct 2026 08:22:59 GMT"
+          "link": "https://wallstreetcn.com/articles/3784347",
+          "published": "Fri, 23 Oct 2026 15:38:55 GMT"
         },
         {
-          "title": "沃什下周迎来棘手一战：暂停加息容易，如何稳住抗通胀预期？",
-          "summary": "暂停加息的决定本身并不难，难的是如何让市场相信美联储仍将“一管到底”。下周的联邦公开市场委员会（FOMC）会议，对美联储主席沃什而言将是一场平衡术考验： 在按兵不动的同时，又不能让外界误读为抗通胀决心有所动摇。 德意志银行预计，美联储将在10月会议上维持利率不变。首席美国经济学家Matthew Luzzetti表示，9月会议已为\"跳过10月、12月再加息\"的路径奠定了基础，但9月通胀数据全面超预期",
+          "title": "科技股大跌、美债走强，美股正在经历新一轮风格切换？",
+          "summary": "美股市场正在出现明显分化：科技股遭遇重挫，标普500指数却有超过300只成分股收涨，美债则迎来2023年银行业危机以来最大单日收益率降幅。 周四的行情表明，科技股的抛售尚未演变为全市场普跌，资金对AI交易的态度也正在发生变化。 10月22日，标普500指数下跌1.2%，创7月以来最大单日跌幅；纳斯达克综合指数下跌2.6%，费城半导体指数重挫6.7%。与之形成鲜明对比的是，道指基本持平，小盘股指数罗",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784309",
-          "published": "Fri, 23 Oct 2026 08:11:39 GMT"
+          "link": "https://wallstreetcn.com/articles/3784353",
+          "published": "Fri, 23 Oct 2026 15:31:14 GMT"
         },
         {
-          "title": "韩国股市便宜到全球罕见，成为首个跌破5倍市盈率的万亿美元级市场",
-          "summary": "韩国股市估值跌至极端低位，在全球主要市场中已属罕见异数。人工智能热潮降温令亚洲部分主要股指遭到抛售，KOSPI指数首当其冲， 根据彭博可追溯至2006年的数据，其未来12个月预期市盈率已降至仅4.2倍，成为有记录以来首个跌破5倍关口的万亿美元级市场。 这一估值水平仅略高于雅加达综合指数的一半。值得注意的是，印尼股市正因MSCI可能将该国连降两级而大幅下挫，而韩国市场估值竟与之相近，折价之深由此可见",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784293",
-          "published": "Fri, 23 Oct 2026 07:21:50 GMT"
-        },
-        {
-          "title": "AI行情震荡，去香港金融科技周听听掌舵者怎么说",
-          "summary": "AI 投资这笔账，金融巨头怎么看？ 营收和利润都超出预期，股价却跌了近7%。 10月22日，Meta财报后的市场反应，再次显露出投资者对AI投入的担忧。持续增加的支出、庞大的融资需求，让市场重新审视这场投资竞赛。 巨额投入还在继续，资金能否持续跟上，回报又将在什么时候出现？ 研究这笔账，需要把技术进展与商业需求放在一起看。科技公司准备投入多少，金融机构怎样评估风险，客户愿意为哪些应用付费，共同影响",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784305",
-          "published": "Fri, 23 Oct 2026 07:18:04 GMT"
-        },
-        {
-          "title": "叠纸低调搞起了机器人，七个月前已开始招兵买马",
-          "summary": "靠虚拟角色和情感陪伴俘获大量玩家的游戏公司叠纸，正在尝试将这门生意延伸到现实世界。 10月16日，女娲仿生（上海）智能科技有限公司正式成立，注册资本1000万元，经营范围包括智能机器人研发、服务消费机器人制造与销售、人工智能硬件销售等。 工商信息显示，叠纸创始人兼CEO姚润昊持股60%，叠纸科技法定代表人姚飞直接持股3%。新公司与叠纸科技并不存在直接股权关系。 这并非一次毫无征兆的跨界。 早在今年",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784304",
-          "published": "Fri, 23 Oct 2026 07:14:29 GMT"
-        },
-        {
-          "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升",
-          "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注半导体板块相对软件板块的结构性机会。 据追风交易台消息，瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低2",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784302",
-          "published": "Fri, 23 Oct 2026 07:11:22 GMT"
-        },
-        {
-          "title": "A股风格切换将至？听徐小庆分享股债汇市场最新洞察，推演四季度配置逻辑",
-          "summary": "2026年三季度以来， 全球市场巨震 ： 股市方面 ，AI科技股遭遇年内第二轮剧烈调整。10月初OpenAI披露年化收入接近500亿美元，远低于市场预期的700亿美元，引发AI概念股大规模抛售。费城半导体指数连跌8个交易日，创2008年以来最长连跌纪录；纳指单周累计下跌4.48%，为6月以来最大单周跌幅；英伟达9个交易日市值较高点蒸发约0.6万亿美元。 韩国股市 由上半年全球最强市场转为重灾区，K",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783994",
-          "published": "Fri, 23 Oct 2026 06:36:16 GMT"
-        },
-        {
-          "title": "标普诡异分化！隔夜三分之二成分股上涨仍跌1.5%，对冲基金遭遇2011年以来最惨一日",
-          "summary": "美股市场周四上演罕见分裂行情：标普500指数下跌1.5%，纳斯达克100指数重挫逾3%，但同时有三分之二的标普成分股收涨——两组数据同时为真，折射出AI交易高度集中所引发的结构性撕裂。 高盛交易员Matthew Kaplan在报告中将这一天定性为\"值得记录的异常日\"。根据高盛Prime经纪数据，旗下跟踪对冲基金多空表现的指标组合GSTHVIPP当日下跌约4.2%，创下2011年8月美国失去AAA评",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784292",
-          "published": "Fri, 23 Oct 2026 06:32:20 GMT"
-        },
-        {
-          "title": "Kimi（月之暗面）即将发布K3.1并发布相关预热视频",
-          "summary": "从多方信源获悉，Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新，并引发热烈讨论。（澎湃新闻）",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184245",
-          "published": "Fri, 23 Oct 2026 06:25:54 GMT"
-        },
-        {
-          "title": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考",
-          "summary": "原本热闹的秋季科技IPO档期已几近清空，仅剩Anthropic一家独撑局面。在AI基础设施板块遭遇利率冲击、估值承压、同类公司纷纷延期或撤单的背景下，这家AI实验室仍坚持按计划推进上市，以高达1.5万亿美元的潜在估值，直面当前市场的流动性考验。 据路透援引知情人士消息， Anthropic计划最快于10月底公开招股说明书，并于11月中旬完成IPO，预计将于11月9日当周启动面向机构投资者的路演。 ",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784294",
-          "published": "Fri, 23 Oct 2026 06:10:14 GMT"
-        },
-        {
-          "title": "美国最大养老金撤退！Calpers大幅砍仓“Mag 7”转投私募",
-          "summary": "美国最大公共养老金正在重新布局。加州公务员退休系统（Calpers）大幅削减对\"科技七巨头\"的持仓，转而加码私募股权，这一动向折射出机构投资者对美股科技板块高估值与集中度风险的深层忧虑。 据英国《金融时报》报道，Calpers副首席投资官Anton Orlich在采访中证实了这一战略转向。 该基金在2026年上半年将直接持有的\"Mag 7\"股票总数削减了26%，转而分散布局数百家公司以降低权益端集",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784296",
-          "published": "Fri, 23 Oct 2026 06:09:46 GMT"
-        },
-        {
-          "title": "美联储先加息后或猛降息：AI 是利率关键阀门，开支拐点将触发政策转向！",
-          "summary": "自沃什出任美联储主席以来，其多次在公开场合强调，AI驱动的生产率革命将压低长期通胀，使美联储能够在通胀不失控的前提下更早降息，从而复制1990年代格林斯潘时期由生产率繁荣支撑的低通胀、早降息局面。 然而，FOMC内部对于AI究竟将推升通胀还是抑制通胀，仍存在明显分歧。以沃什为代表的长期视角认为，AI将提升全要素生产率、降低边际成本并最终形成通缩效应，短期价格压力不应改变政策方向；但沃勒、古尔斯比、",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784228",
-          "published": "Fri, 23 Oct 2026 05:50:27 GMT"
-        },
-        {
-          "title": "AI泡沫忧虑冲击亚太股市，韩股一度重挫4%，SK海力士转涨，黄金盘中跌破4000",
-          "summary": "科技股抛售潮从华尔街蔓延至亚太地区，引发资金转移至债市与避险货币，市场对美联储加息预期也随之骤降。 周五亚太股市普遍下跌，MSCI亚太指数周五下跌1%，或创下连续第四周亏损。韩国综合指数领跌，盘中一度重挫逾4%，日本日经225指数亦跌近2%。 亚洲债市跟随隔夜美债同步走强。日本10年期国债收益率下行10个基点至2.78%，5年期国债收益率下行10个基点至2.19%，澳大利亚10年期国债收益率下行1",
+          "title": "全球科技股跌势暂歇，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "summary": "科技股抛售潮暂歇，但围绕AI支出可持续性的疑虑仍笼罩市场。 美股盘初，道指跌1%，标普500指数跌0.45%，纳指跌0.3%。半导体股涨跌不一，SK海力士涨约3%；西部数据跌约3%，公司此前公布了第一财季财报。与此同时，油价持续走高令通胀前景更趋复杂，投资者情绪依然审慎。 此轮科技股波动对资产配置产生明显的轮动效应：投资者将资金转移至美国国债等避险资产，10年期美债收益率周四单日骤降17个基点，创",
           "importance": "medium",
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3784279",
-          "published": "Fri, 23 Oct 2026 03:30:18 GMT"
+          "published": "Fri, 23 Oct 2026 13:33:30 GMT"
         },
         {
-          "title": "当齐天大圣遇上AI，《后西游记》用“开盲盒”方式重走西行路｜影视",
-          "summary": "9月底10月初，多家电视台排播AI剧。10月23日，国内首部AI电影《三星堆：未来往事》上映 【财新网】 10月4日至8日，AIGC长剧《后西游记》第一季·战天宫篇提档播出，该篇原计划于寒假见面。此前8月31日至9月4日，花果山篇已在湖南卫视黄金档播出，首播当晚在省级卫视同时段实时收视第一。《后西游记》第一季每集40分钟，共30集，目前已播出10集，后续故事需待寒假。 AIGC长剧《后西游记》 《",
+          "title": "全球铜短缺或从2028年开始显现，2050年供需缺口恐达44%",
+          "summary": "全球铜市正面临日益严峻的结构性供需失衡。绿色能源转型、AI基础设施扩张和新兴市场基建共同推高需求，但矿山开发周期漫长、矿石品位下降及投资不足，令供给难以跟上。铜短缺不仅可能推动价格长期上涨，也可能抬高能源转型成本，制约相关产业发展。 据彭博新能源财经本周发布的报告， 全球铜市将从2028年起出现“大规模长期短缺”，预计2035年供给缺口将达到需求量的8%，到2050年进一步扩大至44%。 国际能源",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-10-23/102496460.html",
-          "published": "Fri, 23 Oct 2026 07:39:13 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784346",
+          "published": "Fri, 23 Oct 2026 13:26:30 GMT"
         },
         {
-          "title": "Meta股价大跌近7% 资本支出增长阴影盖过智能体火热",
-          "summary": "AI基建泡沫阴云笼罩，9月以来Muse智能体推高Meta股价，但被高涨的AI支出计划抹平 【财新网】 Meta股价跌回9月初水平。美国时间10月22日，美国社交媒体公司Meta（NASDAQ: META）股价开盘大跌，截至当日收盘，Meta股价下跌6.98%至648.85美元/股，接近今年年初650.41美元/股的水平，Muse智能体带来的涨幅也悉数吐回。 Meta在此前10月21日盘后发布了财报",
+          "title": "瞄准企业AI需求，甲骨文未来四年将向合作伙伴投入10亿美元",
+          "summary": "甲骨文正押注合作伙伴生态系统，以抓住企业AI转型浪潮带来的商机。 甲骨文于10月23日在拉斯维加斯举办的甲骨文 AI World大会上宣布， 将在未来四年内向其合作伙伴生态系统投入10亿美元，帮助合作伙伴把握企业客户对AI驱动解决方案和服务的旺盛需求 。 此次投资将通过甲骨文合作伙伴网络（OPN）落地，涵盖培训认证、技术赋能、开发测试环境、云迁移资金支持、市场推广协作以及通过甲骨文 Marketp",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-23/102496456.html",
-          "published": "Fri, 23 Oct 2026 07:38:52 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784344",
+          "published": "Fri, 23 Oct 2026 13:20:32 GMT"
         },
         {
-          "title": "【华尔街原声】黄仁勋：AI云服务需求旺盛，融资不足制约行业扩张",
-          "summary": "欧洲需要建设本土AI基础设施，英伟达正推动金融机构将算力设备视为可融资资产",
+          "title": "国务院办公厅：加快开发新职业，减缓AI岗位替代影响",
+          "summary": "国务院办公厅日前印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》（以下简称《意见》），对相关工作作出部署。 《意见》强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，坚持以人民为中心的发展思想，坚持投资于物和投资于人紧密结合，坚持统筹发展和安全，坚持就业优先导向，以人工智能赋能高质量发展为契机，以适应技术发展促进高质量充分就业为目标，以构",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496341.html",
-          "published": "Fri, 23 Oct 2026 03:29:36 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784339",
+          "published": "Fri, 23 Oct 2026 12:53:40 GMT"
         },
         {
-          "title": "【华尔街原声】黑石总裁：AI算力需求强劲，融资能力成扩张瓶颈",
-          "summary": "格雷称，旗下企业过去一年AI模型支出增长20倍，地缘政治冲突缓和后IPO市场有望重新活跃",
+          "title": "AI加速“挖漏洞”！网络安全专家警告：未来数月网络安全事件恐频发",
+          "summary": "人工智能正在以前所未有的速度挖掘软件漏洞，网络安全行业正面临一场结构性冲击。多位业内专家警告，未来数月内，类似本周席卷全球政府网站的大规模宕机事件将接连上演。 本周， 编程语言PHP被曝存在严重安全漏洞，欧洲及其他地区多个政府网站相继中断服务，部分运营商因无法在黑客抢先利用前完成修复，被迫直接将网站下线 。Cloudflare首席执行官Matthew Prince向路透社表示，他已知悉\"其他关键软",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496340.html",
-          "published": "Fri, 23 Oct 2026 03:29:35 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784335",
+          "published": "Fri, 23 Oct 2026 12:09:43 GMT"
         },
         {
-          "title": "【商圈】美光夹缝求生 CEO梅赫罗特拉下注AI存储周期",
-          "summary": "梅赫罗特拉的职业生涯，约等于一部微缩的现代半导体产业生存史。他如何带领美光进行几乎“all in”AI存储的战略转向，又经受了哪些质疑与争议？",
+          "title": "宇树涨停 王兴兴称通用大模型可能“击穿”物理AI",
+          "summary": "宇树用OpenAI大模型控制机器人，称无需提前训练即可上手画画、下棋 【财新网】 擅长人形机器人硬件开发的宇树股价本周大回升。10月23日，宇树科技（688836.SH）股票涨停，截至收盘，股价涨20%至624元/股。过去一周多，宇树股价迅速拉升，10月15日，宇树的股价还在408元/股左右。 技术和政策两方面刺激宇树股价上涨。技术上，市场一向认为宇树擅长硬件开发、在机器人“大脑”开发上有所欠缺，",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496333.html",
-          "published": "Fri, 23 Oct 2026 03:11:51 GMT"
+          "link": "https://www.caixin.com/2026-10-23/102496635.html",
+          "published": "Fri, 23 Oct 2026 13:00:07 GMT"
+        },
+        {
+          "title": "“影视寒冬”来袭 横店片场免租金、AI化",
+          "summary": "投资减少，开机率低，观众流失，又叠加AI技术冲击，影视行业进入调整期 【财新网】 AI冲击影视行业，已有三十年历史的横店影视城筹划转型。10月23日下午，横店影视城宣布景区拍摄场景全部免费，130多座摄影棚全免租金，同时与字节跳动旗下火山引擎达成合作，建设影视AI服务平台。 字节跳动在今年2月发布的视频生成模型Seedance 2.0快速突破了生产力质变节点，一夕之间改造了中国的短剧行业——市场上",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496629.html",
+          "published": "Fri, 23 Oct 2026 12:53:48 GMT"
+        },
+        {
+          "title": "全球约70%网站面临高危漏洞 AI时代网络安全问题激增",
+          "summary": "编程语言PHP此次发现的漏洞可以实现未认证远程代码执行，国家信息安全漏洞共享平台建议受影响用户立即升级至最新版本 【财新网】 AI时代网络安全问题激增。10月21日，编程语言PHP官方网站表示，发现两个关键漏洞，漏洞可以实现未认证远程代码执行。两个漏洞在业内代号为“PHP2Shell”。据估算，全球大约70%网站有使用PHP编写。 美国AI巨头OpenAI在同日发文表示，PHP的漏洞由AI安全公司",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496538.html",
+          "published": "Fri, 23 Oct 2026 10:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "中国留学体验！跟东盟伙伴来海南看看",
+          "summary": "南海之滨，黎安半岛，现代化教学楼间，来自不同国家的青年往来穿梭。这里是面向世界的海南陵水黎安国际教育创新试验区。 10月22日，试验区迎来一批特殊的“校园体验官”，来自东南亚8国11家主流媒体的19位记者走进校园，与东盟学子同上一堂课，以文字和镜头记录中国教育对外开放。 作为海南自由贸易港13个重点园区中唯一以教育对外开放为核心使命的园区，陵水黎安国际教育创新试验区围绕海南自由贸易港建设需要，建立",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIBO2cxCiJgY4f3TXDhKkj261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:11:51 GMT"
+        },
+        {
+          "title": "西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行",
+          "summary": "[!--begin:htmlVideoCode--]f01e2ae2e6c947378449f4b191f3a9f4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行。截至10月23日下午1时，西藏那曲市巴青县7.0级地震已造成16人遇难、76人受伤。 此次地震震级高、震源浅，震中核心区",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIN6m3NGf3N7cPhipdMsLI261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:12:30 GMT"
+        },
+        {
+          "title": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
+          "summary": "[!--begin:htmlVideoCode--]383eb55b37a44d5096e5ef4bfc90a78a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救　妥善安置受灾群众 切实保障人民群众生命财产安全 李强作出批示 10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIsk5Ew8DaEadT5xrXwqt2261023.shtml",
+          "published": "Fri, 23 Oct 2026 11:21:30 GMT"
+        },
+        {
+          "title": "一餐热饭暖人心，受灾群众在寒意中感受到实实在在的温暖",
+          "summary": "[!--begin:htmlVideoCode--]ca6127f2171044b8a2fc176441730366,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 西藏那曲市巴青县7.0级地震发生后，各地的应急救灾物资源源不断送往受灾一线，安置点同步有序分发帐篷、保暖衣物等急需物资，让受灾群众在寒意中感受到实实在在的温暖。 巴青县玛如乡海拔近4",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTINfZUnMWw4kUt5KIcoWMv261023.shtml",
+          "published": "Fri, 23 Oct 2026 10:03:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "疯狂报警200余次！杨某某被拘了！",
+          "summary": "110 是守护群众生命的 紧急生命线 绝非倾诉私事的“聊天室” 近日 安徽宿州萧县一男子杨某某半年内 疯狂拨打 200余次 报警电话 有效警情不足百分之一 肆意浪费警务资源 最终因扰乱单位秩序被依法 行政拘留 经查 杨某某因和妻子感情不和离婚 一心想挽回婚姻，便反复拨打报警电话 希望民警出面劝说妻子 民警核实后告知 婚姻情感纠纷不属于公安管辖范围 无权干涉他人婚姻选择 可杨某某置若罔闻 把110报",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIahzc9IaXei8joOkX5Dv9261023.shtml",
+          "published": "Fri, 23 Oct 2026 15:02:01 GMT"
+        },
+        {
+          "title": "“无袍法官”参与案件审理 最高法公布牟某虐待案细节",
+          "summary": "人民陪审员被称为“无袍法官”，与法官共同行使审判权，作为群众代表为公平正义发声。23日，最高人民法院召开新闻发布会，会上公布了9起人民陪审员参审的典型案例，包括备受关注的牟某虐待案、低频噪声污染等案件。人民陪审员发挥群众视角和专业特长，把老百姓的是非观、正义观融入审判。 [!--begin:htmlVideoCode--]dacfb0c22949496b875b5b7a6bed22c3,0,1,1",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTImymynnyKGtpe9xqItGTe261023.shtml",
+          "published": "Fri, 23 Oct 2026 14:56:42 GMT"
+        },
+        {
+          "title": "美股高位，美国民众却愈发焦虑：消费者信心跌至五个月低点，通胀预期连续两月攀升",
+          "summary": "美国消费者信心在持续通胀压力下进一步走弱，通胀预期同步升温，华尔街与普通民众之间的经济感受分化已扩大至历史极值。 密歇根大学10月消费者信心指数终值录得48，较9月的48.1小幅回落，触及五个月低点。尽管如此，该终值仍高于初值，并超出彭博调查中所有经济学家的预期。 消费者未来一年通胀预期从上月的4.6%升至4.7%，未来五至十年长期通胀预期亦从3.4%升至3.5%，两项指标均为今年5月以来最高，且",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784354",
+          "published": "Fri, 23 Oct 2026 15:38:41 GMT"
+        },
+        {
+          "title": "全球科技股跌势暂歇，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "summary": "科技股抛售潮暂歇，但围绕AI支出可持续性的疑虑仍笼罩市场。 美股盘初，道指跌1%，标普500指数跌0.45%，纳指跌0.3%。半导体股涨跌不一，SK海力士涨约3%；西部数据跌约3%，公司此前公布了第一财季财报。与此同时，油价持续走高令通胀前景更趋复杂，投资者情绪依然审慎。 此轮科技股波动对资产配置产生明显的轮动效应：投资者将资金转移至美国国债等避险资产，10年期美债收益率周四单日骤降17个基点，创",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784279",
+          "published": "Fri, 23 Oct 2026 13:33:30 GMT"
         }
       ]
     },
@@ -421,12 +523,52 @@
       "summary": "",
       "items": [
         {
-          "title": "独家｜莫大开除文件已下达，中国留学生发声：这事没完",
-          "summary": "【文/观察者网 安妮】 近日，一面带有日本军国主义象征的旭日旗，出现在俄罗斯莫斯科国立大学（以下简称“莫大”）历史系课堂上，刺痛了不少在俄中国留学生。历史系课堂本应最清楚这段记忆的重量，事件发生后，莫大历史系中国留学生联名请愿，要求校方调查处理。据媒体报道，莫大历史系已表示将尽快公布对涉事学生的处理决定。 观察者网从今日俄罗斯（RT）了解到，消息人士透露，涉事学生的开除文件已下达，但因涉及隐私法律",
+          "title": "“无袍法官”参与案件审理 最高法公布牟某虐待案细节",
+          "summary": "人民陪审员被称为“无袍法官”，与法官共同行使审判权，作为群众代表为公平正义发声。23日，最高人民法院召开新闻发布会，会上公布了9起人民陪审员参审的典型案例，包括备受关注的牟某虐待案、低频噪声污染等案件。人民陪审员发挥群众视角和专业特长，把老百姓的是非观、正义观融入审判。 [!--begin:htmlVideoCode--]dacfb0c22949496b875b5b7a6bed22c3,0,1,1",
           "importance": "medium",
-          "source": "观察者网",
-          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_23_905419_s.shtml",
-          "published": "Fri, 23 Oct 2026 05:02:00 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTImymynnyKGtpe9xqItGTe261023.shtml",
+          "published": "Fri, 23 Oct 2026 14:56:42 GMT"
+        },
+        {
+          "title": "国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+          "summary": "央视网消息： 据应急管理部消息，今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。受冷空气和台风共同影响，23日至26日，我国东南部海域及华东沿海有持续大风，江苏",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIoFV5twxPTq1xnKKaN6Zh261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:53:35 GMT"
+        },
+        {
+          "title": "十项惠台措施让台湾渔获“登陆”更顺畅",
+          "summary": "[!--begin:htmlVideoCode--]c9b17f995c0549a8bdc610fe33b17652,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年4月，大陆发布十项促进两岸交流合作的政策措施，明确提出为台湾远洋自捕渔获在大陆销售提供便利。政策落地半年来，惠台红利持续在厦门口岸释放。10月23日，台湾渔产品输入大陆仪式在厦门",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTICeWvzeRx1s7xIQgjm0cn261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:27:43 GMT"
+        },
+        {
+          "title": "第140届广交会第二期开展",
+          "summary": "[!--begin:htmlVideoCode--]d446ef9d76404c58872293b2cc8d108b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：第140届广交会第二期线下展10月23日开展。本期展览以“品质家居”为主题，绿色低碳产品成为本期展会一大亮点。 第二期共展出近64万件绿色低碳产品，众多参展企业推出契合全",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIx2jwTkA5RMTF4o8okKwK261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:13:14 GMT"
+        },
+        {
+          "title": "民调：近七成美国年轻人忧虑美国未来",
+          "summary": "△哈佛大学（资料图） 美国哈佛大学22日公布一项面向18岁至29岁美国成年人的民调结果。结果显示，受访者中约69%对国家未来感到“忧虑”，62%认为美国走在错误道路上。 美国即将举行中期选举。哈佛大学政治研究所所长贝齐·菲舍尔·马丁认为，此次民调是透视中期选举的“一扇重要窗口”，为美国年轻人分享他们关心的事务提供平台。 民调由哈佛大学舆情调研计划与益普索知识小组于9月30日至10月7日面向2024",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:32:27 GMT"
+        },
+        {
+          "title": "山东：工学一体培养高素质技能人才",
+          "summary": "新华社济南10月23日电 题：山东：工学一体培养高素质技能人才 新华社记者张力元 一辆辆载着装配托盘的小车沿轨道滑行，到达指定工位后自动定位、装配，不合格产品则被机器人抓取、分拣出来。这不是企业车间，而是济南职业学院工业4.0智能制造生产实训中心，来自机电一体化技术专业的6名学生正进行日常实训。 一处工位突然亮起报警提示，生产线暂停运行。“别急着重启，先看看是哪一步出了问题。”机电一体化技术专业教",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/23/ARTI2jwViJFkUS4vJVWgvEDT261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:27:24 GMT"
         },
         {
           "title": "把真实生产场景搬进赛场 “振兴杯”聚焦新职业、新领域发掘青年技能人才",
@@ -437,60 +579,44 @@
           "published": "Fri, 23 Oct 2026 08:55:18 GMT"
         },
         {
-          "title": "受台风影响 福建沿海56条客渡运航线停航 转移13.41万人",
-          "summary": "今天，受台风“蔷琵”影响，福建沿海出现8级及以上大风。 根据福建省气象台预报，今天，闽东、闽中、闽南渔场和钓鱼岛海域最大风力9—11级、阵风11—13级；台湾浅滩、闽外渔场及中北部沿海海区最大风力8—10级、阵风10—12级。 福建省防汛抗旱指挥部 维持防台风三级应急响应 。 为了确保安全，截至23日11时，福建沿海共有 56条客渡运航线、130艘客渡船停航 ，其中，4条两岸“小三通”客运航线全部",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIJvEavjcIQxrl6S6FzBnH261023.shtml",
-          "published": "Fri, 23 Oct 2026 05:57:17 GMT"
-        },
-        {
-          "title": "法治在线丨车载系统自动报警 醉驾司机算不算自首？法院判了",
-          "summary": "如今不少汽车都配有驾驶辅助、紧急呼叫报警功能，车主可设置紧急联系人。浙江一名男子将110设为紧急联系人，酒后驾车，车企后台监测异常触发报警，民警到场查获醉驾。 车辆触发的报警，能不能算作法律意义上的自首？近日，浙江省缙云县人民法院审理了这起新型危险驾驶案件。 [!--begin:htmlVideoCode--]e2762dfb06274a92ba4873a369edf4e4,0,1,16:9,ne",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIDkqKvrBtLG58tXHQ9IVc261023.shtml",
-          "published": "Fri, 23 Oct 2026 05:34:53 GMT"
-        },
-        {
-          "title": "台风蓝色预警：“蔷琵”向台湾东北部靠近 东南沿海多地风大雨强",
-          "summary": "央视网消息： 据中国天气网消息，中央气象台10月23日10时继续发布台风蓝色预警： 今年第30号台风“蔷琵”（强台风级）的中心今天（23日）上午10点钟位于台湾省台北市东南方向约325公里的洋面上，就是北纬22.9度，东经123.7度，中心附近最大风力14级（45米/秒），中心最低气压为950百帕，七级风圈半径350-500公里，十级风圈半径150-210公里，十二级风圈半径80-90公里。 预计",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIc74ke5mTnwHNZAXsJx83261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:45:47 GMT"
-        },
-        {
-          "title": "自然资源部将闽浙海洋灾害应急响应提升至三级",
-          "summary": "受今年第30号台风“蔷琵”（强台风级）和冷空气共同影响，10月22日至23日，上海至福建沿海出现30～80厘米的风暴增水，东海南部出现6～9米的狂浪到狂涛区，浙江南部、福建近岸海域出现4～5米的巨浪。国家海洋预报台发布风暴潮蓝色警报和海浪橙色警报，根据《海洋灾害应急预案》规定，自然资源部将浙江、福建海洋灾害应急响应提升至三级。 自然资源部要求浙江、福建等受影响省份自然资源（海洋）主管部门、国家海洋",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTI8ZPUhv54OucyBiQS4bs2261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:06:28 GMT"
-        },
-        {
-          "title": "西藏巴青7.0级地震 多方医疗队、专家组驰援灾区",
-          "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。西藏自治区医院（四川大学华西医院西藏医院）响应西藏自治区卫健委调度指令，组建医学应急救援队驰援震区。 据了解，医疗队共10人，涵盖急诊、骨科、普外、心理、放射等专业，其中4名骨干由四川大学华西医院长期派驻。队伍配备移动CT车、救护车以及各类急救药品、应急物资，于23日凌晨3时30分从拉萨启程赶赴那曲。 23日7时30分，救援队抵达那曲市，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIu2QPHUDefmhXbrf6dTMG261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:03:22 GMT"
-        },
-        {
-          "title": "广东省教育厅原党组副书记、副厅长魏中林被开除党籍",
-          "summary": "央视网消息： 中央纪委国家监委网站10月23日通报，据广东省纪委监委消息：经中共广东省委批准，广东省纪委监委对广东省教育厅原党组副书记、副厅长魏中林严重违纪违法问题进行了立案审查调查。 经查，魏中林丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规收受礼品、礼金、消费卡，违规接受宴请和旅游活动安排，将应当由本人支付的费用交由他人支付；组织原则缺失，不按规定报告个人有关事项，在职称",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIa8sFH7OtKzXTDcDeVAKq261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:49:48 GMT"
-        },
-        {
-          "title": "中期选举后 特朗普能让沙特“亡国”",
-          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "summary": "回顾9月，AI圈的重磅新闻一个接一个。 9月4日，OpenAI发布GPT-6 Astra。这个发布报告里只字未提机器人的通用模型，转身就空降了机器人评测榜首，甚至让一批机器人Benchmark直接失效。有人半开玩笑地说：机器人领域等了这么多年的“GPT时刻”，居然是GPT自己。 Meta Muse给每个用户配了一台云端电脑，两周就冲上美区App Store榜首；竞争对手Instinct一个月内估值",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783984",
-          "published": "Fri, 23 Oct 2026 08:10:15 GMT"
+          "link": "https://wallstreetcn.com/articles/3784347",
+          "published": "Fri, 23 Oct 2026 15:38:55 GMT"
+        },
+        {
+          "title": "美股高位，美国民众却愈发焦虑：消费者信心跌至五个月低点，通胀预期连续两月攀升",
+          "summary": "美国消费者信心在持续通胀压力下进一步走弱，通胀预期同步升温，华尔街与普通民众之间的经济感受分化已扩大至历史极值。 密歇根大学10月消费者信心指数终值录得48，较9月的48.1小幅回落，触及五个月低点。尽管如此，该终值仍高于初值，并超出彭博调查中所有经济学家的预期。 消费者未来一年通胀预期从上月的4.6%升至4.7%，未来五至十年长期通胀预期亦从3.4%升至3.5%，两项指标均为今年5月以来最高，且",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784354",
+          "published": "Fri, 23 Oct 2026 15:38:41 GMT"
+        },
+        {
+          "title": "瞄准企业AI需求，甲骨文未来四年将向合作伙伴投入10亿美元",
+          "summary": "甲骨文正押注合作伙伴生态系统，以抓住企业AI转型浪潮带来的商机。 甲骨文于10月23日在拉斯维加斯举办的甲骨文 AI World大会上宣布， 将在未来四年内向其合作伙伴生态系统投入10亿美元，帮助合作伙伴把握企业客户对AI驱动解决方案和服务的旺盛需求 。 此次投资将通过甲骨文合作伙伴网络（OPN）落地，涵盖培训认证、技术赋能、开发测试环境、云迁移资金支持、市场推广协作以及通过甲骨文 Marketp",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784344",
+          "published": "Fri, 23 Oct 2026 13:20:32 GMT"
+        },
+        {
+          "title": "AI加速“挖漏洞”！网络安全专家警告：未来数月网络安全事件恐频发",
+          "summary": "人工智能正在以前所未有的速度挖掘软件漏洞，网络安全行业正面临一场结构性冲击。多位业内专家警告，未来数月内，类似本周席卷全球政府网站的大规模宕机事件将接连上演。 本周， 编程语言PHP被曝存在严重安全漏洞，欧洲及其他地区多个政府网站相继中断服务，部分运营商因无法在黑客抢先利用前完成修复，被迫直接将网站下线 。Cloudflare首席执行官Matthew Prince向路透社表示，他已知悉\"其他关键软",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784335",
+          "published": "Fri, 23 Oct 2026 12:09:43 GMT"
+        },
+        {
+          "title": "恒大清盘人暂追回1%境外申索资产 追债正指向哈佛大学",
+          "summary": "清盘人在恒大香港原总部及外部仓库发现逾100件艺术品 【财新网】 中国恒大集团清盘人最新披露，截至2026年9月30日，累计追回约34亿港元，相对于境外债权人高达3600亿港元的总债权申索规模，回收率不足1%。 2024年1月29日，香港高等法院颁令中国恒大清盘，并委任安迈企业咨询（Alvarez & Marsal Inc.）两名董事总经理黄咏诗（Tiffany Wong）、杜艾迪（Edward ",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-23/102496664.html",
+          "published": "Fri, 23 Oct 2026 13:59:16 GMT"
         }
       ]
     },
@@ -499,585 +625,425 @@
       "summary": "",
       "items": [
         {
-          "title": "逛商场、品美食 展会带火城市游 广交会客流催生文旅新热度",
-          "summary": "[!--begin:htmlVideoCode--]6eee9efb20d0485882db9639725d0606,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 广交会的巨大客流持续外溢，形成了会展带动城市消费的“展城联动”效应。在广州，各大商圈、餐饮、酒店、老字号纷纷推出采购商专属优惠，同步上线购物、文旅、离境退税等配套福利，持续释放城市消",
+          "title": "《国家信息化“十五五”规划》印发",
+          "summary": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》（以下简称《规划》），对体系化深层次推进“十五五”时期国家信息化发展作出部署安排，是指导推进各地区、各有关部门信息化工作的行动指南。 《规划》强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，全面贯彻习近平总书记关于网络强国的重要思想，完整准确全面贯彻新发展理念，加快构建新发展格局，扎实推动",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIvfgyRfJCWvoYyco0PWKB261023.shtml",
-          "published": "Fri, 23 Oct 2026 08:10:23 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIeoJTOfrl1xSKN6zsqISF261023.shtml",
+          "published": "Fri, 23 Oct 2026 14:10:39 GMT"
         },
         {
-          "title": "日本能源白皮书：中东局势暴露日能源体系弱点",
-          "summary": "日本政府23日发布的2025财年（2025年4月至2026年3月）能源白皮书指出，随着中东局势恶化，日本能源供需结构的脆弱性再次凸显。 白皮书指出，长期以来，日本原油进口超九成依赖中东。今年2月底美国和以色列对伊朗发动军事打击后，作为全球能源运输重要通道的霍尔木兹海峡通航受阻，原油及石油产品供应面临不确定性，石脑油等部分石油相关产品的流通因此出现阻滞。 为保障国内能源供应，日本政府自3月以来采取了",
+          "title": "央企资产总额突破95万亿元",
+          "summary": "2026国资国企高质量发展创新大会正在北京举办。23日会上发布了《国资国企高质量发展观察报告（2026）》，从实力跃升、结构优化、产业带动等维度，系统评估国资国企改革发展成效。 [!--begin:htmlVideoCode--]3440ca4e69d1442bb808b113a3923ef7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 数据显示，国资央企",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:33:31 GMT"
+          "link": "https://jingji.cctv.com/2026/10/23/ARTIHGHAMCK4MsaUM4AyDQKB261023.shtml",
+          "published": "Fri, 23 Oct 2026 13:46:51 GMT"
         },
         {
-          "title": "中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱",
-          "summary": "央视网消息： 中国驻韩国大使馆10月23日提醒：请来韩团体游客远离低价团消费陷阱。 中韩互为最大外国游客来源地国。受益于签证便利化措施，两国游客数量不断增加，这有利于双方增加了解、增进友谊。值得注意的是，近期数个中国旅游团来韩旅游期间，遭遇强制消费，因游客不愿消费或消费额度不达标，遭遇旅行社甩客，部分游客被迫中断行程，造成个人损失。上述情况也扰乱两国正常旅游秩序。 中国驻韩国大使馆特此提醒来韩中国",
+          "title": "央行开通国库资金汇划“绿色通道” 支持西藏那曲抗震救灾工作",
+          "summary": "2026年10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。中国人民银行组织国库部门立即启动应急预案，及时开通国库资金汇划“绿色通道”，全力保障救灾资金准确及时拨付到位。 截至10月23日15时， 国家金库西藏自治区分库向那曲市中心支 库 拨付应急资金2亿元，那曲市中心支 库 向巴青县代理支库拨付应急资金3亿元。 同时，指导那曲市中心支库异地接管巴青县国库业务，确保受",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIpItw6tONcr9zq4HHaXXf261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:07:03 GMT"
+          "link": "https://jingji.cctv.com/2026/10/23/ARTIssPd9h7UkCVWAPQQVhK4261023.shtml",
+          "published": "Fri, 23 Oct 2026 13:43:31 GMT"
         },
         {
-          "title": "法治在线丨合金冒充黄金首饰售卖给多家金店 警惕假黄金诈骗",
-          "summary": "今年3月，辽宁铁岭警方接到金店工作人员的报警，称有人用合金首饰冒充黄金回收，当时店员通过高温熔断的方式对黄金纯度进行了判断，并没有首饰有问题，让我们来看现场视频。 [!--begin:htmlVideoCode--]e7b77572e38544708488e7ad5a64a91e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 画面里穿着一身黑衣的男子就是犯罪",
+          "title": "十项惠台措施让台湾渔获“登陆”更顺畅",
+          "summary": "[!--begin:htmlVideoCode--]c9b17f995c0549a8bdc610fe33b17652,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年4月，大陆发布十项促进两岸交流合作的政策措施，明确提出为台湾远洋自捕渔获在大陆销售提供便利。政策落地半年来，惠台红利持续在厦门口岸释放。10月23日，台湾渔产品输入大陆仪式在厦门",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTI1lK0QBg4DtrKlWmWWLMT261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:44:38 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTICeWvzeRx1s7xIQgjm0cn261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:27:43 GMT"
         },
         {
-          "title": "前三季度“商品+服务”消费并重发展 消费“主引擎”作用持续巩固",
-          "summary": "[!--begin:htmlVideoCode--]e8672bec087b4f11b9abe2a7654ce9d3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 商务部10月23日发布，前三季度的消费数据显示，消费“主引擎”的作用持续巩固， 超大规模市场优势日益凸显。 前三季度，“商品+服务”消费并重发展，保持良好增长势头。社会消费商品和服务",
+          "title": "第140届广交会第二期开展",
+          "summary": "[!--begin:htmlVideoCode--]d446ef9d76404c58872293b2cc8d108b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：第140届广交会第二期线下展10月23日开展。本期展览以“品质家居”为主题，绿色低碳产品成为本期展会一大亮点。 第二期共展出近64万件绿色低碳产品，众多参展企业推出契合全",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTI2fREGscOgReuhsAQr2wl261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:31:31 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIx2jwTkA5RMTF4o8okKwK261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:13:14 GMT"
         },
         {
-          "title": "党旗在基层一线高高飘扬 | “小网格”服务“大民生” 走出善治新路径",
-          "summary": "[!--begin:htmlVideoCode--]741ed3ea9350472a898f15d17d8cbe79,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 社区是城市的“细胞”，连着千家万户的日常烟火，是公共服务的落脚点，也是基层社会治理的最前沿。位于云南昆明市盘龙区金星社区的金星小区建成至今已有近三十年，是一个居住着上万名居民的大型老",
+          "title": "前三季度我国财政运行总体平稳",
+          "summary": "[!--begin:htmlVideoCode--]d8db2f88dd754a9491c1b3955bb85973,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：财政部最新数据显示，今年前三季度，全国一般公共预算收入17.23万亿元，同比增长5.1%，增幅比上半年提高0.4个百分点。我国经济运行总体平稳，延续向新向优发展态势，价格",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTI1WG2XFe2srpW2pxcTHDF261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:04:09 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIoylAGln0x8RPUfhABMIX261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:12:58 GMT"
         },
         {
-          "title": "国家发改委安排3000万元支持西藏巴青灾后应急恢复",
-          "summary": "央视网消息： 据 国家发展改革委消息， 10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。国家防减救灾委、应急管理部启动国家自然灾害救助四级应急响应。 为贯彻落实习近平总书记对西藏那曲市巴青县7.0级地震作出的重要指示精神，根据《国家自然灾害救助应急预案》和西藏自治区灾害损失情况，国家发展改革委紧急安排3000万元中央预算内投资，支持灾区基础设施和公共服务设施等灾后应",
+          "title": "涉安全生产、高新技术等领域 一批国家标准发布",
+          "summary": "记者今天了解到，市场监管总局批准发布515项重要国家标准及国家标准化指导性技术文件。其中， 涉及安全生产方面，发布智能网联汽车时空数据安全、消防安全等7项公共安全强制性国家标准 ，聚焦智能网联数据防护与城乡火灾风险防控，进一步细化数据安全底线、消防产品和场所管理规则，推动城市安全治理模式向精细化转变。 交通能源与资源环境领域两项强制性国家标准 ，涉及摩托车用锂离子电池、城市轨道交通噪声排放。食品消",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTITjs7NxB0LfRW2qOhYtf6261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:42:09 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIkrE1cgQMFznY9zexXUuM261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:05:16 GMT"
         },
         {
-          "title": "商务部：1—9月电子商务发展动能持续创新",
-          "summary": "今天（23日），商务部电子商务司负责人介绍2026年1—9月我国电子商务发展情况。1—9月，我国电子商务发展动能持续创新，网上零售支撑消费增长，国际合作走深走实，助力增强我国经济发展的韧性和活力。 发展动能更加向新。 实施品质电商“五优”行动，引导电商行业从规模扩张向质量提升转型。电商平台加快在云服务、大模型、算力芯片领域自主研发，大模型性能水平、月活用户和词元调用量升至全球前列，成为我国人工智能",
+          "title": "证监会就私募投资母基金管理新规征求意见",
+          "summary": "为进一步规范私募投资母基金业务活动，促进私募投资母基金规范健康发展，中国证监会根据《中华人民共和国证券投资基金法》《私募投资基金监督管理条例》（以下简称《私募条例》）等法律法规，起草了《私募投资母基金管理规定》（以下简称《母基金规定》）征求意见稿，现向社会公开征求意见。 私募投资母基金作为一类私募投资基金，通过一定的资产组合开展投资，具有分散风险、平滑收益的独特优势，在我国实践中取得较好发展。有效",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTISAMnXdvVBtLLbfxFJQS1261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:00:12 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIMzqMFRi9XwirmjUwggz5261023.shtml",
+          "published": "Fri, 23 Oct 2026 12:02:37 GMT"
         },
         {
-          "title": "多领域“活力”数据见证中国经济“磁吸力”",
-          "summary": "[!--begin:htmlVideoCode--]9bcdde7fc2924fe5bc0c35ac04001e06,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家统计局10月23日发布2025年中国创新指数。根据研发经费占GDP比重、“三新”经济增加值占比等指标测算，2025年中国创新指数为185.5，比上年增长6.4%，增幅较上年提高1",
+          "title": "一批重要国家标准发布 涉及高新技术、传统产业、安全生产等",
+          "summary": "央视网消息： 据 市场监管总局消息， 近日，市场监管总局（国家标准委）批准发布515项重要国家标准及国家标准化指导性技术文件。其中，强制性国家标准10项，推荐性国家标准466项，国家标准化指导性技术文件39项。涉及高新技术、传统产业、安全生产、百姓生活等领域。该批标准发布后将在推动产业高质量发展、提升人民群众生活品质、保障生命财产安全等方面发挥重要作用。 在高新技术方面 发布人工智能、人形机器人、",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTI7FuzLeKK8eM6FCK4bVl4261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:55:08 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIyjPvwCCEWTgH7ynJdtyb261023.shtml",
+          "published": "Fri, 23 Oct 2026 10:07:34 GMT"
         },
         {
-          "title": "平庆铁路控制性工程上城隧道顺利贯通",
-          "summary": "10月23日，随着掌子面最后一层黄土被顺利凿开，平庆铁路全线控制性工程上城隧道顺利贯通，这也是全线首座贯通的5公里以上长大隧道。隧道的贯通，标志着平庆铁路建设取得阶段性重大进展，为工程提质提速、按期通车筑牢坚实基础。 上城隧道位于甘肃省庆阳市镇原县，隧道全长5154.27米，按照单洞双线隧道设计。 平庆铁路是“十四五”铁路规划重点项目，途经甘宁革命老区，线路全长约92公里，为国家Ⅰ级双线客货共线电",
+          "title": "西藏巴青发生7.0级地震 国家自然灾害救助应急响应级别提升至三级",
+          "summary": "根据《国家自然灾害救助应急预案》，10月23日，国家防减救灾委、应急管理部针对西藏巴青7.0级地震灾害， 将国家自然灾害救助应急响应级别提升至三级， 增派联合工作组赴灾区指导做好灾害救助工作。 在前期调拨5000件中央救灾物资基础上，应急管理部会同国家粮食和物资储备局 向西藏增加调拨棉帐篷、棉大衣、折叠床等5000件中央救灾物资， 并启动应急物资政社协同保障机制，协调中国红十字会总会、中华慈善总会",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIH5b7ubZF8b33F2Q5nKEP261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:46:34 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIsRbQgXXsLqame09Cu0fj261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:41:27 GMT"
         },
         {
-          "title": "六部门出台意见 推进老旧街区厂区改造提升",
-          "summary": "记者今天（23日）从住房城乡建设部获悉，住房城乡建设部、工业和信息化部等六部门近日联合印发《关于推进老旧街区厂区改造提升的指导意见》，明确了各类老旧街区厂区的改造提升重点。 按照要求，各地要结合城市体检结果，将房屋和市政基础设施老化、公共服务和公共空间短缺、功能产业和发展活力有待提升的街区厂区作为改造提升对象，统筹确定改造提升范围和实施时序。同时，制定老旧街区厂区改造提升项目实施方案，将城市设计要",
+          "title": "全力推动商务高质量发展不断取得新成效（权威发布·开局起步“十五五”）",
+          "summary": "10月22日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进“十五五”时期商务高质量发展有关情况。 商务部副部长蒋成华表示，商务工作贯通城乡、联通内外、对接产销，在经济社会发展全局中发挥重要作用。“十五五”时期，将立足商务工作“三个重要”定位，围绕做强国内大循环、畅通国内国际双循环，全力推动商务高质量发展不断取得新成效。 聚焦“活力更足”，培育消费发展新动能。“十五五”时期",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIUOLwEvAvYQEj73fINNIx261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:41:06 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIJiKvP9YqlGxZ4lWISLDp261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:35:40 GMT"
         },
         {
-          "title": "从发票数据透视前三季度经济脉动 各领域“多点开花”发展向好",
-          "summary": "[!--begin:htmlVideoCode--]626e4d78280e4b85801f775f7925aee0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家税务总局发布的最新发票数据显示，今年前三季度，我国经济运行平稳，工业、新动能行业、设备投资等领域发展进一步向好。 发票数据显示，前三季度，工业企业销售收入同比增长7.4%，延续较",
+          "title": "新兴领域良性循环加快形成",
+          "summary": "日前，国家统计局发布了2026年前三季度国民经济运行数据，中国经济交出了一份含金量十足的成绩单，动能向新、结构向优、质效向好的发展态势显著。透过数据，我们看到推动经济平稳运行的积极因素累积增多，新旧动能正在加快转换，民生保障扎实有力，高质量发展的基础更加坚实。 三季度经济数据的一个突出亮点，是主要指标增速边际上显著回升。经济增速是市场关注的焦点，也是研判经济运行态势的重要标尺。从总量看，三季度GD",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIwMsBMN1j9pGRWyu0KyyW261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:40:55 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTI56ENotoNgF3nvl7D6nQ5261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:35:29 GMT"
         },
         {
-          "title": "推动“三大支柱”深入发展 开创“十五五”贸易强国建设新局面",
-          "summary": "[!--begin:htmlVideoCode--]09374837d1494c5c89d29a079b2a4d17,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国务院新闻办公室10月22日举行“开局起步‘十五五’”系列主题新闻发布会。商务部有关负责人表示，“十五五”时期，我国将进一步扩大高水平对外开放，顺应数字化智能化绿色化的发展趋势，推动",
+          "title": "民调：近七成美国年轻人忧虑美国未来",
+          "summary": "△哈佛大学（资料图） 美国哈佛大学22日公布一项面向18岁至29岁美国成年人的民调结果。结果显示，受访者中约69%对国家未来感到“忧虑”，62%认为美国走在错误道路上。 美国即将举行中期选举。哈佛大学政治研究所所长贝齐·菲舍尔·马丁认为，此次民调是透视中期选举的“一扇重要窗口”，为美国年轻人分享他们关心的事务提供平台。 民调由哈佛大学舆情调研计划与益普索知识小组于9月30日至10月7日面向2024",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIE9AALTTWz59pXpA71W3r261023.shtml",
-          "published": "Fri, 23 Oct 2026 03:31:50 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:32:27 GMT"
         },
         {
-          "title": "解锁中国“船”奇背后的产业财富密码 绿色船舶改装成为“新名片”",
-          "summary": "[!--begin:htmlVideoCode--]8e05ef121e644158b081ce842cf8a1ee,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月23日，工业和信息化部发布今年1—9月全国船舶工业统计数据。2026年1—9月，我国造船完工量5805万载重吨，同比增长50.7%；新接订单量17529万载重吨，同比增长163",
+          "title": "前三季度全国财政收入同比增长5.1%",
+          "summary": "财政部最新数据显示，今年前三季度，全国一般公共预算收入约17.23万亿元，同比增长5.1%，增幅比上半年提高0.4个百分点。我国经济运行总体平稳，延续向新向优发展态势，价格上行、外贸增势强劲等因素有力支撑财政收入增长。 分区域看，东部、中部、西部、东北地区收入均保持增长。31个省份中，28个省份收入增长。 税收收入增幅提高。前三季度，全国税收收入14.07万亿元，同比增长6.1%，增幅比上半年提高",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTINa8JKg9ofm9yHOOXpIgL261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:33:49 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIfcS17r8npNGXhBTfbtqY261023.shtml",
+          "published": "Fri, 23 Oct 2026 09:30:10 GMT"
         },
         {
-          "title": "中国经济三季报 | 我国造船业发展势头强劲 硬核技术赢得海外市场订单",
-          "summary": "[!--begin:htmlVideoCode--]96f5302152e34eac8c749e524214084f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月23日，工业和信息化部发布今年1至9月全国船舶工业统计数据，造船业三大指标持续全球领跑，中国造船继续占据全球市场主导地位。 2026年1—9月，我国造船完工量5805万载重吨，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIpnfNZItUY7AXkUbeziim261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:23:46 GMT"
-        },
-        {
-          "title": "2025年中国创新指数比上年增长6.4%",
-          "summary": "根据国家统计局社科文司《中国创新指数研究》课题组测算，2025年中国创新指数为185.5（以2015年为100），比上年增长6.4%。分领域看，创新环境指数、创新投入指数、创新产出指数和创新成效指数分别为199.9、172.2、233.0和137.0，分别比上年增长7.5%、5.9%、8.0%和2.9%。结果显示，2025年中国创新指数呈现稳步增长态势，创新环境持续优化，发展新动能积聚壮大，科技创",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIpYXkMGXOeQPl6tF5FCOW261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:20:22 GMT"
-        },
-        {
-          "title": "商务部：前三季度促消费政策措施推动消费市场规模稳步扩大",
-          "summary": "今天（23日），商务部消费促进司负责人介绍2026年前三季度我国消费市场情况。前三季度，商务部认真贯彻落实党中央、国务院决策部署，深入实施提振消费专项行动，出台一系列促消费政策措施，推动消费市场规模稳步扩大、居民消费结构持续优化，为经济增长发挥重要作用。 一、消费“主引擎”作用持续巩固，超大规模市场优势日益凸显。 前三季度，最终消费支出对经济增长的贡献率为46.7%，高于上半年0.7个百分点，拉动",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTITZgald18IjF0QikbuoDE261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:16:57 GMT"
-        },
-        {
-          "title": "秘鲁政府将追加开支应对厄尔尼诺等挑战",
-          "summary": "秘鲁总统藤森庆子22日宣布，该国政府计划2027年追加180亿索尔（约合52.2亿美元）资金，以应对厄尔尼诺现象、国际燃油价格上涨和全球利率高企等因素带来的经济压力，保障民生并推动经济增长。 藤森庆子当天在总统府举行的新闻发布会上说，追加资金将用于多方面支出，包括向困难家庭发放补助金、维护公共工程、提供燃油补贴和推进基础设施建设。她表示，秘鲁面临多重外部挑战，但稳健的宏观经济状况为政府采取额外措施",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTImPhwpJGNBAmzAActikzO261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:11:40 GMT"
-        },
-        {
-          "title": "强品牌、扩市场，全链发力！金秋农产品喜获丰收 乡村特色产业“拔节生长”",
-          "summary": "[!--begin:htmlVideoCode--]747ea81bd7674df8a8dd9bdeb1be2ffb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 金秋时节，瓜果等特色农产品迎来丰收。多地利用规模化种植优势，做强品牌，扩大国内国际市场，助力农户增收致富、乡村全面振兴。 秋意漫枝，果香四溢。在福建平和县，70多万亩蜜柚正在集中收获",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIvrOrLucHPRIX8Hkqw3Ov261023.shtml",
-          "published": "Fri, 23 Oct 2026 01:44:30 GMT"
-        },
-        {
-          "title": "东岳硅材：前三季度归母净利润5.57亿元，同比增长19413.54%",
-          "summary": "东岳硅材公告，2026年前三季度营业收入39.71亿元，同比增长31.21%；归母净利润5.57亿元，同比增长19413.54%；扣非净利润5.99亿元，同比增长4970.83%。第三季度单季营业收入13.06亿元，同比增长86.84%；归母净利润1.29亿元，同比增长427.06%；扣非净利润1.3亿元，同比增长491.87%。 业绩增长主要因行业供需格局改善带动主要产品价格同比上涨，原材料端工",
+          "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
+          "summary": "以芯片为抵押物的结构性融资，正在成为全球AI扩张的核心资金引擎，并迅速发展为一个规模可能突破万亿美元的全新资产类别。 这一市场的雏形始于2023年黑石向CoreWeave提供的一笔23亿美元私募信贷，成为芯片抵押债务的首单标志性交易。 如今，博通正与华尔街机构磋商为Anthropic安排600亿美元芯片融资，SpaceX据报正寻求为英伟达芯片融资400亿美元，英伟达本身亦宣布与六大贷款机构达成50",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184460",
-          "published": "Fri, 23 Oct 2026 08:46:28 GMT"
+          "link": "https://wallstreetcn.com/articles/3784352",
+          "published": "Fri, 23 Oct 2026 16:07:49 GMT"
         },
         {
-          "title": "一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”",
-          "summary": "黄金的避险属性正在接受考验。尽管债务与通胀担忧仍为金价提供长期支撑，但在股市下跌、债券收益率上行的市场环境下，黄金也可能因投资者急于筹集现金而遭到抛售，难以发挥短期避险作用。 10月23日，现货黄金一度跌破4000美元/盎司关口。此前，金价今年曾突破5000美元/盎司，创下历史新高，但随后涨势放缓、价格回落，市场波动加剧。 汇丰资产管理策略师在最新报告中指出，高油价、利率上行及债券收益率飙升，正对",
+          "title": "美国将氦归类为制造半导体的关键材料",
+          "summary": "美国能源部将氦列为关键材料。美国能源部长克里斯·赖特在声明中表示：“氦对于生产支撑美国经济的半导体和先进技术至关重要。将氦列为关键材料是我们保障供应链安全迈出的又一步。” 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784308",
-          "published": "Fri, 23 Oct 2026 08:34:22 GMT"
+          "link": "https://wallstreetcn.com/articles/3784355",
+          "published": "Fri, 23 Oct 2026 16:02:21 GMT"
         },
         {
-          "title": "高盛下调西部数据目标价：HDD扩产隐忧压制估值，更看好HAMR进展顺利的希捷",
-          "summary": "西部数据（Western Digital，WDC）交出一份强劲的季度成绩单，收入、毛利率与每股盈利均大幅超越市场预期，下季度指引更是远超华尔街预估。然而，高盛认为，竞争对手潜在的产能扩张将对硬盘（HDD）板块的估值倍数构成长期压制，股价短期内料将小幅承压。 据追风交易台消息，据高盛于10月22日发布的研究报告，西部数据管理层对行业需求前景表达了强烈信心，并透露其七大客户已将需求预测延伸至2030年",
+          "title": "AI股遭遇DeepSeek时刻以来最惨一跌！高盛动量组合抹去全年涨幅，半导体指数逼近年线",
+          "summary": "AI动能交易正急转直下。曾在6月一度累计上涨约70%的高贝塔动能组合，如今已悉数回吐年内涨幅；费城半导体指数（SOX）在过去9个交易日相对标普500指数的表现，更创下逾20年来最差纪录。 10月23日，市场对AI投资回报的疑虑进一步升温。 高盛交易台将本轮AI及半导体板块的集中抛售称为“自DeepSeek冲击日以来最差表现”，Meta财报引发的AI投入成本与回报之争，成为本轮跌势加速的催化剂。 抛",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784310",
-          "published": "Fri, 23 Oct 2026 08:28:26 GMT"
+          "link": "https://wallstreetcn.com/articles/3784323",
+          "published": "Fri, 23 Oct 2026 15:39:20 GMT"
         },
         {
-          "title": "Kimi K3.1要来了！月之暗面发布预热视频",
-          "summary": "10月23日消息，今日Kimi官方账号分别在X账号和视频号发布了一段24秒的视频。 开头是一台老式电脑，屏幕上运行着Kimi Code。 有细心的网友发现，左上角的模型栏写着：Model: Kimi K3.1。 这意味着，Kimi又要上新模型了。 此前，10月19日有网友注意到，SGLang的一次代码提交中出现了“Kimi-K3.1 support for the K3 chat encoder”",
+          "title": "美股高位，美国民众却愈发焦虑：消费者信心跌至五个月低点，通胀预期连续两月攀升",
+          "summary": "美国消费者信心在持续通胀压力下进一步走弱，通胀预期同步升温，华尔街与普通民众之间的经济感受分化已扩大至历史极值。 密歇根大学10月消费者信心指数终值录得48，较9月的48.1小幅回落，触及五个月低点。尽管如此，该终值仍高于初值，并超出彭博调查中所有经济学家的预期。 消费者未来一年通胀预期从上月的4.6%升至4.7%，未来五至十年长期通胀预期亦从3.4%升至3.5%，两项指标均为今年5月以来最高，且",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784312",
-          "published": "Fri, 23 Oct 2026 08:22:59 GMT"
+          "link": "https://wallstreetcn.com/articles/3784354",
+          "published": "Fri, 23 Oct 2026 15:38:41 GMT"
         },
         {
-          "title": "美债本轮反弹的持续性如何？",
-          "summary": "美债市场于10月22日迎来自2023年3月地区银行危机以来最大单日收益率下行， 各期限收益率单日下行幅度达15至21个基点 ，10年期美债收益率收于4.95%。 据追风交易台消息，摩根大通在10月22日的研报中称，这场突如其来的“避险狂欢”由欧洲主权债风暴和纳斯达克科技股的持续疲软共同引爆，并非源于美国基本面的实质性改善。 报告称， 尽管宏观层面“去美元化”的喧嚣尘上，但真实数据显示，海外私人资本",
+          "title": "科技股大跌、美债走强，美股正在经历新一轮风格切换？",
+          "summary": "美股市场正在出现明显分化：科技股遭遇重挫，标普500指数却有超过300只成分股收涨，美债则迎来2023年银行业危机以来最大单日收益率降幅。 周四的行情表明，科技股的抛售尚未演变为全市场普跌，资金对AI交易的态度也正在发生变化。 10月22日，标普500指数下跌1.2%，创7月以来最大单日跌幅；纳斯达克综合指数下跌2.6%，费城半导体指数重挫6.7%。与之形成鲜明对比的是，道指基本持平，小盘股指数罗",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784306",
-          "published": "Fri, 23 Oct 2026 08:19:40 GMT"
+          "link": "https://wallstreetcn.com/articles/3784353",
+          "published": "Fri, 23 Oct 2026 15:31:14 GMT"
         },
         {
-          "title": "证监会：核准设立花旗证券（中国）有限公司",
-          "summary": "证监会核准设立花旗证券（中国）有限公司。花旗中国注册地为上海市，注册资本为人民币12亿元，业务范围为证券经纪、证券投资咨询、证券承销与保荐、证券自营。股东名称及出资额、出资比例为花旗环球金融控股有限公司出资100%。（证监会网站）",
+          "title": "付鹏：“台风冲击”在风险层上的“缩圈”观察【付鹏说6】",
+          "summary": "“ 交易桌前看天下，付鹏说来评财经 ” 《付鹏说·第七季》全新升级！ 立即订阅 《 付鹏说第七季 》全新升级上线，在日常视频的基础上， 新增专栏交流群更新付鹏说最新市场观点&图表数据解读（社群第一时间更新） 除了付鹏说日常内容，还新增了专栏在线阅读文档，给大家发送每日交易关注早报，和值得关注的研究报告，延展阅读资料，加入专栏的用户请扫码下图添加小助手进入《付鹏说》第七季专属交流群，并领取专栏资料。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184376",
-          "published": "Fri, 23 Oct 2026 08:13:21 GMT"
+          "link": "https://wallstreetcn.com/premium/articles/3783839?layout=wscn-layout",
+          "published": "Fri, 23 Oct 2026 14:50:16 GMT"
         },
         {
-          "title": "沃什下周迎来棘手一战：暂停加息容易，如何稳住抗通胀预期？",
-          "summary": "暂停加息的决定本身并不难，难的是如何让市场相信美联储仍将“一管到底”。下周的联邦公开市场委员会（FOMC）会议，对美联储主席沃什而言将是一场平衡术考验： 在按兵不动的同时，又不能让外界误读为抗通胀决心有所动摇。 德意志银行预计，美联储将在10月会议上维持利率不变。首席美国经济学家Matthew Luzzetti表示，9月会议已为\"跳过10月、12月再加息\"的路径奠定了基础，但9月通胀数据全面超预期",
+          "title": "补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价",
+          "summary": "距离11月3日美国中期选举不足两周，特朗普政府正以日益高昂的政治与财政代价，向一个顽固的问题发起多线进攻——柴油价格。 然而，一系列密集出台的措施—— 向农民撒出80亿美元补贴、允许红色染料柴油上路、松绑俄罗斯柴油制裁、向欧洲盟友施压释放应急储备——均未能扭转油价走势。 据美国能源信息署数据， 美国柴油均价上周再度上涨近10美分，至每加仑6.28美元，逼近历史高位，此前两周的短暂回落就此终结 。路",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784309",
-          "published": "Fri, 23 Oct 2026 08:11:39 GMT"
+          "link": "https://wallstreetcn.com/articles/3784351",
+          "published": "Fri, 23 Oct 2026 14:18:29 GMT"
         },
         {
-          "title": "中期选举后 特朗普能让沙特“亡国”",
-          "summary": "10月19日，周一，沙特王储一年里最风光的那场大会，被推迟了。 这场叫未来投资倡议（FII）的大会，外号“沙漠达沃斯”，办了九届，原定10月26日在利雅得开幕。往年这个时候，各国政要和华尔街的掌门人排着队飞过去，台上是王储穆罕默德·本·萨勒曼，台下的人盼着从沙特的钱袋子里分一杯羹。它上一次被推迟，还是2020年的新冠疫情。这回主办方给的理由很体面，说要让十周年大会“呈现应有的规模和品质”，真正的原",
+          "title": "18只主动ETF首日吸金超150亿：三只一日售罄，券商公募总自购超21亿",
+          "summary": "18只主动ETF首日“爆单”。10月23日，境内首批18只主动管理型ETF集体开售，发行端迅速升温。据了解，截至当日下午3点，18只主动ETF总发行量已超150亿元，券商渠道在发行中发挥了重要作用。 其中，摩根大盘成长主动股票ETF、易方达品质均衡主动管理ETF、富国价值优选量化选股主动管理ETF三只产品先后触及20亿元首次募集规模上限，均公告提前结束募集，并将对有效认购申请采取比例配售。 据统计",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783984",
-          "published": "Fri, 23 Oct 2026 08:10:15 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184867",
+          "published": "Fri, 23 Oct 2026 13:54:28 GMT"
         },
         {
-          "title": "红利资产的中场战事：嫌贵的人越来越多，但真正买单的人却无意离席",
-          "summary": "红利资产再次重回市场主流讨论。科技行业持续承压之下，市场正在重回避险模式。 例如，2026年10月中旬，六大国有行A股平均静态股息率约3.60%，H股约4.43%，分别高于10年期国债收益率195BP、278BP；30年期国债收益率约2.06%，也显著低于大行股息率。 银行板块估值修复已消耗部分收益率优势，但保险资金运用余额达到40.82万亿元，新钱收益率模拟值仅2.57%。银行板块一边变贵，险资",
+          "title": "美国10月标普全球制造业PMI初值 56，预期 55.5，前值 55.9",
+          "summary": "美国10月标普全球服务业PMI初值 57.9，预期 58，前值 58.8。\n美国10月标普全球综合PMI初值 57.6，预期 57.6，前值 58.4。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783756",
-          "published": "Fri, 23 Oct 2026 07:59:55 GMT"
+          "link": "https://wallstreetcn.com/articles/3784350",
+          "published": "Fri, 23 Oct 2026 13:45:48 GMT"
         },
         {
-          "title": "韩国股市便宜到全球罕见，成为首个跌破5倍市盈率的万亿美元级市场",
-          "summary": "韩国股市估值跌至极端低位，在全球主要市场中已属罕见异数。人工智能热潮降温令亚洲部分主要股指遭到抛售，KOSPI指数首当其冲， 根据彭博可追溯至2006年的数据，其未来12个月预期市盈率已降至仅4.2倍，成为有记录以来首个跌破5倍关口的万亿美元级市场。 这一估值水平仅略高于雅加达综合指数的一半。值得注意的是，印尼股市正因MSCI可能将该国连降两级而大幅下挫，而韩国市场估值竟与之相近，折价之深由此可见",
+          "title": "法国PMI全线跌破荣枯线，欧元区10月综合PMI初值降至51.9逊于预期",
+          "summary": "法国经济意外陷入收缩，令欧元区10月商业活动增速超预期放缓，市场对欧元区财政稳定与增长韧性的担忧同步升温。 法国10月综合PMI初值骤降至48.4，跌破50荣枯线，远低于彭博调查预期的50.3，9月终值为51.1。服务业与制造业双双萎缩，构成全面压力。欧元区整体10月综合PMI初值随之降至51.9，低于彭博预期的52.7，9月为53.1。德国综合PMI虽连续第四个月位于扩张区间，报52.8，但同样",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784293",
-          "published": "Fri, 23 Oct 2026 07:21:50 GMT"
+          "link": "https://wallstreetcn.com/articles/3784349",
+          "published": "Fri, 23 Oct 2026 13:35:29 GMT"
         },
         {
-          "title": "爱马仕与LVMH估值降至十年最低仍无人抄底，法国乱局再添客流之忧",
-          "summary": "欧洲顶级奢侈品股估值已跌至逾十年来低位，爱马仕与LVMH接连交出疲软业绩，令市场对行业复苏的期待再度受挫。 爱马仕周四股价下跌4.9%。此前，公司公布的第三季度销售数据全面低于市场预期，需求疲软成为主要拖累。该股目前远期市盈率约为27倍，较疫情后约70倍的峰值大幅回落。LVMH上周公布的业绩同样令人失望，销售表现承压，估值持续收缩，目前远期市盈率约为16倍，降至逾十年来最低水平。 今年以来，爱马仕",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784303",
-          "published": "Fri, 23 Oct 2026 07:20:13 GMT"
-        },
-        {
-          "title": "法国政治动荡加剧债市压力，法德利差175基点创14年新高，穆迪降级进入倒计时",
-          "summary": "法国政府史无前例地将军队部署至街头、并限制只有工会组织的抗议活动方可获批，这一双重升级信号正在将国内政治动荡的代价迅速传导至主权债券市场。 法德10年期国债利差周四扩大16个基点至175个基点，创2011年底欧债危机以来最高水平。 与此同时，穆迪可能于周五（10月23日）晚间下调法国主权信用评级——该机构目前对法国的评级已高于标普一个档次。两大压力叠加，令市场对法国财政风险的定价进入新阶段。 马克",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784297",
-          "published": "Fri, 23 Oct 2026 07:18:51 GMT"
-        },
-        {
-          "title": "AI行情震荡，去香港金融科技周听听掌舵者怎么说",
-          "summary": "AI 投资这笔账，金融巨头怎么看？ 营收和利润都超出预期，股价却跌了近7%。 10月22日，Meta财报后的市场反应，再次显露出投资者对AI投入的担忧。持续增加的支出、庞大的融资需求，让市场重新审视这场投资竞赛。 巨额投入还在继续，资金能否持续跟上，回报又将在什么时候出现？ 研究这笔账，需要把技术进展与商业需求放在一起看。科技公司准备投入多少，金融机构怎样评估风险，客户愿意为哪些应用付费，共同影响",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784305",
-          "published": "Fri, 23 Oct 2026 07:18:04 GMT"
-        },
-        {
-          "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升",
-          "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注半导体板块相对软件板块的结构性机会。 据追风交易台消息，瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低2",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784302",
-          "published": "Fri, 23 Oct 2026 07:11:22 GMT"
-        },
-        {
-          "title": "门店大排长龙，iPhone Duo开售状况火爆",
-          "summary": "苹果公司首款折叠屏手机iPhone Duo于周五正式开售，门店外大排长龙的景象时隔多年重现，标志着这款售价逾2000美元的设备引发了强劲的市场需求。 供应紧张是此次发布的核心矛盾。 在苹果官网下单的消费者目前被告知最早于明年1月底才能收货，部分订单的预计发货时间已推迟至11月至12月，创下苹果近年来新品发货等待时间最长纪录。与此同时，门店现货极为有限，大量消费者需提前登记预约才能购得。 Duo的开",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784299",
-          "published": "Fri, 23 Oct 2026 06:55:00 GMT"
-        },
-        {
-          "title": "商务部：敦促美方尊重事实，立即停止对中国科研机构采取歧视性、限制性措施的错误做法",
-          "summary": "10月23日，商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问。 有记者问：美东时间10月19日，美国防部公布对部分美国高校的科研安全审查结果，提到相关高校已全面终止与1286清单实体的合作关系。1286清单实体中，包括很多中国科研机构。请问商务部对此有何评论？ 答：我们注意到有关情况。中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中国科研机构进行无理",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784300",
-          "published": "Fri, 23 Oct 2026 06:54:55 GMT"
-        },
-        {
-          "title": "A股风格切换将至？听徐小庆分享股债汇市场最新洞察，推演四季度配置逻辑",
-          "summary": "2026年三季度以来， 全球市场巨震 ： 股市方面 ，AI科技股遭遇年内第二轮剧烈调整。10月初OpenAI披露年化收入接近500亿美元，远低于市场预期的700亿美元，引发AI概念股大规模抛售。费城半导体指数连跌8个交易日，创2008年以来最长连跌纪录；纳指单周累计下跌4.48%，为6月以来最大单周跌幅；英伟达9个交易日市值较高点蒸发约0.6万亿美元。 韩国股市 由上半年全球最强市场转为重灾区，K",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783994",
-          "published": "Fri, 23 Oct 2026 06:36:16 GMT"
-        },
-        {
-          "title": "标普诡异分化！隔夜三分之二成分股上涨仍跌1.5%，对冲基金遭遇2011年以来最惨一日",
-          "summary": "美股市场周四上演罕见分裂行情：标普500指数下跌1.5%，纳斯达克100指数重挫逾3%，但同时有三分之二的标普成分股收涨——两组数据同时为真，折射出AI交易高度集中所引发的结构性撕裂。 高盛交易员Matthew Kaplan在报告中将这一天定性为\"值得记录的异常日\"。根据高盛Prime经纪数据，旗下跟踪对冲基金多空表现的指标组合GSTHVIPP当日下跌约4.2%，创下2011年8月美国失去AAA评",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784292",
-          "published": "Fri, 23 Oct 2026 06:32:20 GMT"
-        },
-        {
-          "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？",
-          "summary": "人形机器人尚未大规模走进工厂和家庭，一门围绕“教机器人干活”的生意已经出现规模化采购线索。产业调研显示，部分第一视角数据采集设备单月出货达到万套级；与此同时，数据工厂、动作捕捉、遥操作及仿真平台加速发展。 这场建设的起点是机器人在陌生环境里仍难以稳定完成任务。硬件采购打开了第一层市场，数据质量、生产成本与复用效率决定第二层价值，而机器人能否减少失败、延长有效工作时间，将决定整个产业能走多远。 一、",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784100",
-          "published": "Fri, 23 Oct 2026 06:31:30 GMT"
-        },
-        {
-          "title": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考",
-          "summary": "原本热闹的秋季科技IPO档期已几近清空，仅剩Anthropic一家独撑局面。在AI基础设施板块遭遇利率冲击、估值承压、同类公司纷纷延期或撤单的背景下，这家AI实验室仍坚持按计划推进上市，以高达1.5万亿美元的潜在估值，直面当前市场的流动性考验。 据路透援引知情人士消息， Anthropic计划最快于10月底公开招股说明书，并于11月中旬完成IPO，预计将于11月9日当周启动面向机构投资者的路演。 ",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784294",
-          "published": "Fri, 23 Oct 2026 06:10:14 GMT"
-        },
-        {
-          "title": "美国最大养老金撤退！Calpers大幅砍仓“Mag 7”转投私募",
-          "summary": "美国最大公共养老金正在重新布局。加州公务员退休系统（Calpers）大幅削减对\"科技七巨头\"的持仓，转而加码私募股权，这一动向折射出机构投资者对美股科技板块高估值与集中度风险的深层忧虑。 据英国《金融时报》报道，Calpers副首席投资官Anton Orlich在采访中证实了这一战略转向。 该基金在2026年上半年将直接持有的\"Mag 7\"股票总数削减了26%，转而分散布局数百家公司以降低权益端集",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784296",
-          "published": "Fri, 23 Oct 2026 06:09:46 GMT"
-        },
-        {
-          "title": "美联储先加息后或猛降息：AI 是利率关键阀门，开支拐点将触发政策转向！",
-          "summary": "自沃什出任美联储主席以来，其多次在公开场合强调，AI驱动的生产率革命将压低长期通胀，使美联储能够在通胀不失控的前提下更早降息，从而复制1990年代格林斯潘时期由生产率繁荣支撑的低通胀、早降息局面。 然而，FOMC内部对于AI究竟将推升通胀还是抑制通胀，仍存在明显分歧。以沃什为代表的长期视角认为，AI将提升全要素生产率、降低边际成本并最终形成通缩效应，短期价格压力不应改变政策方向；但沃勒、古尔斯比、",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784228",
-          "published": "Fri, 23 Oct 2026 05:50:27 GMT"
-        },
-        {
-          "title": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常",
-          "summary": "10月23日，A股三大股指午后集体拉升，创业板涨超2%，光模块龙头“易中天”翻红：截至发稿，新易盛微跌0.11%，天孚通信涨1.13%，中际旭创涨2.20%。 消息面，中际旭创、天孚通信、源杰科技、联讯仪器等光模块产业链核心企业周三午间密集披露经营公告，异口同声确认在手订单充足、生产经营正常，并对未来需求前景给出明确正向指引。 其中，中际旭创披露的数据最为亮眼：2026年上半年营业收入达417.7",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784290",
-          "published": "Fri, 23 Oct 2026 05:36:21 GMT"
-        },
-        {
-          "title": "AI泡沫忧虑冲击亚太股市，韩股一度重挫4%，SK海力士转涨，黄金盘中跌破4000",
-          "summary": "科技股抛售潮从华尔街蔓延至亚太地区，引发资金转移至债市与避险货币，市场对美联储加息预期也随之骤降。 周五亚太股市普遍下跌，MSCI亚太指数周五下跌1%，或创下连续第四周亏损。韩国综合指数领跌，盘中一度重挫逾4%，日本日经225指数亦跌近2%。 亚洲债市跟随隔夜美债同步走强。日本10年期国债收益率下行10个基点至2.78%，5年期国债收益率下行10个基点至2.19%，澳大利亚10年期国债收益率下行1",
+          "title": "全球科技股跌势暂歇，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "summary": "科技股抛售潮暂歇，但围绕AI支出可持续性的疑虑仍笼罩市场。 美股盘初，道指跌1%，标普500指数跌0.45%，纳指跌0.3%。半导体股涨跌不一，SK海力士涨约3%；西部数据跌约3%，公司此前公布了第一财季财报。与此同时，油价持续走高令通胀前景更趋复杂，投资者情绪依然审慎。 此轮科技股波动对资产配置产生明显的轮动效应：投资者将资金转移至美国国债等避险资产，10年期美债收益率周四单日骤降17个基点，创",
           "importance": "medium",
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3784279",
-          "published": "Fri, 23 Oct 2026 03:30:18 GMT"
+          "published": "Fri, 23 Oct 2026 13:33:30 GMT"
         },
         {
-          "title": "A股三大指数集体低开",
-          "summary": "沪指开盘跌0.94%，深证成指跌1.49%，创业板指跌1.66%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "title": "白宫称俄乌同意在奥列什基暂时停火",
+          "summary": "美国白宫23日发表声明说，美国成功促成俄罗斯和乌克兰达成在奥列什基的停火协议。俄乌两国同意暂时停止在奥列什基的一切军事行动，以便人道主义物资进入，并安排平民通过指定的安全通道撤离。停火从10月29日开始。 来源：新华社 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784272",
-          "published": "Fri, 23 Oct 2026 01:25:56 GMT"
+          "link": "https://wallstreetcn.com/articles/3784348",
+          "published": "Fri, 23 Oct 2026 13:31:17 GMT"
         },
         {
-          "title": "中国消费疲软拖累奢侈品业绩 离岸信托征税影响高净值群体消费信心",
-          "summary": "此前业绩一直保持坚挺的爱马仕，三季度营收增速迎来疫情后新低；受中国消费疲软的影响，开云集团在亚太销售的降幅扩大 【财新网】 三季度，受中国市场销售疲软的影响，奢侈品公司的业绩继续承压。此前业绩一直保持坚挺的爱马仕（Hermès，OTCMKTS：HESAY），三季度营收增速迎来疫情后新低。公司当季实现营收40.96亿欧元，同比增长4.3%（固定汇率，下同），该增速是爱马仕自2020年以来最低的单季增",
+          "title": "全球铜短缺或从2028年开始显现，2050年供需缺口恐达44%",
+          "summary": "全球铜市正面临日益严峻的结构性供需失衡。绿色能源转型、AI基础设施扩张和新兴市场基建共同推高需求，但矿山开发周期漫长、矿石品位下降及投资不足，令供给难以跟上。铜短缺不仅可能推动价格长期上涨，也可能抬高能源转型成本，制约相关产业发展。 据彭博新能源财经本周发布的报告， 全球铜市将从2028年起出现“大规模长期短缺”，预计2035年供给缺口将达到需求量的8%，到2050年进一步扩大至44%。 国际能源",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-23/102496466.html",
-          "published": "Fri, 23 Oct 2026 08:04:06 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784346",
+          "published": "Fri, 23 Oct 2026 13:26:30 GMT"
         },
         {
-          "title": "Meta股价大跌近7% 资本支出增长阴影盖过智能体火热",
-          "summary": "AI基建泡沫阴云笼罩，9月以来Muse智能体推高Meta股价，但被高涨的AI支出计划抹平 【财新网】 Meta股价跌回9月初水平。美国时间10月22日，美国社交媒体公司Meta（NASDAQ: META）股价开盘大跌，截至当日收盘，Meta股价下跌6.98%至648.85美元/股，接近今年年初650.41美元/股的水平，Muse智能体带来的涨幅也悉数吐回。 Meta在此前10月21日盘后发布了财报",
+          "title": "瞄准企业AI需求，甲骨文未来四年将向合作伙伴投入10亿美元",
+          "summary": "甲骨文正押注合作伙伴生态系统，以抓住企业AI转型浪潮带来的商机。 甲骨文于10月23日在拉斯维加斯举办的甲骨文 AI World大会上宣布， 将在未来四年内向其合作伙伴生态系统投入10亿美元，帮助合作伙伴把握企业客户对AI驱动解决方案和服务的旺盛需求 。 此次投资将通过甲骨文合作伙伴网络（OPN）落地，涵盖培训认证、技术赋能、开发测试环境、云迁移资金支持、市场推广协作以及通过甲骨文 Marketp",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-23/102496456.html",
-          "published": "Fri, 23 Oct 2026 07:38:52 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784344",
+          "published": "Fri, 23 Oct 2026 13:20:32 GMT"
         },
         {
-          "title": "《对外投资管理办法》发布 居民个人被纳入、信息报告要求提高",
-          "summary": "延续原有分类核准、备案、报告的监管模式；新设对外投资信息年度报告制度、前期工作情况报告制度，扩大境外再投资报告制度适用范围，以加强对外投资权益保护、监测预警和风险防范 【财新网】 公开征求意见结束一个月后，10月22日，国家发改委对外发布了《对外投资管理办法》（下称《办法》），将于2026年12月1日起施行。 此前中国对外投资领域的首部行政法规《国务院关于对外投资的规定》（下称《规定》），已经自2",
+          "title": "美国运通盘前下跌2.7%，刷卡消费额逊于预期，拟削减5%员工",
+          "summary": "美国运通第三季度刷卡消费额未达预期，拖累股价盘前走低，但调整后每股收益超出市场预期，公司同步上调全年盈利指引，业绩呈现喜忧参半格局。 截至纽约时间周五上午7时34分， 美国运通盘前交易下跌2.7%，至316.33美元。第三季度刷卡消费额为4540亿美元，低于分析师预测均值4569亿美元，公司将部分差距归因于退出若干小企业联名卡合作项目 。与此同时 ，公司宣布将削减约5%的员工，作为提升效率举措的一",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://economy.caixin.com/2026-10-23/102496452.html",
-          "published": "Fri, 23 Oct 2026 07:35:52 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784343",
+          "published": "Fri, 23 Oct 2026 13:13:33 GMT"
         },
         {
-          "title": "房产销售细则落地低线城市 十堰部分未获预售证项目可沿用个贷旧规",
-          "summary": "市场机构中指研究院点评称，在已经出台商品房销售制度改革细则的九个城市中，十堰是唯一一个设置“续建”类别、并允许其执行个贷旧政策的城市，这意味相关项目的“按揭放款时点会比竣备后放款更早” 【财新网】 作为商品住房销售制度改革首个落地实施细则的三四线城市，湖北十堰为部分尚未取得预售许可的续建项目保留了“老规矩”，相关按揭贷款可按原政策执行。 10月21日，十堰市住房和城市更新局、市自然资源和城乡建设局",
+          "title": "谁推动了宇树科技首个涨停板？",
+          "summary": "据上证报，盘后交易公开信息显示，宇树科技因“有价格涨跌幅限制的日收盘价格涨幅达到15%的前五只证券”而上榜，机构净买入额位居当日第一。\n具体来看，买一席位为机构专用席位，单边净买入2.41亿元；\n买二席位为中国国际金融股份有限公司上海分公司，该席位同时占据卖二席位，买入2.08亿元，卖出1.20亿元；\n买三席位为高盛（中国）证券有限责任公司上海浦东新区世纪大道证券营业部，该席位同时占据卖一席位，买",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-23/102496448.html",
-          "published": "Fri, 23 Oct 2026 07:31:16 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784342",
+          "published": "Fri, 23 Oct 2026 12:59:18 GMT"
         },
         {
-          "title": "在印度遇见当地共产党｜奇行怪记",
-          "summary": "喀拉拉邦共产党最成功的政绩体现在人，而西孟加拉邦共产党的最大政绩体现在地，但两个邦的发展模式也各有困境 十多年前到印度南部的喀拉拉邦。这里以热带水乡景色闻名，不过真正让我印象深刻的，却不是风景，而是当地的共产党。 从机场到酒店的路上，不少人家门口都插着红色的印度共产党党旗，甚至在一些公路转盘上，居然能看到马克思、恩格斯、列宁的头像。后来才知道，喀拉拉邦本来就是印度共产党的重要根据地。1957年，这",
+          "title": "捷达M6开局锁单破万，一汽大众打响纯电反攻",
+          "summary": "一汽大众正在加快向10万元以内的纯电家轿市场投放产品。 10月23日，捷达宣布，旗下首款新能源车型M6上市19小时锁单达到1万辆。这款售价低于10万元的纯电家轿，是一汽大众拓展入门级新能源市场的新产品。 捷达M6于10月22日正式上市，共推出三款配置，售价7.98万—9.98万元。从燃油家轿转向纯电市场，捷达选择以更低的价格门槛和本土智能化配置争取订单，其首款产品的销售表现，也将成为观察一汽大众电",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-23/102496447.html",
-          "published": "Fri, 23 Oct 2026 07:31:08 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784341",
+          "published": "Fri, 23 Oct 2026 12:56:36 GMT"
         },
         {
-          "title": "面对面｜中金缪延亮：经济和技术世界第一，货币就一定是世界第一吗？",
-          "summary": "常识告诉我们，经济强则货币强。但英美交替的历史给出了不同的答案：美国1876年工业总量就超过了英国，1880年人均GDP也超过了英国，但美元真正取代英镑成为全球第一储备货币，却是在1944年布雷顿森林体系确立之后 ，晚了将近70年。中金首席经济学家缪延亮指出，技术是长期决定性力量，但经济和技术实力不能自动转化为货币实力，因为货币制度和信任有很强的网络效应和滞后效应 【财新网】 技术革命是驱动大国相",
+          "title": "国家能源局召开中长期油气增储上产工作推进会",
+          "summary": "10月21日，国家能源局召开中长期油气增储上产工作推进会。会议强调，面对复杂严峻的国际形势，各油气企业必须扛牢保障国家能源安全的核心职责，在未来较长一段时期内，千方百计增加油气生产供应能力，全力推动增储上产，把能源的饭碗牢牢端在自己手里，为能源强国建设作出新的更大贡献。 会议要求，深入实施油气勘探开发“十年行动计划”，聚焦重点含油气盆地，加快建立若干个国家级油气战略保障基地。油气企业继续加大投资和",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://economy.caixin.com/2026-10-23/102496438.html",
-          "published": "Fri, 23 Oct 2026 07:22:47 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3184841",
+          "published": "Fri, 23 Oct 2026 12:54:26 GMT"
         },
         {
-          "title": "面对面｜中金缪延亮回忆亲历IMF葡萄牙救助：为什么很多国家不愿求助IMF？",
-          "summary": "现中金首席经济学家缪延亮曾先后就职于IMF新兴市场部门个债务政策部门，一线参与欧债危机救助。他回忆，欧债危机救助由欧盟、欧央行、IMF组成 '三驾马车'，但自己在接手葡萄牙项目时才明白：欧洲核心决策层觉得自己人不忍心对自己人太狠，需要IMF来提严厉的附加条件。这个细节让他深刻理解了为什么很多国家不愿意求助IMF 【财新网】财新： 您此前提及曾参与葡萄牙救助项目的谈判，能否分享其中一些亲历的细节？ ",
+          "title": "国务院办公厅：加快开发新职业，减缓AI岗位替代影响",
+          "summary": "国务院办公厅日前印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》（以下简称《意见》），对相关工作作出部署。 《意见》强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，坚持以人民为中心的发展思想，坚持投资于物和投资于人紧密结合，坚持统筹发展和安全，坚持就业优先导向，以人工智能赋能高质量发展为契机，以适应技术发展促进高质量充分就业为目标，以构",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://international.caixin.com/2026-10-23/102496434.html",
-          "published": "Fri, 23 Oct 2026 07:18:04 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784339",
+          "published": "Fri, 23 Oct 2026 12:53:40 GMT"
         },
         {
-          "title": "中国品牌英国市场占比攀升至17.5% 行业协会建议车企加强售后",
-          "summary": "中国车企在英国扩张最大的变数来自贸易政策调整。欧盟正在向英国施压，要求其对中国电动汽车加征关税 【财新网】 2026年前三季度，中国品牌在英国新车注册量中占比攀升至17.5%。在纯电动汽车类别，中国品牌占比更是高达三分之一。10月22日，在世界智能网联汽车大会期间，英国汽车制造和经销商协会技术和创新领域负责人黄俊杰（David Wong）介绍上述数据。 中国汽车品牌在英国迅速崛起。据该协会统计，2",
+          "title": "沃尔沃换挡转型，在华插混销量增逾45%",
+          "summary": "沃尔沃汽车的盈利修复仍在途中，中国市场的表现成为关键变量。 10月23日，沃尔沃汽车公布2026年三季度业绩：营收同比下降22.6%，至668.96亿瑞典克朗；营业利润由上年同期的64.33亿瑞典克朗，转为亏损55.92亿瑞典克朗。公司计划追加50亿瑞典克朗成本削减，并裁减约2500个岗位，其中约2000个在瑞典，相关措施预计于2027年底前全面生效。 这场调整背后，中国市场是绕不开的变量。沃尔沃",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-23/102496430.html",
-          "published": "Fri, 23 Oct 2026 07:16:34 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784340",
+          "published": "Fri, 23 Oct 2026 12:50:19 GMT"
         },
         {
-          "title": "下一个辉瑞，会是中国生物科技公司吗",
-          "summary": "过去几十年，美国、欧盟与中国在新药准入政策上各自发展、相对独立；今天，这三股全球最重要的创新力量正深度交织、相互牵动，没有哪个市场还能独善其身。中国如何应对？ 国庆期间，笔者赴里斯本参加ACCESS EU ’26（欧洲“创新与准入”年会），并在国际议题专场作了关于中国创新药发展的主题报告。两天半的会议，会上会下的讨论始终围绕三个热点：美国的最惠国（MFN）药价改革、欧盟的联合临床评估（JCA），以",
+          "title": "广发证券联合多方出资3.7亿元，清越科技先行赔付落地",
+          "summary": "证券市场先行赔付机制迎来新的实践案例。 10月23日，广发证券公告称，公司联合立信会计师事务所、清越科技实际控制人高裕弟，正式设立清越科技事件先行赔付专项基金，初始出资规模达3.7亿元，相关资金已足额划付至专项基金监管账户。 此次专项基金主要用于赔付因清越科技欺诈发行、信息披露违法违规而遭受投资损失的适格投资者。 值得关注的是，广发证券早在今年5月8日便召开董事会，审议通过清越科技事件先行赔付相关",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-10-23/102496390.html",
-          "published": "Fri, 23 Oct 2026 04:38:02 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784338",
+          "published": "Fri, 23 Oct 2026 12:40:29 GMT"
         },
         {
-          "title": "【市场洞察】复盘三季度以来资金流变化：哪些因素影响本轮A股深度调整？",
-          "summary": "市场形成多类资金共振出逃的负反馈，机构资金整体加速转向防御博弈，内部则有明显分化。宽基ETF逆势成为加仓主力，或也反映托底配置力量正在积聚",
+          "title": "美官员称美国已准备好与伊朗长期对峙",
+          "summary": "美国常驻联合国代表迈克尔·华尔兹表示，美国已做好与伊朗长期对峙的准备，双方一年后可能仍在僵局中。 据英国方面23日消息，华尔兹承认， 一年后美国和伊朗可能仍陷于僵局，届时双方或许仍未就伊朗核计划达成协议，霍尔木兹海峡航运也可能无法恢复至冲突前水平。 华尔兹希望伊朗能在上述情况发生前“坐到谈判桌前”。 华尔兹称，美国总统特朗普和美国海军“有能力在可预见的未来维持对伊朗港口的封锁”，美政府正进一步加大",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496342.html",
-          "published": "Fri, 23 Oct 2026 03:29:44 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784336",
+          "published": "Fri, 23 Oct 2026 12:26:51 GMT"
         },
         {
-          "title": "【华尔街原声】黑石总裁：AI算力需求强劲，融资能力成扩张瓶颈",
-          "summary": "格雷称，旗下企业过去一年AI模型支出增长20倍，地缘政治冲突缓和后IPO市场有望重新活跃",
+          "title": "中国发布外空治理立场：鼓励企业参与外空探索，规范商业航天",
+          "summary": "关于加强外空治理的中国立场 外空是人类生存和发展的新领域和新家园。探索浩瀚宇宙，和平利用外空，是全人类的共同理想，既关乎各国经济建设、科技发展、国家安全和社会进步，更关乎全人类共同福祉。外空探索的成果，应惠及所有国家。 随着航天科技进步及其广泛应用，外空探索、开发和利用活动的频次、密度、深度呈爆发式增长，外空领域现行国际法体系滞后性逐渐显现。各国外空能力发展不平衡、不充分的问题突出，发展中国家获取",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784337",
+          "published": "Fri, 23 Oct 2026 12:18:44 GMT"
+        },
+        {
+          "title": "美国三大电信股盘前齐跌！SpaceX洽商接入8万基站，剑指全美\"第四大运营商\"",
+          "summary": "SpaceX正寻求与蜂窝基础设施公司洽谈，计划借助现有卫星网络与地面基站资源切入美国移动通信市场，这一消息在盘前引发电信板块剧烈震荡——传统运营商股价重挫，基站运营商却逆势大涨，市场对美国电信竞争格局的重新定价由此展开。 据路透报道，AT&T、Verizon和T-Mobile盘前跌幅均超过4% ，投资者担忧SpaceX一旦成功推出全国性无线运营商计划，将对三大运营商的用户基础与定价权构成直接冲击。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784334",
+          "published": "Fri, 23 Oct 2026 12:05:53 GMT"
+        },
+        {
+          "title": "年内供应节奏大幅放缓 深圳写字楼空置率连续两季度回落",
+          "summary": "到2026年一季度末，深圳写字楼空置率达到29.8%的新高，较2025年末上升0.39个百分点。但在随后的两个季度，这一指标连续回落 【财新网】 深圳写字楼空置率连续多年走高，2026年，多个新项目延缓入市，空置压力阶段性缓解。市场机构戴德梁行提供给财新的数据显示，截至2026年三季度末，深圳甲级写字楼空置率同环比分别下跌0.8个百分点和0.7个百分点，降至28.3%。 从2019年起，深圳每年基",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://database.caixin.com/2026-10-23/102496340.html",
-          "published": "Fri, 23 Oct 2026 03:29:35 GMT"
+          "link": "https://www.caixin.com/2026-10-23/102496675.html",
+          "published": "Fri, 23 Oct 2026 14:31:23 GMT"
+        },
+        {
+          "title": "中石油天然气销售分公司原总经理钱治家被查",
+          "summary": "他同时担任过昆仑能源执行董事兼行政总裁；在石油与天然气行业拥有逾30年工作经验，长期从事天然气开发和销售 【财新网】 中国石油天然气销售分公司原总经理、党委副书记钱治家被调查。 中央纪委国家监委网站10月23日公布这一消息。钱治家此前同时担任中石油集团旗下燃气板块香港上市公司昆仑能源（00135.HK）执行董事兼行政总裁。 钱治家现年60岁（1966年出生）。2026年1月，昆仑能源公告，钱治家因",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496672.html",
+          "published": "Fri, 23 Oct 2026 14:29:40 GMT"
+        },
+        {
+          "title": "宇树涨停 王兴兴称通用大模型可能“击穿”物理AI",
+          "summary": "宇树用OpenAI大模型控制机器人，称无需提前训练即可上手画画、下棋 【财新网】 擅长人形机器人硬件开发的宇树股价本周大回升。10月23日，宇树科技（688836.SH）股票涨停，截至收盘，股价涨20%至624元/股。过去一周多，宇树股价迅速拉升，10月15日，宇树的股价还在408元/股左右。 技术和政策两方面刺激宇树股价上涨。技术上，市场一向认为宇树擅长硬件开发、在机器人“大脑”开发上有所欠缺，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496635.html",
+          "published": "Fri, 23 Oct 2026 13:00:07 GMT"
+        },
+        {
+          "title": "“影视寒冬”来袭 横店片场免租金、AI化",
+          "summary": "投资减少，开机率低，观众流失，又叠加AI技术冲击，影视行业进入调整期 【财新网】 AI冲击影视行业，已有三十年历史的横店影视城筹划转型。10月23日下午，横店影视城宣布景区拍摄场景全部免费，130多座摄影棚全免租金，同时与字节跳动旗下火山引擎达成合作，建设影视AI服务平台。 字节跳动在今年2月发布的视频生成模型Seedance 2.0快速突破了生产力质变节点，一夕之间改造了中国的短剧行业——市场上",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-23/102496629.html",
+          "published": "Fri, 23 Oct 2026 12:53:48 GMT"
+        },
+        {
+          "title": "欺诈发行退市在即 清越科技3.7亿元先行赔付启动",
+          "summary": "赔付基金由广发证券、立信会计师事务所及公司实控人共同出资，适格投资者须在11月27日前申报，上市公司相关责任方及上市前持股股东不在赔付范围内 【财新网】 因科创板公司清越科技（688496.SH，现*ST清越）财务造假事件受损的中小投资者，将在接下来一个多月内陆续获得赔偿。 10月23日，广发证券（000776.SZ）公告称，已会同立信会计师事务所（特殊普通合伙）（下称“立信”）、清越科技实际控制",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-23/102496624.html",
+          "published": "Fri, 23 Oct 2026 12:36:49 GMT"
+        },
+        {
+          "title": "首批主动ETF发行 3只产品“一日结募”",
+          "summary": "18只产品的募集上限均为20亿元，易方达基金、摩根基金、富国基金在发行首日即达到募集规模上限 【财新网】 首批18只主动ETF已于10月23日开始发售，18只产品的募集上限均为20亿元，当日盘后，易方达基金、摩根基金、富国基金发布公告称，旗下主动ETF在发行首日即达到募集规模上限，提前结募。 从发售期限来看，18只主动ETF产品中，易方达基金、华夏基金、华泰柏瑞基金、华安基金、招商基金、南方基金、",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-23/102496606.html",
+          "published": "Fri, 23 Oct 2026 11:27:07 GMT"
+        },
+        {
+          "title": "花旗正式获批成为中国第7家外商独资券商",
+          "summary": "获准开展证券经纪、证券投资咨询、证券承销与保荐、证券自营业务；这是花旗2019年退出东方花旗后重返中国境内证券业 【财新网】 历时近五年，美国花旗集团终于获得中国外商独资券商的设立批复。 10月23日，中国证监会核准花旗环球金融控股有限公司（Citigroup Global Markets Holdings Inc.）在上海设立全资证券公司，注册资本12亿元人民币，花旗环球持股100%。 根据批复",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-23/102496565.html",
+          "published": "Fri, 23 Oct 2026 10:56:26 GMT"
         }
       ]
     },
     {
-      "name": "国内军事",
+      "name": "哲学",
       "summary": "",
       "items": [
         {
-          "title": "韩国国防部向朝方提议举行韩朝军方会谈",
-          "summary": "△韩国国防部（资料图） 韩国国防部23日发表谈话，正式向朝方提议举行韩朝军方会谈，就相互确认韩朝陆地军事分界线的准确位置、恢复军事通信线路以及防止边境地区发生意外冲突的方案进行协商。如有必要，也可以举行包括“联合国军司令部”在内的三方会谈。",
+          "title": "央企资产总额突破95万亿元",
+          "summary": "2026国资国企高质量发展创新大会正在北京举办。23日会上发布了《国资国企高质量发展观察报告（2026）》，从实力跃升、结构优化、产业带动等维度，系统评估国资国企改革发展成效。 [!--begin:htmlVideoCode--]3440ca4e69d1442bb808b113a3923ef7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 数据显示，国资央企",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:30:04 GMT"
+          "link": "https://jingji.cctv.com/2026/10/23/ARTIHGHAMCK4MsaUM4AyDQKB261023.shtml",
+          "published": "Fri, 23 Oct 2026 13:46:51 GMT"
         },
         {
-          "title": "新西兰国防军司令因“诚信问题”辞职",
-          "summary": "新西兰国防军司令托尼·戴维斯23日因“诚信问题”辞职。 新西兰国防部长保罗·戈德史密斯发表声明说，戴维斯已告知他将辞去国防军司令一职，辞职即刻生效。声明说，戴维斯作出这一决定的原因涉及“诚信问题”，这些问题他此前并未披露。 戈德史密斯还表示，他将建议新西兰总督接受戴维斯的辞呈。在正式任命新司令前，国防军副司令马特·威廉姆斯将代理司令一职。 新西兰国防军当天在社交媒体发文引述戴维斯的话说，此次辞职涉",
+          "title": "焦点访谈｜弘扬伟大长征精神 走好新的长征路",
+          "summary": "[!--begin:htmlVideoCode--]632c523bf4434ddb812f4197e04fe7a7,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （焦点访谈）：10月22日，纪念中国工农红军长征胜利90周年大会在北京人民大会堂隆重举行，习近平总书记发表重要讲话，回顾我们党领导红军进行长征的伟大历程，总结长征胜利的伟大意义，揭示长",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTItlrbi9yJ0qjlOPWThKV3261023.shtml",
-          "published": "Fri, 23 Oct 2026 07:18:28 GMT"
+          "link": "https://news.cctv.com/2026/10/23/ARTIVwoQXh0g2eNHiRPDsQLF261023.shtml",
+          "published": "Fri, 23 Oct 2026 13:35:19 GMT"
         },
         {
-          "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
-          "summary": "央视网消息： 据商务部官微消息，商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问。 有记者问：美东时间10月19日，美国防部公布对部分美国高校的科研安全审查结果，提到相关高校已全面终止与1286清单实体的合作关系。1286清单实体中，包括很多中国科研机构。请问商务部对此有何评论？ 答：我们注意到有关情况。中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIXXzX4Zz4pF3kOtcMBtou261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:49:54 GMT"
-        },
-        {
-          "title": "台风蓝色预警：“蔷琵”向台湾东北部靠近 东南沿海多地风大雨强",
-          "summary": "央视网消息： 据中国天气网消息，中央气象台10月23日10时继续发布台风蓝色预警： 今年第30号台风“蔷琵”（强台风级）的中心今天（23日）上午10点钟位于台湾省台北市东南方向约325公里的洋面上，就是北纬22.9度，东经123.7度，中心附近最大风力14级（45米/秒），中心最低气压为950百帕，七级风圈半径350-500公里，十级风圈半径150-210公里，十二级风圈半径80-90公里。 预计",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIc74ke5mTnwHNZAXsJx83261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:45:47 GMT"
-        },
-        {
-          "title": "商务部：敦促美方尊重事实，立即停止对中国科研机构采取歧视性、限制性措施的错误做法",
-          "summary": "10月23日，商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问。 有记者问：美东时间10月19日，美国防部公布对部分美国高校的科研安全审查结果，提到相关高校已全面终止与1286清单实体的合作关系。1286清单实体中，包括很多中国科研机构。请问商务部对此有何评论？ 答：我们注意到有关情况。中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中国科研机构进行无理",
+          "title": "18只主动ETF首日吸金超150亿：三只一日售罄，券商公募总自购超21亿",
+          "summary": "18只主动ETF首日“爆单”。10月23日，境内首批18只主动管理型ETF集体开售，发行端迅速升温。据了解，截至当日下午3点，18只主动ETF总发行量已超150亿元，券商渠道在发行中发挥了重要作用。 其中，摩根大盘成长主动股票ETF、易方达品质均衡主动管理ETF、富国价值优选量化选股主动管理ETF三只产品先后触及20亿元首次募集规模上限，均公告提前结束募集，并将对有效认购申请采取比例配售。 据统计",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784300",
-          "published": "Fri, 23 Oct 2026 06:54:55 GMT"
+          "link": "https://wallstreetcn.com/livenews/3184867",
+          "published": "Fri, 23 Oct 2026 13:54:28 GMT"
         },
         {
-          "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
-          "summary": "中方一贯反对美方泛化国家安全概念，将科研领域交流合作政治化、武器化、工具化，并对中国科研机构进行无理的“污名化”指责。美方相关做法实质上是在胁迫美国科研机构“选边站队”，蓄意破坏中美正常科研合作，这只会削弱美自身的科技进步与创新发展，搬起石头砸自己的脚。中美加强科研合作符合双方共同利益，搞限制“脱钩”只会损人害己。中方敦促美方尊重事实，顺应全球科技交流合作的普遍规律与时代潮流，立即停止对中国科研机",
+          "title": "中国发布外空治理立场：鼓励企业参与外空探索，规范商业航天",
+          "summary": "关于加强外空治理的中国立场 外空是人类生存和发展的新领域和新家园。探索浩瀚宇宙，和平利用外空，是全人类的共同理想，既关乎各国经济建设、科技发展、国家安全和社会进步，更关乎全人类共同福祉。外空探索的成果，应惠及所有国家。 随着航天科技进步及其广泛应用，外空探索、开发和利用活动的频次、密度、深度呈爆发式增长，外空领域现行国际法体系滞后性逐渐显现。各国外空能力发展不平衡、不充分的问题突出，发展中国家获取",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3184257",
-          "published": "Fri, 23 Oct 2026 06:44:47 GMT"
-        }
-      ]
-    },
-    {
-      "name": "心理学",
-      "summary": "",
-      "items": [
-        {
-          "title": "马达加斯加发生多起中国公民因涉嫌走私黄金、宝石被捕案件，中使馆提醒",
-          "summary": "央视网消息： 10月23日，中国驻马达加斯加大使馆发布领事提醒：近期，马达加斯加发生多起中国公民因涉嫌走私黄金、宝石被捕案件。马政府高度重视相关案件，严厉打击相关走私违法活动。中国驻马达加斯加大使馆再次严肃提醒在马中国公民，遵守当地法律法规，严禁走私黄金、宝石等矿物，不要收购、加工来源不明的非法矿物，切勿抱有侥幸心理，违者将受到监禁、高额罚款等严厉法律制裁。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIwMkjysXBYG1iau18DQQt261023.shtml",
-          "published": "Fri, 23 Oct 2026 06:39:13 GMT"
+          "link": "https://wallstreetcn.com/articles/3784337",
+          "published": "Fri, 23 Oct 2026 12:18:44 GMT"
         },
         {
-          "title": "西藏巴青7.0级地震 多方医疗队、专家组驰援灾区",
-          "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。西藏自治区医院（四川大学华西医院西藏医院）响应西藏自治区卫健委调度指令，组建医学应急救援队驰援震区。 据了解，医疗队共10人，涵盖急诊、骨科、普外、心理、放射等专业，其中4名骨干由四川大学华西医院长期派驻。队伍配备移动CT车、救护车以及各类急救药品、应急物资，于23日凌晨3时30分从拉萨启程赶赴那曲。 23日7时30分，救援队抵达那曲市，",
+          "title": "首批主动ETF发行 3只产品“一日结募”",
+          "summary": "18只产品的募集上限均为20亿元，易方达基金、摩根基金、富国基金在发行首日即达到募集规模上限 【财新网】 首批18只主动ETF已于10月23日开始发售，18只产品的募集上限均为20亿元，当日盘后，易方达基金、摩根基金、富国基金发布公告称，旗下主动ETF在发行首日即达到募集规模上限，提前结募。 从发售期限来看，18只主动ETF产品中，易方达基金、华夏基金、华泰柏瑞基金、华安基金、招商基金、南方基金、",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIu2QPHUDefmhXbrf6dTMG261023.shtml",
-          "published": "Fri, 23 Oct 2026 04:03:22 GMT"
-        },
-        {
-          "title": "雪豹和金钱豹存在竞争关系 为何会“同框”？",
-          "summary": "10月23日是世界雪豹日（也称国际雪豹日、全球雪豹日）。在我国，雪豹是国家一级保护野生动物，它们常在雪线附近和雪地间活动，是高海拔生态系统旗舰物种和重要指示物种。 叫声反差感拉满 雪豹喜欢在陡峭的地形中活动，包括高山流石滩、高山草甸、山脊、陡崖等，较短且粗壮的四肢和长有力的尾巴让它在陡峭的环境中行动自如。厚实的皮毛可以帮它们抵御零下几十度的低温。这一身适应高寒的“硬装备”也为它们捕获猎物提供了便利",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIEKHt8YTD1D5uzATN1GdS261023.shtml",
-          "published": "Fri, 23 Oct 2026 02:07:38 GMT"
-        },
-        {
-          "title": "网传家电国补正在退场是假的！“双十一”将至 谁在制造抢购焦虑？",
-          "summary": "在社交平台上，多个博主此前发帖说“家电国补即将停止”。配合着“最后机会”“额度没了”的话术，让不少正打算趁“双十一”换家电的人，一下子不知道该不该等。 事实上，今年家电以旧换新补贴政策仍在实施。国家发展改革委9月30日公布，今年第四批625亿元消费品以旧换新资金已下达。那么，国补停止的消息从何而来？“双十一”将近，消费者还能否享受国补和平台补贴的双重优惠？ 记者浏览社交平台发现，多个博主都在发布“",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/23/ARTIMXrVgnPQZ8s0tTvfK3bW261023.shtml",
-          "published": "Fri, 23 Oct 2026 01:46:23 GMT"
-        },
-        {
-          "title": "韩国股市便宜到全球罕见，成为首个跌破5倍市盈率的万亿美元级市场",
-          "summary": "韩国股市估值跌至极端低位，在全球主要市场中已属罕见异数。人工智能热潮降温令亚洲部分主要股指遭到抛售，KOSPI指数首当其冲， 根据彭博可追溯至2006年的数据，其未来12个月预期市盈率已降至仅4.2倍，成为有记录以来首个跌破5倍关口的万亿美元级市场。 这一估值水平仅略高于雅加达综合指数的一半。值得注意的是，印尼股市正因MSCI可能将该国连降两级而大幅下挫，而韩国市场估值竟与之相近，折价之深由此可见",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784293",
-          "published": "Fri, 23 Oct 2026 07:21:50 GMT"
-        },
-        {
-          "title": "叠纸低调搞起了机器人，七个月前已开始招兵买马",
-          "summary": "靠虚拟角色和情感陪伴俘获大量玩家的游戏公司叠纸，正在尝试将这门生意延伸到现实世界。 10月16日，女娲仿生（上海）智能科技有限公司正式成立，注册资本1000万元，经营范围包括智能机器人研发、服务消费机器人制造与销售、人工智能硬件销售等。 工商信息显示，叠纸创始人兼CEO姚润昊持股60%，叠纸科技法定代表人姚飞直接持股3%。新公司与叠纸科技并不存在直接股权关系。 这并非一次毫无征兆的跨界。 早在今年",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784304",
-          "published": "Fri, 23 Oct 2026 07:14:29 GMT"
-        },
-        {
-          "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升",
-          "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注半导体板块相对软件板块的结构性机会。 据追风交易台消息，瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低2",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784302",
-          "published": "Fri, 23 Oct 2026 07:11:22 GMT"
-        },
-        {
-          "title": "AI泡沫忧虑冲击亚太股市，韩股一度重挫4%，SK海力士转涨，黄金盘中跌破4000",
-          "summary": "科技股抛售潮从华尔街蔓延至亚太地区，引发资金转移至债市与避险货币，市场对美联储加息预期也随之骤降。 周五亚太股市普遍下跌，MSCI亚太指数周五下跌1%，或创下连续第四周亏损。韩国综合指数领跌，盘中一度重挫逾4%，日本日经225指数亦跌近2%。 亚洲债市跟随隔夜美债同步走强。日本10年期国债收益率下行10个基点至2.78%，5年期国债收益率下行10个基点至2.19%，澳大利亚10年期国债收益率下行1",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784279",
-          "published": "Fri, 23 Oct 2026 03:30:18 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-23/102496606.html",
+          "published": "Fri, 23 Oct 2026 11:27:07 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 127,
-    "total_collected": 89,
-    "sources": 9,
+    "total_items": 123,
+    "total_collected": 92,
+    "sources": 7,
     "source_list": [
-      "BBC中文",
       "B站科技热门",
       "Hacker News",
       "TechCrunch",
+      "The Verge",
       "华尔街见闻",
       "央视新闻",
-      "少数派",
-      "观察者网",
       "财新网"
     ],
     "domains": 7
