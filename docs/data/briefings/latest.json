@@ -1,110 +1,44 @@
 {
-  "id": "2026-10-25-03",
-  "datetime": "2026-10-25 03:39:27",
+  "id": "2026-10-25-09",
+  "datetime": "2026-10-25 09:01:26",
   "date": "2026-10-25",
-  "time": "03:39",
-  "period": "凌晨",
-  "summary": "本期采集 44 篇文章，来自 7 个信息源，覆盖 5 个领域，精选 57 条摘要",
+  "time": "09:01",
+  "period": "上午",
+  "summary": "本期采集 35 篇文章，来自 6 个信息源，覆盖 5 个领域，精选 51 条摘要",
   "domains": [
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114741",
+          "published": "Sun, 25 Oct 2026 14:30:31 +0800"
+        }
+      ]
+    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "Xbox Turns Down Netflix $500M Offer",
-          "summary": "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ Comments URL: https://news.ycombinator.com/item?id=50227892 Points: 21 # Comments: 2",
+          "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+          "summary": "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 157 # Comments: 55",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-          "published": "Sun, 25 Oct 2026 03:05:53 +0000"
-        },
-        {
-          "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-          "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.ycombinator.com/item?id=50227639 Points: 27 ",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-          "published": "Sun, 25 Oct 2026 02:18:35 +0000"
+          "link": "https://github.com/slee-persis/GVS5H",
+          "published": "Sun, 25 Oct 2026 03:56:01 +0000"
         },
         {
           "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 19 # Comments: 5",
+          "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 143 # Comments: 50",
           "importance": "medium",
           "source": "Hacker News",
           "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "published": "Sun, 25 Oct 2026 01:33:49 +0000"
-        },
-        {
-          "title": "FindMyWeb: Apple Find My, reverse enginiered",
-          "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 31 # Comments: 7",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://codeberg.org/Misom/FindMyWeb",
-          "published": "Sat, 24 Oct 2026 23:42:52 +0000"
-        },
-        {
-          "title": "Why Gopher in 2026?",
-          "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 41 # Comments: 10",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-          "published": "Sat, 24 Oct 2026 23:33:19 +0000"
-        },
-        {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 220 # Comments: 204",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "published": "Sat, 24 Oct 2026 23:11:54 +0000"
-        },
-        {
-          "title": "We should be more ambitious with the software we build",
-          "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 248 # Comments: 212",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://danluu.com/ambitious/",
-          "published": "Sat, 24 Oct 2026 21:47:31 +0000"
-        },
-        {
-          "title": "Small Programs and Languages",
-          "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 54 # Comments: 5",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://ratfactor.com/cards/pl-small",
-          "published": "Sat, 24 Oct 2026 21:44:23 +0000"
-        },
-        {
-          "title": "The Importance of Limitations for Creativity and Learning (2023)",
-          "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 35 # Comments: 10",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://ratfactor.com/cards/limitations",
-          "published": "Sat, 24 Oct 2026 21:42:47 +0000"
-        },
-        {
-          "title": "Show HN: Steal My Bitcoin",
-          "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://stealmybitcoin.com/",
-          "published": "Sat, 24 Oct 2026 20:30:31 +0000"
-        },
-        {
-          "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-          "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 139 # Comments: 87",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://missileer.watch",
-          "published": "Sat, 24 Oct 2026 19:43:27 +0000"
-        },
-        {
-          "title": "法国41万人上街，巴黎封地铁、关卢浮宫",
-          "summary": "【文/观察者网 于文凯】 法国连续第二个周末爆发大规模示威。10月24日，约41万人走上街头，抗议生活成本上涨、社会不平等及政府经济政策。尽管法国总统马克龙此前宣布收紧集会限制，当局出动7万名警察和宪兵维持秩序，巴黎、马赛等多座城市仍发生警民冲突，近千人被捕。为防范骚乱，巴黎卢浮宫等多家博物馆当天关闭，游客无法参观《蒙娜丽莎》。 同一天，意大利、西班牙、葡萄牙和阿尔巴尼亚等欧洲国家也发生抗议活动。",
-          "importance": "medium",
-          "source": "观察者网",
-          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_25_905677_s.shtml",
-          "published": "Sat, 24 Oct 2026 23:18:00 GMT"
         },
         {
           "title": "76年了，我们永远不能忘记！",
@@ -115,76 +49,20 @@
           "published": "Sun, 25 Oct 2026 01:29:48 GMT"
         },
         {
-          "title": "【8点见】绑着9岁小孩跑马拉松？郑马处罚结果来了",
-          "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·美国歧视性扩大对华投资限制范围。商务部：坚决反对！ ·2027年度中央机关公开遴选和公开选调公务员报名即将开始。 ·莫高义，任云南省委书记。 ·唐登杰，当选中共山西省委书记。 ·中欧班列“东通道”通行量突破6000列。 ·国家疾控局：西藏巴青地震灾区灾后卫生防疫力量已实现全覆盖。 ·辽宁舰编队远海训练细节首度披露：歼-1",
+          "title": "两周前“精准喊顶”的德银：科技股距离“长期趋势底部”还要“跌5%”",
+          "summary": "德意志银行两周前下调美股科技及大盘成长股评级后，科技股与其他成分股的表现迅速拉开差距。如今， 该行指出，调整可能仍未结束：科技股相对标普500其余成分股的表现，距离长期趋势通道底部仍有约5个百分点的空间。 据 华尔街见闻此前文章 ，10月9日，德银多资产策略团队将美股科技及大盘成长股（MCG & Tech）评级从“超配”下调至“中性”，认为板块风险回报已严重失衡。此后两周，科技股下跌约7%，标普5",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIMXSE2j0aFq8c2VCXBJL0261025.shtml",
-          "published": "Sun, 25 Oct 2026 00:00:04 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784409",
+          "published": "Sun, 25 Oct 2026 06:25:19 GMT"
         },
         {
-          "title": "马里军方在梅纳卡市附近发现54具遗体",
-          "summary": "△马里首都巴马科（资料图） 马里武装部队总参谋部24日发布公报说，一支联合巡逻队在该国东北部梅纳卡区首府梅纳卡市附近发现54具平民遗体。 公报说，军方接到上述地区平民遭恐怖袭击的消息后，派出该联合巡逻队展开搜寻，在梅纳卡市东南约35公里的一处聚居点发现这些遗体，同时找到9名幸存者。目前，死者已安葬，幸存者被送往梅纳卡市接受救助。公报未说明袭击发生的具体时间。 公报还说，据初步收集的证词，极端组织“",
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "summary": "AI军备竞赛难以刹车，2027年存储芯片供需紧张的格局也已基本锁定。 野村全球存储器研究团队在最新报告中指出，科技巨头持续加码AI投资，即使自由现金流承压，也不愿率先退出竞争；与此同时，存储器长期供应协议已提前锁定2027年的供应量与价格，为行业景气度提供支撑。 野村将这场竞争称为“懦夫游戏”（Game of Chicken）： 任何一家企业率先削减投资，都可能在下一轮AI竞争中落后。只要竞争对手",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIt0zvfBAmxWyLsBw6YSZ1261025.shtml",
-          "published": "Sat, 24 Oct 2026 23:12:33 GMT"
-        },
-        {
-          "title": "时间已敲定 俄乌局部同步停火能否成为打破僵局契机？",
-          "summary": "当地时间24日，俄乌双方宣布将于27日在赫尔松地区阿列什基实施同步停火，以配合当地人道主义行动。与此同时，俄美乌三方正着手重启谈判，计划于11月上旬在阿布扎比举行新一轮会谈。 在双方核心分歧依然显著的背景下，此次局部停火能否成为打破俄乌冲突僵局的契机？ 俄乌将在阿列什基同步停火 当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达（议会）人权事务专员卢比涅茨就阿列什基的人道主义任务",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIu7QPpgVVDL3tr1mvINdu261025.shtml",
-          "published": "Sat, 24 Oct 2026 23:12:23 GMT"
-        },
-        {
-          "title": "法国数十万人参与新一轮示威游行 约千人被捕",
-          "summary": "新华社巴黎10月24日电（记者乔本孝）法国多地24日爆发新一轮示威游行，参与者达数十万，伴随暴力事件发生，但截至发稿，未酿成与上轮游行同等严重程度的骚乱。 法国内政部长努内兹当晚对媒体说，据不完全统计，当天已有约1000人被捕。各地游行队伍平稳行进，但一些团体制造冲撞治安部队等暴力行为。由于维稳力量部署严密，本轮游行伴生的暴力行为破坏力相对有限。 据法国内政部统计，24日全国约41万人参与示威游行",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTICFFW4bOxBxIaOcHvXGP5261025.shtml",
-          "published": "Sat, 24 Oct 2026 23:12:13 GMT"
-        },
-        {
-          "title": "商务部：美歧视性扩大对华投资限制范围 坚决反对！",
-          "summary": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问。 问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIneefAWsWbZL4GuKnCnH2261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:20:17 GMT"
-        },
-        {
-          "title": "法国新一轮示威活动中135人被逮捕",
-          "summary": "当地时间24日，法国内政部长努内兹表示，截至当地时间13时，警方在当天的新一轮全国性抗议示威活动中已逮捕135人。 努内兹表示，警方同时查获了可能被用作武器的物品。据初步统计，截至当地时间24日13时，全法公共场所约有3.5万名示威者。 努内兹23日表示，法国政府将部署7万名警察和宪兵，以应对预计在24日举行的大规模示威活动可能引发的暴力行为。 法国17日爆发全国性示威。法国政府估计，全国约55万",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTILlX9d51iXgW5DhElDzXd261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:16:09 GMT"
-        },
-        {
-          "title": "伊朗武装部队：任何情况下都不允许美军船只进入波斯湾",
-          "summary": "据伊朗方面24日消息，伊朗武装部队总参谋长阿里·阿卜杜拉希表示，伊朗武装部队已经成功遏制了美国海军，使其再无能力靠近波斯湾附近海域或伊朗领海。在任何情况之下，伊朗都不会允许美军船只进入波斯湾，美方希望让军事力量重返波斯湾的想法只是幻梦。 阿卜杜拉希还指出，美国和以色列及其军队，将一天比一天更深地陷入其自身制造的泥潭，对抗持续越久就越是如此。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:10:09 GMT"
-        },
-        {
-          "title": "乌克兰防长称“星链”及“星盾”已恢复稳定通信",
-          "summary": "△乌克兰国防部长叶夫根尼·赫马拉（资料图） 当地时间24日，乌克兰国防部长赫马拉通报称，乌国防部监测数据显示，“星链”与“星盾”卫星通信系统已恢复性能，终端在移动速度超过每小时400公里条件下可保持稳定通信。 赫马拉表示，该进展对前线作战意义突出，将支撑部队机动、无人机任务、军事后勤及战场通信保障。 赫马拉称，乌方将持续跟踪记录两套系统运行状态，下一步计划开展更高速度工况测试，探明系统可承载的速度",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:07:45 GMT"
-        },
-        {
-          "title": "高市执政这一年 扩军备武 扶植军工 图谋“再军事化”",
-          "summary": "[!--begin:htmlVideoCode--]0dea96e524aa47d09dca2f58fe751c95,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 日本首相高市早苗去年10月21日上任，如今已满一年。一年来，日本政府不断推进扩军备武、扶植军工和情报集权，在“再军事化”的道路上一路狂奔。这不仅引发了国际社会的高度警惕，也让日本国内深感不安。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml",
-          "published": "Sat, 24 Oct 2026 20:23:06 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784406",
+          "published": "Sun, 25 Oct 2026 03:45:59 GMT"
         },
         {
           "title": "石油产量创纪录，油罐几乎都空了--阿联酋“奇迹复苏”了吗？",
@@ -201,6 +79,14 @@
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3784399",
           "published": "Sun, 25 Oct 2026 01:09:02 GMT"
+        },
+        {
+          "title": "法国新一轮示威仍有数十万人上街 暴力事件大幅减少",
+          "summary": "极左翼政党“不屈法国”的领导人让-吕克·梅朗雄在巴黎示威活动的前线告诉媒体，如果马克龙不回应抗议者的要求，全国范围内的总罢工将于11月5日举行 【财新网】 继上周末的大规模示威游行引发骚乱之后，当地时间10月24日，法国再次暴发大规模示威游行活动，抗议者再次与警方发生冲突，但其暴力程度远小于10月17日的大范围纵火、抢劫和其他暴力事件。（参见财新周刊封面报道《 动荡法兰西 》） 据法国内政部称，1",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-25/102497132.html",
+          "published": "Sun, 25 Oct 2026 06:26:55 GMT"
         }
       ]
     },
@@ -210,43 +96,19 @@
       "items": [
         {
           "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 19 # Comments: 5",
+          "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 143 # Comments: 50",
           "importance": "medium",
           "source": "Hacker News",
           "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "published": "Sun, 25 Oct 2026 01:33:49 +0000"
         },
         {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 220 # Comments: 204",
+          "title": "英国宣布设立AI生物安全实验室",
+          "summary": "英国政府24日宣布，将设立人工智能（AI）生物安全实验室，利用前沿AI技术加强对生物威胁的监测与应对，并加快疫苗、药物等医疗应对手段的研发。 英国政府当天发布公报说，AI技术发展正为科学发现和疾病研究创造新机遇，但能力日益强大的AI系统也可能带来新的生物安全风险，降低开展有害生物活动的技术门槛。为加强对生物威胁的抵御能力，政府决定设立AI生物安全实验室。 公报说，该实验室将获得英国政府1亿英镑（约",
           "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "published": "Sat, 24 Oct 2026 23:11:54 +0000"
-        },
-        {
-          "title": "Starlink seems to be working normally again in Ukraine",
-          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-          "importance": "medium",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-          "published": "Sat, 24 Oct 2026 20:46:34 +0000"
-        },
-        {
-          "title": "Will AI expose the rickety infrastructure of the internet?",
-          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-          "importance": "medium",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-          "published": "Sat, 24 Oct 2026 20:15:33 +0000"
-        },
-        {
-          "title": "Blue Planet III is keeping the rough edges in the age of AI",
-          "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-          "published": "2026-10-24T17:29:12-04:00"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/25/ARTIPqNLWKDCSNgzsMhEJJ1m261025.shtml",
+          "published": "Sun, 25 Oct 2026 06:30:49 GMT"
         },
         {
           "title": "中国经济面面观丨出口首破8万亿：“新”字挑大梁",
@@ -257,12 +119,60 @@
           "published": "Sun, 25 Oct 2026 01:16:41 GMT"
         },
         {
-          "title": "新闻周刊｜AI换脸明星带货泛滥，维权难点到底在哪？",
-          "summary": "[!--begin:htmlVideoCode--]de7075d983a3463287204c19d659b53a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 眼下，AI生成的视频越来越让人真假难辨，甚至有人利用AI生成明星、名人视频，直播带货甚至去骗人。此类案例已非个例，而被侵权者真正维权成功并获得赔偿的案例却不多。最近，演员吴越在社交媒体发声，怒斥一",
+          "title": "AI势头回落并非牛熊分界",
+          "summary": "AI趋势回落并非熊市开端，非AI可能反而会面临更为有利的环境 1）产业趋势回落≠牛转熊。A股在过往存在比较广泛的“产业趋势回落=牛转熊”的思维，核心是过往的产业趋势（2006~2007年的工业与金融、2009年的地产与基建、2013~2015年的移动互联、2019~2021年的能源转型等）对其他经济部门带来广泛的拉动作用。而本轮AI产业的进展，至少在短期内对其他经济部门产生了不少挤出效应，包括导致",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIGlfSeulXszyO6KXfdod3261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:36:37 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784412",
+          "published": "Sun, 25 Oct 2026 08:03:35 GMT"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "summary": "AI基础设施投资仍有增长空间，但融资成本上升、半导体供应链受限与自研芯片竞争加剧，正在共同考验这轮AI热潮的持续性。 在10月23日于美国举行的CASPA第35届年度大会上，SemiAnalysis创始人兼CEO Dylan Patel、Bernstein董事总经理兼高级分析师 Stacy Rasgon，以及Austin Lyons围绕半导体行业前景展开讨论，重点涉及AI基础设施投资、供应链瓶颈与",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784410",
+          "published": "Sun, 25 Oct 2026 07:11:35 GMT"
+        },
+        {
+          "title": "马斯克：未来手机没有App、没有操作系统，你想要什么AI就生成什么",
+          "summary": "马斯克预测，未来5至6年，智能手机可能迎来彻底变革：传统操作系统和App将逐渐消失，手机将变成一个专门运行AI的终端。 届时，用户不再需要下载应用、打开软件，而是直接告诉AI自己想要什么，由手机端AI与云端AI协作，实时生成视频、画面和各种交互内容。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960091",
+          "published": "Sun, 25 Oct 2026 06:23:42 GMT"
+        },
+        {
+          "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
+          "summary": "美债收益率从高位快速回落，AI投资热潮与能源价格冲击这两股曾共同推高利率的力量，正在出现分化。高盛警告， 市场对美联储政策路径的判断面临更大不确定性，12月加息与否都可能引发新的风险重估。 周四，10年期美债收益率单日下跌17个基点，创2023年3月以来最大单日跌幅，并重新跌破5%。高盛固定收益、货币与大宗商品部门策略师Cosimo Codacci-Pisanelli在最新报告中指出， 推动收益率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784408",
+          "published": "Sun, 25 Oct 2026 05:37:40 GMT"
+        },
+        {
+          "title": "美银Hartnett：“战术避险”至11月中旬，短期判断取决于“三大条件”",
+          "summary": "全球资金正加速涌入股票和科技板块，但美银策略师Michael Hartnett建议，11月中旬前，投资者仍应保持战术性谨慎。他认为， 市场需要消化美国中期选举、法国债市动荡以及AI融资风险三重不确定性，短期内美股、美元可能承压，30年期美债收益率则有望向5%回落。 美银最新一期《Flow Show》报告显示，本周全球股票基金吸金556亿美元，科技基金流入188亿美元，创7月以来新高。不过，美银牛熊",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784407",
+          "published": "Sun, 25 Oct 2026 05:11:00 GMT"
+        },
+        {
+          "title": "中国算力开始赚全球的钱了：Token出海，会是下一个“中国制造”吗？",
+          "summary": "一笔2亿美元的跨境Token采购合同，让中国算力出口的新模式走到台前。随着国产模型走进海外开发者生态，AI推理服务正在成为可跨境交付、按量结算的数字商品。 中国庞大的电力供给、完整的基础设施产业链和模型工程能力，有望共同形成低成本智能生产的竞争力。如果跨境调用能够持续扩大，一条将本土算力转化为全球服务收入的新出口路径正在形成。 一、发生了什么？——中国AI出海，开始有了一种新的商品 1. 一笔2亿",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784192",
+          "published": "Sun, 25 Oct 2026 04:01:21 GMT"
+        },
+        {
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "summary": "AI军备竞赛难以刹车，2027年存储芯片供需紧张的格局也已基本锁定。 野村全球存储器研究团队在最新报告中指出，科技巨头持续加码AI投资，即使自由现金流承压，也不愿率先退出竞争；与此同时，存储器长期供应协议已提前锁定2027年的供应量与价格，为行业景气度提供支撑。 野村将这场竞争称为“懦夫游戏”（Game of Chicken）： 任何一家企业率先削减投资，都可能在下一轮AI竞争中落后。只要竞争对手",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784406",
+          "published": "Sun, 25 Oct 2026 03:45:59 GMT"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -297,20 +207,20 @@
           "published": "Sun, 25 Oct 2026 01:10:49 GMT"
         },
         {
-          "title": "丁香园李天天：AI给医生带来了什么？",
-          "summary": "AI的发展让医学界担忧医生技能的退化和医生间的不平等 资料图：李天天。 图：视觉中国 【财新网】 “医疗行业有两个天条，一个医疗质量，一个患者安全，它们一体两面，无论科技怎么突破、颠覆，医疗行业一定要把安全底线和边界牢牢守住。”10月21日，在京东健康主办的第六届医药数字营销论坛上，提及当下医疗AI的研发和应用，丁香园创始人、董事长李天天说。 AI给医生带来了哪些便利和挑战？李天天介绍，丁香园走过",
+          "title": "聚焦存储、算力等领域 前三季度深圳相关新增中长期贷款超千亿元",
+          "summary": "由于加大对新动能领域的信贷支持力度，截至2026年9月末，深圳制造业以及信息传输、软件和信息技术服务业两项贷款余额同比分别增长22.8%、68.8% 【财新网】 中国经济进入换挡提质期，人工智能等产业以及“六张网”建设亟需强化金融支持。深圳持续推动金融资源聚焦科技创新等重点领域，以适配当地新质生产力发展需要。 10月23日，人民银行深圳市分行（下称“人行深圳分行”）相关负责人在2026年三季度新闻",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-25/102496977.html",
-          "published": "Sun, 25 Oct 2026 00:00:00 GMT"
+          "link": "https://finance.caixin.com/2026-10-25/102497147.html",
+          "published": "Sun, 25 Oct 2026 08:43:47 GMT"
         },
         {
-          "title": "财新闻｜全球最大开源AI大模型上新！Kimi K3.1 Pro横空出世",
-          "summary": "周鸿祎谈DeepSeek开源：AI时代 企业要有自己的“主权AI” 近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作。360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”；往深一层看，这件事还有一个更重要的意义——AI时代的技术主权。他同时透露，360已打造一套主权AI操作系统，已在部分政企单位投用。",
+          "title": "大模型开始接管物理世界 自动驾驶企业面临降维打击？",
+          "summary": "行业内对大模型公司接管物理世界存在不同判断，但为了实现自动驾驶，行业企业都在向着更大参数模型以及更高算力推进 【财新网】 通用大模型已经展现出控制汽车和机器人的能力，未来模型能力还会不断提升，自动驾驶企业面临降维打击的风险。10月23日，在世界智能网联汽车大会期间，元戎启行CEO周光发表上述观点。 元戎启行是智能驾驶初创企业，成立于2019年，至今已完成多轮融资，投资方包括阿里巴巴、长城汽车（60",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://mini.caixin.com/2026-10-25/102497002.html",
-          "published": "Sat, 24 Oct 2026 23:48:20 GMT"
+          "link": "https://www.caixin.com/2026-10-25/102497142.html",
+          "published": "Sun, 25 Oct 2026 07:15:08 GMT"
         }
       ]
     },
@@ -319,12 +229,20 @@
       "summary": "",
       "items": [
         {
-          "title": "法国41万人上街，巴黎封地铁、关卢浮宫",
-          "summary": "【文/观察者网 于文凯】 法国连续第二个周末爆发大规模示威。10月24日，约41万人走上街头，抗议生活成本上涨、社会不平等及政府经济政策。尽管法国总统马克龙此前宣布收紧集会限制，当局出动7万名警察和宪兵维持秩序，巴黎、马赛等多座城市仍发生警民冲突，近千人被捕。为防范骚乱，巴黎卢浮宫等多家博物馆当天关闭，游客无法参观《蒙娜丽莎》。 同一天，意大利、西班牙、葡萄牙和阿尔巴尼亚等欧洲国家也发生抗议活动。",
+          "title": "“美洲最重要的一场选举”：拉美自主能否迎来转机？",
+          "summary": "【文/观察者网 王恺雯】 巴西大选将迎来决战。10月25日，力争第四个总统任期的卢拉，将与前总统雅伊尔·博索纳罗之子弗拉维奥·博索纳罗展开最终对决。此前的首轮投票中，弗拉维奥以约两个百分点的优势领先。 面对极右翼阵营的强劲挑战，巴西就业和收入的改善，能否为卢拉争取足够的支持？在美国加强对拉美施压的背景下，巴西又将如何维护自主性，把握与中国及全球南方合作的发展机遇？ 围绕一系列问题，观察者网近日对话",
           "importance": "medium",
           "source": "观察者网",
-          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_25_905677_s.shtml",
-          "published": "Sat, 24 Oct 2026 23:18:00 GMT"
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_25_905083_s.shtml",
+          "published": "Sun, 25 Oct 2026 06:07:00 GMT"
+        },
+        {
+          "title": "解锁长空之上的“生命密钥” 自主创新托举低空经济稳稳飞向更广阔天地",
+          "summary": "[!--begin:htmlVideoCode--]be8a0687752f4ac487e7919bcea15df0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 一架直升机从图纸到飞上蓝天，要闯过气动性能、噪声控制、复合材料成型、精密加工等一道道看不见的关口。而每一道关口的答案都藏在实验室里成千上万次的测试与迭代之中，蓝天飞行的底气来自地面的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/25/ARTICVx7ltayRIAHjGXJqhMy261025.shtml",
+          "published": "Sun, 25 Oct 2026 05:10:40 GMT"
         },
         {
           "title": "老剧院成为“新客厅” 湖南南县打造县域消费新场景",
@@ -351,28 +269,60 @@
           "published": "Sun, 25 Oct 2026 01:16:41 GMT"
         },
         {
-          "title": "【8点见】绑着9岁小孩跑马拉松？郑马处罚结果来了",
-          "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·美国歧视性扩大对华投资限制范围。商务部：坚决反对！ ·2027年度中央机关公开遴选和公开选调公务员报名即将开始。 ·莫高义，任云南省委书记。 ·唐登杰，当选中共山西省委书记。 ·中欧班列“东通道”通行量突破6000列。 ·国家疾控局：西藏巴青地震灾区灾后卫生防疫力量已实现全覆盖。 ·辽宁舰编队远海训练细节首度披露：歼-1",
+          "title": "AI势头回落并非牛熊分界",
+          "summary": "AI趋势回落并非熊市开端，非AI可能反而会面临更为有利的环境 1）产业趋势回落≠牛转熊。A股在过往存在比较广泛的“产业趋势回落=牛转熊”的思维，核心是过往的产业趋势（2006~2007年的工业与金融、2009年的地产与基建、2013~2015年的移动互联、2019~2021年的能源转型等）对其他经济部门带来广泛的拉动作用。而本轮AI产业的进展，至少在短期内对其他经济部门产生了不少挤出效应，包括导致",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIMXSE2j0aFq8c2VCXBJL0261025.shtml",
-          "published": "Sun, 25 Oct 2026 00:00:04 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784412",
+          "published": "Sun, 25 Oct 2026 08:03:35 GMT"
         },
         {
-          "title": "新闻周刊｜AI换脸明星带货泛滥，维权难点到底在哪？",
-          "summary": "[!--begin:htmlVideoCode--]de7075d983a3463287204c19d659b53a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 眼下，AI生成的视频越来越让人真假难辨，甚至有人利用AI生成明星、名人视频，直播带货甚至去骗人。此类案例已非个例，而被侵权者真正维权成功并获得赔偿的案例却不多。最近，演员吴越在社交媒体发声，怒斥一",
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "summary": "AI基础设施投资仍有增长空间，但融资成本上升、半导体供应链受限与自研芯片竞争加剧，正在共同考验这轮AI热潮的持续性。 在10月23日于美国举行的CASPA第35届年度大会上，SemiAnalysis创始人兼CEO Dylan Patel、Bernstein董事总经理兼高级分析师 Stacy Rasgon，以及Austin Lyons围绕半导体行业前景展开讨论，重点涉及AI基础设施投资、供应链瓶颈与",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIGlfSeulXszyO6KXfdod3261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:36:37 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784410",
+          "published": "Sun, 25 Oct 2026 07:11:35 GMT"
         },
         {
-          "title": "商务部：美歧视性扩大对华投资限制范围 坚决反对！",
-          "summary": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问。 问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取",
+          "title": "两周前“精准喊顶”的德银：科技股距离“长期趋势底部”还要“跌5%”",
+          "summary": "德意志银行两周前下调美股科技及大盘成长股评级后，科技股与其他成分股的表现迅速拉开差距。如今， 该行指出，调整可能仍未结束：科技股相对标普500其余成分股的表现，距离长期趋势通道底部仍有约5个百分点的空间。 据 华尔街见闻此前文章 ，10月9日，德银多资产策略团队将美股科技及大盘成长股（MCG & Tech）评级从“超配”下调至“中性”，认为板块风险回报已严重失衡。此后两周，科技股下跌约7%，标普5",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIneefAWsWbZL4GuKnCnH2261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:20:17 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784409",
+          "published": "Sun, 25 Oct 2026 06:25:19 GMT"
+        },
+        {
+          "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
+          "summary": "美债收益率从高位快速回落，AI投资热潮与能源价格冲击这两股曾共同推高利率的力量，正在出现分化。高盛警告， 市场对美联储政策路径的判断面临更大不确定性，12月加息与否都可能引发新的风险重估。 周四，10年期美债收益率单日下跌17个基点，创2023年3月以来最大单日跌幅，并重新跌破5%。高盛固定收益、货币与大宗商品部门策略师Cosimo Codacci-Pisanelli在最新报告中指出， 推动收益率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784408",
+          "published": "Sun, 25 Oct 2026 05:37:40 GMT"
+        },
+        {
+          "title": "美银Hartnett：“战术避险”至11月中旬，短期判断取决于“三大条件”",
+          "summary": "全球资金正加速涌入股票和科技板块，但美银策略师Michael Hartnett建议，11月中旬前，投资者仍应保持战术性谨慎。他认为， 市场需要消化美国中期选举、法国债市动荡以及AI融资风险三重不确定性，短期内美股、美元可能承压，30年期美债收益率则有望向5%回落。 美银最新一期《Flow Show》报告显示，本周全球股票基金吸金556亿美元，科技基金流入188亿美元，创7月以来新高。不过，美银牛熊",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784407",
+          "published": "Sun, 25 Oct 2026 05:11:00 GMT"
+        },
+        {
+          "title": "中国算力开始赚全球的钱了：Token出海，会是下一个“中国制造”吗？",
+          "summary": "一笔2亿美元的跨境Token采购合同，让中国算力出口的新模式走到台前。随着国产模型走进海外开发者生态，AI推理服务正在成为可跨境交付、按量结算的数字商品。 中国庞大的电力供给、完整的基础设施产业链和模型工程能力，有望共同形成低成本智能生产的竞争力。如果跨境调用能够持续扩大，一条将本土算力转化为全球服务收入的新出口路径正在形成。 一、发生了什么？——中国AI出海，开始有了一种新的商品 1. 一笔2亿",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784192",
+          "published": "Sun, 25 Oct 2026 04:01:21 GMT"
+        },
+        {
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "summary": "AI军备竞赛难以刹车，2027年存储芯片供需紧张的格局也已基本锁定。 野村全球存储器研究团队在最新报告中指出，科技巨头持续加码AI投资，即使自由现金流承压，也不愿率先退出竞争；与此同时，存储器长期供应协议已提前锁定2027年的供应量与价格，为行业景气度提供支撑。 野村将这场竞争称为“懦夫游戏”（Game of Chicken）： 任何一家企业率先削减投资，都可能在下一轮AI竞争中落后。只要竞争对手",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784406",
+          "published": "Sun, 25 Oct 2026 03:45:59 GMT"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -421,6 +371,22 @@
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3784282",
           "published": "Sun, 25 Oct 2026 01:10:49 GMT"
+        },
+        {
+          "title": "聚焦存储、算力等领域 前三季度深圳相关新增中长期贷款超千亿元",
+          "summary": "由于加大对新动能领域的信贷支持力度，截至2026年9月末，深圳制造业以及信息传输、软件和信息技术服务业两项贷款余额同比分别增长22.8%、68.8% 【财新网】 中国经济进入换挡提质期，人工智能等产业以及“六张网”建设亟需强化金融支持。深圳持续推动金融资源聚焦科技创新等重点领域，以适配当地新质生产力发展需要。 10月23日，人民银行深圳市分行（下称“人行深圳分行”）相关负责人在2026年三季度新闻",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-25/102497147.html",
+          "published": "Sun, 25 Oct 2026 08:43:47 GMT"
+        },
+        {
+          "title": "大模型开始接管物理世界 自动驾驶企业面临降维打击？",
+          "summary": "行业内对大模型公司接管物理世界存在不同判断，但为了实现自动驾驶，行业企业都在向着更大参数模型以及更高算力推进 【财新网】 通用大模型已经展现出控制汽车和机器人的能力，未来模型能力还会不断提升，自动驾驶企业面临降维打击的风险。10月23日，在世界智能网联汽车大会期间，元戎启行CEO周光发表上述观点。 元戎启行是智能驾驶初创企业，成立于2019年，至今已完成多轮融资，投资方包括阿里巴巴、长城汽车（60",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-25/102497142.html",
+          "published": "Sun, 25 Oct 2026 07:15:08 GMT"
         }
       ]
     },
@@ -428,6 +394,22 @@
       "name": "教育 / 升学",
       "summary": "",
       "items": [
+        {
+          "title": "新疆图木舒克：产业富民“润”戈壁 三餐一线“织”幸福",
+          "summary": "央广网图木舒克10月24日消息（记者丁安 郭璁悦） 金秋十月，硕果盈枝。在新疆图木舒克市永安湖万亩渔业养殖基地，昆仑山融雪水正顺着渠系缓缓流入塘口，夕阳洒在水面上泛起金色波光。技术员张武魁蹲在塘边查看水质，捞起一尾鲻鱼，鱼尾拍打水花。“从鱼苗养到现在，平均能长到两公斤左右，长势很好。”他说。这一幕，很难让人想到这里曾是白茫茫的盐碱戈壁。 一池碧水养出增收底气，一餐热饭托起“一老一小”，一双棉袜织出",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/25/ARTIhyfH7hJV2NZyTJ64eros261025.shtml",
+          "published": "Sun, 25 Oct 2026 06:22:04 GMT"
+        },
+        {
+          "title": "从“机械执行”迈向“智能决策” 炒菜机器人应用边界不断拓展",
+          "summary": "[!--begin:htmlVideoCode--]224e6eb291874632abfb97f20aa994f6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 最近，炒菜机器人越来越多地出现在餐厅和食堂的后厨里。来自中国饭店协会的数据显示，炒菜机器人在中式快餐连锁领域和大众化正餐的渗透率已提升至30% 。这些“新大厨”手艺究竟如何，给餐饮业",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/25/ARTIPJuMRmVfVy5rcg8BWdFg261025.shtml",
+          "published": "Sun, 25 Oct 2026 03:48:40 GMT"
+        },
         {
           "title": "台风蓝色预警：“蔷琵”强度将迅速减弱 华东沿海阵风可达9级以上",
           "summary": "央视网消息 ：中央气象台10月25日10时继续发布台风蓝色预警： 今年第30号台风“蔷琵”（热带风暴级）的中心今天（25日）上午9点钟位于日本鹿儿岛西偏南方向约610公里的东海北部海面上，就是北纬29.2度，东经124.8度，中心附近最大风力9级（23米/秒），中心最低气压为990百帕，七级风圈半径260-400公里。 预计，“蔷琵”将以每小时20公里左右的速度继续向东北方向移动，强度迅速减弱，并",
@@ -459,50 +441,19 @@
           "source": "财新网",
           "link": "https://mini.caixin.com/2026-10-25/102497026.html",
           "published": "Sun, 25 Oct 2026 03:05:57 GMT"
-        },
-        {
-          "title": "永远盛开的紫荆花｜常沙娜的一生一敦煌④（完）",
-          "summary": "十几年后，再次站到矗立在紫荆广场的“永远盛开的紫荆花”雕塑前时，我已是白发，才深切感受到个人生命有限，而艺术的生命可以长久。这正是艺术设计始终吸引我的地方 香港“永远盛开的紫荆花”雕塑。 《常沙娜的一生一敦煌》“财新mini+”连载完毕，查看 全部内容 [ 前记： 1983年，五十二岁的常沙娜成为中央工艺美术学院（现清华大学美术学院）的院长，在这条路上一走就是十五年。1997年，常沙娜接过了院长生",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-10-25/102497004.html",
-          "published": "Sun, 25 Oct 2026 00:40:53 GMT"
-        }
-      ]
-    },
-    {
-      "name": "国内军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "乌克兰防长称“星链”及“星盾”已恢复稳定通信",
-          "summary": "△乌克兰国防部长叶夫根尼·赫马拉（资料图） 当地时间24日，乌克兰国防部长赫马拉通报称，乌国防部监测数据显示，“星链”与“星盾”卫星通信系统已恢复性能，终端在移动速度超过每小时400公里条件下可保持稳定通信。 赫马拉表示，该进展对前线作战意义突出，将支撑部队机动、无人机任务、军事后勤及战场通信保障。 赫马拉称，乌方将持续跟踪记录两套系统运行状态，下一步计划开展更高速度工况测试，探明系统可承载的速度",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml",
-          "published": "Sat, 24 Oct 2026 22:07:45 GMT"
-        },
-        {
-          "title": "高市执政这一年 扩军备武 扶植军工 图谋“再军事化”",
-          "summary": "[!--begin:htmlVideoCode--]0dea96e524aa47d09dca2f58fe751c95,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 日本首相高市早苗去年10月21日上任，如今已满一年。一年来，日本政府不断推进扩军备武、扶植军工和情报集权，在“再军事化”的道路上一路狂奔。这不仅引发了国际社会的高度警惕，也让日本国内深感不安。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml",
-          "published": "Sat, 24 Oct 2026 20:23:06 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 57,
-    "total_collected": 44,
-    "sources": 7,
+    "total_items": 51,
+    "total_collected": 35,
+    "sources": 6,
     "source_list": [
       "Hacker News",
-      "TechCrunch",
-      "The Verge",
       "华尔街见闻",
       "央视新闻",
+      "少数派",
       "观察者网",
       "财新网"
     ],
