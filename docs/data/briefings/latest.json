@@ -1,316 +1,222 @@
 {
-  "id": "2026-10-27-04",
-  "datetime": "2026-10-27 04:08:15",
+  "id": "2026-10-27-14",
+  "datetime": "2026-10-27 14:05:46",
   "date": "2026-10-27",
-  "time": "04:08",
-  "period": "凌晨",
-  "summary": "本期采集 43 篇文章，来自 5 个信息源，覆盖 6 个领域，精选 69 条摘要",
+  "time": "14:05",
+  "period": "下午",
+  "summary": "本期采集 101 篇文章，来自 9 个信息源，覆盖 7 个领域，精选 134 条摘要",
   "domains": [
-    {
-      "name": "金融 / 投资",
-      "summary": "",
-      "items": [
-        {
-          "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-          "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ... 查看全文",
-          "importance": "medium",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117600",
-          "published": "Tue, 27 Oct 2026 08:27:58 +0800"
-        },
-        {
-          "title": "“国家队”终于来了，数据要素的老故事能讲出新结局吗？",
-          "summary": "国家数据集团正式成立，沉寂多年的数据要素概念再次升温。过去几年，产权登记、资产入表、交易平台建设接连推进，行业却始终缺少足够强的经营兑现。 数据资源庞大，为何难以形成持续收入？新的国家级运营主体有望降低跨区域协调成本，AI应用则正在催生专业数据的真实购买需求。两项边际变化能否形成合力，将决定数据要素产业能否走出“建平台、做项目”的旧循环。 一、发生了什么？——数据要素再次站在政策与资本市场的交汇点",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784492",
-          "published": "Tue, 27 Oct 2026 03:40:14 GMT"
-        },
-        {
-          "title": "构建“股市+债市”稳市机制！央行新工具来了",
-          "summary": "10月26日，人民银行宣布设立债市非银大额赎回互换便利（Bond Market NBFI Swap Facility，简称BNSF），用于在资管机构面临群体性流动性风险、债券市场出现系统性压力的特定情景下，支持具有系统性影响的银行理财子公司、公募基金管理人（或对应母行、证券母公司等），从央行借入央行票据用于市场回购融资，以购买本公司（或资管子公司）遭赎回公募产品的符合条件的债券或产品份额，并向央行",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784539",
-          "published": "Tue, 27 Oct 2026 03:37:04 GMT"
-        },
-        {
-          "title": "AI从\"朋友\"变\"敌人\"：中金测算中国云厂商ROIC仅11.9%，对内需挤出或快于美国",
-          "summary": "导读 为什么要做这样一个研究？因为 中美AI都走到一个关键节点：自己的能力撑不起自己的野心了，需要向外借钱了 ，这也是市场要“算账”、担心收不回成本，一直波动的本质。 当然，借钱不是问题，借钱却赚不到匹配回报才是问题。但 AI开始向全社会汲取资源的时候，挤出效应就会慢慢显现。那什么时候是临界点，也就是政策和经济能容忍的底线。 作为“朋友” ，AI的拉动效果主要体现在直接的投资出口，财富效应，提升效",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784537",
-          "published": "Tue, 27 Oct 2026 03:35:20 GMT"
-        },
-        {
-          "title": "“72%的Token消耗却仅占27%的支出”--AI多空之争的关键议题",
-          "summary": "AI需求数据正在制造一场罕见的市场分歧：同一组数字，多头和空头各取所需，双方都宣称胜利。这场争论的核心，是一个令人不安的结构性矛盾—— Token消耗量爆炸式增长，但绝大多数增量流向了收费最低的模型，而服务这些Token的GPU成本却在同步攀升。 据高盛Bobby Molavi在其最新报告中披露，OpenRouter数据显示，开源权重模型（open-weight models）在9月第二周处理了7",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784523",
-          "published": "Tue, 27 Oct 2026 03:32:00 GMT"
-        },
-        {
-          "title": "芯片股领衔日韩股市反弹，韩国大涨4.5%，SK海力士涨逾6%",
-          "summary": "Anthropic递交IPO申请，重燃市场对人工智能交易的热情，推动亚太股市周二普遍走高，芯片股成为最大赢家。日经225指数涨1.7%，韩国综合股价指数（Kospi）大涨4.5%，MSCI亚太指数整体上扬1%。 日经225指数收涨1.7%，在日本市场，芯片相关股票领涨全场。东京电子涨4.5%，Screen Holdings涨5.2%，两者均受益于Anthropic上市申请所激发的AI资本开支预期。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784535",
-          "published": "Tue, 27 Oct 2026 03:25:31 GMT"
-        },
-        {
-          "title": "从“囚徒困境”到“反身性”—主宰AI交易的市场博弈",
-          "summary": "上周，AI基础设施的两条风险线索同时浮出水面：CoreWeave遭遇股债双杀，融资成本急升；Meta的巨额AI资本开支和自由现金流转负则再次引发市场对投入产出比的担忧。前者暴露了高杠杆基建公司的融资脆弱性，后者让投资者重新审视科技巨头不断加码的资本开支。 这不只是两家公司面临的压力，更指向同一个问题： 当AI建设越来越依赖外部融资，这场军备竞赛还能持续多久？ 云计算巨头们深陷一个经典的囚徒困境——",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784532",
-          "published": "Tue, 27 Oct 2026 03:16:09 GMT"
-        },
-        {
-          "title": "Anthropic IPO文件意外成为光学股反弹催化剂，Lumentum大涨8.2%领涨标普",
-          "summary": "Anthropic提交IPO招股文件，意外点燃光学板块的强劲反弹。 周一，Lumentum Holdings股价大涨8.2%，领涨标普500指数，Coherent上涨5.8%，Ciena攀升4.9%。 三重利好叠加——AI资本开支数据验证、潜在供应链保护政策预期，以及关键半导体材料供应趋紧信号——共同推动此前遭受抛售的光学板块强势回升。 Anthropic的IPO招股文件于周一正式提交，其财务数据",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784534",
-          "published": "Tue, 27 Oct 2026 03:12:50 GMT"
-        },
-        {
-          "title": "韩国的反击：海力士额外股东回报，50-60万亿够拯救市场吗？",
-          "summary": "SK海力士将于10月28日同步披露50万亿至60万亿韩元追加股东回报，叠加已完成的40万亿回购注销，全年达90万亿至100万亿韩元，约为去年七倍，创韩国上市公司纪录。 但恐怕这不足以扭转中长期下跌的趋势。40万亿回购已执行完毕，真正的边际买盘只有追加部分中的回购；若以特别股息为主，它改善的是股东钱包，不是市场供需。韩国股市十月失去的“最后买家”，正是到期退场的回购盘。50万亿至60万亿够止血，不够",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784529",
-          "published": "Tue, 27 Oct 2026 02:45:57 GMT"
-        },
-        {
-          "title": "盐津铺子三季度净利1.54亿元，魔芋之外加码海味零食与蛋制品",
-          "summary": "收入小幅回落，毛利率下降、销售费用增加，拉低了盐津铺子的三季度利润。 10月26日晚，盐津铺子披露2026年三季报。第三季度，公司实现营业收入14.61亿元，同比下降1.70%；归母净利润1.54亿元，同比下降33.77%；扣非净利润1.33亿元，同比下降39.28%。 单季表现改变了前三季度的利润走势。前九个月，公司营收45.31亿元，同比增长2.36%；归母净利润5.79亿元，同比下降4.26",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784533",
-          "published": "Tue, 27 Oct 2026 02:31:51 GMT"
-        },
-        {
-          "title": "韩国散户又开始加杠杆！融资余额破30万亿韩元，监管发出警告",
-          "summary": "韩国散户杠杆热潮卷土重来，监管层的耐心正在耗尽。在针对单股杠杆ETF的一系列限制措施收效有限之后，韩国金融监督院（FSS）将矛头直指更基础、规模更大的融资余额，警告券商若行业自律不达预期，将启动额外监管工具。 10月27日，金融监督院分管资本市场的副院长Seo Jae-wan在首尔汝矣岛召集全国10家大型券商首席风险官举行会议，在会上明确表示对6月CRO会议以来行业自律成效感到\"失望\"。根据韩国金",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784530",
-          "published": "Tue, 27 Oct 2026 02:29:31 GMT"
-        },
-        {
-          "title": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机",
-          "summary": "黄金的避险属性正在经历一场深刻的结构性重塑。 据追风交易台，摩根士丹利在最新报告中指出，自2020年以来，黄金已无法有效对冲股市下跌风险，在极端股市抛售中甚至会放大投资组合损失——但与此同时，黄金在美债剧烈抛售期间展现出愈发重要的缓冲价值，正成为对抗财政风险与主权信用风险的核心工具。 在这一逻辑转变的背景下，摩根士丹利维持黄金为金属类资产首选， 并设定2027年第二季度目标价5000美元/盎司。 ",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784527",
-          "published": "Tue, 27 Oct 2026 02:27:04 GMT"
-        },
-        {
-          "title": "A股三大股指震荡走高，创业板盘初曾涨1%，算力硬件局部反弹，生物医药下挫，恒科指高开低走翻绿，AI大模型反弹、智谱大涨11%",
-          "summary": "10月27日，A股早盘高开低走，沪指一度翻绿，创业板接近转跌，盘初一度涨1%，算力硬件有所回暖，光通信、光模块局部反弹，芯片半导体亦小幅走强，生物医药板块陷入大幅调整，CRO、创新药等悉数下跌，农业、海运、贵金属等板块上涨，人形机器人持续活跃。 港股亦高开低走，恒指、恒科指双双下跌，权重科网股多数下跌，芯片、光模块等科技股反弹，澜起科技、海光芯正涨幅居前。AI大模型反弹，智谱大涨超11%，此前An",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784531",
-          "published": "Tue, 27 Oct 2026 02:23:28 GMT"
-        },
-        {
-          "title": "黄仁勋与马斯克隔空喊话？一个忙着救新云，一个预言倒闭潮",
-          "summary": "黄仁勋认为新云算力需求旺盛，融资难题终将解决；马斯克却预言，新云行业将经历大规模倒闭与整合。 短短三天内的不同判断，揭开万亿美元算力竞赛的新矛盾：GPU租金高企、项目越建越大，债券市场却开始审视谁有能力偿还贷款。 当英伟达试图盘活融资链条，整个AI行业仍需回答一个更难的问题：下一笔钱从哪里来，已经投入的钱又靠什么赚回来？ 一、发生了什么？——黄仁勋说有救，马斯克却预言倒闭潮 1．三天之内，两位AI",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784442",
-          "published": "Tue, 27 Oct 2026 01:53:12 GMT"
-        },
-        {
-          "title": "质疑声四起，Moderna CEO安抚市场：个性化癌症疫苗将覆盖更多癌种",
-          "summary": "Moderna首席执行官对旗下个性化mRNA癌症疫苗的前景展示出强烈信心，声称该技术将在多种肿瘤类型中发挥作用，但分析师对其商业价值的质疑并未消散。 10月26日周一，Moderna CEO Stephane Bancel在彭博电视采访中表示， 该公司与默克联合研发的个性化mRNA癌症疫苗intismeran autogene\"将在黑色素瘤以外更多癌症中奏效\"。 Bancel在采访中明确表达了对其",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784515",
-          "published": "Tue, 27 Oct 2026 01:48:29 GMT"
-        },
-        {
-          "title": "大跌后如何看黄金？瑞银：技术上有支撑，但没人想在年底前“增加敞口”",
-          "summary": "黄金上周跌破4000美元关口，触发大规模止损，市场陷入低迷。瑞银最新报告显示，技术面已出现底部信号，但交易员普遍选择观望——在年底前，没有人愿意为黄金增加新的风险敞口。 上周四，黄金单日下跌2.8%，跌破4050美元，创三个月新低，与此同时纳斯达克下挫2.9%、10年期美债收益率下行17个基点——这本是黄金上涨的教科书级别环境，但黄金却反向运动，令大量快钱头寸遭到止损出局。 瑞银贵金属销售台将当前",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784521",
-          "published": "Tue, 27 Oct 2026 01:40:32 GMT"
-        },
-        {
-          "title": "中国9月规模以上工业企业利润同比 14.4%，前值 4.2%",
-          "summary": "国家统计局：1-9月份，电子行业利润同比增长1倍，拉动全部规模以上工业企业利润增长9.6个百分点，是规模以上工业企业利润较快增长的重要支撑。 从细分行业看，受AI算力、先进存储等领域需求带动，电子专用材料制造、半导体分立器件制造行业利润分别增长2.2倍、51.7%；新一代信息技术加速发展，带动光电子器件制造、电子电路制造行业利润分别增长69.8%、62.5%。 风险提示及免责条款 市场有风险，投资",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784528",
-          "published": "Tue, 27 Oct 2026 01:33:00 GMT"
-        },
-        {
-          "title": "中国央行逆回购今日净投放10,140亿元人民币",
-          "summary": "中国央行今日开展4120亿元人民币7天期逆回购操作，利率1.40%（上次为1.40%）。今日进行10000亿元人民币隔夜逆回购操作。今日3980亿元逆回购到期。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3186551",
-          "published": "Tue, 27 Oct 2026 01:22:25 GMT"
-        },
-        {
-          "title": "Anthropic招股书里最值得看的14个细节",
-          "summary": "10月26日，Anthropic正式向美国证券交易委员会公开提交IPO申请，拟在纳斯达克挂牌，股票代码ANT，目标估值1.5万亿美元至2万亿美元，有望超越SpaceX创下的历史纪录。IPO时间窗口据媒体爆料定于11月16日当周。 当天，美股半导体板块应声上涨——纳指盘中涨超1%，博通、AMD、英伟达各自拉涨近3%。Anthropic还未挂牌，最先涨的是它的供应商们。Anthropic已经签下总额超",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784522",
-          "published": "Tue, 27 Oct 2026 01:07:33 GMT"
-        },
-        {
-          "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
-          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782813",
-          "published": "Tue, 27 Oct 2026 01:00:15 GMT"
-        },
-        {
-          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
-          "summary": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。 华尔街见闻提及 ，Anthropic周一向美国证券交易委员会递交S-1招股说明书，318页的文件披露了其商业模式、风险因素及财务状况，消息提振周一AI相关芯片股走势。 招股书在第194页预留了10月年度经常性收入（ARR）的空白占位符，待修订版S-1中补充披露。 资深科技财经作者Tae Kim发表专栏指出",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784524",
-          "published": "Tue, 27 Oct 2026 00:52:36 GMT"
-        },
-        {
-          "title": "10月年化收入（ARR）“留白”--市场热议Anthropic“有惊喜”",
-          "summary": "Anthropic在隔夜公布的招股书中保留了一个悬念，市场关注的10月份ARR处是一个“留白”，之后更新招股书文件时会更新。 对此，知名科技投资人Gavin Baker和SemiAnalysis 的 Doug O’Laughlin都认为：Anthropic刻意留白，这个数据必然非常正向。 “我觉得这个数据非常完美。没有别的词可以形容了。这完全超出了预期。你几乎挑不出什么毛病。” “但我认为，人们可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960103",
-          "published": "Tue, 27 Oct 2026 00:33:08 GMT"
-        },
-        {
-          "title": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”",
-          "summary": "在AI融资热潮席卷华尔街之际，高盛正以压倒性姿态确立其市场主导地位。 周一，三笔总规模至少达2100亿美元的AI巨型融资交易同时落地，高盛的名字出现在每一笔交易之中。这一天，高盛联合主导了Meta Platforms高达950亿美元的股票发行，担任SpaceX 400亿美元芯片融资交易的唯一结构安排行，并出任Anthropic首次公开募股（IPO）的左一账簿管理人——后者的规模预计至少与Space",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784518",
-          "published": "Tue, 27 Oct 2026 00:24:49 GMT"
-        },
-        {
-          "title": "现金超过亚马逊！Anthropic“很有钱”但“更烧钱”",
-          "summary": "根据Anthropic招股书披露已筹集资金： 根据S-1现金流量表，2023年至2026年上半年已筹集约1400亿美元现金（优先股+可转换债券+SAFE协议）。其中1100亿美元仅在2026年上半年筹集，包括652亿美元的H轮融资。 截至2026年6月30日，公司剩余现金：1124亿美元现金及等价物+193亿美元短期投资=约1320亿美元（另加25亿美元受限现金）。其他融资渠道：150亿美元未提取",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960102",
-          "published": "Tue, 27 Oct 2026 00:21:57 GMT"
-        },
-        {
-          "title": "电动工具再繁荣：电工硬缺口超70万，AI基建驱动行业需求喷发",
-          "summary": "电动工具长期被当作地产后周期品种定价，需求弹性挂在利率与成屋销售上。 但2026年上半年出现了反向证据：美国地产相关工具需求依然低迷，但工具行业整体收入增速超过5%。 需求结构正在被AI替换：AIDC建设把「工具密集度」拉高到一般基建项目的 2 倍以上，把「客户结构」从价格敏感的 DIY 消费者换成愿付溢价的专业承包商。 这一轮繁荣的真实约束不在需求端，而在劳动力供给与机电工程交付能力——美国电工",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783868",
-          "published": "Tue, 27 Oct 2026 00:21:21 GMT"
-        },
-        {
-          "title": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”",
-          "summary": "Anthropic在备受瞩目的IPO招股文件中，对外界最关心的投资级信用评级问题几乎只字未提，却同时警告可能比预期更早寻求新一轮融资。这一组合信号，正在让债券市场的潜在买家陷入观望。 招股文件显示，截至今年6月30日，Anthropic已有62亿美元的流动债务，全部以可转换本票形式欠于亚马逊。 与此同时，公司还披露了一笔由摩根士丹利牵头、规模高达150亿美元的五年期循环信贷额度，以及从亚马逊、Br",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784520",
-          "published": "Tue, 27 Oct 2026 00:17:09 GMT"
-        },
-        {
-          "title": "明年芯片出货量超百万颗？寒武纪董事长否认",
-          "summary": "10月26日，寒武纪召开2026年第三季度业绩说明会。围绕存货规模及减值风险、全年业绩考核目标、芯片出货和大模型适配进展等问题，投资者密集提问。对此，寒武纪董事长、总经理陈天石，以及董事会秘书叶淏尹积极回应投资者。 战略备货推高存货规模 四季度交付节奏受关注 三季报显示，寒武纪前三季度实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。其中，第三季",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784517",
-          "published": "Tue, 27 Oct 2026 00:00:11 GMT"
-        },
-        {
-          "title": "每场只有1名观众？国内首部AI全流程院线电影《三星堆：未来往事》上映4天，票房仅破百万",
-          "summary": "上映4天，票房118万元。国内首部AI全流程院线电影《三星堆：未来往事》的市场表现，给如火如荼的AI影视热潮浇了一盆冷水。 上映前，出品方博纳影业股价连续涨停，资本市场用真金白银表达了对“首部AI电影”的追捧。上映后，场均观众仅1.1人，上座率低至1.1%，预测总票房不过两百余万元。电影公司的老总们或许正重新思考：AI电影这条路，还走得通吗？ 《三星堆》的确暴露出AI电影的许多缺陷。电影里的青铜神",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784519",
-          "published": "Mon, 26 Oct 2026 23:59:35 GMT"
-        }
-      ]
-    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "Incremental rust builds up to 92x faster than cargo/rustc",
-          "summary": "Article URL: https://github.com/indexable-inc/blaze Comments URL: https://news.ycombinator.com/item?id=50254300 Points: 11 # Comments: 2",
+          "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+          "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 6 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/indexable-inc/blaze",
-          "published": "Tue, 27 Oct 2026 03:09:07 +0000"
+          "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+          "published": "Tue, 27 Oct 2026 13:52:12 +0000"
         },
         {
-          "title": "I still teach OpenGL ES 3.0",
-          "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html Comments URL: https://news.ycombinator.com/item?id=50253939 Points: 5 # Comments: 3",
+          "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+          "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 5 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-          "published": "Tue, 27 Oct 2026 02:15:10 +0000"
+          "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+          "published": "Tue, 27 Oct 2026 13:23:22 +0000"
         },
         {
-          "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-          "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 39 # Comments: 2",
+          "title": "New iMac with M6",
+          "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 4 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/otya128/winevdm",
-          "published": "Tue, 27 Oct 2026 01:15:04 +0000"
+          "link": "https://www.apple.com/imac/",
+          "published": "Tue, 27 Oct 2026 13:02:02 +0000"
         },
         {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 96 # Comments: 30",
+          "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50258521 Points: 73 # Comments: 64",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "published": "Mon, 26 Oct 2026 22:41:48 +0000"
+          "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+          "published": "Tue, 27 Oct 2026 13:01:07 +0000"
         },
         {
-          "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-          "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Po",
+          "title": "Software may be getting worse, but it used to be horrible",
+          "summary": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 136 # Comments: 105",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-          "published": "Mon, 26 Oct 2026 22:27:17 +0000"
+          "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+          "published": "Tue, 27 Oct 2026 11:30:35 +0000"
         },
         {
-          "title": "The Exponential Time Hypothesis Is False [pdf]",
-          "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Poi",
+          "title": "Python's experimental JIT to be removed",
+          "summary": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 128 # Comments: 60",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-          "published": "Mon, 26 Oct 2026 21:59:15 +0000"
+          "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "published": "Tue, 27 Oct 2026 11:17:57 +0000"
         },
         {
-          "title": "Three new discoveries in mathematics, computer science, and physics",
-          "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 614 # Comments: 263",
+          "title": "Wikipedia's Cleanup of AI-Generated Content",
+          "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 120 # Comments: 56",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-          "published": "Mon, 26 Oct 2026 21:35:28 +0000"
+          "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+          "published": "Tue, 27 Oct 2026 11:08:15 +0000"
         },
         {
-          "title": "从“囚徒困境”到“反身性”—主宰AI交易的市场博弈",
-          "summary": "上周，AI基础设施的两条风险线索同时浮出水面：CoreWeave遭遇股债双杀，融资成本急升；Meta的巨额AI资本开支和自由现金流转负则再次引发市场对投入产出比的担忧。前者暴露了高杠杆基建公司的融资脆弱性，后者让投资者重新审视科技巨头不断加码的资本开支。 这不只是两家公司面临的压力，更指向同一个问题： 当AI建设越来越依赖外部融资，这场军备竞赛还能持续多久？ 云计算巨头们深陷一个经典的囚徒困境——",
+          "title": "AI promised less work. I've never worked more",
+          "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 222 # Comments: 201",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://oioannou.com/blog/ai-promised-less-work/",
+          "published": "Tue, 27 Oct 2026 11:08:14 +0000"
+        },
+        {
+          "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+          "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 301 # Comments: 189",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+          "published": "Tue, 27 Oct 2026 10:27:50 +0000"
+        },
+        {
+          "title": "Gforth 1.0",
+          "summary": "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 64 # Comments: 4",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://gforth.org/manual/1.0/NEWS.html",
+          "published": "Tue, 27 Oct 2026 10:23:21 +0000"
+        },
+        {
+          "title": "I will no longer upload to NEW",
+          "summary": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 181 # Comments: 88",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+          "published": "Tue, 27 Oct 2026 09:59:05 +0000"
+        },
+        {
+          "title": "The Mythical Man-Month in the Age of AI",
+          "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 274 # Comments: 185",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+          "published": "Tue, 27 Oct 2026 06:25:37 +0000"
+        },
+        {
+          "title": "Data center backlash is uniting America",
+          "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+          "published": "2026-10-27T06:00:00-04:00"
+        },
+        {
+          "title": "涉费尔福德空军基地事件 两人被控危害英国国家安全",
+          "summary": "新华社伦敦10月27日电（记者于艾岑）英国皇家检察院27日宣布，两名男子因涉及上个月发生的皇家空军费尔福德基地事件被提起公诉。两人均被控违反英国《2023年国家安全法》。 据皇家检察院公布的信息，两人分别为24岁的穆赫迈德·阿卜杜勒卡里姆和24岁的努曼·埃斯吉尔，前者被控协助外国情报机构开展涉及英国的相关活动，后者被控出于对英国不利目的进入禁区。 今年2月28日美国和以色列对伊朗发起大规模军事行动",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIvf6lHLvtHWQU7ZK96R6R261027.shtml",
+          "published": "Tue, 27 Oct 2026 13:44:31 GMT"
+        },
+        {
+          "title": "佩斯科夫：俄美乌三方会谈时间尚未确定",
+          "summary": "△俄罗斯总统新闻秘书佩斯科夫（资料图） 俄罗斯总统新闻秘书佩斯科夫10月27日表示，尚未收到阿列什基方向乌军违反停火的报告。此外，关于俄美乌三方在阿布扎比的会谈日期，佩斯科夫称尚未确定。（总台记者 郝薇）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTI5fsWQasGcyVtJrpu2F71261027.shtml",
+          "published": "Tue, 27 Oct 2026 10:39:27 GMT"
+        },
+        {
+          "title": "约旦称在叙南部打死20多名“伊斯兰国”武装人员",
+          "summary": "约旦政府发言人穆罕默德·穆马尼27日在社交媒体发文说，26日对位于叙利亚南部的极端组织“伊斯兰国”据点展开空袭，打死20多名武装人员，并摧毁其大型武器库。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIvjRtzjpXcBYt5c8LGPNk261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:27:43 GMT"
+        },
+        {
+          "title": "墨西哥国家选举机构负责人因腐败丑闻辞职",
+          "summary": "墨西哥全国选举协会主席瓜达卢佩·塔代26日向众议院递交辞呈，辞去全国选举协会主席职务。墨总统克劳迪娅·辛鲍姆当天表示支持这一决定，同时否认塔代离职会给该机构带来危机。 墨西哥联邦审计署正在调查全国选举协会多项合同违规嫌疑，涉及利益冲突和公共资金流转操作。塔代被指向与其存在私人关系的全国选举协会承包商授予价值数百万美元合同，其司机也被曝是选举物料供应商的法定代理人之一。塔代在声明中否认存在利益冲突，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIoa75EhkuKwdPthCB4fd5261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:10:05 GMT"
+        },
+        {
+          "title": "苏丹一发电站遭无人机袭击致大面积停电",
+          "summary": "△苏丹首都喀土穆（资料图） 据多名消息人士及目击者称，位于苏丹首都喀土穆西北恩图曼市的马尔哈亚特发电站27日凌晨遭无人机袭击，导致大面积停电。 一名苏丹政府消息人士称，苏丹快速支援部队当天对该发电站实施无人机袭击，导致恩图曼和喀土穆部分地区停电。另一名军方消息人士说，苏丹军队地面防空系统对试图袭击该发电站的无人机进行拦截。 另据目击者称，一架无人机27日凌晨飞越发电站上空，站内随后发生爆炸，升起火",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIbUJ2LU8RgaHCf2iRG0eh261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:06:00 GMT"
+        },
+        {
+          "title": "外交部：坚定守护历史真相 维护战后国际秩序",
+          "summary": "[!--begin:htmlVideoCode--]a8e57dbe79934598b2e11e716da4b190,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月27日，外交部发言人郭嘉昆主持例行记者会。 总台央视记者 问：10月26日，“为了人类的正义与和平”——纪念东京审判开庭80周年图片展在联合国总部举行。各国外交官、国际组织官员及各界人士前往",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIluUvcF9YVGLJdHLYGCYH261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:14:24 GMT"
+        },
+        {
+          "title": "习言道｜这样的苹果，习近平说“现在也不能吃”",
+          "summary": "中新网10月27日电 题： 这样的苹果，习近平说“现在也不能吃” 在辽宁锦州的辽沈战役纪念馆，悬挂着一面“仁义之师”的锦旗。 锦旗背后，有一个关于苹果的故事。 那是1948年秋，辽沈战役期间，锦州乡间的苹果已经熟了，行军路过的解放军战士虽然饥渴难耐，却一个都没有摘。 “毛主席说‘不吃是很高尚的，而吃了是很卑鄙的，因为这是人民的苹果’。”2022年8月，习近平总书记在辽宁考察时指出，“这样的苹果，我",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIQQNokP8nblzTzPrbXAIG261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:57:16 GMT"
+        },
+        {
+          "title": "也门胡塞武装：埃及授权军事支持沙特等同于“宣战”",
+          "summary": "也门胡塞武装一名高层领导27日称，埃及议会授权埃及总统采取措施支持沙特阿拉伯之举等同于“向也门宣战”。 据悉，沙特国防大臣哈立德·本·萨勒曼、土耳其国家情报局局长卡林和巴基斯坦陆军参谋长穆尼尔前一天在伊朗首都德黑兰与伊方探讨缓和地区紧张局势，胡塞武装政治局成员穆罕默德·阿里·胡塞随后在社交媒体“电报”上发表声明作出回应，上述涉及埃及的言论是该声明的一部分。 胡塞在声明中说，当沙土巴三方代表赴伊讨论",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784532",
-          "published": "Tue, 27 Oct 2026 03:16:09 GMT"
+          "link": "https://wallstreetcn.com/livenews/3187762",
+          "published": "Tue, 27 Oct 2026 13:51:07 GMT"
         },
         {
-          "title": "今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝",
-          "summary": "以色列定于周二举行议会大选，选情高度胶着，现任总理内塔尼亚胡的政治前途悬而未决。 10月27日， 据央视新闻 ，以色列今日将举行新一届议会选举，选情胶着，内塔尼亚胡拉特朗普“背书”。 与此同时据CNN报道，内塔尼亚胡近期曾游说特朗普支持对伊朗发动联合打击，特朗普最终未予批准，要求以方等待美方就绪后再行行动。 据《纽约时报》及以色列第12频道报道，以军总参谋长扎米尔（Eyal Zamir）在军方层面",
+          "title": "当AI叙事开始动摇，那些被市场忽视已久的风险正悄然浮出水面",
+          "summary": "股市的急剧抛售揭示出，投资者对AI投资回报的耐心正在消退，而此前被强劲增长预期所掩盖的多重风险，正在同步显现。 Citadel Securities在最新报告中警告，随着AI交易逻辑受到动摇，市场的容错空间已极为有限。 更高的利率令AI基础设施投资的回报问题更加紧迫，而投资规模的持续扩张则令这些问题的答案愈发关键。 报告指出，这场审视贯穿整条产业链——从客户的生产效率提升，到模型开发商的定价能力，",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784516",
-          "published": "Tue, 27 Oct 2026 00:33:25 GMT"
+          "link": "https://wallstreetcn.com/articles/3784586",
+          "published": "Tue, 27 Oct 2026 12:24:52 GMT"
+        },
+        {
+          "title": "胡塞武装首次袭击沙特最大石油出口终端",
+          "summary": "沙特阿拉伯最重要的石油出口枢纽拉斯塔努拉（Ras Tanura）周二遭受袭击后引发火情，标志着胡塞武装的打击目标从沙特西部向东部核心能源基础设施的战略性升级，全球石油供应中断风险随之面临重新定价。 据媒体报道，一位知情人士透露，火情发生于周二凌晨，地点毗邻沙特国家石油公司沙特阿美（Saudi Aramco）运营的设施，目前已得到控制，但损失程度尚不明朗。 与此同时，沙特当局表示，防空系统当日拦截并",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784583",
+          "published": "Tue, 27 Oct 2026 11:54:47 GMT"
+        },
+        {
+          "title": "“罕见直接接触”，外媒：芬兰总统和挪威首相与普京通话，讨论俄乌冲突",
+          "summary": "据路透社、法新社报道，芬兰总统斯图布办公室表示，斯图布和挪威首相斯特勒27日与俄罗斯总统普京进行通话， 三方讨论了俄乌冲突，并称这次通话“坦诚且具实质性” 。 报道称，斯图布和斯特勒在一份联合声明中表示，“这场战争的结果将直接影响我们以及更广泛的欧洲安全。结束战争需要直接对话。”声明还表示，此次通话是在“与乌克兰协商后进行的”。 对于这一通话，法新社称这是欧洲领导人和普京之间的“罕见直接接触”。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784580",
+          "published": "Tue, 27 Oct 2026 11:44:41 GMT"
+        },
+        {
+          "title": "非洲掠影1：中国企业涌进非洲，还有快钱可赚吗？｜出海·现场",
+          "summary": "新一轮的非洲热，时值非洲步入初级工业化、全球地缘政治经济局势演变与中国制造能力全线提高之际 【财新网】 9月上旬，我们一行非洲考察团从广州出发时，远在万里外的目的地——肯尼亚首都内罗毕的乔莫·肯雅塔（Jomo Kenyatta）国际机场罢工了，传闻当地空中交通管理、行李处理、边境检查等全面停顿。飞还不飞？纠结良久，我们还是下定决心登机飞过去。结果，整个飞机满满当当、座无虚席，人们对旅行的期待远多于",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://companies.caixin.com/2026-10-27/102497947.html",
+          "published": "Tue, 27 Oct 2026 12:45:52 GMT"
+        },
+        {
+          "title": "沙土巴三国代表访伊展开外交斡旋 美军被曝部署对伊新一轮军事行动",
+          "summary": "此次访问被视为地区调解人为避免中东局势进一步动荡，而进行的最新一次外交努力 【财新网】 当地时间10月26日，沙特阿拉伯、土耳其和巴基斯坦的高级代表在伊朗首都德黑兰会见了伊朗高层官员。此次访问被视为地区调解人为避免中东局势进一步动荡，而进行的最新一次外交努力。 据沙特阿拉伯外交部的一份声明，沙特国防部长哈立德·本·萨勒曼亲王代表沙特参加了会谈。伊朗国家媒体称，巴基斯坦陆军总司令阿西姆·穆尼尔元帅和",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-27/102497856.html",
+          "published": "Tue, 27 Oct 2026 07:34:22 GMT"
         }
       ]
     },
@@ -319,196 +225,260 @@
       "summary": "",
       "items": [
         {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 96 # Comments: 30",
+          "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+          "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 5 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "published": "Mon, 26 Oct 2026 22:41:48 +0000"
+          "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+          "published": "Tue, 27 Oct 2026 13:23:22 +0000"
         },
         {
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-          "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+          "title": "Wikipedia's Cleanup of AI-Generated Content",
+          "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 120 # Comments: 56",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+          "published": "Tue, 27 Oct 2026 11:08:15 +0000"
+        },
+        {
+          "title": "AI promised less work. I've never worked more",
+          "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 222 # Comments: 201",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://oioannou.com/blog/ai-promised-less-work/",
+          "published": "Tue, 27 Oct 2026 11:08:14 +0000"
+        },
+        {
+          "title": "The Mythical Man-Month in the Age of AI",
+          "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 274 # Comments: 185",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+          "published": "Tue, 27 Oct 2026 06:25:37 +0000"
+        },
+        {
+          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+          "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-          "published": "Tue, 27 Oct 2026 02:00:00 +0000"
+          "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+          "published": "Tue, 27 Oct 2026 13:54:51 +0000"
         },
         {
-          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-          "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+          "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+          "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-          "published": "Tue, 27 Oct 2026 01:12:21 +0000"
+          "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+          "published": "Tue, 27 Oct 2026 13:01:00 +0000"
         },
         {
-          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-          "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
+          "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+          "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+          "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+          "published": "Tue, 27 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "We&#8217;ve had touchscreen laptops for years. Can Apple make them better?",
+          "summary": "Seeing the light on touchscreen laptops. | Photo by Amelia Holowaty Krales / The Verge A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hy",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-          "published": "2026-10-26T19:34:58-04:00"
+          "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+          "published": "2026-10-27T10:00:00-04:00"
         },
         {
-          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-          "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 ( Amazon , B&H Photo ) and th",
+          "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+          "summary": "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-          "published": "2026-10-26T17:56:36-04:00"
+          "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+          "published": "2026-10-27T09:50:51-04:00"
         },
         {
-          "title": "Anthropic is burning gas to feed the AI boom",
-          "summary": "As it prepares to go public , Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate po",
+          "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+          "summary": "Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of havin",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-          "published": "2026-10-26T17:45:31-04:00"
+          "link": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+          "published": "2026-10-27T09:00:00-04:00"
         },
         {
-          "title": "“国家队”终于来了，数据要素的老故事能讲出新结局吗？",
-          "summary": "国家数据集团正式成立，沉寂多年的数据要素概念再次升温。过去几年，产权登记、资产入表、交易平台建设接连推进，行业却始终缺少足够强的经营兑现。 数据资源庞大，为何难以形成持续收入？新的国家级运营主体有望降低跨区域协调成本，AI应用则正在催生专业数据的真实购买需求。两项边际变化能否形成合力，将决定数据要素产业能否走出“建平台、做项目”的旧循环。 一、发生了什么？——数据要素再次站在政策与资本市场的交汇点",
+          "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
+          "summary": "We're still a few months away from the official reveal of the Ford Fathom , the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about t",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784492",
-          "published": "Tue, 27 Oct 2026 03:40:14 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+          "published": "2026-10-27T09:00:00-04:00"
         },
         {
-          "title": "AI从\"朋友\"变\"敌人\"：中金测算中国云厂商ROIC仅11.9%，对内需挤出或快于美国",
-          "summary": "导读 为什么要做这样一个研究？因为 中美AI都走到一个关键节点：自己的能力撑不起自己的野心了，需要向外借钱了 ，这也是市场要“算账”、担心收不回成本，一直波动的本质。 当然，借钱不是问题，借钱却赚不到匹配回报才是问题。但 AI开始向全社会汲取资源的时候，挤出效应就会慢慢显现。那什么时候是临界点，也就是政策和经济能容忍的底线。 作为“朋友” ，AI的拉动效果主要体现在直接的投资出口，财富效应，提升效",
+          "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they&#8217;ll be American-made",
+          "summary": "BlueChip will be an Arm-based laptop from an arms dealer. | Image: Anduril Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784537",
-          "published": "Tue, 27 Oct 2026 03:35:20 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+          "published": "2026-10-27T09:00:00-04:00"
         },
         {
-          "title": "“72%的Token消耗却仅占27%的支出”--AI多空之争的关键议题",
-          "summary": "AI需求数据正在制造一场罕见的市场分歧：同一组数字，多头和空头各取所需，双方都宣称胜利。这场争论的核心，是一个令人不安的结构性矛盾—— Token消耗量爆炸式增长，但绝大多数增量流向了收费最低的模型，而服务这些Token的GPU成本却在同步攀升。 据高盛Bobby Molavi在其最新报告中披露，OpenRouter数据显示，开源权重模型（open-weight models）在9月第二周处理了7",
+          "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+          "summary": "Sterling Anderson, General Motors’ chief product officer, delivers a speech during the brand's annual technology event in New York on October 21st, 2026. Photo: Charly Triballeau / AFP via Getty Image",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784523",
-          "published": "Tue, 27 Oct 2026 03:32:00 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+          "published": "2026-10-27T07:00:00-04:00"
         },
         {
-          "title": "芯片股领衔日韩股市反弹，韩国大涨4.5%，SK海力士涨逾6%",
-          "summary": "Anthropic递交IPO申请，重燃市场对人工智能交易的热情，推动亚太股市周二普遍走高，芯片股成为最大赢家。日经225指数涨1.7%，韩国综合股价指数（Kospi）大涨4.5%，MSCI亚太指数整体上扬1%。 日经225指数收涨1.7%，在日本市场，芯片相关股票领涨全场。东京电子涨4.5%，Screen Holdings涨5.2%，两者均受益于Anthropic上市申请所激发的AI资本开支预期。",
+          "title": "Data center backlash is uniting America",
+          "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784535",
-          "published": "Tue, 27 Oct 2026 03:25:31 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+          "published": "2026-10-27T06:00:00-04:00"
         },
         {
-          "title": "从“囚徒困境”到“反身性”—主宰AI交易的市场博弈",
-          "summary": "上周，AI基础设施的两条风险线索同时浮出水面：CoreWeave遭遇股债双杀，融资成本急升；Meta的巨额AI资本开支和自由现金流转负则再次引发市场对投入产出比的担忧。前者暴露了高杠杆基建公司的融资脆弱性，后者让投资者重新审视科技巨头不断加码的资本开支。 这不只是两家公司面临的压力，更指向同一个问题： 当AI建设越来越依赖外部融资，这场军备竞赛还能持续多久？ 云计算巨头们深陷一个经典的囚徒困境——",
+          "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+          "summary": "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌Tensor G6，赶紧来做一期芯片大横评，好好看一下各家的能效表现！不测不知道，一测吓一跳，今年不仅有遥遥领先的赢家，更有翻车严重的答辩！到底谁好谁拉？一起来看看吧……",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784532",
-          "published": "Tue, 27 Oct 2026 03:16:09 GMT"
+          "source": "B站热门",
+          "link": "https://www.bilibili.com/video/BV1kMxM6FECM",
+          "published": "Tue, 27 Oct 2026 07:45:30 GMT"
         },
         {
-          "title": "Anthropic IPO文件意外成为光学股反弹催化剂，Lumentum大涨8.2%领涨标普",
-          "summary": "Anthropic提交IPO招股文件，意外点燃光学板块的强劲反弹。 周一，Lumentum Holdings股价大涨8.2%，领涨标普500指数，Coherent上涨5.8%，Ciena攀升4.9%。 三重利好叠加——AI资本开支数据验证、潜在供应链保护政策预期，以及关键半导体材料供应趋紧信号——共同推动此前遭受抛售的光学板块强势回升。 Anthropic的IPO招股文件于周一正式提交，其财务数据",
+          "title": "前三季度规模以上工业企业利润实现较快增长",
+          "summary": "[!--begin:htmlVideoCode--]8d042983c5ec4e3d9e19f378df64094d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家统计局10月27日发布的数据显示，今年前三季度，我国工业经济高质量发展稳步推进，规模以上工业企业利润实现较快增长。 数据显示，1—9月份，全国规模以上工业企业实现利润",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784534",
-          "published": "Tue, 27 Oct 2026 03:12:50 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTI4ReHYG55CVsRCgu4mhyX261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:28:44 GMT"
         },
         {
-          "title": "戴尔：据我观察，明年存储情况只会更糟，或许2029年会好一些",
-          "summary": "戴尔表示，根据他目前所见，2027年的内存短缺情况将进一步恶化，因为AI需求增长快于供应，而新工厂要到2029年才会开始生产。",
+          "title": "数字新图景：2026年世界互联网大会杰出贡献奖申报释放五大信号",
+          "summary": "互联网创新的边界，正在2026年世界互联网大会杰出贡献奖的申报样本中悄然改写。透过这份样本，一场行业变局清晰可见：传统认知里的互联网创新边界正在消融。 以前谈到互联网创新，人们大多把目光聚焦于消费端平台、流量运营、线上应用。而在今年的申报叙事中，类脑架构、卫星算力、机器人关节、机器人即服务（RaaS）等概念高频出现。互联网已成为支撑千行百业的通用数字底座。 从社会贡献类、创新突破类、成长潜力类三个",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960104",
-          "published": "Tue, 27 Oct 2026 02:26:37 GMT"
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/27/ARTIDpGIvmHejeoMmUEAHxxN261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:32:51 GMT"
         },
         {
-          "title": "A股三大股指震荡走高，创业板盘初曾涨1%，算力硬件局部反弹，生物医药下挫，恒科指高开低走翻绿，AI大模型反弹、智谱大涨11%",
-          "summary": "10月27日，A股早盘高开低走，沪指一度翻绿，创业板接近转跌，盘初一度涨1%，算力硬件有所回暖，光通信、光模块局部反弹，芯片半导体亦小幅走强，生物医药板块陷入大幅调整，CRO、创新药等悉数下跌，农业、海运、贵金属等板块上涨，人形机器人持续活跃。 港股亦高开低走，恒指、恒科指双双下跌，权重科网股多数下跌，芯片、光模块等科技股反弹，澜起科技、海光芯正涨幅居前。AI大模型反弹，智谱大涨超11%，此前An",
+          "title": "新规来了！不得播放开机广告 看电视更省心",
+          "summary": "日前，国家广播电视总局公布 《有线广播电视运营服务管理规定》《交互式网络电视运营服务管理暂行规定》 ，自2026年11月27日起施行。为方便大家看电视，新规对有线广播电视运营服务和交互式网络电视运营服务，均提出以下要求。 实现开机看全屏直播功能 不得播放开机广告 坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。 ",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784531",
-          "published": "Tue, 27 Oct 2026 02:23:28 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIeIwVdnS3biX0q5UXoxqp261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:05:21 GMT"
         },
         {
-          "title": "黄仁勋与马斯克隔空喊话？一个忙着救新云，一个预言倒闭潮",
-          "summary": "黄仁勋认为新云算力需求旺盛，融资难题终将解决；马斯克却预言，新云行业将经历大规模倒闭与整合。 短短三天内的不同判断，揭开万亿美元算力竞赛的新矛盾：GPU租金高企、项目越建越大，债券市场却开始审视谁有能力偿还贷款。 当英伟达试图盘活融资链条，整个AI行业仍需回答一个更难的问题：下一笔钱从哪里来，已经投入的钱又靠什么赚回来？ 一、发生了什么？——黄仁勋说有救，马斯克却预言倒闭潮 1．三天之内，两位AI",
+          "title": "八大算力枢纽“落子”东西南北 数字中国“拔节生长”",
+          "summary": "[!--begin:htmlVideoCode--]46c565b42f6a4b32a17687018a3a01a0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： “十五五”开局之年，一张算力大网，正在华夏大地加速织就。八大国家算力枢纽落子东西南北，撑起数字中国的算力骨架。 织好这张网，先要解开一道难题，要算力的地方缺电，有电的地方缺算力。怎么",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784442",
-          "published": "Tue, 27 Oct 2026 01:53:12 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIwyCPPjc3Z3f0F9vSSD3r261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:05:20 GMT"
         },
         {
-          "title": "中国9月规模以上工业企业利润同比 14.4%，前值 4.2%",
-          "summary": "国家统计局：1-9月份，电子行业利润同比增长1倍，拉动全部规模以上工业企业利润增长9.6个百分点，是规模以上工业企业利润较快增长的重要支撑。 从细分行业看，受AI算力、先进存储等领域需求带动，电子专用材料制造、半导体分立器件制造行业利润分别增长2.2倍、51.7%；新一代信息技术加速发展，带动光电子器件制造、电子电路制造行业利润分别增长69.8%、62.5%。 风险提示及免责条款 市场有风险，投资",
+          "title": "数字“活水”流进千家万户 算力“算” 出来的民生红利铺展美好生活",
+          "summary": "央视网消息： 一张全国算力网正在重塑生产生活。从智能制造、智慧农田到跨越山海的远程手术、下沉县域的AI课堂，算力把新质生产力送到千家万户、千行百业。一起去感受这份由算力“算” 出来的民生红利。 [!--begin:htmlVideoCode--]f4e8accea5404323a44b14a4c6e643ab,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 看",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784528",
-          "published": "Tue, 27 Oct 2026 01:33:00 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTISngRS0QITc2iQhk8wma3261027.shtml",
+          "published": "Tue, 27 Oct 2026 06:39:37 GMT"
         },
         {
-          "title": "Anthropic招股书里最值得看的14个细节",
-          "summary": "10月26日，Anthropic正式向美国证券交易委员会公开提交IPO申请，拟在纳斯达克挂牌，股票代码ANT，目标估值1.5万亿美元至2万亿美元，有望超越SpaceX创下的历史纪录。IPO时间窗口据媒体爆料定于11月16日当周。 当天，美股半导体板块应声上涨——纳指盘中涨超1%，博通、AMD、英伟达各自拉涨近3%。Anthropic还未挂牌，最先涨的是它的供应商们。Anthropic已经签下总额超",
+          "title": "“东数西算”工程算力网加速织就 八大国家算力枢纽节点各展所长",
+          "summary": "[!--begin:htmlVideoCode--]85b1ee7ab0fb4b34b9d7a774e7894889,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 算力网是人工智能发展的基础支撑。截至今年6月，全国在用标准机架达到1556万架，智能算力规模位居全球第二。2022年，国家启动“东数西算”工程，布局了八大国家算力枢纽节点，全国八成以",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784522",
-          "published": "Tue, 27 Oct 2026 01:07:33 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIbPIqq61hlzZsu9jFjXYr261027.shtml",
+          "published": "Tue, 27 Oct 2026 06:25:19 GMT"
         },
         {
-          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
-          "summary": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。 华尔街见闻提及 ，Anthropic周一向美国证券交易委员会递交S-1招股说明书，318页的文件披露了其商业模式、风险因素及财务状况，消息提振周一AI相关芯片股走势。 招股书在第194页预留了10月年度经常性收入（ARR）的空白占位符，待修订版S-1中补充披露。 资深科技财经作者Tae Kim发表专栏指出",
+          "title": "苹果：发布搭载M6芯片的14英寸MacBook Pro和iMac。 搭载M6芯片的iMac，10核版本起售价1499美元，12核版本起售价1699美元。",
+          "summary": "苹果：发布搭载M6芯片的14英寸MacBook Pro和iMac。 搭载M6芯片的iMac，10核版本起售价1499美元，12核版本起售价1699美元。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784524",
-          "published": "Tue, 27 Oct 2026 00:52:36 GMT"
+          "link": "https://wallstreetcn.com/livenews/3187733",
+          "published": "Tue, 27 Oct 2026 13:05:17 GMT"
         },
         {
-          "title": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”",
-          "summary": "在AI融资热潮席卷华尔街之际，高盛正以压倒性姿态确立其市场主导地位。 周一，三笔总规模至少达2100亿美元的AI巨型融资交易同时落地，高盛的名字出现在每一笔交易之中。这一天，高盛联合主导了Meta Platforms高达950亿美元的股票发行，担任SpaceX 400亿美元芯片融资交易的唯一结构安排行，并出任Anthropic首次公开募股（IPO）的左一账簿管理人——后者的规模预计至少与Space",
+          "title": "厨电市场进入调整期，老板电器向AI要增长？",
+          "summary": "10月27日晚，老板电器披露2026年三季报。第三季度营业收入为22.89亿元，同比下降15.37%；归母净利润为2.6亿元，同比下降41.57%。 业绩承压背后，厨电行业正在经历国补政策调整后的需求考验。 2025年，国家以旧换新补贴覆盖12类家电，吸油烟机、燃气灶、洗碗机均在其中，一级能效或水效产品可享受最终销售价格20%的补贴，单件最高2000元。 今年，全国统一的家电国补范围收缩至6类，符",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784518",
-          "published": "Tue, 27 Oct 2026 00:24:49 GMT"
+          "link": "https://wallstreetcn.com/articles/3784590",
+          "published": "Tue, 27 Oct 2026 12:52:36 GMT"
         },
         {
-          "title": "电动工具再繁荣：电工硬缺口超70万，AI基建驱动行业需求喷发",
-          "summary": "电动工具长期被当作地产后周期品种定价，需求弹性挂在利率与成屋销售上。 但2026年上半年出现了反向证据：美国地产相关工具需求依然低迷，但工具行业整体收入增速超过5%。 需求结构正在被AI替换：AIDC建设把「工具密集度」拉高到一般基建项目的 2 倍以上，把「客户结构」从价格敏感的 DIY 消费者换成愿付溢价的专业承包商。 这一轮繁荣的真实约束不在需求端，而在劳动力供给与机电工程交付能力——美国电工",
+          "title": "当AI叙事开始动摇，那些被市场忽视已久的风险正悄然浮出水面",
+          "summary": "股市的急剧抛售揭示出，投资者对AI投资回报的耐心正在消退，而此前被强劲增长预期所掩盖的多重风险，正在同步显现。 Citadel Securities在最新报告中警告，随着AI交易逻辑受到动摇，市场的容错空间已极为有限。 更高的利率令AI基础设施投资的回报问题更加紧迫，而投资规模的持续扩张则令这些问题的答案愈发关键。 报告指出，这场审视贯穿整条产业链——从客户的生产效率提升，到模型开发商的定价能力，",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783868",
-          "published": "Tue, 27 Oct 2026 00:21:21 GMT"
+          "link": "https://wallstreetcn.com/articles/3784586",
+          "published": "Tue, 27 Oct 2026 12:24:52 GMT"
         },
         {
-          "title": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”",
-          "summary": "Anthropic在备受瞩目的IPO招股文件中，对外界最关心的投资级信用评级问题几乎只字未提，却同时警告可能比预期更早寻求新一轮融资。这一组合信号，正在让债券市场的潜在买家陷入观望。 招股文件显示，截至今年6月30日，Anthropic已有62亿美元的流动债务，全部以可转换本票形式欠于亚马逊。 与此同时，公司还披露了一笔由摩根士丹利牵头、规模高达150亿美元的五年期循环信贷额度，以及从亚马逊、Br",
+          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
+          "summary": "因《大空头》一书和电影而声名大噪的交易员们，正将目光瞄准AI算力租赁公司CoreWeave。 由三位\"大空头\"交易员联合创立的投资机构Seawolf Capital公开宣布做空CoreWeave，并系统阐述了其看空逻辑——这家公司的商业模式似曾相识，而资本获取能力才是真正的致命软肋。 Seawolf联合创始人Vincent Daniel在一篇Substack文章中披露， 该机构已建立CoreWea",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784520",
-          "published": "Tue, 27 Oct 2026 00:17:09 GMT"
+          "link": "https://wallstreetcn.com/articles/3784579",
+          "published": "Tue, 27 Oct 2026 11:31:26 GMT"
         },
         {
-          "title": "Anthropic的“算力芯片”分布：英伟达占42%",
-          "summary": "Anthropic隔夜正式申请IPO，其备受关注的招股书显示： 仅自2025年底至今，Anthropic已就算力资源签订新协议，最低承付金额约达4170亿美元，协议期限最长延伸至20年。 根据其算力分布统计，英伟达芯片占据42%的份额（主要由SpaceX提供），紧随其后的是谷歌TPU。",
+          "title": "中科曙光：前三季度归母净利润17.25亿元，同比增长78.51%",
+          "summary": "中科曙光公告，2026年前三季度营业收入122.38亿元，同比增长38.75%；归母净利润17.25亿元，同比增长78.51%；扣非净利润15.53亿元，同比增长105.02%。第三季度单季营业收入47.73亿元，同比增长60.68%；归母净利润7.53亿元，同比增长217.19%；扣非净利润7.09亿元，同比增长275.46%。业绩增长主要因国内算力领域市场需求向好，高端计算机等IT设备产品销量",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960101",
-          "published": "Tue, 27 Oct 2026 00:05:10 GMT"
+          "link": "https://wallstreetcn.com/livenews/3187339",
+          "published": "Tue, 27 Oct 2026 10:15:57 GMT"
         },
         {
-          "title": "明年芯片出货量超百万颗？寒武纪董事长否认",
-          "summary": "10月26日，寒武纪召开2026年第三季度业绩说明会。围绕存货规模及减值风险、全年业绩考核目标、芯片出货和大模型适配进展等问题，投资者密集提问。对此，寒武纪董事长、总经理陈天石，以及董事会秘书叶淏尹积极回应投资者。 战略备货推高存货规模 四季度交付节奏受关注 三季报显示，寒武纪前三季度实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。其中，第三季",
+          "title": "美联储10月鹰派暂停：市场的交易预期差在哪里？",
+          "summary": "北京时间29日凌晨，美联储将公布10月份利率决议。目前，OIS市场定价美联储10月加息概率已降至10%左右，但对12月加息的定价约75%。此前由9月份CPI数据超预期引发的10月加息押注，受到沃什及其他美联储官员近期表态的压制。 多位票委强调无需连续会议收紧政策，并保留根据后续数据调整政策的空间。在美联储关键官员密集表态以及中期选举前夕这一敏感时间节点下，市场已基本消化本次会议按兵不动的基准预期。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784517",
-          "published": "Tue, 27 Oct 2026 00:00:11 GMT"
+          "link": "https://wallstreetcn.com/member/articles/3784541",
+          "published": "Tue, 27 Oct 2026 09:13:53 GMT"
         },
         {
-          "title": "每场只有1名观众？国内首部AI全流程院线电影《三星堆：未来往事》上映4天，票房仅破百万",
-          "summary": "上映4天，票房118万元。国内首部AI全流程院线电影《三星堆：未来往事》的市场表现，给如火如荼的AI影视热潮浇了一盆冷水。 上映前，出品方博纳影业股价连续涨停，资本市场用真金白银表达了对“首部AI电影”的追捧。上映后，场均观众仅1.1人，上座率低至1.1%，预测总票房不过两百余万元。电影公司的老总们或许正重新思考：AI电影这条路，还走得通吗？ 《三星堆》的确暴露出AI电影的许多缺陷。电影里的青铜神",
+          "title": "Anthropic发招股书催化AI基建板块反弹 全球科技股表现分化",
+          "summary": "美股三大指数、日经225指数、韩国综合股价指数上涨，A股三大指数及恒指、恒科收跌 【财新网】 美国AI巨头Anthropic于当地时间10月26上午向美国证券交易委员会（SEC）正式递交招股书催化市场情绪，全球科技股走强，芯片板块领涨。 当日美股收盘，纳指收涨0.82%，标普500指数涨0.70%，道指涨0.29%。 算力、存储等AI基建层股票引领当日涨幅。费城半导体指数上涨2.82%。芯片个股方",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784519",
-          "published": "Mon, 26 Oct 2026 23:59:35 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497933.html",
+          "published": "Tue, 27 Oct 2026 10:55:52 GMT"
+        },
+        {
+          "title": "微软启动6万人自愿离职 AI资本开支一年增约八成",
+          "summary": "微软首次启动覆盖约6万人的自愿离职计划，人员变化与资本开支急速扩张并行 【财新网】 北京时间10月27日凌晨，微软宣布一项大规模自愿离职计划（Voluntary Exit Offer）。约6万名员工将收到邀约，可以自主选择拿一笔遣散补偿离开公司，也可以留在原岗位。据微软发言人确认，可自主选择的人数约占微软22.3万名全职员工的四分之一。这是微软首次推出此类计划，也是其年内规模最大的一次人力收缩动作",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497916.html",
+          "published": "Tue, 27 Oct 2026 10:45:35 GMT"
+        },
+        {
+          "title": "亚马逊被逼做房地产，电力危机成AI算力天花板？",
+          "summary": "如果不能解决物理世界基础设施的低效与利益撕裂，再顶尖的算法也会陷入“无米之炊”的泥潭 “欧洲有顶尖的人才和文化，但总是想得太多、行动太慢，甚至连智算中心接入电网的申请都要审上几年。”2026年10月21日，英伟达CEO黄仁勋站在德国柏林GTC大会的讲台上，面向台下欧洲政商界领袖发出了警告。 过去一周里，他穿梭于英国、法国与德国之间，反复强调欧洲要追上AI的热潮，必须加快数据中心的审批。 他甚至拿出",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497849.html",
+          "published": "Tue, 27 Oct 2026 07:30:14 GMT"
         }
       ]
     },
@@ -517,58 +487,514 @@
       "summary": "",
       "items": [
         {
-          "title": "“国家队”终于来了，数据要素的老故事能讲出新结局吗？",
-          "summary": "国家数据集团正式成立，沉寂多年的数据要素概念再次升温。过去几年，产权登记、资产入表、交易平台建设接连推进，行业却始终缺少足够强的经营兑现。 数据资源庞大，为何难以形成持续收入？新的国家级运营主体有望降低跨区域协调成本，AI应用则正在催生专业数据的真实购买需求。两项边际变化能否形成合力，将决定数据要素产业能否走出“建平台、做项目”的旧循环。 一、发生了什么？——数据要素再次站在政策与资本市场的交汇点",
+          "title": "秦始皇之死：真的是求长生不老，害了他吗？",
+          "summary": "“秦王扫六合，虎视何雄哉！”嬴政三十九岁扫平乱世，废分封、建郡县、书同文、车同轨，将大一统死死刻进华夏骨血。可如此睥睨天下的千古一帝，为何执迷长生？甚至被方士蒙骗十余载，最终死在求仙路上？\n参考文献\n[1] 司马迁. 史记[M/OL]. 中华书局, 2006. \n[2] 李开元. 焚书坑儒的真伪虚实——半桩伪造的历史[J]. 史学集刊, 2010(6): 36-47.\n[3] 高中正. 《赵正书》",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784492",
-          "published": "Tue, 27 Oct 2026 03:40:14 GMT"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV15CxT67Ev4",
+          "published": "Tue, 27 Oct 2026 09:00:00 GMT"
         },
         {
-          "title": "黄仁勋与马斯克隔空喊话？一个忙着救新云，一个预言倒闭潮",
-          "summary": "黄仁勋认为新云算力需求旺盛，融资难题终将解决；马斯克却预言，新云行业将经历大规模倒闭与整合。 短短三天内的不同判断，揭开万亿美元算力竞赛的新矛盾：GPU租金高企、项目越建越大，债券市场却开始审视谁有能力偿还贷款。 当英伟达试图盘活融资链条，整个AI行业仍需回答一个更难的问题：下一笔钱从哪里来，已经投入的钱又靠什么赚回来？ 一、发生了什么？——黄仁勋说有救，马斯克却预言倒闭潮 1．三天之内，两位AI",
+          "title": "男子清理车面鸟粪感染肺炎 这些防护要点要注意",
+          "summary": "很多人习惯把车停在树下，车门把手、车窗上落上鸟粪是常有的事。鸟粪干了以后，用干纸巾随手一擦，也没太当回事。但最近深圳松岗人民医院公布的一起案例提醒我们，鸟粪带来的麻烦可能比想象中多。 △图源：深圳松岗人民医院公众号 一名男子莫名感染肺炎，医生追问病史后排除了常见诱因，最终把线索指向了他车漆上“经常有很多鸟粪”这个细节，该院呼吸与危重症医学科已接诊过数例类似患者。此前也有类似报道，2023年，浙江台",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784442",
-          "published": "Tue, 27 Oct 2026 01:53:12 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIuIGuP0YVwXWMpFY5UniB261027.shtml",
+          "published": "Tue, 27 Oct 2026 13:53:43 GMT"
         },
         {
-          "title": "电动工具再繁荣：电工硬缺口超70万，AI基建驱动行业需求喷发",
-          "summary": "电动工具长期被当作地产后周期品种定价，需求弹性挂在利率与成屋销售上。 但2026年上半年出现了反向证据：美国地产相关工具需求依然低迷，但工具行业整体收入增速超过5%。 需求结构正在被AI替换：AIDC建设把「工具密集度」拉高到一般基建项目的 2 倍以上，把「客户结构」从价格敏感的 DIY 消费者换成愿付溢价的专业承包商。 这一轮繁荣的真实约束不在需求端，而在劳动力供给与机电工程交付能力——美国电工",
+          "title": "焦点访谈｜思想的力量 理论品格固根基",
+          "summary": "[!--begin:htmlVideoCode--]8958322a5ecb4eb5b4c0cde4d6d711b9,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （焦点访谈）：任何伟大的思想都拥有一个反映其精神内核、价值底色和思维气质的理论品格。习近平党建思想不仅拥有丰富的科学内涵，还深刻阐明了中国共产党是什么、要干什么这个根本性问题。其中蕴藏",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIA7XWPgeTNZEjDlHpYfsC261027.shtml",
+          "published": "Tue, 27 Oct 2026 13:33:27 GMT"
+        },
+        {
+          "title": "【在希望的田野上】各地秋收秋种有序推进",
+          "summary": "[!--begin:htmlVideoCode--]2164ad27ddd14e0baa40b5ddbd79de28,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：眼下，各地加快秋季农业生产进度，有序推进秋粮收获和冬麦播种。 南方水稻正陆续收获。在江苏，3300万亩水稻陆续成熟，当地农业部门组织调度履带式联合收割机8.1万台、烘干机",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIStgycbMRM3eBqKReyWSr261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:29:23 GMT"
+        },
+        {
+          "title": "“线上+线下”有效联动 “展览+海外直播”架起广交会“云上桥梁”",
+          "summary": "[!--begin:htmlVideoCode--]4a31c380fda144bf95866e14d1df7b01,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在本届广交会上，有这样一群人，他们每天活跃在广交会展馆内，既是采购商，又是专业主播，他们通过探展直播、重点产品推介等多样形式，向所在国采购商直观展示广交会现场的盛况和优质展品，推动广",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIsk1myrBGD6MFershD7iM261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:11:11 GMT"
+        },
+        {
+          "title": "日本青少年犯罪人数近年持续上升",
+          "summary": "统计数据显示，在连续几十年下降之后，日本青少年犯罪人数近年来持续攀升。警方和教育界人士认为，这与社交媒体不无关系。 据日本方面27日消息，日本警察厅数据显示，从20世纪80年代起，因触犯刑法被警方采取行动的青少年人数稳步下降，到2021年降至有相关记录以来最低点，为14818人。但从那之后，这一数字开始持续上升，2025年升至24416人。 此外，因不良行为被警方拘留或接受训导的14岁以下儿童人数",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIjSQvIKNJN3vW8oMLnQB7261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:50:02 GMT"
+        },
+        {
+          "title": "港币为什么会被狙击？从联系汇率到稳定币的底层逻辑【胡捷大师课3.5】",
+          "summary": "精彩内容预览 全世界的央行使命大同小异，但发行货币的模式不止一种。最特别的一种叫货币局制度，全球只有四个，香港是最有名的那个。 港币的基础货币不是金管局“凭空写”出来的：汇丰、渣打、中银三家发钞行把美元交给外汇基金，换回一张收据，凭收据才能印钞——1比7.8，后面有美元足额支撑。但故事没完：商业银行拿到基础港币后照样“吹牛”，1亿能贷出5亿，派生货币滚滚而来。把派生和基础加在一起去找外汇基金兑美元",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3783868",
-          "published": "Tue, 27 Oct 2026 00:21:21 GMT"
+          "link": "https://wallstreetcn.com/member/articles/3784574",
+          "published": "Tue, 27 Oct 2026 09:38:06 GMT"
+        },
+        {
+          "title": "前三季度31个省份经济分化加剧 哪些加速、哪些放缓？",
+          "summary": "受新动能加速、出口强劲等带动，经济大省表现较好，广东2022年下半年以来首次实现增速与全国同步，安徽坐稳全国前十；部分经济承压的省份如山西、广西、海南等，增速继续明显放缓 【财新网】 截至2026年10月27日，全国31个省份悉数公布了前三季度经济“成绩单”。其中，16个省份增速高于或持平于全国平均水平，11个省份增速快于上半年。 整体来看，区域经济分化加剧，在“经济大省挑大梁”的导向下，经济发达",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-10-27/102497972.html",
+          "published": "Tue, 27 Oct 2026 12:57:58 GMT"
         }
       ]
     },
     {
-      "name": "心理学",
+      "name": "金融 / 投资",
       "summary": "",
       "items": [
         {
-          "title": "芯片股领衔日韩股市反弹，韩国大涨4.5%，SK海力士涨逾6%",
-          "summary": "Anthropic递交IPO申请，重燃市场对人工智能交易的热情，推动亚太股市周二普遍走高，芯片股成为最大赢家。日经225指数涨1.7%，韩国综合股价指数（Kospi）大涨4.5%，MSCI亚太指数整体上扬1%。 日经225指数收涨1.7%，在日本市场，芯片相关股票领涨全场。东京电子涨4.5%，Screen Holdings涨5.2%，两者均受益于Anthropic上市申请所激发的AI资本开支预期。",
+          "title": "人民币涨到四年新高，一个反常的好现象将再次出现？",
+          "summary": "null",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784535",
-          "published": "Tue, 27 Oct 2026 03:25:31 GMT"
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/CaiJing/2026_10_27_905990_s.shtml",
+          "published": "Tue, 27 Oct 2026 11:09:00 GMT"
         },
         {
-          "title": "从“囚徒困境”到“反身性”—主宰AI交易的市场博弈",
-          "summary": "上周，AI基础设施的两条风险线索同时浮出水面：CoreWeave遭遇股债双杀，融资成本急升；Meta的巨额AI资本开支和自由现金流转负则再次引发市场对投入产出比的担忧。前者暴露了高杠杆基建公司的融资脆弱性，后者让投资者重新审视科技巨头不断加码的资本开支。 这不只是两家公司面临的压力，更指向同一个问题： 当AI建设越来越依赖外部融资，这场军备竞赛还能持续多久？ 云计算巨头们深陷一个经典的囚徒困境——",
+          "title": "智能驾驶发生交通事故谁来赔？法官模拟场景解读责任划分",
+          "summary": "随着智能网联汽车上路，驾驶任务开始向智能系统让渡，当系统“开车”发生了交通事故，责任划分会因为算法缺陷、系统升级、数据瑕疵、驾驶人过错等多方行为叠加而更加复杂。 交通事故责任在驾驶人还是车企？保险公司该不该赔？理赔时证据如何调取？保险赔付后，如何向控制关键数据的车企追偿？北京金融法院与国家金融监督管理总局北京监管局、中国保险行业协会就此进行专门研究。中央广播电视总台中国之声记者采访了北京金融法院法",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784532",
-          "published": "Tue, 27 Oct 2026 03:16:09 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTILN8yCtmVHpPkDg2mu74X261027.shtml",
+          "published": "Tue, 27 Oct 2026 13:58:35 GMT"
         },
         {
-          "title": "Anthropic IPO文件意外成为光学股反弹催化剂，Lumentum大涨8.2%领涨标普",
-          "summary": "Anthropic提交IPO招股文件，意外点燃光学板块的强劲反弹。 周一，Lumentum Holdings股价大涨8.2%，领涨标普500指数，Coherent上涨5.8%，Ciena攀升4.9%。 三重利好叠加——AI资本开支数据验证、潜在供应链保护政策预期，以及关键半导体材料供应趋紧信号——共同推动此前遭受抛售的光学板块强势回升。 Anthropic的IPO招股文件于周一正式提交，其财务数据",
+          "title": "第140届广交会第二期线下展闭展",
+          "summary": "[!--begin:htmlVideoCode--]9dc5a9fed5a6445bb18b3139d05ddf1a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：第140届广交会第二期10月27日闭展，共有1.1万家企业参展。其中，专精特新、单项冠军等优质企业超3600家，同比增长约7.6%。围绕全球采购商差异化的采购需求，多元供",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIL5ppuvPs5v6g12745co4261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:33:52 GMT"
+        },
+        {
+          "title": "我国风电光伏累计装机容量突破20亿千瓦",
+          "summary": "[!--begin:htmlVideoCode--]7fe877c32ec84ba384c57ad88348d2ef,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家能源局最新发布的数据显示，今年前三季度，风电光伏发电新增装机容量约1.7亿千瓦。截至9月底，全国风电光伏累计装机容量突破20亿千瓦，达到20.1亿千瓦。风光发电增量占",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTI9ypvdsJ71mLbeH6WEyAK261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:29:11 GMT"
+        },
+        {
+          "title": "前三季度规模以上工业企业利润实现较快增长",
+          "summary": "[!--begin:htmlVideoCode--]8d042983c5ec4e3d9e19f378df64094d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家统计局10月27日发布的数据显示，今年前三季度，我国工业经济高质量发展稳步推进，规模以上工业企业利润实现较快增长。 数据显示，1—9月份，全国规模以上工业企业实现利润",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTI4ReHYG55CVsRCgu4mhyX261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:28:44 GMT"
+        },
+        {
+          "title": "各地重大水利工程加快建设",
+          "summary": "[!--begin:htmlVideoCode--]6b7badab116d45ba8a5c0dc77676e76e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：各地加快建设重大水利工程，不断提升水资源优化配置能力，助力经济社会高质量发展。 25日，向家坝灌区控制性节点马耳岩渡槽中心拱圈完成合龙。向家坝灌区是金沙江到长江的首个大型",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIhr410EAjDQGpUO4I1KIT261027.shtml",
+          "published": "Tue, 27 Oct 2026 12:28:19 GMT"
+        },
+        {
+          "title": "受贿4.36亿余元 中国证监会原党委委员王会民一审被判死缓",
+          "summary": "央视网消息： 据 四川省成都市中级人民法院消息， 2026年10月27日，四川省成都市中级人民法院一审公开宣判中国证券监督管理委员会原党委委员、中央纪委国家监委驻中国证券监督管理委员会纪检监察组原组长王会民受贿案，对被告人王会民以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产，在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释；对追缴在案的王会民受贿犯罪所得",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIUW0GRVxVJCfUxtJeuewq261027.shtml",
+          "published": "Tue, 27 Oct 2026 10:39:04 GMT"
+        },
+        {
+          "title": "2026年9月全国查处违反中央八项规定精神问题32940起",
+          "summary": "央视网消息： 10月27日，中央纪委国家监委公布了2026年9月全国查处违反中央八项规定精神问题汇总情况。当月，全国共查处违反中央八项规定精神问题32940起，批评教育和处理40122人，其中党纪政务处分28461人，这是连续第157个月公布月报数据。 从查处问题类型看，9月，在履职尽责、服务经济社会发展和生态环境保护方面不担当、不作为、乱作为、假作为，严重影响高质量发展方面，共查处问题14475",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIJv5mfze1TqIpjmWZxiFm261027.shtml",
+          "published": "Tue, 27 Oct 2026 10:34:12 GMT"
+        },
+        {
+          "title": "事关能源保供中长期合同管理 国家发展改革委作出部署",
+          "summary": "新华社北京10月27日电（记者魏玉坤）记者27日从国家发展改革委获悉，为加强能源产供储销体系建设，更好发挥中长期合同在能源保供中的基础性作用，近日国家发展改革委印发了《能源保供中长期合同管理办法（试行）》，自12月1日起施行。 能源保障和安全事关国计民生。办法将电煤、电力、天然气保供中长期合同纳入统一制度规范，推动我国能源保供制度化、法治化、规范化水平进一步提升。 办法强调，做好能源保供中长期合同",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIkMxPexGxvz0KBZrp7Id7261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:08:27 GMT"
+        },
+        {
+          "title": "透过前三季度全国电力市场交易电量看“变化” 中国经济澎湃发展新动能",
+          "summary": "[!--begin:htmlVideoCode--]a0bfe2ea25ba48b7b53f51c7f7b0acf0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家能源局10月27日发布的数据显示，今年前三季度，全国电力市场交易电量同比增长18.9%。 1—9月，全国各电力交易机构累计完成交易电量58536亿千瓦时，同比增长18.9%，增速",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIFujd2EVB780mbXjDZBOU261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:01:32 GMT"
+        },
+        {
+          "title": "数字新图景：2026年世界互联网大会杰出贡献奖申报释放五大信号",
+          "summary": "互联网创新的边界，正在2026年世界互联网大会杰出贡献奖的申报样本中悄然改写。透过这份样本，一场行业变局清晰可见：传统认知里的互联网创新边界正在消融。 以前谈到互联网创新，人们大多把目光聚焦于消费端平台、流量运营、线上应用。而在今年的申报叙事中，类脑架构、卫星算力、机器人关节、机器人即服务（RaaS）等概念高频出现。互联网已成为支撑千行百业的通用数字底座。 从社会贡献类、创新突破类、成长潜力类三个",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/27/ARTIDpGIvmHejeoMmUEAHxxN261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:32:51 GMT"
+        },
+        {
+          "title": "“线上+线下”有效联动 “展览+海外直播”架起广交会“云上桥梁”",
+          "summary": "[!--begin:htmlVideoCode--]4a31c380fda144bf95866e14d1df7b01,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在本届广交会上，有这样一群人，他们每天活跃在广交会展馆内，既是采购商，又是专业主播，他们通过探展直播、重点产品推介等多样形式，向所在国采购商直观展示广交会现场的盛况和优质展品，推动广",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIsk1myrBGD6MFershD7iM261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:11:11 GMT"
+        },
+        {
+          "title": "广西着力推动“好房子”项目开工上市",
+          "summary": "新华社南宁10月27日电（记者王楚然）记者27日从广西壮族自治区人民政府新闻办公室举办的新闻发布会了解到，广西二手房交易已占商品房交易总量的44.8%，房地产市场逐步进入存量时代。针对此变化，广西坚持一手抓老房子改造，一手抓“好房子”建设。截至今年9月底，广西已有58个“好房子”项目开工或上市。 据了解，为满足群众对高品质住房的需求，今年5月，广西工程建设地方标准《好房子技术标准》正式实施。该标准",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIwP3sPNEByI7umopR2sNs261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:35:08 GMT"
+        },
+        {
+          "title": "宏观政策更加积极有为落地显效 全国规模以上工业企业利润增长驶上“快车道”",
+          "summary": "[!--begin:htmlVideoCode--]6dfa015409c049898a8e5a4f94895c0b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家统计局27日发布的数据显示，今年前三季度，我国工业生产稳中有进，随着一系列更加积极有为的宏观政策落地显效，全国规模以上工业企业利润实现较快增长。 数据显示，1—9月份，全国规模以",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIMgYX5bowSMHTGjTO2bdu261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:21:08 GMT"
+        },
+        {
+          "title": "这些广交会新品为何能拿下海外订单？新技术强、性价比高，亮点纷呈",
+          "summary": "[!--begin:htmlVideoCode--]9f13a5821de94a70a9bb0cc4a42ae993,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 第140届广交会第二期线下展正在进行。在现场，传统不锈钢材质摇身一变，成为潮流饰品。依托3D打印新工艺，搭配简约高级的设计风格，吸引了不少海外客商下单。 性价比突出 不锈钢跨界时尚圈",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIJ9Hp9jHb38X1ulro2of0261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:18:03 GMT"
+        },
+        {
+          "title": "冬储菜集中上市货源充足、价格平稳 多举措让市民拎稳“菜篮子”",
+          "summary": "[!--begin:htmlVideoCode--]7631b5b8f49a4869a4e181c77a2e61c2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下正是秋菜集中上市、筹备冬储菜的关键时期。在辽宁东北新发地农产品供应链中心，白菜、土豆、萝卜等冬储菜集中上市，货源充足、价格亲民。 在市场交易区，白菜、土豆、萝卜、洋葱、甘蓝等耐储",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIYpYDbHMpSlGFeTyMXt1V261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:09:21 GMT"
+        },
+        {
+          "title": "“大国重器”获得新突破 重大工程刷新“进度条” 中国经济稳中有进底气足",
+          "summary": "[!--begin:htmlVideoCode--]ed4687da8bf044c4a112e2164151edda,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者10月27日从“深海一号”船了解到，实现第二次迭代升级的“蛟龙”号载人潜水器近日在菲律宾海盆进行了多次7000米潜次试验并安全返回，顺利完成7000米级海试，充分验证了“蛟龙”号",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIvs5sfhTp4swoqoSrVPNx261027.shtml",
+          "published": "Tue, 27 Oct 2026 06:52:13 GMT"
+        },
+        {
+          "title": "南苏丹瓦拉卜州政府通报一起武装袭击致72死38伤",
+          "summary": "中新网北京10月27日电 据南苏丹Eye Radio电台报道，南苏丹瓦拉卜州政府当地时间26日发表声明说，该州一社区遭武装袭击，造成至少72人死亡、38人受伤。 州政府的声明称，袭击者包括邻近的团结州及瓦拉卜州部分地区的武装人员。死者中有50人来自袭击方，22人来自受袭社区。袭击还造成两处市场和多处民居被焚毁，一批牲畜遭抢夺。 法新社报道称，当地居民认为，此次袭击可能是对23日牲畜抢夺事件的报复，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIwsmMT4fES6dUBTS4ee5E261027.shtml",
+          "published": "Tue, 27 Oct 2026 06:37:17 GMT"
+        },
+        {
+          "title": "三全食品前三季度净利增长4.49%，从商超供货拓展多场景定制生意",
+          "summary": "三全食品的销售延续增长，第三季度盈利却出现回落。 10月27日，三全食品披露2026年第三季度报告。公司第三季度实现营业收入15.29亿元，同比增长6.75%；归母净利润4866.98万元，同比下降41.02%；扣非净利润2982.22万元，同比下降36.71%。 不过，前三季度，公司营收54.35亿元，同比增长8.70%；归母净利润4.13亿元，同比增长4.49%；扣非净利润2.86亿元，同比增",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784534",
-          "published": "Tue, 27 Oct 2026 03:12:50 GMT"
+          "link": "https://wallstreetcn.com/articles/3784593",
+          "published": "Tue, 27 Oct 2026 13:32:31 GMT"
+        },
+        {
+          "title": "可口可乐逆势上调全年指引，零糖可乐销量激增16%，北美销量意外持平 | 财报见闻",
+          "summary": "可口可乐凭借强劲的海外汽水需求与零糖产品爆发式增长，再度上调全年业绩指引，展现出饮料巨头在消费环境承压下的韧性与定价能力。 可口可乐将2026年全年有机营收增速指引从\"约5%\"上调至\"至少5%\"，这是该公司今年7月以来的第二次上调。第三季度调整后每股收益为91美分，高于彭博汇编的分析师平均预期；有机销售额增长7%，同样超出市场预期。 首席执行官Henrique Braun在声明中表示：\"本季度业绩",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784592",
+          "published": "Tue, 27 Oct 2026 13:31:13 GMT"
+        },
+        {
+          "title": "“价格从未如此糟糕”，白银遭遇史诗级洗盘",
+          "summary": "白银正经历一场自疫情以来最惨烈的技术性崩溃，但技术面超卖并不足以对冲基本面的持续恶化。 白银目前较200日均线折价幅度高达25%，创下2020年3月疫情流动性危机以来最大偏离。与此同时，投机性多头仓位几近清零，美元持续走强进一步压制金属价格。据摩根大通数据，管理资金净多头已跌至2024年第一季度以来最低水平。 更令市场担忧的是，此轮抛售并非单纯的仓位出清。光伏需求——白银最重要的结构性增长驱动力之",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784585",
+          "published": "Tue, 27 Oct 2026 13:06:20 GMT"
+        },
+        {
+          "title": "利率其实并不高？市场预期未来十年美国短期利率均值达到4.3%",
+          "summary": "美联储加息预期再度升温，但驱动这一判断的关键逻辑或许并非通胀本身，而是一个更根本的问题：当前利率水平，本就不算高。 据《华尔街日报》报道，基于纽约联储维护的ACM模型， 市场目前预期未来十年美国短期利率均值将达到4.3%——这一数字高于当前联邦基金利率3.75%至4%的区间，意味着以长期均衡水平衡量，现行利率实际上处于偏低而非偏高的位置。 美联储主席沃什也已表态，当前金融条件并不显示出限制性特征，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784588",
+          "published": "Tue, 27 Oct 2026 13:00:58 GMT"
+        },
+        {
+          "title": "厨电市场进入调整期，老板电器向AI要增长？",
+          "summary": "10月27日晚，老板电器披露2026年三季报。第三季度营业收入为22.89亿元，同比下降15.37%；归母净利润为2.6亿元，同比下降41.57%。 业绩承压背后，厨电行业正在经历国补政策调整后的需求考验。 2025年，国家以旧换新补贴覆盖12类家电，吸油烟机、燃气灶、洗碗机均在其中，一级能效或水效产品可享受最终销售价格20%的补贴，单件最高2000元。 今年，全国统一的家电国补范围收缩至6类，符",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784590",
+          "published": "Tue, 27 Oct 2026 12:52:36 GMT"
+        },
+        {
+          "title": "上海家化前三季度净利近翻倍，围绕三大核心品牌加码线上业务",
+          "summary": "出售参股公司股权与核心品牌经营改善，共同推高了上海家化的利润。 10月27日，上海家化披露2026年第三季度报告。公司前三季度实现营业收入53.61亿元，同比增长8.06%；归母净利润8.06亿元，同比增长98.95%；扣非净利润3.76亿元，同比增长63.01%。 第三季度，公司营收15.70亿元，同比增长5.87%；归母净利润4.25亿元，同比增长204.80%；扣非净利润2466.99万元，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784589",
+          "published": "Tue, 27 Oct 2026 12:50:15 GMT"
+        },
+        {
+          "title": "美国9月耐用品订单环比初值 1.8%，预期 1.9%，前值 -0.1%",
+          "summary": "美国9月耐用品订单环比初值 1.8%，预期 1.9%，前值 -0.1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784587",
+          "published": "Tue, 27 Oct 2026 12:30:18 GMT"
+        },
+        {
+          "title": "当AI叙事开始动摇，那些被市场忽视已久的风险正悄然浮出水面",
+          "summary": "股市的急剧抛售揭示出，投资者对AI投资回报的耐心正在消退，而此前被强劲增长预期所掩盖的多重风险，正在同步显现。 Citadel Securities在最新报告中警告，随着AI交易逻辑受到动摇，市场的容错空间已极为有限。 更高的利率令AI基础设施投资的回报问题更加紧迫，而投资规模的持续扩张则令这些问题的答案愈发关键。 报告指出，这场审视贯穿整条产业链——从客户的生产效率提升，到模型开发商的定价能力，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784586",
+          "published": "Tue, 27 Oct 2026 12:24:52 GMT"
+        },
+        {
+          "title": "五轴机床被中国人搬上桌面？老外想买还得看资格",
+          "summary": "最近，一台中国团队研发的数控机床在海外众筹平台上火了。 这台叫做 WM-100 的机器上线 Kickstarter 40 分钟，筹款便突破 100 万美元；12 小时后，数字涨到 220 万美元。这台机器并不便宜，想把它带回家，最低也要花费 5899 美元，折合人民币约 4 万元，但高价并没有挡住买家的热情。 类似的场景在这两年频繁出现。今年夏天，三款来自中国团队的桌面五轴机床先后登上 Kicks",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784584",
+          "published": "Tue, 27 Oct 2026 12:00:46 GMT"
+        },
+        {
+          "title": "宁德时代：全固态电池2027年有望实现小批量生产",
+          "summary": "宁德时代10月27日在投资者互动平台表示，公司在全固态电池上持续坚定投入，技术处于行业领先水平，2027年有望实现小批量生产。另外，近年来公司根据市场需求加快产能建设进度，随着今年产能的陆续投产，产能紧张程度有所缓解。但市场需求也在持续增长，整体而言，接下来产能利用率仍将处于较高水平，保持较健康的状态。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3187648",
+          "published": "Tue, 27 Oct 2026 11:56:59 GMT"
+        },
+        {
+          "title": "胡塞武装首次袭击沙特最大石油出口终端",
+          "summary": "沙特阿拉伯最重要的石油出口枢纽拉斯塔努拉（Ras Tanura）周二遭受袭击后引发火情，标志着胡塞武装的打击目标从沙特西部向东部核心能源基础设施的战略性升级，全球石油供应中断风险随之面临重新定价。 据媒体报道，一位知情人士透露，火情发生于周二凌晨，地点毗邻沙特国家石油公司沙特阿美（Saudi Aramco）运营的设施，目前已得到控制，但损失程度尚不明朗。 与此同时，沙特当局表示，防空系统当日拦截并",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784583",
+          "published": "Tue, 27 Oct 2026 11:54:47 GMT"
+        },
+        {
+          "title": "存储涨价压顶，影石创新增收的B面",
+          "summary": "10月27日晚，影石创新披露2026年三季报。第三季度，公司实现营业收入39.19亿元，同比增长33.3%；同期归母净利润仅为1742.82万元，同比大幅下降93.59%。 尽管归母净利润较第三季度实现扭亏，但与去年同期2.72亿元的盈利水平相比，仍有较大差距。 收入端的增长离不开影石创新持续推出的新品和渠道的优化。 今年6月，影石创新推出双摄云台相机Luna Ultra，进入第三季度后接连推出旗",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784582",
+          "published": "Tue, 27 Oct 2026 11:54:14 GMT"
+        },
+        {
+          "title": "“罕见直接接触”，外媒：芬兰总统和挪威首相与普京通话，讨论俄乌冲突",
+          "summary": "据路透社、法新社报道，芬兰总统斯图布办公室表示，斯图布和挪威首相斯特勒27日与俄罗斯总统普京进行通话， 三方讨论了俄乌冲突，并称这次通话“坦诚且具实质性” 。 报道称，斯图布和斯特勒在一份联合声明中表示，“这场战争的结果将直接影响我们以及更广泛的欧洲安全。结束战争需要直接对话。”声明还表示，此次通话是在“与乌克兰协商后进行的”。 对于这一通话，法新社称这是欧洲领导人和普京之间的“罕见直接接触”。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784580",
+          "published": "Tue, 27 Oct 2026 11:44:41 GMT"
+        },
+        {
+          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
+          "summary": "因《大空头》一书和电影而声名大噪的交易员们，正将目光瞄准AI算力租赁公司CoreWeave。 由三位\"大空头\"交易员联合创立的投资机构Seawolf Capital公开宣布做空CoreWeave，并系统阐述了其看空逻辑——这家公司的商业模式似曾相识，而资本获取能力才是真正的致命软肋。 Seawolf联合创始人Vincent Daniel在一篇Substack文章中披露， 该机构已建立CoreWea",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784579",
+          "published": "Tue, 27 Oct 2026 11:31:26 GMT"
+        },
+        {
+          "title": "25.83万亿元，私募基金规模又创历史新高！",
+          "summary": "中国证券投资基金业协会（后简称中基协）发布最新数据显示，截至 9 月末，私募基金管理规模升至 25.83 万亿元，较 8 月末继续扩张， 这不仅是年内又一次创下新高，也意味着私募证券投资基金继续成为中国资本市场的增量资金来源之一。 私募证券基金成增长来源 中基协数据显示，截至 2026 年 9 月末，存续私募基金管理人 18398 家，管理基金数量 145712 只，管理总规模 25.83 万亿元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784578",
+          "published": "Tue, 27 Oct 2026 11:09:57 GMT"
+        },
+        {
+          "title": "康宁第三季度核心销售额50.8亿美元，市场预估50.2亿美元",
+          "summary": "康宁第三季度核心每股收益91美分，市场预估89美分。\n康宁预计第四季度核心每股收益为96美分至1.00美元，市场预估为93美分。\n康宁预计第四季度核心销售额为52亿至53亿美元，市场预估为52亿美元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784577",
+          "published": "Tue, 27 Oct 2026 11:07:34 GMT"
+        },
+        {
+          "title": "可口可乐第三季度净营收134亿美元。 第三季度可比每股收益0.91美元，预估0.88美元。 可口可乐预计全年可比每股收益至少增长11％，此前预计增长9％至10％。 可口...",
+          "summary": "可口可乐第三季度净营收134亿美元。 第三季度可比每股收益0.91美元，预估0.88美元。 可口可乐预计全年可比每股收益至少增长11％，此前预计增长9％至10％。 可口可乐预计全年资本支出大约22亿美元，此前预计22亿美元。 可口可乐美股盘前涨近1%。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3187568",
+          "published": "Tue, 27 Oct 2026 10:56:14 GMT"
+        },
+        {
+          "title": "中科曙光：前三季度归母净利润17.25亿元，同比增长78.51%",
+          "summary": "中科曙光公告，2026年前三季度营业收入122.38亿元，同比增长38.75%；归母净利润17.25亿元，同比增长78.51%；扣非净利润15.53亿元，同比增长105.02%。第三季度单季营业收入47.73亿元，同比增长60.68%；归母净利润7.53亿元，同比增长217.19%；扣非净利润7.09亿元，同比增长275.46%。业绩增长主要因国内算力领域市场需求向好，高端计算机等IT设备产品销量",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3187339",
+          "published": "Tue, 27 Oct 2026 10:15:57 GMT"
+        },
+        {
+          "title": "五粮液：前三季度归母净利润97.11亿元，同比增长49.98%",
+          "summary": "五粮液公告，2026年前三季度营业收入328.58亿元，同比增长7.25%；归母净利润97.11亿元，同比增长49.98%；扣非净利润94.41亿元，同比增长46.18%，主要系上年同期利润基数较低，及元春期间采取了有效的动销举措，销售旺季核心产品动销较好综合影响。第三季度单季营业收入44.42亿元，同比下降37.68%；归母净利润9.58亿元，同比下降48.25%；扣非净利润9.57亿元，同比下",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784576",
+          "published": "Tue, 27 Oct 2026 10:15:13 GMT"
+        },
+        {
+          "title": "三季度公募持仓有何变化？",
+          "summary": "来源： 国信证券 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784565",
+          "published": "Tue, 27 Oct 2026 10:07:56 GMT"
+        },
+        {
+          "title": "受贿4.36亿余元 中国证监会原党委委员王会民一审被判死缓",
+          "summary": "2026年10月27日，四川省成都市中级人民法院一审公开宣判中国证券监督管理委员会原党委委员、中央纪委国家监委驻中国证券监督管理委员会纪检监察组原组长王会民受贿案，对被告人王会民以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产，在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释；对追缴在案的王会民受贿犯罪所得财物及孳息依法上缴国库，不足部分继续追缴。 经审理",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784575",
+          "published": "Tue, 27 Oct 2026 09:56:28 GMT"
+        },
+        {
+          "title": "港币为什么会被狙击？从联系汇率到稳定币的底层逻辑【胡捷大师课3.5】",
+          "summary": "精彩内容预览 全世界的央行使命大同小异，但发行货币的模式不止一种。最特别的一种叫货币局制度，全球只有四个，香港是最有名的那个。 港币的基础货币不是金管局“凭空写”出来的：汇丰、渣打、中银三家发钞行把美元交给外汇基金，换回一张收据，凭收据才能印钞——1比7.8，后面有美元足额支撑。但故事没完：商业银行拿到基础港币后照样“吹牛”，1亿能贷出5亿，派生货币滚滚而来。把派生和基础加在一起去找外汇基金兑美元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784574",
+          "published": "Tue, 27 Oct 2026 09:38:06 GMT"
+        },
+        {
+          "title": "新易盛：公司对四季度订单需求持积极预期 预计产量及出货量有望较前期实现大幅增长",
+          "summary": "有投资者在互动平台向新易盛提问，请问目前公司订单情况和出货情况，扩产情况如何？是否有未公布的利空消息？对于当前股价的大跌，公司有什么稳定股价和市值管理的措施？ 新易盛回复称，公司生产经营情况正常，在手订单充足，公司对四季度订单需求持积极预期，预计产量及出货量有望较前期实现大幅增长。目前客户需求指引及订单情况良好，行业景气度预计维持高位，800G和1.6T作为今年交付主力产品，其中1.6T放量节奏有",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3187091",
+          "published": "Tue, 27 Oct 2026 09:25:09 GMT"
+        },
+        {
+          "title": "塔塔将接手依维柯，中国商用车出海遇劲敌",
+          "summary": "10月27日，塔塔收购依维柯的首轮要约初步结果出炉。接受要约的股份占扣除库存股后普通股本的89.42%，超过交易所需的80%门槛。若最终结果及其余条件得到确认，双方计划于10月30日付款交割。 这笔始于去年7月的收购，正在走到最后阶段。塔塔已将要约价格从每股14.10欧元提高至14.40欧元，按全部股份接受要约计算，最高现金对价约39.06亿欧元。依维柯的军工业务已出售给Leonardo，塔塔将接",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784573",
+          "published": "Tue, 27 Oct 2026 09:24:40 GMT"
+        },
+        {
+          "title": "贝泰妮三季度扣非转亏，薇诺娜之外拓展婴童洗护与抗衰业务",
+          "summary": "贝泰妮继续拓展婴童洗护与抗衰业务，第三季度收入和利润却出现回落。 10月26日晚，贝泰妮披露2026年三季报。第三季度，公司营收10.46亿元，同比下降4.28%；归母净利润1801.76万元，同比下降28.55%；扣非净利润亏损2319.47万元。 前三季度累计业绩仍保持增长，营收36.37亿元，同比增长4.99%；归母净利润3.10亿元，同比增长13.95%；扣非净利润2.23亿元，同比增长2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784571",
+          "published": "Tue, 27 Oct 2026 09:18:21 GMT"
+        },
+        {
+          "title": "泡泡玛特首席运营官：全年预计可实现同比正增长",
+          "summary": "据界面新闻，泡泡玛特首席运营官司德在泡泡玛特第三季度业绩会上表示，全年来看，中国市场表现依然比较稳健和健康，全年预计依然可以实现同比正增长，在接下来的四季度传统销售旺季，努力把握销售机会，也为明年做好准备。 2026年第三季度整体收益（未经审核）同比下降45%-50%，其中中国收益同比下降25%-30%，亚太同比下降65%-70%，美洲同比下降70%-75%，以及欧洲及其他地区同比下降50%-55",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784570",
+          "published": "Tue, 27 Oct 2026 09:16:17 GMT"
+        },
+        {
+          "title": "美联储10月鹰派暂停：市场的交易预期差在哪里？",
+          "summary": "北京时间29日凌晨，美联储将公布10月份利率决议。目前，OIS市场定价美联储10月加息概率已降至10%左右，但对12月加息的定价约75%。此前由9月份CPI数据超预期引发的10月加息押注，受到沃什及其他美联储官员近期表态的压制。 多位票委强调无需连续会议收紧政策，并保留根据后续数据调整政策的空间。在美联储关键官员密集表态以及中期选举前夕这一敏感时间节点下，市场已基本消化本次会议按兵不动的基准预期。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784541",
+          "published": "Tue, 27 Oct 2026 09:13:53 GMT"
+        },
+        {
+          "title": "恒瑞医药Q3营收同比增长20.5%，净利润同比增长88.9% | 财报见闻",
+          "summary": "恒瑞医药公告，2026年第三季度营业收入89.53亿元，同比增长20.55%；净利润24.58亿元，同比增长88.92%；扣非净利润25.14亿元，同比增长90.93%。2026年前三季度营业收入244.09亿元，同比增长5.26%；净利润69.23亿元，同比增长20.38%；扣非净利润62.43亿元，同比增长11.70%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784567",
+          "published": "Tue, 27 Oct 2026 08:43:07 GMT"
+        },
+        {
+          "title": "前三季度31个省份经济分化加剧 哪些加速、哪些放缓？",
+          "summary": "受新动能加速、出口强劲等带动，经济大省表现较好，广东2022年下半年以来首次实现增速与全国同步，安徽坐稳全国前十；部分经济承压的省份如山西、广西、海南等，增速继续明显放缓 【财新网】 截至2026年10月27日，全国31个省份悉数公布了前三季度经济“成绩单”。其中，16个省份增速高于或持平于全国平均水平，11个省份增速快于上半年。 整体来看，区域经济分化加剧，在“经济大省挑大梁”的导向下，经济发达",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-10-27/102497972.html",
+          "published": "Tue, 27 Oct 2026 12:57:58 GMT"
+        },
+        {
+          "title": "央行设立债市非银机构流动性支持工具 如何救急而不兜底？",
+          "summary": "工具设计的机制是救市场而非救机构，特别是因自身经营不审慎而出问题的机构不会在救助行列；在紧急情况出现时，非审慎机构甚至是没有资格参与工具的 业内专家指出，资管机构的流动性状况与市场交易、资产定价的联系更加紧密，与市场机构的关联性、风险传染性也不断上升。图：IC photo 【财新网】 针对债券市场可能出现的系统性压力情景，央行于2026年10月26日正式设立债市非银大额赎回互换便利（Bond Ma",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-27/102497964.html",
+          "published": "Tue, 27 Oct 2026 12:49:08 GMT"
+        },
+        {
+          "title": "非洲掠影1：中国企业涌进非洲，还有快钱可赚吗？｜出海·现场",
+          "summary": "新一轮的非洲热，时值非洲步入初级工业化、全球地缘政治经济局势演变与中国制造能力全线提高之际 【财新网】 9月上旬，我们一行非洲考察团从广州出发时，远在万里外的目的地——肯尼亚首都内罗毕的乔莫·肯雅塔（Jomo Kenyatta）国际机场罢工了，传闻当地空中交通管理、行李处理、边境检查等全面停顿。飞还不飞？纠结良久，我们还是下定决心登机飞过去。结果，整个飞机满满当当、座无虚席，人们对旅行的期待远多于",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://companies.caixin.com/2026-10-27/102497947.html",
+          "published": "Tue, 27 Oct 2026 12:45:52 GMT"
+        },
+        {
+          "title": "Anthropic发招股书催化AI基建板块反弹 全球科技股表现分化",
+          "summary": "美股三大指数、日经225指数、韩国综合股价指数上涨，A股三大指数及恒指、恒科收跌 【财新网】 美国AI巨头Anthropic于当地时间10月26上午向美国证券交易委员会（SEC）正式递交招股书催化市场情绪，全球科技股走强，芯片板块领涨。 当日美股收盘，纳指收涨0.82%，标普500指数涨0.70%，道指涨0.29%。 算力、存储等AI基建层股票引领当日涨幅。费城半导体指数上涨2.82%。芯片个股方",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497933.html",
+          "published": "Tue, 27 Oct 2026 10:55:52 GMT"
+        },
+        {
+          "title": "证监会“最贪”高官王会民被判死缓 27年受贿4.36亿元",
+          "summary": "王会民的受贿金额，超过原发行监管部副主任童道驰的2.74亿元、原主席助理朱从玖的1.05亿元、原副主席王建军的9340万元和姚刚的6961万元，在目前已公开判决的证监会原任职官员中受贿金额最高 【财新网】 2026年10月27日，四川省成都市中级人民法院一审公开宣判中国证监会原党委委员、中央纪委国家监委驻证监会纪检监察组原组长王会民受贿案。法院认定，王会民在1998年至2025年间受贿4.36亿余",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-27/102497911.html",
+          "published": "Tue, 27 Oct 2026 10:30:15 GMT"
+        },
+        {
+          "title": "税务规划的合法性与正当性：以离岸信托为例",
+          "summary": "信托制度的价值在于使财产安排服务于其真实目的，而非提供规避税务或者债务的通道。合规只是起点，财产安排者仍须回答——打算在合规之上建立怎样的财富秩序，又愿意为社会共同体的运转承担何种份额的成本 合法性与正当性，是两个层面的检验。前者回答“是否可为”，后者回答“是否当为”；前者由法律划定，后者由社会衡量。法律的功能在于宣告禁止的边界，而不在于宣告行为的褒贬。一个社会的成熟程度，往往可以从它如何评价“合",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497889.html",
+          "published": "Tue, 27 Oct 2026 08:39:41 GMT"
+        },
+        {
+          "title": "奥迪明确在华双品牌定位 上汽奥迪聚焦AUDI品牌",
+          "summary": "在2027年底前，上汽奥迪仍可正常销售现有四环品牌车型 2026年9月10日，青岛，上汽奥迪展台。图：视觉中国 【财新网】 酝酿已久的奥迪在华业务调整终于落地。10月26日，奥迪宣布与中国一汽、上汽集团分别签署战略协议，进一步明确在华“双品牌、双合作伙伴”的业务分工。 未来，一汽奥迪将专注于传统奥迪四环品牌，产品覆盖燃油车和新能源汽车；上汽奥迪则聚焦AUDI字母标品牌，专注新能源汽车产品。 在20",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497870.html",
+          "published": "Tue, 27 Oct 2026 08:10:59 GMT"
+        },
+        {
+          "title": "亚马逊被逼做房地产，电力危机成AI算力天花板？",
+          "summary": "如果不能解决物理世界基础设施的低效与利益撕裂，再顶尖的算法也会陷入“无米之炊”的泥潭 “欧洲有顶尖的人才和文化，但总是想得太多、行动太慢，甚至连智算中心接入电网的申请都要审上几年。”2026年10月21日，英伟达CEO黄仁勋站在德国柏林GTC大会的讲台上，面向台下欧洲政商界领袖发出了警告。 过去一周里，他穿梭于英国、法国与德国之间，反复强调欧洲要追上AI的热潮，必须加快数据中心的审批。 他甚至拿出",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497849.html",
+          "published": "Tue, 27 Oct 2026 07:30:14 GMT"
+        },
+        {
+          "title": "全球失衡背后的大国博弈与多边治理",
+          "summary": "G20 阿什维尔财长和央行行长会议显示，新一轮全球失衡再度成为多边治理的重点议题，折射出中国经济高质量发展阶段面临的外部新矛盾 文｜卢锋 杨景翔 一、经济全球化与全球失衡 今年G20财金渠道对话聚焦的全球增长、全球失衡、全球主权债务三大议题，集中反映国际社会对当前全球经济形势的核心关切，体现多边经济治理的重心所在。三大议题各有独立内涵，同时存在内在逻辑关联，全球失衡是串联另外两大议题的关键枢纽。近",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497837.html",
+          "published": "Tue, 27 Oct 2026 07:09:57 GMT"
         }
       ]
     },
@@ -577,35 +1003,139 @@
       "summary": "",
       "items": [
         {
-          "title": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机",
-          "summary": "黄金的避险属性正在经历一场深刻的结构性重塑。 据追风交易台，摩根士丹利在最新报告中指出，自2020年以来，黄金已无法有效对冲股市下跌风险，在极端股市抛售中甚至会放大投资组合损失——但与此同时，黄金在美债剧烈抛售期间展现出愈发重要的缓冲价值，正成为对抗财政风险与主权信用风险的核心工具。 在这一逻辑转变的背景下，摩根士丹利维持黄金为金属类资产首选， 并设定2027年第二季度目标价5000美元/盎司。 ",
+          "title": "焦点访谈｜思想的力量 理论品格固根基",
+          "summary": "[!--begin:htmlVideoCode--]8958322a5ecb4eb5b4c0cde4d6d711b9,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （焦点访谈）：任何伟大的思想都拥有一个反映其精神内核、价值底色和思维气质的理论品格。习近平党建思想不仅拥有丰富的科学内涵，还深刻阐明了中国共产党是什么、要干什么这个根本性问题。其中蕴藏",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784527",
-          "published": "Tue, 27 Oct 2026 02:27:04 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIA7XWPgeTNZEjDlHpYfsC261027.shtml",
+          "published": "Tue, 27 Oct 2026 13:33:27 GMT"
         },
         {
-          "title": "质疑声四起，Moderna CEO安抚市场：个性化癌症疫苗将覆盖更多癌种",
-          "summary": "Moderna首席执行官对旗下个性化mRNA癌症疫苗的前景展示出强烈信心，声称该技术将在多种肿瘤类型中发挥作用，但分析师对其商业价值的质疑并未消散。 10月26日周一，Moderna CEO Stephane Bancel在彭博电视采访中表示， 该公司与默克联合研发的个性化mRNA癌症疫苗intismeran autogene\"将在黑色素瘤以外更多癌症中奏效\"。 Bancel在采访中明确表达了对其",
+          "title": "墨西哥国家选举机构负责人因腐败丑闻辞职",
+          "summary": "墨西哥全国选举协会主席瓜达卢佩·塔代26日向众议院递交辞呈，辞去全国选举协会主席职务。墨总统克劳迪娅·辛鲍姆当天表示支持这一决定，同时否认塔代离职会给该机构带来危机。 墨西哥联邦审计署正在调查全国选举协会多项合同违规嫌疑，涉及利益冲突和公共资金流转操作。塔代被指向与其存在私人关系的全国选举协会承包商授予价值数百万美元合同，其司机也被曝是选举物料供应商的法定代理人之一。塔代在声明中否认存在利益冲突，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIoa75EhkuKwdPthCB4fd5261027.shtml",
+          "published": "Tue, 27 Oct 2026 09:10:05 GMT"
+        },
+        {
+          "title": "上海家化前三季度净利近翻倍，围绕三大核心品牌加码线上业务",
+          "summary": "出售参股公司股权与核心品牌经营改善，共同推高了上海家化的利润。 10月27日，上海家化披露2026年第三季度报告。公司前三季度实现营业收入53.61亿元，同比增长8.06%；归母净利润8.06亿元，同比增长98.95%；扣非净利润3.76亿元，同比增长63.01%。 第三季度，公司营收15.70亿元，同比增长5.87%；归母净利润4.25亿元，同比增长204.80%；扣非净利润2466.99万元，",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784515",
-          "published": "Tue, 27 Oct 2026 01:48:29 GMT"
+          "link": "https://wallstreetcn.com/articles/3784589",
+          "published": "Tue, 27 Oct 2026 12:50:15 GMT"
+        },
+        {
+          "title": "贝泰妮三季度扣非转亏，薇诺娜之外拓展婴童洗护与抗衰业务",
+          "summary": "贝泰妮继续拓展婴童洗护与抗衰业务，第三季度收入和利润却出现回落。 10月26日晚，贝泰妮披露2026年三季报。第三季度，公司营收10.46亿元，同比下降4.28%；归母净利润1801.76万元，同比下降28.55%；扣非净利润亏损2319.47万元。 前三季度累计业绩仍保持增长，营收36.37亿元，同比增长4.99%；归母净利润3.10亿元，同比增长13.95%；扣非净利润2.23亿元，同比增长2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784571",
+          "published": "Tue, 27 Oct 2026 09:18:21 GMT"
+        },
+        {
+          "title": "央行设立债市非银机构流动性支持工具 如何救急而不兜底？",
+          "summary": "工具设计的机制是救市场而非救机构，特别是因自身经营不审慎而出问题的机构不会在救助行列；在紧急情况出现时，非审慎机构甚至是没有资格参与工具的 业内专家指出，资管机构的流动性状况与市场交易、资产定价的联系更加紧密，与市场机构的关联性、风险传染性也不断上升。图：IC photo 【财新网】 针对债券市场可能出现的系统性压力情景，央行于2026年10月26日正式设立债市非银大额赎回互换便利（Bond Ma",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-10-27/102497964.html",
+          "published": "Tue, 27 Oct 2026 12:49:08 GMT"
+        },
+        {
+          "title": "法国球星姆巴佩发表不当涉华言论 中国合作方全部切割",
+          "summary": "姆巴佩在中国国内的商业价值已经基本归零 资料图：姆巴佩。图：视觉中国 【财新网】 近日，姆巴佩接受海外播客媒体《The Bridge》的采访时发表了涉华不当言论；即使相关视频已被《The Bridge》官方账号删除，但相关争议持续发酵。10月27日，外交部发言人郭嘉昆针对此事回应称，伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制。 此前， 东鹏饮料 （09980.HK）、 蒙牛 （0231",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497921.html",
+          "published": "Tue, 27 Oct 2026 10:51:15 GMT"
+        },
+        {
+          "title": "税务规划的合法性与正当性：以离岸信托为例",
+          "summary": "信托制度的价值在于使财产安排服务于其真实目的，而非提供规避税务或者债务的通道。合规只是起点，财产安排者仍须回答——打算在合规之上建立怎样的财富秩序，又愿意为社会共同体的运转承担何种份额的成本 合法性与正当性，是两个层面的检验。前者回答“是否可为”，后者回答“是否当为”；前者由法律划定，后者由社会衡量。法律的功能在于宣告禁止的边界，而不在于宣告行为的褒贬。一个社会的成熟程度，往往可以从它如何评价“合",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497889.html",
+          "published": "Tue, 27 Oct 2026 08:39:41 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "数字新图景：2026年世界互联网大会杰出贡献奖申报释放五大信号",
+          "summary": "互联网创新的边界，正在2026年世界互联网大会杰出贡献奖的申报样本中悄然改写。透过这份样本，一场行业变局清晰可见：传统认知里的互联网创新边界正在消融。 以前谈到互联网创新，人们大多把目光聚焦于消费端平台、流量运营、线上应用。而在今年的申报叙事中，类脑架构、卫星算力、机器人关节、机器人即服务（RaaS）等概念高频出现。互联网已成为支撑千行百业的通用数字底座。 从社会贡献类、创新突破类、成长潜力类三个",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/10/27/ARTIDpGIvmHejeoMmUEAHxxN261027.shtml",
+          "published": "Tue, 27 Oct 2026 08:32:51 GMT"
+        },
+        {
+          "title": "Anthropic发招股书催化AI基建板块反弹 全球科技股表现分化",
+          "summary": "美股三大指数、日经225指数、韩国综合股价指数上涨，A股三大指数及恒指、恒科收跌 【财新网】 美国AI巨头Anthropic于当地时间10月26上午向美国证券交易委员会（SEC）正式递交招股书催化市场情绪，全球科技股走强，芯片板块领涨。 当日美股收盘，纳指收涨0.82%，标普500指数涨0.70%，道指涨0.29%。 算力、存储等AI基建层股票引领当日涨幅。费城半导体指数上涨2.82%。芯片个股方",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-10-27/102497933.html",
+          "published": "Tue, 27 Oct 2026 10:55:52 GMT"
+        },
+        {
+          "title": "亚马逊被逼做房地产，电力危机成AI算力天花板？",
+          "summary": "如果不能解决物理世界基础设施的低效与利益撕裂，再顶尖的算法也会陷入“无米之炊”的泥潭 “欧洲有顶尖的人才和文化，但总是想得太多、行动太慢，甚至连智算中心接入电网的申请都要审上几年。”2026年10月21日，英伟达CEO黄仁勋站在德国柏林GTC大会的讲台上，面向台下欧洲政商界领袖发出了警告。 过去一周里，他穿梭于英国、法国与德国之间，反复强调欧洲要追上AI的热潮，必须加快数据中心的审批。 他甚至拿出",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-10-27/102497849.html",
+          "published": "Tue, 27 Oct 2026 07:30:14 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "习言道｜这样的苹果，习近平说“现在也不能吃”",
+          "summary": "中新网10月27日电 题： 这样的苹果，习近平说“现在也不能吃” 在辽宁锦州的辽沈战役纪念馆，悬挂着一面“仁义之师”的锦旗。 锦旗背后，有一个关于苹果的故事。 那是1948年秋，辽沈战役期间，锦州乡间的苹果已经熟了，行军路过的解放军战士虽然饥渴难耐，却一个都没有摘。 “毛主席说‘不吃是很高尚的，而吃了是很卑鄙的，因为这是人民的苹果’。”2022年8月，习近平总书记在辽宁考察时指出，“这样的苹果，我",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/10/27/ARTIQQNokP8nblzTzPrbXAIG261027.shtml",
+          "published": "Tue, 27 Oct 2026 07:57:16 GMT"
+        },
+        {
+          "title": "塔塔将接手依维柯，中国商用车出海遇劲敌",
+          "summary": "10月27日，塔塔收购依维柯的首轮要约初步结果出炉。接受要约的股份占扣除库存股后普通股本的89.42%，超过交易所需的80%门槛。若最终结果及其余条件得到确认，双方计划于10月30日付款交割。 这笔始于去年7月的收购，正在走到最后阶段。塔塔已将要约价格从每股14.10欧元提高至14.40欧元，按全部股份接受要约计算，最高现金对价约39.06亿欧元。依维柯的军工业务已出售给Leonardo，塔塔将接",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784573",
+          "published": "Tue, 27 Oct 2026 09:24:40 GMT"
+        },
+        {
+          "title": "沙土巴三国代表访伊展开外交斡旋 美军被曝部署对伊新一轮军事行动",
+          "summary": "此次访问被视为地区调解人为避免中东局势进一步动荡，而进行的最新一次外交努力 【财新网】 当地时间10月26日，沙特阿拉伯、土耳其和巴基斯坦的高级代表在伊朗首都德黑兰会见了伊朗高层官员。此次访问被视为地区调解人为避免中东局势进一步动荡，而进行的最新一次外交努力。 据沙特阿拉伯外交部的一份声明，沙特国防部长哈立德·本·萨勒曼亲王代表沙特参加了会谈。伊朗国家媒体称，巴基斯坦陆军总司令阿西姆·穆尼尔元帅和",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-10-27/102497856.html",
+          "published": "Tue, 27 Oct 2026 07:34:22 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 69,
-    "total_collected": 43,
-    "sources": 5,
+    "total_items": 134,
+    "total_collected": 101,
+    "sources": 9,
     "source_list": [
+      "B站热门",
+      "B站科技热门",
       "Hacker News",
       "TechCrunch",
       "The Verge",
       "华尔街见闻",
-      "少数派"
+      "央视新闻",
+      "观察者网",
+      "财新网"
     ],
-    "domains": 6
+    "domains": 7
   }
 }
