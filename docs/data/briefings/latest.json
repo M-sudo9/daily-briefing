@@ -1,270 +1,150 @@
 {
-  "id": "2026-10-30-14",
-  "datetime": "2026-10-30 14:54:06",
-  "date": "2026-10-30",
-  "time": "14:54",
-  "period": "下午",
-  "summary": "本期采集 101 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 129 条摘要",
+  "id": "2026-10-31-04",
+  "datetime": "2026-10-31 04:33:47",
+  "date": "2026-10-31",
+  "time": "04:33",
+  "period": "凌晨",
+  "summary": "本期采集 27 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 33 条摘要",
   "domains": [
     {
       "name": "AI / 人工智能",
       "summary": "",
       "items": [
         {
-          "title": "Neal Stephenson on AI and What Comes Next [video]",
-          "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 5 # Comments: 0",
+          "title": "OpenAI raises less than half of $30B target",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 14 # Comments: 1",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-          "published": "Fri, 30 Oct 2026 14:18:34 +0000"
+          "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+          "published": "Sat, 31 Oct 2026 03:22:44 +0000"
         },
         {
-          "title": "American views of higher ed decline, once again",
-          "summary": "Article URL: https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/ Comments URL: https://news.ycombinator.com/item?id=50302925 Points: 22 # Comments: 12",
+          "title": "Tell HN: Scribd Breached",
+          "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Sc",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
-          "published": "Fri, 30 Oct 2026 12:20:05 +0000"
+          "link": "https://news.ycombinator.com/item?id=50312756",
+          "published": "Sat, 31 Oct 2026 02:46:36 +0000"
         },
         {
-          "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-          "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: htt",
+          "title": "AO3 Down for Maintenance",
+          "summary": "Article URL: https://www.otwstatus.org Comments URL: https://news.ycombinator.com/item?id=50310258 Points: 114 # Comments: 32",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-          "published": "Fri, 30 Oct 2026 12:08:00 +0000"
+          "link": "https://www.otwstatus.org",
+          "published": "Fri, 30 Oct 2026 21:17:23 +0000"
         },
         {
-          "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-          "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Po",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-          "published": "Fri, 30 Oct 2026 10:22:51 +0000"
-        },
-        {
-          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-          "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/ Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 58 # Comments: 8",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-          "published": "Fri, 30 Oct 2026 07:09:12 +0000"
-        },
-        {
-          "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-          "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-          "published": "Fri, 30 Oct 2026 14:00:00 +0000"
+          "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "published": "Sat, 31 Oct 2026 01:20:05 +0000"
         },
         {
-          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-          "summary": "DoorDash said that it is open to working with third-party agent makers",
+          "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+          "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-          "published": "Fri, 30 Oct 2026 13:54:25 +0000"
+          "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+          "published": "Fri, 30 Oct 2026 23:21:23 +0000"
         },
         {
-          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-          "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-          "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+          "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+          "published": "Fri, 30 Oct 2026 22:56:13 +0000"
         },
         {
-          "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-          "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers , but Arrowmax wants to make them smarter by adding a camera and AI that work together to",
+          "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "published": "Fri, 30 Oct 2026 21:54:34 +0000"
+        },
+        {
+          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "published": "Fri, 30 Oct 2026 21:52:03 +0000"
+        },
+        {
+          "title": "Last-minute Halloween costumes for tech nerds",
+          "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+          "published": "Fri, 30 Oct 2026 21:26:59 +0000"
+        },
+        {
+          "title": "Cracks are emerging in the AI spending boom",
+          "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "published": "Fri, 30 Oct 2026 21:17:40 +0000"
+        },
+        {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first ",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-          "published": "2026-10-30T10:23:26-04:00"
+          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "published": "2026-10-30T18:32:53-04:00"
         },
         {
-          "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-          "summary": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027 , it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership be",
+          "title": "Exclusive details about Akai’s MPC Sample Key",
+          "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word ye",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-          "published": "2026-10-30T09:52:14-04:00"
+          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+          "published": "2026-10-30T17:01:32-04:00"
         },
         {
-          "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-          "summary": "After months of bombarding mathematicians  with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has n",
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "summary": "Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appe",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-          "published": "2026-10-30T09:01:14-04:00"
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "published": "2026-10-30T16:48:43-04:00"
         },
         {
-          "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-          "summary": "Three years ago, I wrote an obituary for the smart display . The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to d",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-          "published": "2026-10-30T09:00:00-04:00"
-        },
-        {
-          "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-          "summary": "Touch ‘em if you got ‘em. | Photo: Antonio G. Di Benedetto / The Verge Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEO",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-          "published": "2026-10-30T08:00:00-04:00"
-        },
-        {
-          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-          "summary": "Binance says it will cover all losses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the pl",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-          "published": "2026-10-30T07:44:53-04:00"
-        },
-        {
-          "title": "Maine’s data center revolt will decide who controls the Senate",
-          "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data ",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-          "published": "2026-10-30T07:00:00-04:00"
-        },
-        {
-          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-          "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-          "published": "2026-10-30T05:00:00-04:00"
-        },
-        {
-          "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
-          "summary": "兩家分析公司已將事件歸咎於「TraderTraitor」。人工智能調查公司TRM Labs在一份報告中稱，幣安攻擊事件的多個要素與早前和朝鮮有關的事件相似，包括2025年Bybit交易所創紀錄的15億美元黑客攻擊。另一家加密分析公司Chainalysis也表示，「高度確信」該朝鮮組織與這次黑客攻擊有關。",
-          "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Oct 2026 09:56:31 GMT"
-        },
-        {
-          "title": "习近平会见瑞士联邦主席帕姆兰",
-          "summary": "新华社北京10月30日电（记者温馨、伍岳）10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。 习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下，自由贸易合作成为中瑞关系最亮眼的名片，充分体现了两国坚持开放合作的政治勇气和担当，彰显了双方推动建设开放型世界经济的独特引领作用。各国经济相通则共进，相闭则各退",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIhC28yzQUx7T0wGCzvcap261030.shtml",
-          "published": "Fri, 30 Oct 2026 12:41:01 GMT"
-        },
-        {
-          "title": "构建光电产业“芯、光、星、车、网”格局 科教资源为产业注入创新“活水”",
-          "summary": "[!--begin:htmlVideoCode--]eb0988913c4b4773bd31b39d55966378,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： CMOS图像传感器，也就是‘图像传感器芯片’被称作成像设备的“电子视网膜”。以往一直被国外卡脖子，如今在吉林长春，本土企业研发的国产CMOS芯片已经走出实验室，深度嵌入汽车智能制造生",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIIM6lwtps8qGOlBPsNKZy261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:07:40 GMT"
-        },
-        {
-          "title": "大豆纤维茶、大豆冰激凌、冰糖豆腐花……大豆领域新品种、新技术亮相",
-          "summary": "[!--begin:htmlVideoCode--]eca5d8cd11ba4d32a1dc736664c217e4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 10月30日，由农业农村部主办的2026年全国粮油和大豆产业博览会在河南郑州开幕，集中展示粮油和大豆领域的新品种、新技术、新装备、新模式。 在智能装备展区，这台智能激光除草机器人用于",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI02obMDID0GB4vqgHrFpD261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:07:05 GMT"
-        },
-        {
-          "title": "算电协同与绿电直连规模化实施为新能源就地消纳开辟新空间",
-          "summary": "[!--begin:htmlVideoCode--]0eeccf23bce546d19f4d92509dedc2b5,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年以来，算电协同与绿电直连领域进入政策密集落地与项目集中投运期，制度框架加速完善，产业正从概念验证迈入规模化实施阶段。国家能源局10月30日表示，预计“十五五”时期，全国算力",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIzKxzkLu0pxWoB2b8ZMG7261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:06:50 GMT"
-        },
-        {
-          "title": "从“乌镇时间”到“全球荣耀”",
-          "summary": "一年一度的世界互联网大会，持续在为数智时代标注新坐标。世界互联网大会杰出贡献奖的设立，也让“乌镇时间”拥有了超越峰会会期的深远价值。 这一奖项虽设立不足三年，却已成为一份跨年度、持续记录全球互联网价值的权威荣誉。自2024年设立以来，奖项表彰在全球互联网相关领域作出杰出贡献的个人和企业，旨在发挥榜样模范引领作用，激励各方推动互联网及关联领域蓬勃发展，让更多国家和人民共享互联网发展成果。 2024年",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIcmriH1fFQzzyQEwEG5DK261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:39:25 GMT"
-        },
-        {
-          "title": "从监测到干预，王腾想做一门更难的睡眠生意",
-          "summary": "离开小米后，王腾交出的首份创业产品答卷，横跨了两个价格带，也跨过了消费电子与卧室家居之间的边界。 10月29日，今日宜休在北京发布智能戒指ISHO Ring和床面温控系统ISHO iFlow，标准版售价分别为1799元、9999元。后者由床笠与主机组成，加装在现有床垫上，通过水循环调节冷暖，支持双人分区。 睡眠科技并不缺少需求，也不缺少参与者。 起源于芬兰的智能戒指品牌Oura，以戒指记录健康数据",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784886",
-          "published": "Fri, 30 Oct 2026 14:51:48 GMT"
-        },
-        {
-          "title": "美国中期选举临近，这是高盛的交易指南",
-          "summary": "随着美国中期选举临近，博彩市场对民主党全面胜选的押注持续升温，高盛已为此备好一套完整的交易手册。 据市场追踪机构数据， 博彩市场目前将民主党\"横扫\"两院的概率定价在67%。 高盛的核心交易逻辑是： 做多医疗保健与可再生能源，做空大型药企、国防、加密货币，并对AI基础设施板块持谨慎态度。 值得注意的是，这套策略的底层逻辑并非押注民主党能够推动哪些立法，而是判断哪些行业将突然成为华盛顿的监管靶心。 在",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784881",
-          "published": "Fri, 30 Oct 2026 12:50:44 GMT"
-        },
-        {
-          "title": "月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望",
-          "summary": "10 月 21 日，OpenClaw 创始人 Peter Steinberger 在 Cloudflare Connect 的台上估算，自己上个月用于 AI 工作的 token 成本约为 1000 万美元。听众发出惊呼，他补了一句：“并非所有消耗都有用。” 几周前，另一位 Peter——Peter Piekarczyk——也算出了一笔让人咋舌的账。他看到 Lauren Tan 的 Cursor 个",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784883",
-          "published": "Fri, 30 Oct 2026 12:49:10 GMT"
-        },
-        {
-          "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
-          "summary": "AI超大规模资本开支激增正与债券市场的结构性压力形成正面碰撞，令科技股牛市承压。美银美林最新资金流向报告指出，这一矛盾短期内难以化解，真正的风险资产解压窗口或需等到2027年上半年。 据美银美林全球投资策略团队10月29日发布的《Flow Show》周报， AI超大规模云计算企业（hyperscaler）的债务发行规模在2026年已达1820亿美元，较2024年的170亿美元急剧膨胀，由此引发的债",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784877",
-          "published": "Fri, 30 Oct 2026 12:26:48 GMT"
-        },
-        {
-          "title": "AI最危险的交易或许不在科技股，而在美元",
-          "summary": "当AI泡沫开始消退，最大的风险可能不是纳斯达克回调，而是美元崩塌。外国投资者持有逾20万亿美元的美国股票资产，一旦AI驱动的抛售引发股市与美元同步下跌，市场将面临远超技术性修正的宏观冲击。 德意志银行警告，AI抛售潮可能触发美国股市、货币对冲与美元之间的危险反馈循环。与以往科技股回调不同，这一次美元的传统避险属性正受到根本质疑——强美元未必能再充当外国投资者的损失缓冲垫。 如果纳斯达克、美元指数（",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784878",
-          "published": "Fri, 30 Oct 2026 11:53:32 GMT"
-        },
-        {
-          "title": "南向ETF通再扩容，新增10只ETF",
-          "summary": "沪深交易所公布“南向ETF通”扩容名单，新增南方东英野村富时香港日本股票现金流聚焦指数ETF、南方东英富时亚洲科技及股息指数ETF、华夏港美人工智能ETF等10只ETF产品。此次调整将于11月9日正式生效。扩容后，南向ETF通产品数量将由原来的31只增至41只，涵盖的资产类型进一步多元化。（证券时报）",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191586",
-          "published": "Fri, 30 Oct 2026 11:04:17 GMT"
-        },
-        {
-          "title": "千次4.9元，百度这回想把搜索API打到地板价",
-          "summary": "10月30日，百度App在北京举办产品升级沟通会，围绕文心助手、AI镜头、GUI交互和AI互动内容推出新一轮升级，同时升级搜索AI API，面向开发者提供搜索服务。 此次升级主要包括两方面。面向普通用户，百度尝试让搜索承接复杂任务、持续跟踪信息并交付成果；面向开发者，百度进一步升级搜索API产品，提供不同版本的搜索能力。 搜索框尝试交付任务 文心助手是此次百度App升级的重点之一。 百度文心助手产",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784873",
-          "published": "Fri, 30 Oct 2026 10:37:34 GMT"
-        },
-        {
-          "title": "AI退潮、利率回落：美股广度修复，谁将成为下一批赢家？",
-          "summary": "近期科技巨头集中披露财报后，市场并未迎来预期中的盈利共振；相反，AI基础设施巨额资本开支侵蚀自由现金流，叠加投资者对投入回报周期的担忧，AI板块抛售延续。 谷歌母公司Alphabet因搜索和广告销售不及预期，股价单日暴跌13%，创历史最大单日跌幅，市值蒸发近5000亿美元；亚马逊盘后跌7.3%，英特尔跌23%，ServiceNow、Fortinet分别重挫27%和20%，费城半导体指数（SOX）跌",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784857",
-          "published": "Fri, 30 Oct 2026 09:31:52 GMT"
-        },
-        {
-          "title": "金价跌破4000美元/盎司！谁是黄金市场的幽灵卖家？",
-          "summary": "10月23日，伦敦金现跌破4000美元/盎司，本周累计跌幅已超4%，创下6月以来最大单周跌幅。本轮抛售或受两方面因素驱动：一方面，在中东局势再度升级、胡塞武装袭击沙特等地缘冲突扰动下，市场对美元融资与流动性压力的担忧加剧，部分官方部门倾向于将黄金储备作为高流动性资产变现；另一方面，近期AI股下跌触及部分杠杆资金的强平线，相关股票资金需补缴保证金，黄金因流动性优势可能成为被动变现的来源。 不过，在可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784467",
-          "published": "Fri, 30 Oct 2026 09:28:11 GMT"
-        },
-        {
-          "title": "GPT周报｜苹果一周内发布可触屏MacBook等新品；谷歌发布新一代前沿模型Gemini 4 Carbon；Kimi首次推出Pro版本模型",
-          "summary": "推荐：OpenAI发布新中端模型GPT-6.1 Terra；智元推出具身模型GO-3 Preview；大晓机器人联合南洋理工大学发布世界模型Mundo 【财新网】 苹果一周内发布可触屏MacBook等新品 苹果在过去一周连发新品。10月28日，苹果推出配备 PROLED XDR 显示屏的 MacBook Pro，首次将直观触控体验引入 Mac 机型。10月27日，苹果发布搭载 M6 芯片的新款 1",
+          "title": "【周刊提前读】超级AI周期助推华为营收 业务线有突破也有难关",
+          "summary": "【本文系数据通用户提前专享】在此轮超级AI周期中，华为有望重回营收历史高点，多线布局徐徐展开 2026年10月20日，江苏南京，物理AI与世界模型大会，华为展台上的昇腾Atlas 950超节点。",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-30/102499220.html",
-          "published": "Fri, 30 Oct 2026 13:06:39 GMT"
+          "link": "https://database.caixin.com/2026-10-31/102499327.html",
+          "published": "Sat, 31 Oct 2026 02:02:23 GMT"
+        },
+        {
+          "title": "【周刊提前读】“优化”AI实为“投毒” 虚假信息灰产如何规制？",
+          "summary": "【本文系数据通用户提前专享】三起案例揭开了“黑帽GEO”不正当竞争问题。在“遇事不决问AI”的当下，如何识别商业宣传和虚假信息，保护用户权益？ 2026年央视“3·15”晚会曝光的北京力思文化传媒有限公司GEO服务。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499323.html",
+          "published": "Sat, 31 Oct 2026 01:53:56 GMT"
+        },
+        {
+          "title": "【周刊提前读】深度：全球科技股震荡 价值回归还是泡沫退潮？",
+          "summary": "【本文系数据通用户提前专享】AI泡沫论持续一年后，全球科技股震荡回调，是价值回归还是信心考验？",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499314.html",
+          "published": "Sat, 31 Oct 2026 01:29:29 GMT"
+        },
+        {
+          "title": "财新闻｜“三桶油”最新财报出炉：中国石化前三季度净利同比增30%，中国石油增21.9%，中国海油增16.8%",
+          "summary": "11月2日起，国博凤冠惜别“古代中国”，即将开启自己的专题展览；游泳选手王子铭兴奋剂检查阳性被禁赛；市场监管总局批准发布2项生物芯片国家标准 11月2日起，国博凤冠惜别“古代中国”，即将开启自己的专题展览 2026年11月2日起，中国国家博物馆“人气顶流”展品——孝端皇后九龙九凤冠，将暂别坚守多年的“古代中国”基本陈列，“移师”国博北16展厅，即将开启属于自己的专题展览——“明礼华章——万历孝端皇",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-31/102499300.html",
+          "published": "Sat, 31 Oct 2026 00:11:59 GMT"
         }
       ]
     },
@@ -273,688 +153,52 @@
       "summary": "",
       "items": [
         {
-          "title": "Neal Stephenson on AI and What Comes Next [video]",
-          "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 5 # Comments: 0",
+          "title": "OpenAI raises less than half of $30B target",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 14 # Comments: 1",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-          "published": "Fri, 30 Oct 2026 14:18:34 +0000"
+          "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+          "published": "Sat, 31 Oct 2026 03:22:44 +0000"
         },
         {
-          "title": "Do At-Proto Users Know This Is Public?",
-          "summary": "Article URL: https://melaniekat.com/blog/public-on-pds/ Comments URL: https://news.ycombinator.com/item?id=50304175 Points: 10 # Comments: 0",
+          "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+          "summary": "Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e Comments URL: ",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://melaniekat.com/blog/public-on-pds/",
-          "published": "Fri, 30 Oct 2026 14:11:22 +0000"
+          "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+          "published": "Sat, 31 Oct 2026 02:42:02 +0000"
         },
         {
-          "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
-          "summary": "Article URL: https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus Comments URL: https://news.ycombinator.com/item?id=50303488 Points: 5 # Comments: 2",
+          "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+          "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 121 # Comments: 40",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
-          "published": "Fri, 30 Oct 2026 13:20:06 +0000"
+          "link": "https://tng.episodle.com/",
+          "published": "Fri, 30 Oct 2026 23:51:24 +0000"
         },
         {
-          "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-          "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 76 # Comments: 35",
+          "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+          "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun Comments URL: https://news.ycombinator.com/item?id=50310398 Points: 89 # Comments: 15",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-          "published": "Fri, 30 Oct 2026 12:50:01 +0000"
+          "link": "https://www.firezone.dev/blog/introducing-sanstun",
+          "published": "Fri, 30 Oct 2026 21:30:00 +0000"
         },
         {
-          "title": "American views of higher ed decline, once again",
-          "summary": "Article URL: https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/ Comments URL: https://news.ycombinator.com/item?id=50302925 Points: 22 # Comments: 12",
+          "title": "AO3 Down for Maintenance",
+          "summary": "Article URL: https://www.otwstatus.org Comments URL: https://news.ycombinator.com/item?id=50310258 Points: 114 # Comments: 32",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
-          "published": "Fri, 30 Oct 2026 12:20:05 +0000"
+          "link": "https://www.otwstatus.org",
+          "published": "Fri, 30 Oct 2026 21:17:23 +0000"
         },
         {
-          "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-          "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: htt",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-          "published": "Fri, 30 Oct 2026 12:08:00 +0000"
-        },
-        {
-          "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-          "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Po",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-          "published": "Fri, 30 Oct 2026 10:22:51 +0000"
-        },
-        {
-          "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-          "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 121 # Comments: 11",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-          "published": "Fri, 30 Oct 2026 10:06:15 +0000"
-        },
-        {
-          "title": "How Do You Take a Picture of a Black Hole?",
-          "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 48 # Comments: 39",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-          "published": "Fri, 30 Oct 2026 09:49:02 +0000"
-        },
-        {
-          "title": "elect.horse",
-          "summary": "Article URL: https://elect.horse/ Comments URL: https://news.ycombinator.com/item?id=50301462 Points: 350 # Comments: 99",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://elect.horse/",
-          "published": "Fri, 30 Oct 2026 09:14:34 +0000"
-        },
-        {
-          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-          "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/ Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 58 # Comments: 8",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-          "published": "Fri, 30 Oct 2026 07:09:12 +0000"
-        },
-        {
-          "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-          "summary": "Article URL: https://www.workatastartup.com/jobs/98722 Comments URL: https://news.ycombinator.com/item?id=50300643 Points: 0 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.workatastartup.com/jobs/98722",
-          "published": "Fri, 30 Oct 2026 07:00:35 +0000"
-        },
-        {
-          "title": "以色列议会选举计票结束 内塔尼亚胡阵营议席未过半",
-          "summary": "新华社耶路撒冷10月30日电（记者王卓伦　庞昕熠）据以色列媒体30日报道，以色列中央选举委员会当天凌晨公布议会选举全部选票统计结果。现任总理内塔尼亚胡领衔的执政阵营获得53席，以国防军前总参谋长埃森科特领衔的反对派阵营获得48席，不属于任何阵营但反对现政府的阿拉伯裔政党共获得19席，各阵营均未达到单独组阁所需的61席多数门槛。 根据计票结果，内塔尼亚胡领导的右翼政党利库德集团获得27席，为议会第一",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIieedce1wBdY8prdR8373261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:43:06 GMT"
-        },
-        {
-          "title": "墨西哥抓获“海湾卡特尔”贩毒集团旗下团伙二号人物",
-          "summary": "新华社墨西哥城10月29日电（记者翟淑睿　吴昊）墨西哥安全部长奥马尔·加西亚·阿富奇29日说，墨西哥联邦安全力量当天在塔毛利帕斯州马塔莫罗斯市抓获两名犯罪嫌疑人，其中包括贩毒集团“海湾卡特尔”旗下的“飓风”犯罪团伙二号人物阿克塞尔·阿尔弗雷多。 阿富奇在社交媒体发文说，阿克塞尔·阿尔弗雷多涉嫌参与谋杀、绑架、敲诈勒索，以及向美国贩运毒品、武器和人口等犯罪活动。他还被指控与今年5月的一起墨西哥联邦公",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI9CqRuPq0LHiUclBCOkeD261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:25:55 GMT"
-        },
-        {
-          "title": "美国中期选举临近，这是高盛的交易指南",
-          "summary": "随着美国中期选举临近，博彩市场对民主党全面胜选的押注持续升温，高盛已为此备好一套完整的交易手册。 据市场追踪机构数据， 博彩市场目前将民主党\"横扫\"两院的概率定价在67%。 高盛的核心交易逻辑是： 做多医疗保健与可再生能源，做空大型药企、国防、加密货币，并对AI基础设施板块持谨慎态度。 值得注意的是，这套策略的底层逻辑并非押注民主党能够推动哪些立法，而是判断哪些行业将突然成为华盛顿的监管靶心。 在",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784881",
-          "published": "Fri, 30 Oct 2026 12:50:44 GMT"
-        },
-        {
-          "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
-          "summary": "AI超大规模资本开支激增正与债券市场的结构性压力形成正面碰撞，令科技股牛市承压。美银美林最新资金流向报告指出，这一矛盾短期内难以化解，真正的风险资产解压窗口或需等到2027年上半年。 据美银美林全球投资策略团队10月29日发布的《Flow Show》周报， AI超大规模云计算企业（hyperscaler）的债务发行规模在2026年已达1820亿美元，较2024年的170亿美元急剧膨胀，由此引发的债",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784877",
-          "published": "Fri, 30 Oct 2026 12:26:48 GMT"
-        },
-        {
-          "title": "布油触及半年新高，市场严阵以待，中选后海湾局势或将升温",
-          "summary": "布伦特原油价格周五攀升至六个月高位，霍尔木兹海峡商业船只遭袭与沙特能源设施受到攻击的消息叠加外交僵局，令市场对美国中期选举后海湾冲突再度升级的担忧急剧升温。 布伦特原油1月期货周五早盘触及每桶118美元，创下六个月新高。 特朗普一直在考量是否重启针对伊朗的打击行动。据央视新闻报道，特朗普近日表示， 美国或许会再来一次小规模的“史诗怒火”行动 。另据环球时报， 打击时间有可能定在下周二中期选举结束之",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784880",
-          "published": "Fri, 30 Oct 2026 12:22:09 GMT"
-        },
-        {
-          "title": "金价跌破4000美元/盎司！谁是黄金市场的幽灵卖家？",
-          "summary": "10月23日，伦敦金现跌破4000美元/盎司，本周累计跌幅已超4%，创下6月以来最大单周跌幅。本轮抛售或受两方面因素驱动：一方面，在中东局势再度升级、胡塞武装袭击沙特等地缘冲突扰动下，市场对美元融资与流动性压力的担忧加剧，部分官方部门倾向于将黄金储备作为高流动性资产变现；另一方面，近期AI股下跌触及部分杠杆资金的强平线，相关股票资金需补缴保证金，黄金因流动性优势可能成为被动变现的来源。 不过，在可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784467",
-          "published": "Fri, 30 Oct 2026 09:28:11 GMT"
-        },
-        {
-          "title": "突破100欧元！欧洲天然气荒逼近临界点：暖冬是唯一缓冲？",
-          "summary": "随着北半球进入冬季供暖季，欧洲天然气市场再度面临严峻考验。截至10月27日，欧洲基准天然气价格TTF突破100欧元/兆瓦时，年内涨幅约234%，创2022年能源危机以来新高。 而目前欧盟天然气库存率仅为74.6%，显著低于过去十年同期约90%的平均水平，为有记录以来同期最低值。德国库存约61%，西北欧及英国库存约69%，均显著低于往年。库存不足叠加冬季需求即将上升，使欧洲天然气市场对供应扰动与天气",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784712",
-          "published": "Fri, 30 Oct 2026 09:17:59 GMT"
-        },
-        {
-          "title": "委内瑞拉反对派领导人马查多归国 敦促2027年举行大选",
-          "summary": "特朗普称：“她把诺贝尔奖给了我，我还能说什么呢？我希望她平安无事。” 当地时间2026年10月29日，委内瑞拉加拉加斯，委内瑞拉反对派领导人马查多出席新闻发布会。图：视觉中国 【财新网】 在1月3日美国对委内瑞拉发动军事袭击，并强掳该国总统马杜罗近10个月后，由马杜罗副手罗德里格斯接任成为代总统的委国政治格局，近来随着反对派领导人、2025年诺贝尔和平奖得主马查多归国而出现了松动的迹象。 在海外流",
+          "title": "《小城良方》：非典型医疗剧在行动｜影视",
+          "summary": "《小城良方》以塑造人物见长，但又并没有满足于写活这些人物，而是在写活他们的基础上探讨着更广泛的社会话题 《小城良方》剧照。 在中国影视界有个现象：每隔一段时间就会出现一部事先没有大张旗鼓地宣传炒作却不动声色地走红并备受好评的作品，与很多雷声大雨点小的大制作形成鲜明反差。这类代表作上半年是《给阿嬷的情书》，最新一例就是正在热播到越来越热的《小城良方》。 说起来，《小城良方》比《给阿嬷的情书》可有卖点",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://international.caixin.com/2026-10-30/102499131.html",
-          "published": "Fri, 30 Oct 2026 10:19:10 GMT"
-        }
-      ]
-    },
-    {
-      "name": "金融 / 投资",
-      "summary": "",
-      "items": [
-        {
-          "title": "网传“乌鲁木齐市马肉马肠制品全面禁售”，官方辟谣",
-          "summary": "央视网消息： 据乌鲁木齐市市场监督管理局消息，近期，有网民在互联网平台发布一则“乌鲁木齐市马肉马肠制品全面禁售”视频内容，引发社会关注。乌鲁木齐市委网信办联动乌鲁木齐市食品安全委员会办公室第一时间进行查证，经核查，该信息纯属谣言。对此，乌鲁木齐市食品安全委员会办公室及时发布辟谣声明，澄清事实。 部分自媒体账号和机构为博取流量，发布与实际情况不符的内容，严重误导公众，请广大网民关注官方信息，切勿信谣",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI1bmOmnWCNCygt8fv24IW261030.shtml",
-          "published": "Fri, 30 Oct 2026 14:14:54 GMT"
-        },
-        {
-          "title": "商务部解读中国—瑞士自由贸易协定升级议定书",
-          "summary": "央视网消息： 据商务部消息，10月30日，在习近平主席和瑞士联邦主席帕姆兰的共同见证下，商务部部长王文涛与瑞士联邦经济、教研部国务秘书兼经济总局局长布德里格在京签署中瑞自贸协定升级议定书（以下简称《议定书》）。商务部国际司负责人就《议定书》有关情况进行解读。 一、签署《议定书》的重要意义 瑞士是中国重要合作伙伴，对华合作始终走在前列。2013年，中瑞双方签署自贸协定，这是中国与欧洲大陆国家签署的第",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIbzXaSmmgEXW0HvBMGh9p261030.shtml",
-          "published": "Fri, 30 Oct 2026 14:12:31 GMT"
-        },
-        {
-          "title": "独家视频丨习近平同德国总统会谈：打造平等互利 战略稳定的合作新范式",
-          "summary": "[!--begin:htmlVideoCode--]fd5258801e7c4292a56319bae21d0541,0,1,16:9,news[!--end:htmlVideoCode--] 10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。 习近平指出，中德始终是相互信任的朋友、彼此成就的伙伴。中德作为世界第二、第三大经济体，对中欧关系发展和世界经",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIPRjteAO7GTOuYDy3Bqmm261030.shtml",
-          "published": "Fri, 30 Oct 2026 14:10:34 GMT"
-        },
-        {
-          "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
-          "summary": "央视网消息： 据商务部消息，10月30日，商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施事答记者问。 问：美东时间10月29日，美国联邦通信委员会（FCC）投票通过检测实验室限制措施，自2028年12月1日起，禁止授权位于中国等所谓“非互惠经济体”的检测实验室、电信认证机构及实验室认可机构，禁止在“非互惠经济体”开展涉FCC检测、认证或认可业务。请问商务部对此有何评论？ 答：我们注",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI4AgCAWWmzJRGsQb65G3q261030.shtml",
-          "published": "Fri, 30 Oct 2026 14:09:12 GMT"
-        },
-        {
-          "title": "大国外交最前线丨敢为人先 政贵有恒 习主席会见欧洲两国领导人释放哪些信号",
-          "summary": "[!--begin:htmlVideoCode--]878e5d82efd549f89efa7ce7a6a6295a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月30日，国家主席习近平在北京人民大会堂会见瑞士联邦主席帕姆兰，同德国总统施泰因迈尔举行会谈。 一天之内两场面向欧洲国家领导人的外交活动，将为中欧经贸合作和全球经济发展释放什么信号？跟着《大国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIfn62YVv3nzFknEMRjYJ2261030.shtml",
-          "published": "Fri, 30 Oct 2026 13:17:15 GMT"
-        },
-        {
-          "title": "独家视频丨习近平会见瑞士联邦主席：高举开放旗帜 拉紧合作纽带",
-          "summary": "[!--begin:htmlVideoCode--]e6f768b625ce473f8915509da44aa80f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。 习近平指出，欢迎帕姆兰主席先生来华访问。瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。开放带",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI6fduT27Pi6BC0PBHgoyl261030.shtml",
-          "published": "Fri, 30 Oct 2026 13:16:22 GMT"
-        },
-        {
-          "title": "习近平会见瑞士联邦主席帕姆兰",
-          "summary": "[!--begin:htmlVideoCode--]3972e678549642cb897707c258074da7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。 习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIuE7N54AsirQjOt2YclNe261030.shtml",
-          "published": "Fri, 30 Oct 2026 12:49:00 GMT"
-        },
-        {
-          "title": "习近平同德国总统施泰因迈尔会谈",
-          "summary": "[!--begin:htmlVideoCode--]2412c9a7b76444eaa5efba4acd52e83e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。 习近平指出，建交半个多世纪以来，中德关系保持高水平发展，始终是相互信任的朋友、彼此成就的伙伴。当前",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIepqzvP7yBmuH0QYBWWBx261030.shtml",
-          "published": "Fri, 30 Oct 2026 12:48:42 GMT"
-        },
-        {
-          "title": "习近平会见瑞士联邦主席帕姆兰",
-          "summary": "新华社北京10月30日电（记者温馨、伍岳）10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。 习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下，自由贸易合作成为中瑞关系最亮眼的名片，充分体现了两国坚持开放合作的政治勇气和担当，彰显了双方推动建设开放型世界经济的独特引领作用。各国经济相通则共进，相闭则各退",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIhC28yzQUx7T0wGCzvcap261030.shtml",
-          "published": "Fri, 30 Oct 2026 12:41:01 GMT"
-        },
-        {
-          "title": "习近平同德国总统施泰因迈尔会谈",
-          "summary": "新华社北京10月30日电（记者温馨、伍岳）10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。 习近平指出，建交半个多世纪以来，中德关系保持高水平发展，始终是相互信任的朋友、彼此成就的伙伴。当前，世界百年变局加速演进，变和乱的一面更加突出。中德作为世界第二、第三大经济体，对中欧关系发展和世界经济稳定增长负有重要责任，理应加强沟通和协作，打造平等互利、战略",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIldkaVmVJoBjxcEeTK3nJ261030.shtml",
-          "published": "Fri, 30 Oct 2026 12:39:52 GMT"
-        },
-        {
-          "title": "构建光电产业“芯、光、星、车、网”格局 科教资源为产业注入创新“活水”",
-          "summary": "[!--begin:htmlVideoCode--]eb0988913c4b4773bd31b39d55966378,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： CMOS图像传感器，也就是‘图像传感器芯片’被称作成像设备的“电子视网膜”。以往一直被国外卡脖子，如今在吉林长春，本土企业研发的国产CMOS芯片已经走出实验室，深度嵌入汽车智能制造生",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIIM6lwtps8qGOlBPsNKZy261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:07:40 GMT"
-        },
-        {
-          "title": "活力更强、韧性更足 打通出海“快车道”提升外贸企业国际竞争力",
-          "summary": "[!--begin:htmlVideoCode--]bf6fdbc7377641ec85d0e87994d76162,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 中国贸促会新闻发言人在10月30日下午举行的月度例行新闻发布会上表示，2026年前三个季度，全国贸促系统商事认证数据呈现较大幅度增长，充分印证了我国外贸强劲的增长势头，为全球经贸增长",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIiA8BhCnvlsxzRlLPo2e1261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:07:21 GMT"
-        },
-        {
-          "title": "增长23.7%，创新高！新鲜果蔬当日采摘当日“走出”国门抢鲜上市",
-          "summary": "[!--begin:htmlVideoCode--]4b1cd933734d48f88094fc63dad8af8b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年以来，新疆霍尔果斯口岸果蔬出口业务呈现增长态势。据霍尔果斯海关统计，2026年1—9月，霍尔果斯口岸出口果蔬49万吨，同比增长23.7%，创历史新高。 霍尔果斯公路口岸，每",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI3XfUamNCqCtS1pCCioMw261030.shtml",
-          "published": "Fri, 30 Oct 2026 10:06:30 GMT"
-        },
-        {
-          "title": "从“乌镇时间”到“全球荣耀”",
-          "summary": "一年一度的世界互联网大会，持续在为数智时代标注新坐标。世界互联网大会杰出贡献奖的设立，也让“乌镇时间”拥有了超越峰会会期的深远价值。 这一奖项虽设立不足三年，却已成为一份跨年度、持续记录全球互联网价值的权威荣誉。自2024年设立以来，奖项表彰在全球互联网相关领域作出杰出贡献的个人和企业，旨在发挥榜样模范引领作用，激励各方推动互联网及关联领域蓬勃发展，让更多国家和人民共享互联网发展成果。 2024年",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIcmriH1fFQzzyQEwEG5DK261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:39:25 GMT"
-        },
-        {
-          "title": "五部门：加强消费基础设施建设 促进消费投资良性互动",
-          "summary": "央视网消息： 据国家发展改革委网站消息，日前，国家发展改革委、交通运输部、商务部、文化和旅游部、市场监管总局联合发布《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中提出，完整准确全面贯彻新发展理念，构建新发展格局，推动高质量发展，坚持惠民生和促消费、投资于物和投资于人紧密结合，把加强消费基础设施建设作为改善消费供给、促进有效投资的重要抓手，补齐设施短板，优化设施布局，提升设施功能",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIE2x5Qnn8q0zBeuycLmSY261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:33:46 GMT"
-        },
-        {
-          "title": "枢纽接力→联通世界→数字技术buff加持 货物“跑”起来把生活幸福感拉满",
-          "summary": "[!--begin:htmlVideoCode--]8c4465519cb2443f9dda9f99a46564ed,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年8月，《物流网建设实施方案》印发，这是“六张网”相关的首份实施方案。方案明确到2030年，社会物流总费用与GDP的比率降到13.1%。这个比率是一条走了十几年的路：2012",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIgIPKrpbiYsq5LqVXyKwX261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:55:26 GMT"
-        },
-        {
-          "title": "“智慧搬运工”携手“超级冰箱”服务APEC经济体生鲜进口通道",
-          "summary": "[!--begin:htmlVideoCode--]9ff88d09b10b4e2a98acbbb300607e7e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 广州港是华南最大的综合性主枢纽港，粤港澳大湾区港口群的重要成员。广州港南沙港区凭借绿色低碳技术、智能化装备与大型临港冷链配套，搭建起亚太地区生鲜进口的重要通道，也为亚太绿色港口建设提",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI4NvrakFlFcW6mGC3CoOS261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:54:53 GMT"
-        },
-        {
-          "title": "108210亿元，增长4.3%！文化产业业态不断创新 引领带动作用凸显",
-          "summary": "[!--begin:htmlVideoCode--]90408150a8eb49e3a7533e45bdda7bd0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 国家统计局10月30日发布，2026年前三季度，全国规模以上文化企业 营业收入同比增长4.3%。2026年以来，我国文化产业体系和市场体系持续健全，文化产业业态不断创新。 数据显示，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI6k3uoaRyV8CUIytKQk6s261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:54:22 GMT"
-        },
-        {
-          "title": "从“农事”到“风景” “晒秋”经济让民俗活起来、群众腰包鼓起来",
-          "summary": "[!--begin:htmlVideoCode--]89088453ee9e4e2a88a8062de9154ea1,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 金秋时节，有着联合国旅游组织“最佳旅游乡村”称号的贵州省黔东南州黎平县的黄岗侗寨迎来香禾糯丰收季。香禾糯是这里的一种特产糯米，有“一家蒸饭万家香”的美誉。当地晾晒香禾糯的独特晒秋画卷",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI23UF3iTBZ4d3eC56TeYw261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:53:45 GMT"
-        },
-        {
-          "title": "热力不减！海外游客借助“秋韵美景+特色研学”沉浸式“体验中国”",
-          "summary": "[!--begin:htmlVideoCode--]a0f82a9e46d0432cbb87ca9c4a8b7e31,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，江苏南京进入最佳秋景观赏季，在吸引众多国内游客前来打卡的同时，也吸引了不少外国朋友专程赶来赏秋。 一大早，在南京明孝陵，一个印度尼西亚旅行团的游客正在仔细聆听导游讲解，沉浸式感",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIOchLA9AMJYCJfNofD0l7261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:53:26 GMT"
-        },
-        {
-          "title": "“银发一族”错峰游奔赴宝藏小城 多业态串联成线释放深度游潜力",
-          "summary": "[!--begin:htmlVideoCode--]ce4e8985cc0446e199037053f4dd3524,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，浙江多地秋高气爽，不少中小城市成为“银发一族”错峰游的首选目的地。 在浙江桐乡，多个景区都迎来了老年旅行团，一些景区的客流中“银发一族”占了近七成。不少老年游客表示，这段时间出",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIcft52hRji0F0Oe7ko7Vu261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:52:50 GMT"
-        },
-        {
-          "title": "三部门发文部署特殊困难老年人探访关爱服务",
-          "summary": "央视网消息： 民政部、全国老龄办、中国老龄协会日前印发《关于深入开展特殊困难老年人探访关爱服务的通知》，明确要坚持安全优先、统筹推进、因地制宜、科技赋能的原则，进一步做好特殊困难老年人探访关爱工作。全文如下： 民政部 全国老龄办 中国老龄协会关于深入开展特殊困难老年人探访关爱服务的通知 各省、自治区、直辖市民政厅（局）、老龄办，新疆生产建设兵团民政局、老龄办： 为贯彻落实党中央、国务院决策部署，推",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI6eyAG00uULdO88YNyF2P261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:36:29 GMT"
-        },
-        {
-          "title": "保障婴幼儿日常活动安全 儿童呵护用品系列国家标准实施",
-          "summary": "央视网消息 ：据“市说新语”微信公众号消息，强制性国家标准《儿童呵护用品 通用安全要求》（GB 46516—2025），以及配套推荐性国家标准《儿童呵护用品安全 儿童推车》（GB/T 14748—2025）、《儿童呵护用品安全 婴儿学步车》（GB/T 14749—2025）、《儿童呵护用品安全 婴幼儿安全护栏》（GB/T 46508—2025）将自2026年11月1日起实施。该系列标准从通用安全和",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIzIgRwq988o3EpJzUqVoJ261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:07:54 GMT"
-        },
-        {
-          "title": "江苏公安公布5起涉嫌新型黑恶违法犯罪典型案例",
-          "summary": "今天，江苏公安机关公布5起涉嫌新型黑恶违法犯罪典型案例。聚焦强迫消费、色情敲诈、裸聊敲诈、网络“套路贷”、网络暴力等新型黑恶犯罪，坚持“群众痛恨什么、厌恶什么，就打击什么、铲除什么”，重拳出击、严打高压，集中打掉一批新型涉黑恶势力组织。 案例一：扬州公安机关打掉一个涉嫌强迫消费恶势力组织 扬州市公安局广陵分局打掉一个涉嫌强迫消费恶势力组织，抓获犯罪嫌疑人10名，已查明被害人70余名，涉案金额43万",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIqJwY7XNgfZC1P31UfLuJ261030.shtml",
-          "published": "Fri, 30 Oct 2026 07:46:47 GMT"
-        },
-        {
-          "title": "廉洁文化微短剧《表面之下》今日开播",
-          "summary": "穿透腐败“迷雾”，揭开“双面人生”。10月30日起，由中央纪委国家监委驻中国证监会纪检监察组、上海证券交易所、中国金融期货交易所出品，浙文影业制作的廉洁文化微短剧《表面之下》登陆新华网、央视频、爱奇艺、腾讯视频、咪咕视频、优酷等平台播出。该剧首次聚焦利用虚拟货币等进行利益输送的新型腐败和隐性腐败，是金融反腐题材领域的又一重磅力作。 [!--begin:htmlVideoCode--]956b2a2",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIA9Zj4jptLFt1KbHsdzLV261030.shtml",
-          "published": "Fri, 30 Oct 2026 07:16:05 GMT"
-        },
-        {
-          "title": "现货黄金跌超3%，较今年高点回撤超30%",
-          "summary": "纽约金日内跌幅达3.0%，报3909.48美元/盎司；纽约银日内跌幅达6.0%，报49.21美元/盎司。 现货黄金跌破3900美元/盎司，日内跌超3%，创一年新低，较今年高点回撤超30%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784887",
-          "published": "Fri, 30 Oct 2026 14:51:56 GMT"
-        },
-        {
-          "title": "商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
-          "summary": "问：美东时间10月29日，美国联邦通信委员会（FCC）投票通过检测实验室限制措施，自2028年12月1日起，禁止授权位于中国等所谓“非互惠经济体”的检测实验室、电信认证机构及实验室认可机构，禁止在“非互惠经济体”开展涉FCC检测、认证或认可业务。请问商务部对此有何评论？ 答：我们注意到有关情况。一段时间以来，美国联邦通信委员会罔顾中方反复交涉，违背两国元首达成的重要共识，频频出台涉华限制措施，严重",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191736",
-          "published": "Fri, 30 Oct 2026 14:00:41 GMT"
-        },
-        {
-          "title": "国家外汇局：维护外汇市场稳定和国家经济金融安全",
-          "summary": "2026年10月30日，国家外汇管理局党组书记、局长朱鹤新主持召开党组会议。会议要求，认真落实“十五五”规划要求，完善更加便利、更加开放、更加安全、更加智慧的外汇管理体制机制，推进外汇领域深层次改革和高水平开放，做好金融“五篇大文章”，维护外汇市场稳定和国家经济金融安全，严厉打击非法跨境金融活动，加强外汇储备经营管理能力建设，切实走好中国特色金融发展之路。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191721",
-          "published": "Fri, 30 Oct 2026 13:37:11 GMT"
-        },
-        {
-          "title": "美国中期选举临近，这是高盛的交易指南",
-          "summary": "随着美国中期选举临近，博彩市场对民主党全面胜选的押注持续升温，高盛已为此备好一套完整的交易手册。 据市场追踪机构数据， 博彩市场目前将民主党\"横扫\"两院的概率定价在67%。 高盛的核心交易逻辑是： 做多医疗保健与可再生能源，做空大型药企、国防、加密货币，并对AI基础设施板块持谨慎态度。 值得注意的是，这套策略的底层逻辑并非押注民主党能够推动哪些立法，而是判断哪些行业将突然成为华盛顿的监管靶心。 在",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784881",
-          "published": "Fri, 30 Oct 2026 12:50:44 GMT"
-        },
-        {
-          "title": "习近平同德国总统施泰因迈尔会谈",
-          "summary": "据新华社，10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。 习近平指出，建交半个多世纪以来，中德关系保持高水平发展，始终是相互信任的朋友、彼此成就的伙伴。当前，世界百年变局加速演进，变和乱的一面更加突出。中德作为世界第二、第三大经济体，对中欧关系发展和世界经济稳定增长负有重要责任，理应加强沟通和协作，打造平等互利、战略稳定的合作新范式，对外释放要开放",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191676",
-          "published": "Fri, 30 Oct 2026 12:27:07 GMT"
-        },
-        {
-          "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
-          "summary": "AI超大规模资本开支激增正与债券市场的结构性压力形成正面碰撞，令科技股牛市承压。美银美林最新资金流向报告指出，这一矛盾短期内难以化解，真正的风险资产解压窗口或需等到2027年上半年。 据美银美林全球投资策略团队10月29日发布的《Flow Show》周报， AI超大规模云计算企业（hyperscaler）的债务发行规模在2026年已达1820亿美元，较2024年的170亿美元急剧膨胀，由此引发的债",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784877",
-          "published": "Fri, 30 Oct 2026 12:26:48 GMT"
-        },
-        {
-          "title": "布油触及半年新高，市场严阵以待，中选后海湾局势或将升温",
-          "summary": "布伦特原油价格周五攀升至六个月高位，霍尔木兹海峡商业船只遭袭与沙特能源设施受到攻击的消息叠加外交僵局，令市场对美国中期选举后海湾冲突再度升级的担忧急剧升温。 布伦特原油1月期货周五早盘触及每桶118美元，创下六个月新高。 特朗普一直在考量是否重启针对伊朗的打击行动。据央视新闻报道，特朗普近日表示， 美国或许会再来一次小规模的“史诗怒火”行动 。另据环球时报， 打击时间有可能定在下周二中期选举结束之",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784880",
-          "published": "Fri, 30 Oct 2026 12:22:09 GMT"
-        },
-        {
-          "title": "金融监督管理总局：信托公司管理信托产品，不得以任何方式向投资者承诺本金不受损失或者保证最低收益",
-          "summary": "国家金融监督管理总局 发布《资产管理信托管理办法》。办法指出，信托公司管理信托产品，不得以任何方式向投资者承诺本金不受损失或者保证最低收益，不得设置预期收益率，不得以信托产品名义开展为融资方募资服务的投资银行业务，不得开展或者参与具有滚动发行、集合运作、分离定价特征的资金池业务，不得为其他机构或者个人从事违法违规活动提供便利。 信托公司管理信托产品，应当履行自主管理职责，不得进行转委托，不得将管理",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191664",
-          "published": "Fri, 30 Oct 2026 12:02:12 GMT"
-        },
-        {
-          "title": "AI最危险的交易或许不在科技股，而在美元",
-          "summary": "当AI泡沫开始消退，最大的风险可能不是纳斯达克回调，而是美元崩塌。外国投资者持有逾20万亿美元的美国股票资产，一旦AI驱动的抛售引发股市与美元同步下跌，市场将面临远超技术性修正的宏观冲击。 德意志银行警告，AI抛售潮可能触发美国股市、货币对冲与美元之间的危险反馈循环。与以往科技股回调不同，这一次美元的传统避险属性正受到根本质疑——强美元未必能再充当外国投资者的损失缓冲垫。 如果纳斯达克、美元指数（",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784878",
-          "published": "Fri, 30 Oct 2026 11:53:32 GMT"
-        },
-        {
-          "title": "中国央行：续实施适度宽松的货币政策，保持流动性充裕",
-          "summary": "2026年10月30日，中国人民银行党委书记、行长潘功胜主持召开党委会议。会议强调，继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕。做好金融“五篇大文章”，加快建设多层次现代化金融市场体系，提升金融服务实体经济适配性，更好支持经济转型升级和增长动能转换。有力有效防范化解重点领域金融风险。扩大金融高水平开放，推进人民币国际化，加快建设和发展多渠道、广覆盖的人民币跨境支付体系。坚",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784876",
-          "published": "Fri, 30 Oct 2026 11:10:59 GMT"
-        },
-        {
-          "title": "南向ETF通再扩容，新增10只ETF",
-          "summary": "沪深交易所公布“南向ETF通”扩容名单，新增南方东英野村富时香港日本股票现金流聚焦指数ETF、南方东英富时亚洲科技及股息指数ETF、华夏港美人工智能ETF等10只ETF产品。此次调整将于11月9日正式生效。扩容后，南向ETF通产品数量将由原来的31只增至41只，涵盖的资产类型进一步多元化。（证券时报）",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191586",
-          "published": "Fri, 30 Oct 2026 11:04:17 GMT"
-        },
-        {
-          "title": "中国稀土：拟发行股份购买中稀凉山股权并募集配套资金，股票自11月2日起停牌",
-          "summary": "中国稀土公告，本次交易预计构成重大资产重组及关联交易，不构成重组上市，初步确定的主要交易对方为中国稀土集团有限公司，交易对方范围尚未最终确定。公司预计不超过10个交易日内、即2026年11月16日前披露交易方案；未按期披露则最晚于2026年11月16日开市起复牌并终止筹划。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191560",
-          "published": "Fri, 30 Oct 2026 10:48:39 GMT"
-        },
-        {
-          "title": "对话新交所集团董事总经理陈庆：区域投资者配置人民币资产渐趋长期",
-          "summary": "海外投资者配置人民币债券，又多了一种选择。 10月中旬，银河-工行-中国外汇交易中心“一带一路”债券指数ETF在新加坡交易所（下称“新交所”）挂牌，支持新元和离岸人民币交易。新交所表示，这是在新加坡证券市场上市的首只“一带一路”主题人民币债券ETF。 通过买入基金份额，投资者即可参与一篮子相关人民币债券的投资。基金在新加坡交易，所跟踪的债券指数则覆盖中国境内银行间债券市场的相关人民币债券。 这只产",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784874",
-          "published": "Fri, 30 Oct 2026 10:38:19 GMT"
-        },
-        {
-          "title": "沐曦股份：前三季度归母净利润6.39亿元，扭亏为盈",
-          "summary": "沐曦股份公告，2026年前三季度营业收入28.24亿元，同比增长128.45%；归母净利润6.39亿元，上年同期亏损3.46亿元，扭亏为盈；扣非净利润2.59亿元，扭亏为盈。第三季度单季营业收入15亿元，同比增长367.12%；归母净利润2652.71万元；扣非净利润3.08亿元。业绩变动主要因GPU产品出货量显著提升，收入规模较上年同期显著增加。 风险提示及免责条款 市场有风险，投资需谨慎。本文",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784872",
-          "published": "Fri, 30 Oct 2026 10:36:40 GMT"
-        },
-        {
-          "title": "贵州茅台：前三季度归母净利润644.67亿元，同比下降0.25%",
-          "summary": "贵州茅台公告，2026年前三季度营业收入1309.71亿元，同比增1.96%；归母净利润644.67亿元，同比降0.25%；扣非净利润643.25亿元，同比降0.55%。第三季度单季营业收入402.67亿元，同比增3.08%；归母净利润199.51亿元，同比增3.78%；扣非净利润198.61亿元，同比增2.96%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784871",
-          "published": "Fri, 30 Oct 2026 10:32:28 GMT"
-        },
-        {
-          "title": "国内生猪价跌破9元/公斤，周期反转还会来吗？",
-          "summary": "10月以来，生猪市场延续旺季不旺态势，国内生猪价格继续下行。截至10月27日，全国外三元生猪均价降至9.19元/公斤，较10月10日的10.11元/公斤下跌超过9%，部分省份如山西、湖南、四川等价格已跌破9元/公斤。 期货市场同步承压，生猪主力LH2701合约一度跌至9550元/吨附近，近远月合约普遍走弱。针对期价剧烈波动，大连商品交易所出台监管举措：自10月29日交易时起，将LH2701合约非期",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784658",
-          "published": "Fri, 30 Oct 2026 10:24:33 GMT"
-        },
-        {
-          "title": "长鑫科技：2026年前三季度净利润1320.4亿元 同比扭亏为盈",
-          "summary": "长鑫科技公告称，前三季度实现营业收入2690.24亿元，同比增长738.51%；归属于上市公司股东的净利润1320.4亿元，同比扭亏为盈。第三季度实现营业收入1187.14亿元，同比增长613.18%；归属于上市公司股东的净利润544.35亿元，同比扭亏为盈。业绩变动主要系全球DRAM产品供不应求，公司产品销售数量和销售价格大幅上涨，叠加单位成本下降，产品毛利大幅上升所致。 风险提示及免责条款 市",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784870",
-          "published": "Fri, 30 Oct 2026 10:21:48 GMT"
-        },
-        {
-          "title": "兴业证券发布三季报：三季度扣非净利润同比减少43.85%，大股东国庆后入场增持",
-          "summary": "闽系代表券商兴业证券于2026年10月30日发布2026年第三季度报告。 报告显示，受市场主要指数由强转弱影响，公司第三季度证券投资收益同比大幅下滑，单季度扣除非经常性损益后的净利润为6.68亿元，同比下降43.85%，业绩承压较为明显；好在经纪业务与资产管理业务表现相对亮眼，支撑前三季度整体业绩实现正增长。 与此同时，持股5%以上股东福建省投资开发集团有限责任公司（下称\"福建省投\"）于国庆节后启",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784869",
-          "published": "Fri, 30 Oct 2026 10:12:51 GMT"
-        },
-        {
-          "title": "长飞光纤：前三季度归母净利润61.28亿元，同比增长1204.63%",
-          "summary": "长飞光纤公告，2026年前三季度营业收入191.24亿元，同比增长86.12%；归母净利润61.28亿元，同比增长1204.63%；扣非净利润55.05亿元，同比增长1846.32%。第三季度单季营业收入93.16亿元，同比增长139.42%；归母净利润32.03亿元，同比增长1741.52%；扣非净利润30.56亿元，同比增长2003.37%。业绩增长主要受智算中心加速建设影响，行业进入上行周期",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784867",
-          "published": "Fri, 30 Oct 2026 09:58:04 GMT"
-        },
-        {
-          "title": "铠侠第二季度营业利润1.99万亿日元，预期1.95万亿日元；净利润1.36万亿日元，预期1.37万亿日元",
-          "summary": "铠侠第二季度营业利润1.99万亿日元，预期1.95万亿日元；净利润1.36万亿日元，预期1.37万亿日元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784866",
-          "published": "Fri, 30 Oct 2026 09:47:54 GMT"
-        },
-        {
-          "title": "AI退潮、利率回落：美股广度修复，谁将成为下一批赢家？",
-          "summary": "近期科技巨头集中披露财报后，市场并未迎来预期中的盈利共振；相反，AI基础设施巨额资本开支侵蚀自由现金流，叠加投资者对投入回报周期的担忧，AI板块抛售延续。 谷歌母公司Alphabet因搜索和广告销售不及预期，股价单日暴跌13%，创历史最大单日跌幅，市值蒸发近5000亿美元；亚马逊盘后跌7.3%，英特尔跌23%，ServiceNow、Fortinet分别重挫27%和20%，费城半导体指数（SOX）跌",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784857",
-          "published": "Fri, 30 Oct 2026 09:31:52 GMT"
-        },
-        {
-          "title": "金价跌破4000美元/盎司！谁是黄金市场的幽灵卖家？",
-          "summary": "10月23日，伦敦金现跌破4000美元/盎司，本周累计跌幅已超4%，创下6月以来最大单周跌幅。本轮抛售或受两方面因素驱动：一方面，在中东局势再度升级、胡塞武装袭击沙特等地缘冲突扰动下，市场对美元融资与流动性压力的担忧加剧，部分官方部门倾向于将黄金储备作为高流动性资产变现；另一方面，近期AI股下跌触及部分杠杆资金的强平线，相关股票资金需补缴保证金，黄金因流动性优势可能成为被动变现的来源。 不过，在可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784467",
-          "published": "Fri, 30 Oct 2026 09:28:11 GMT"
-        },
-        {
-          "title": "发改委等部门发布《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》",
-          "summary": "意见提出，推动农产品批发市场、农贸市场、农村集贸市场、乡镇商贸中心等农产品市场提档升级，完善市场摊位、给排水、供电、照明、垃圾处理等配套设施。推动日用品、食品、服装、家电、汽车等工业消费品市场改造升级，提升仓储、分拣、包装、消防等配套设施。推动城乡商品交易市场智慧化改造，推广电子结算、智能称重、无感支付、溯源管理等数字化应用，打造线上线下融合、批零兼营、服务便捷的现代化商品交易市场。 风险提示及免",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784864",
-          "published": "Fri, 30 Oct 2026 09:22:25 GMT"
-        },
-        {
-          "title": "险资投向新质生产力，长钱也在寻找确定性",
-          "summary": "一笔80亿元的长期股权投资，在持有七年后，迎来了一次资产形态的转换。 2018年，中国人寿通过国寿资产投资电投核能，获得26.76%的股权。2025年底，这部分股权通过上市公司重大资产重组，转化为电投产融新发行的股份。 这笔跨越七年的投资，为观察保险资金如何参与长期产业投资、管理风险和安排资金接续，提供了一个具体案例。 长期以来，保险资金被视为支持科技创新和产业升级的重要资金来源。它拥有相对长期的",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784863",
-          "published": "Fri, 30 Oct 2026 09:20:52 GMT"
-        },
-        {
-          "title": "突破100欧元！欧洲天然气荒逼近临界点：暖冬是唯一缓冲？",
-          "summary": "随着北半球进入冬季供暖季，欧洲天然气市场再度面临严峻考验。截至10月27日，欧洲基准天然气价格TTF突破100欧元/兆瓦时，年内涨幅约234%，创2022年能源危机以来新高。 而目前欧盟天然气库存率仅为74.6%，显著低于过去十年同期约90%的平均水平，为有记录以来同期最低值。德国库存约61%，西北欧及英国库存约69%，均显著低于往年。库存不足叠加冬季需求即将上升，使欧洲天然气市场对供应扰动与天气",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784712",
-          "published": "Fri, 30 Oct 2026 09:17:59 GMT"
-        },
-        {
-          "title": "追求多元电池供应的车企又增一家 宁德时代如何应对？",
-          "summary": "宁德时代计划将换电作为打破困局的突破口，同时可能也在酝酿其他调整措施 【财新网】 小米子公司出资17亿元入股欣旺达动力科技股份有限公司（下称“欣旺达动力”），交易完成后，小米将间接持有欣旺达动力5.34%的股份，成为其第三大股东。10月29日，欣旺达（300207.SZ）发布公告披露上述信息，欣旺达是欣旺达动力的母公司。 欣旺达动力是国内二线动力和储能电池企业。据中国汽车动力电池产业创新联盟统计，",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-30/102499254.html",
-          "published": "Fri, 30 Oct 2026 14:41:21 GMT"
-        },
-        {
-          "title": "结汇如潮 在岸和离岸人民币对美元分别升破6.66和6.65",
-          "summary": "在岸人民币对美元近三年半首次回到6.66下方；当天中间价较前一日收盘价偏弱，点差从四个月前的100点走扩至目前的500点，释放避免超调的信号 【财新网】 人民币汇率强势依旧，年末结汇潮将近更为行情添了一把火。 10月30日16点30分发布的在岸人民币对美元收盘价报6.6557，为近三年半首次回到6.66下方。当天，离岸人民币对美元更是一度冲破6.65，盘中最强位置触及6.649左右。 中间价报价释",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-30/102499248.html",
-          "published": "Fri, 30 Oct 2026 14:18:23 GMT"
-        },
-        {
-          "title": "回购、增持、分红 上市公司密集出招应对大幅下跌",
-          "summary": "今年以来，全市场A股上市公司累计公告回购金额超过2500亿元，已创历年新高 【财新网】 10月最后一个交易日结束，截至收盘，上证指数再次失守3600点报收3599.02点。10月各个股指均下跌，上证指数下跌6.3%，深成指下跌15.9%，双创指数的跌幅更是均超23%，创业板指较6月高点回撤超44%，科创50较7月高点回撤超48%，几近腰斩。市场波动调整之际，上市公司密集披露回购公告以提振市场信心。",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-30/102499226.html",
-          "published": "Fri, 30 Oct 2026 13:20:27 GMT"
-        },
-        {
-          "title": "习近平同德国总统会谈：中德应打造平等互利、战略稳定的合作新范式",
-          "summary": "中欧关系历经风雨，合作过程中出现一些问题是发展中的问题、前进中的矛盾。只要坚守伙伴关系定位、秉持平等对话基调，分歧和问题总能得到解决，不会阻碍中欧关系向前发展 10月30日下午，国家主席习近平在北京同德国总统施泰因迈尔举行会谈。图：新华社 【财新网】 10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。 据新华社消息，习近平指出，建交半个多世纪以来，中德",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://international.caixin.com/2026-10-30/102499213.html",
-          "published": "Fri, 30 Oct 2026 12:35:44 GMT"
-        },
-        {
-          "title": "美国逆变器进口政策趋严 中企将受哪些影响？｜出海·能源",
-          "summary": "近几年中国对美逆变器出口量已呈现逐年下滑趋势，新政或加剧中国出口企业的风险 【财新网】 美国对进口逆变器的限制趋严。“中国逆变器制造商面临着多重风险，一方面可能失去美国的出口市场，同时，竞争对手在积极建设美国本土产能，并正欲攫取增长强劲且多元化的区域市场。” 行业研究机构PV Tech Research 10月26日发布报告指出这一趋势。 逆变器广泛应用于光伏发电、电池储能以及部分风力发电系统，其",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-30/102499209.html",
-          "published": "Fri, 30 Oct 2026 11:57:44 GMT"
-        },
-        {
-          "title": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
-          "summary": "隔夜利率代表市场最短端的流动性松紧状况，没有长端的期限风险干扰，信号最及时、最纯粹，适合用来传递央行的政策立场 多位市场人士向财新指出，利率换“锚”的初衷是优化短端市场利率调控机制，推动货币政策向价格型调控转型，不过利率中枢的实质性下移是客观结果。图：IC photo 【财新网】 随着最新公开市场操作公告的发布，央行主要政策利率“换锚”正式落地。 10月30日，央行发布公开市场业务公告称，为进一步",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-30/102499195.html",
-          "published": "Fri, 30 Oct 2026 11:36:23 GMT"
-        },
-        {
-          "title": "华发集团债务风险逼近 珠海国资委主导华发加快出售资产纾困",
-          "summary": "据财新了解，早在二季度，华发集团内部已经预见到债务风险，在珠海国资委主导下，该公司着手处置多项资产，最新敲定一笔逾45亿元交易 10月29日，珠海华发投资控股集团有限公司发布公告称，经珠海国资委同意，珠海格力集团有限公司、珠海交通控股集团有限公司分别收购华发投控在珠海铧创投资控股有限公司持有的部分股权。图：IC photo 【财新网】 珠海华发集团有限公司（下称“华发集团”）因债务风险而流动性承压",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-30/102499182.html",
-          "published": "Fri, 30 Oct 2026 11:05:55 GMT"
-        },
-        {
-          "title": "中国电动两轮车前三季度出口额增长近四成 拉美和非洲增速领先",
-          "summary": "外卖配送、摩的载客等行业电动化转型为海外两轮车市场注入新需求，中国企业加快布局销售渠道、本地生产及换电服务 2026年前九个月，中国电动两轮车出口额同比上涨37.8%，增至72.6亿美元；出口量同比上涨28%，增至2604.86万辆。图：视觉中国 【财新网】 中国电动两轮车出口保持快速增长。2026年前九个月，中国电动两轮车出口额同比上涨37.8%，增至72.6亿美元；出口量同比上涨28%，增至2",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-30/102499178.html",
-          "published": "Fri, 30 Oct 2026 11:05:30 GMT"
-        },
-        {
-          "title": "全球最大加密货币交易所遭黑客入侵 币安被盗63亿美元",
-          "summary": "大批用户出于对中心化托管安全性的担忧，将资产提至链上非托管钱包，去中心化交易所（DEX）迎来资金红利 币安于北京时间10月30日上午10:25在X上发布公告表示，初步调查显示，此次安全事件可能与一名DevOps工程师的笔记本电脑被入侵有关，攻击者利用该电脑访问了服务容器并提交了未经授权的提现交易。图：视觉中国 【财新网】 UTC时间（伦敦时间）10月29日晚，全球最大加密货币交易所币安（Binan",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-10-30/102499146.html",
-          "published": "Fri, 30 Oct 2026 10:48:23 GMT"
-        },
-        {
-          "title": "消费引擎如何提速",
-          "summary": "稳定收入预期、完善保障体系以减少预防性储蓄，应是提振消费的发力方向 【财新网】 在做强国内大循环、拓展内需增长新空间的背景下，消费在中国经济增长中的重要性日益凸显。 提振消费成为近年来中国经济工作的首要任务，不仅已连续三年实施以旧换新补贴政策、从2025年开始开展提振消费专项行动，而且“十五五”规划纲要还提出“促进形成更多由内需主导、消费拉动、内生增长的经济发展模式”。 不过近期公布的相关数据显示",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://economy.caixin.com/2026-10-30/102499136.html",
-          "published": "Fri, 30 Oct 2026 10:31:45 GMT"
-        }
-      ]
-    },
-    {
-      "name": "国内军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-          "summary": "[!--begin:htmlVideoCode--]f717531f8f754c2cbbcb2e201bd524ba,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 王沪宁蔡奇李希出席 中共中央8月21日在中南海召开党外人士座谈会，就中共中",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIhbAYSDYLbML6sEn0ec2H261030.shtml",
-          "published": "Fri, 30 Oct 2026 11:30:39 GMT"
-        },
-        {
-          "title": "墨西哥抓获“海湾卡特尔”贩毒集团旗下团伙二号人物",
-          "summary": "新华社墨西哥城10月29日电（记者翟淑睿　吴昊）墨西哥安全部长奥马尔·加西亚·阿富奇29日说，墨西哥联邦安全力量当天在塔毛利帕斯州马塔莫罗斯市抓获两名犯罪嫌疑人，其中包括贩毒集团“海湾卡特尔”旗下的“飓风”犯罪团伙二号人物阿克塞尔·阿尔弗雷多。 阿富奇在社交媒体发文说，阿克塞尔·阿尔弗雷多涉嫌参与谋杀、绑架、敲诈勒索，以及向美国贩运毒品、武器和人口等犯罪活动。他还被指控与今年5月的一起墨西哥联邦公",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI9CqRuPq0LHiUclBCOkeD261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:25:55 GMT"
-        },
-        {
-          "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
-          "summary": "央视网消息 ：10月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡，这是对菲方侵权挑衅行径的必要反制。黄岩岛是中国固有领土。10月份以来，战区部队组织海空兵力持续加强黄岩岛领海周边海空域巡逻警戒，进一步强化有关海空域管控力度，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIGTr24CTclKJ0dCKNpq9c261030.shtml",
-          "published": "Fri, 30 Oct 2026 07:59:10 GMT"
-        },
-        {
-          "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-          "summary": "征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 王沪宁蔡奇李希出席 新华社北京10月30日电　中共中央8月21日在中南海召开党外人士座谈会，就中共中央关于持之以恒推进全面从严治党若干重大问题的决定听取各民主党派中央、全国工商联负责人和无党派人士代表的意见建议。中共中央总书记习近平主持座谈会并发表重要讲话强调，治国必先治党，强",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI425wjkPRuHZMQ9vPUwMU261030.shtml",
-          "published": "Fri, 30 Oct 2026 07:27:44 GMT"
+          "link": "https://mini.caixin.com/2026-10-31/102499347.html",
+          "published": "Sat, 31 Oct 2026 02:38:59 GMT"
         }
       ]
     },
@@ -963,76 +207,82 @@
       "summary": "",
       "items": [
         {
-          "title": "时政Vlog丨德国总统在北大打了场乒乓球",
-          "summary": "[!--begin:htmlVideoCode--]ed205964d57c4b3380c84fdbf8e3fdf4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 10月29日下午，正在中国访问的德国总统施泰因迈尔来到北京大学，接受北京大学授予他名誉教授称号并与学生交流。活动后，总统夫妇来到邱德拔体育馆，与北京大学师生进行了一场特别的乒乓球友谊赛。 快跟随T",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTI9PkbnsAFa4wlFxjm7CkB261030.shtml",
-          "published": "Fri, 30 Oct 2026 11:10:35 GMT"
-        },
-        {
-          "title": "网传“湘江三大桥桥墩疑似倾斜” 官方通报：非桥梁桥墩主体结构",
-          "summary": "央视网消息： 据“湘潭城管”微信公众号消息，10月30日，湖南湘潭市城市管理和综合执法局发布关于网传“湘江三大桥桥墩疑似倾斜”相关视频的情况通报。 2026年10月29日，网传“湘江三大桥桥墩疑似倾斜”相关视频，引发部分网民关注。经现场核查、专业研判，现将有关情况通报如下： 网传视频中看似倾斜的部位，为桥墩外围红色防撞防护设施，并非桥梁桥墩主体结构。该防护设施长期受江水浸泡、水流冲刷及漂浮物撞击影",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIpX9KmeXkCw6yrir3fgHA261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:42:08 GMT"
-        },
-        {
-          "title": "与会同志谈贯彻落实党的二十届五中全会精神之一",
-          "summary": "办好中国的事情，关键在党，关键在党要管党、全面从严治党。党的二十届五中全会10月26日至29日在北京举行。会议审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。 会议期间，部分与会同志围绕学习领会全会精神接受新华社记者采访。大家一致表示，在中国共产党成立105周年、“十五五”开局的重要节点，在中华民族伟大复兴的关键时期，全会对持之以恒推进全面从严治党作出战略部署，是以习近平同志",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIl7ggKHTV3gk7CuXdEWWN261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:23:48 GMT"
-        },
-        {
-          "title": "从“无机可用”到“优机可选” 智慧农机翻山越岭把“短板田”变成“潜力田”",
-          "summary": "[!--begin:htmlVideoCode--]e228c19ad07b4e95a3f53f96978d0087,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 丽水缙云县位于浙江省南部，是“八山一水一分田”的山区县。凭借丰富的山地丘陵资源，作为全国的一个丘陵农机大规模成熟化应用的试点地区。当前，正值秋季水稻收获、冬季芥菜轮作关键期，当地梯田",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIyEOULH594hVtUPhrWuuV261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:55:05 GMT"
-        },
-        {
-          "title": "“银发一族”错峰游奔赴宝藏小城 多业态串联成线释放深度游潜力",
-          "summary": "[!--begin:htmlVideoCode--]ce4e8985cc0446e199037053f4dd3524,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，浙江多地秋高气爽，不少中小城市成为“银发一族”错峰游的首选目的地。 在浙江桐乡，多个景区都迎来了老年旅行团，一些景区的客流中“银发一族”占了近七成。不少老年游客表示，这段时间出",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIcft52hRji0F0Oe7ko7Vu261030.shtml",
-          "published": "Fri, 30 Oct 2026 08:52:50 GMT"
-        },
-        {
-          "title": "江苏公安公布5起涉嫌新型黑恶违法犯罪典型案例",
-          "summary": "今天，江苏公安机关公布5起涉嫌新型黑恶违法犯罪典型案例。聚焦强迫消费、色情敲诈、裸聊敲诈、网络“套路贷”、网络暴力等新型黑恶犯罪，坚持“群众痛恨什么、厌恶什么，就打击什么、铲除什么”，重拳出击、严打高压，集中打掉一批新型涉黑恶势力组织。 案例一：扬州公安机关打掉一个涉嫌强迫消费恶势力组织 扬州市公安局广陵分局打掉一个涉嫌强迫消费恶势力组织，抓获犯罪嫌疑人10名，已查明被害人70余名，涉案金额43万",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIqJwY7XNgfZC1P31UfLuJ261030.shtml",
-          "published": "Fri, 30 Oct 2026 07:46:47 GMT"
-        },
-        {
-          "title": "宁波银行发布三季报：营收利润两位数增长，总资产首破4万亿",
-          "summary": "城商行“领跑者”宁波银行，日前发布三季报。 三季报显示，2026年1-9月，宁波银行实现营业收入612.12亿元，同比增长11.34%；实现归母净利润251.49亿元，同比增长12.05%，营收与净利润均保持两位数增长。截至9月末，该行总资产达4.097万亿元，较年初增长12.92%，首次突破4万亿元。 规模站上新台阶的同时，该行盈利端也出现积极变化：利息净收入保持较快增长，净息差较上半年企稳，中",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784879",
-          "published": "Fri, 30 Oct 2026 11:59:29 GMT"
-        },
-        {
-          "title": "GPT周报｜苹果一周内发布可触屏MacBook等新品；谷歌发布新一代前沿模型Gemini 4 Carbon；Kimi首次推出Pro版本模型",
-          "summary": "推荐：OpenAI发布新中端模型GPT-6.1 Terra；智元推出具身模型GO-3 Preview；大晓机器人联合南洋理工大学发布世界模型Mundo 【财新网】 苹果一周内发布可触屏MacBook等新品 苹果在过去一周连发新品。10月28日，苹果推出配备 PROLED XDR 显示屏的 MacBook Pro，首次将直观触控体验引入 Mac 机型。10月27日，苹果发布搭载 M6 芯片的新款 1",
+          "title": "10月统计局制造业PMI降至49.3 供需均由扩张转为收缩",
+          "summary": "新出口订单下降、部分消费品需求提前释放；假期出行、信息服务业高景气未能对冲金融业景气下降，服务业PMI降至50的荣枯分界线上，建筑业景气收缩显示投资落地进度偏慢 2026年10月30日，浙江德清，机械公司车间内，工人正在检验车架质量。图：视觉中国 【财新网】 2026年10月，受“十一”假期前部分需求提前释放、国际环境复杂多变等因素影响，制造业景气明显回落，再度跌至收缩区间。 国家统计局10月31",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-10-30/102499220.html",
-          "published": "Fri, 30 Oct 2026 13:06:39 GMT"
+          "link": "https://economy.caixin.com/2026-10-31/102499381.html",
+          "published": "Sat, 31 Oct 2026 03:07:41 GMT"
         },
         {
-          "title": "委内瑞拉反对派领导人马查多归国 敦促2027年举行大选",
-          "summary": "特朗普称：“她把诺贝尔奖给了我，我还能说什么呢？我希望她平安无事。” 当地时间2026年10月29日，委内瑞拉加拉加斯，委内瑞拉反对派领导人马查多出席新闻发布会。图：视觉中国 【财新网】 在1月3日美国对委内瑞拉发动军事袭击，并强掳该国总统马杜罗近10个月后，由马杜罗副手罗德里格斯接任成为代总统的委国政治格局，近来随着反对派领导人、2025年诺贝尔和平奖得主马查多归国而出现了松动的迹象。 在海外流",
+          "title": "【周刊提前读】大学生数万元付费求职 中介“无限内推”玩的什么把戏？",
+          "summary": "【本文系数据通用户提前专享】求职竞争激烈，不少大学生求助于中介服务，却进入了一个真假难辨的地带 2026年10月21日，江苏淮安，大学生在校园招聘会上求职。近年来，大学生求职竞争加剧，求职陪跑、付费实习等服务应运而生，从简历修改、秋招规划到面试辅导、岗位内推，收费动辄数万元。目前市场上提供这类服务的机构鱼龙混杂。",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://international.caixin.com/2026-10-30/102499131.html",
-          "published": "Fri, 30 Oct 2026 10:19:10 GMT"
+          "link": "https://database.caixin.com/2026-10-31/102499325.html",
+          "published": "Sat, 31 Oct 2026 01:58:51 GMT"
+        },
+        {
+          "title": "研究：吃肉可能与长寿有关，尤其是在体重较轻的老人中｜健保",
+          "summary": "在真实的老龄社会里，蛋白质摄入可能是影响长寿的重要因素之一。图：视觉中国 长寿饮食通常建议以素食为主，但 2026 年 2 月，一项来自复旦大学团队的研究在中国老年人群中发现，长期完全不吃肉的人，成为百岁老人的概率反而更低，尤其是在体重偏轻的老人中，这种差异更加明显[1]。这提示我们，在真实的老龄社会里，蛋白质摄入可能是影响长寿的重要因素之一。 那么，吃肉为什么可能与长寿相关？中国老年人现在到底吃",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-31/102499313.html",
+          "published": "Sat, 31 Oct 2026 01:28:48 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "10月统计局制造业PMI降至49.3 供需均由扩张转为收缩",
+          "summary": "新出口订单下降、部分消费品需求提前释放；假期出行、信息服务业高景气未能对冲金融业景气下降，服务业PMI降至50的荣枯分界线上，建筑业景气收缩显示投资落地进度偏慢 2026年10月30日，浙江德清，机械公司车间内，工人正在检验车架质量。图：视觉中国 【财新网】 2026年10月，受“十一”假期前部分需求提前释放、国际环境复杂多变等因素影响，制造业景气明显回落，再度跌至收缩区间。 国家统计局10月31",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-10-31/102499381.html",
+          "published": "Sat, 31 Oct 2026 03:07:41 GMT"
+        },
+        {
+          "title": "【周刊提前读】大学生数万元付费求职 中介“无限内推”玩的什么把戏？",
+          "summary": "【本文系数据通用户提前专享】求职竞争激烈，不少大学生求助于中介服务，却进入了一个真假难辨的地带 2026年10月21日，江苏淮安，大学生在校园招聘会上求职。近年来，大学生求职竞争加剧，求职陪跑、付费实习等服务应运而生，从简历修改、秋招规划到面试辅导、岗位内推，收费动辄数万元。目前市场上提供这类服务的机构鱼龙混杂。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499325.html",
+          "published": "Sat, 31 Oct 2026 01:58:51 GMT"
+        },
+        {
+          "title": "【周刊提前读】卢拉意外胜选 拉美右转旋风终结在巴西？",
+          "summary": "【本文系数据通用户提前专享】这一结果不仅打破民调预测和既往先例，也使得拉美近年右转的钟摆，在巴西这一地区最大经济体和第一人口大国，戛然而止 2026年10月25日，巴西圣保罗，卢拉第四次当选巴西总统。选举结束后，卢拉在洲际酒店向支持者和媒体发表讲话。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499321.html",
+          "published": "Sat, 31 Oct 2026 01:50:38 GMT"
+        },
+        {
+          "title": "【行业速递】券商第三季业绩向下拐点突出 自营业务成核心拖累",
+          "summary": "权益自营占比高、重仓科创赛道的券商，面临浮盈回撤的显著冲击。也有部分凭借明星IPO项目直投跟投收益或固收投资稳健表现，对冲了权益下跌损失",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499305.html",
+          "published": "Sat, 31 Oct 2026 01:00:30 GMT"
+        },
+        {
+          "title": "群山中的幽灵｜猎读",
+          "summary": "世界自然保护联盟于2017年做出决议，将雪豹的保护等级，从濒危调降至易危，尽管雪豹保护机构强烈反对 在彼得·马蒂亚森的《雪豹》这本灵修畅销书中，书名中的大猫总是神秘地拒绝现身。对野生动物感兴趣的朋友，都知道这种山兽孤绝避世，对网红文化不算友好，拒绝配合拍摄打卡。总之，这是一个话题。 最近的一本新书——苏里亚万希·库尔布尚辛格的《群山的幽灵：揭秘雪豹》，提供了很多关于这种猫科动物的知识。作者是印度生",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-31/102499302.html",
+          "published": "Sat, 31 Oct 2026 00:53:56 GMT"
+        },
+        {
+          "title": "财新闻｜“三桶油”最新财报出炉：中国石化前三季度净利同比增30%，中国石油增21.9%，中国海油增16.8%",
+          "summary": "11月2日起，国博凤冠惜别“古代中国”，即将开启自己的专题展览；游泳选手王子铭兴奋剂检查阳性被禁赛；市场监管总局批准发布2项生物芯片国家标准 11月2日起，国博凤冠惜别“古代中国”，即将开启自己的专题展览 2026年11月2日起，中国国家博物馆“人气顶流”展品——孝端皇后九龙九凤冠，将暂别坚守多年的“古代中国”基本陈列，“移师”国博北16展厅，即将开启属于自己的专题展览——“明礼华章——万历孝端皇",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-10-31/102499300.html",
+          "published": "Sat, 31 Oct 2026 00:11:59 GMT"
         }
       ]
     },
@@ -1041,59 +291,26 @@
       "summary": "",
       "items": [
         {
-          "title": "从“乌镇时间”到“全球荣耀”",
-          "summary": "一年一度的世界互联网大会，持续在为数智时代标注新坐标。世界互联网大会杰出贡献奖的设立，也让“乌镇时间”拥有了超越峰会会期的深远价值。 这一奖项虽设立不足三年，却已成为一份跨年度、持续记录全球互联网价值的权威荣誉。自2024年设立以来，奖项表彰在全球互联网相关领域作出杰出贡献的个人和企业，旨在发挥榜样模范引领作用，激励各方推动互联网及关联领域蓬勃发展，让更多国家和人民共享互联网发展成果。 2024年",
+          "title": "【周刊提前读】深度：全球科技股震荡 价值回归还是泡沫退潮？",
+          "summary": "【本文系数据通用户提前专享】AI泡沫论持续一年后，全球科技股震荡回调，是价值回归还是信心考验？",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/10/30/ARTIcmriH1fFQzzyQEwEG5DK261030.shtml",
-          "published": "Fri, 30 Oct 2026 09:39:25 GMT"
-        },
-        {
-          "title": "从监测到干预，王腾想做一门更难的睡眠生意",
-          "summary": "离开小米后，王腾交出的首份创业产品答卷，横跨了两个价格带，也跨过了消费电子与卧室家居之间的边界。 10月29日，今日宜休在北京发布智能戒指ISHO Ring和床面温控系统ISHO iFlow，标准版售价分别为1799元、9999元。后者由床笠与主机组成，加装在现有床垫上，通过水循环调节冷暖，支持双人分区。 睡眠科技并不缺少需求，也不缺少参与者。 起源于芬兰的智能戒指品牌Oura，以戒指记录健康数据",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784886",
-          "published": "Fri, 30 Oct 2026 14:51:48 GMT"
-        },
-        {
-          "title": "AI最危险的交易或许不在科技股，而在美元",
-          "summary": "当AI泡沫开始消退，最大的风险可能不是纳斯达克回调，而是美元崩塌。外国投资者持有逾20万亿美元的美国股票资产，一旦AI驱动的抛售引发股市与美元同步下跌，市场将面临远超技术性修正的宏观冲击。 德意志银行警告，AI抛售潮可能触发美国股市、货币对冲与美元之间的危险反馈循环。与以往科技股回调不同，这一次美元的传统避险属性正受到根本质疑——强美元未必能再充当外国投资者的损失缓冲垫。 如果纳斯达克、美元指数（",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784878",
-          "published": "Fri, 30 Oct 2026 11:53:32 GMT"
-        }
-      ]
-    },
-    {
-      "name": "心理学",
-      "summary": "",
-      "items": [
-        {
-          "title": "金价跌破4000美元/盎司！谁是黄金市场的幽灵卖家？",
-          "summary": "10月23日，伦敦金现跌破4000美元/盎司，本周累计跌幅已超4%，创下6月以来最大单周跌幅。本轮抛售或受两方面因素驱动：一方面，在中东局势再度升级、胡塞武装袭击沙特等地缘冲突扰动下，市场对美元融资与流动性压力的担忧加剧，部分官方部门倾向于将黄金储备作为高流动性资产变现；另一方面，近期AI股下跌触及部分杠杆资金的强平线，相关股票资金需补缴保证金，黄金因流动性优势可能成为被动变现的来源。 不过，在可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784467",
-          "published": "Fri, 30 Oct 2026 09:28:11 GMT"
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-10-31/102499314.html",
+          "published": "Sat, 31 Oct 2026 01:29:29 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 129,
-    "total_collected": 101,
-    "sources": 7,
+    "total_items": 33,
+    "total_collected": 27,
+    "sources": 4,
     "source_list": [
-      "BBC中文",
       "Hacker News",
       "TechCrunch",
       "The Verge",
-      "华尔街见闻",
-      "央视新闻",
       "财新网"
     ],
-    "domains": 7
+    "domains": 5
   }
 }
