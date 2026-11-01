@@ -1,244 +1,228 @@
 {
-  "id": "2026-10-31-14",
-  "datetime": "2026-10-31 14:24:29",
-  "date": "2026-10-31",
-  "time": "14:24",
-  "period": "下午",
-  "summary": "本期采集 26 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 40 条摘要",
+  "id": "2026-11-01-04",
+  "datetime": "2026-11-01 04:55:20",
+  "date": "2026-11-01",
+  "time": "04:55",
+  "period": "凌晨",
+  "summary": "本期采集 23 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 34 条摘要",
   "domains": [
-    {
-      "name": "AI / 人工智能",
-      "summary": "",
-      "items": [
-        {
-          "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-          "published": "Sat, 31 Oct 2026 13:25:10 +0000"
-        },
-        {
-          "title": "We Took over ChatGPT Accounts",
-          "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 102 # Comments: 46",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "published": "Sat, 31 Oct 2026 10:30:11 +0000"
-        },
-        {
-          "title": "Serbia just elected the world's brainiest parliament",
-          "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 457 # Comments: 276",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-          "published": "Sat, 31 Oct 2026 10:21:30 +0000"
-        },
-        {
-          "title": "I took two iPhones on vacation. The Duo won me over.",
-          "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-          "importance": "medium",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-          "published": "Sat, 31 Oct 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Touchscreens everywhere!",
-          "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the I",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-          "published": "2026-10-31T08:00:00-04:00"
-        },
-        {
-          "title": "DeepSeek重磅开源：Agent底座架构！",
-          "summary": "DeepSeek，又有新动作了！ 而且这回，官方直接把Personal Agent的底层架构思路公开了。 要知道，此前不少人还在等DeepSeek推出传闻中的「dsh dot」，结果这次先等来了一篇面向工程实践的架构思路探讨—— 何意味？AI可以在没人@、没人下指令的情况下，自己发现Bug、定位问题，甚至主动提交修复PR了。 甚至它还能持续关注工作群消息，跨平台协作、并行处理多个复杂任务，甚至实现",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191979",
-          "published": "Sat, 31 Oct 2026 13:06:53 GMT"
-        },
-        {
-          "title": "黄仁勋：孩子没野心，AI 只会帮他更懒",
-          "summary": "10月23日，英伟达CEO黄仁勋与哈萨克斯坦副总理扎斯兰·马迪耶夫进行了会谈。演讲中，黄仁勋聊到了在AI时代，哪些特质能帮助你取得成功。黄仁勋指出，AI不仅是生产力工具，更是放大人类雄心、推动国家、企业及个人实现跨越式发展的强大引擎。无论你是农民、科学家、工程师，面对AI时代的浪潮，只有敢于心怀大志、拥抱变革，才能让梦想照进现实。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960120",
-          "published": "Sat, 31 Oct 2026 10:45:03 GMT"
-        },
-        {
-          "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
-          "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal ",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784923",
-          "published": "Sat, 31 Oct 2026 10:20:58 GMT"
-        },
-        {
-          "title": "为何10月PMI偏弱？",
-          "summary": "事件： 10月31日，国家统计局公布10月PMI指数，制造业PMI为49.3%、前值50.1%；非制造业PMI为49.7%、前值50.2%。 1. 核心观点：10月PMI偏弱，不仅与假期效应退坡有关，也反映高油价、AI产业调整影响 制造业PMI： 10月PMI回落幅度持平2022年以来的偏弱季节性，主要源于假期效应退坡的影响，一是表现为“抢生产”结束。 10月制造业PMI回落0.8个百分点至49.",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784920",
-          "published": "Sat, 31 Oct 2026 09:44:06 GMT"
-        },
-        {
-          "title": "国新、诚通出手，三季度加仓名单曝光",
-          "summary": "随着2026年A股三季报披露收官，中国国新与中国诚通两大国有资本运营平台三季度持仓动向浮出水面。中国国新旗下国新投资以及中国诚通控股集团有限公司，在电力、能源、军工电子、通信、半导体等多个重点赛道，展开新进布局与增持动作。 据不完全统计，2026年三季度，国新投资现身23家上市公司前十大股东名单，新进入3家上市公司前十大股东名单，并增持8家上市公司股份。在人工智能和集成电路产业，国新投资全面覆盖材",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191946",
-          "published": "Sat, 31 Oct 2026 09:10:28 GMT"
-        },
-        {
-          "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
-          "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784918",
-          "published": "Sat, 31 Oct 2026 09:10:24 GMT"
-        },
-        {
-          "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
-          "summary": "标普全球评级周五将Meta Platforms的AA-信用评级展望由稳定下调至负面，评级本身维持AA-不变。 标普的理由是AI相关高额资本开支推升杠杆，自由经营现金流承压，且Meta将AI投资变现的能力弱于同业。 标普表示，目前尚不清楚这些开支何时才会带来超过成本上升的重大收入。负面展望反映的是资本开支将维持高位多久、自由经营现金流将持续为负多久的不确定性。 同日美股科技股走弱，纳指收跌约3.5%",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784917",
-          "published": "Sat, 31 Oct 2026 09:04:27 GMT"
-        },
-        {
-          "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
-          "summary": "「从全球资源配置的角度来看，让每个人把紧缺的 DRAM 囤在自己电脑里大部分时间闲置，是『相当糟糕』（quite terrible）的安排，内存应该集中到云端数据中心去。」 话都说到这份上了。 本周四在接受 YouTube 频道 Cheeky Pint 的采访时，OpenAI CEO 山姆・奥特曼（Sam Altman）全程喝着啤酒，气氛轻松地聊了聊 AI 大模型的本地推理，以及由此延伸出的家用电",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784916",
-          "published": "Sat, 31 Oct 2026 08:12:12 GMT"
-        },
-        {
-          "title": "财报炸裂，但闪迪隔夜为何暴跌？",
-          "summary": "闪迪交出全面超预期的财报，股价却在周五美股盘前一度暴跌8%。问题出在它的日本晶圆厂合作伙伴铠侠（Kioxia）：后者给出的利润指引不及预期，并警告AI推动的闪存涨价潮正在降温。 闪迪周四盘后的成绩单几乎挑不出毛病：营收和每股收益超预期，毛利率85%，指引高于华尔街预期，另追加50亿美元回购并宣布1拆8拆股。但股价盘后纹丝不动。 美东时间周五5:54，彭博报道了铠侠的指引，闪迪盘前最多跌至1197.",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784914",
-          "published": "Sat, 31 Oct 2026 07:02:53 GMT"
-        },
-        {
-          "title": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高",
-          "summary": "周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。 标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。 防御板块则受到追捧。必需消费是标普500表现最",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784912",
-          "published": "Sat, 31 Oct 2026 06:57:15 GMT"
-        },
-        {
-          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
-          "summary": "过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。 本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。 两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。 太",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784910",
-          "published": "Sat, 31 Oct 2026 06:31:46 GMT"
-        }
-      ]
-    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news",
+          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 32 # Comments: 15",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-          "published": "Sat, 31 Oct 2026 13:25:10 +0000"
+          "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+          "published": "Sun, 01 Nov 2026 02:19:53 +0000"
         },
         {
-          "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
-          "summary": "Article URL: https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account Comments URL: https://news.ycombinator.com/item?id=50315776 Points: 10 # Comments: 1",
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+          "summary": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 23 # Comments: 10",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
-          "published": "Sat, 31 Oct 2026 12:57:31 +0000"
+          "link": "https://arxiv.org/abs/2409.02292",
+          "published": "Sun, 01 Nov 2026 01:46:29 +0000"
         },
         {
-          "title": "Why Anthropic's Filing Crushed Tech Stocks",
-          "summary": "Article URL: https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech Comments URL: https://news.ycombinator.com/item?id=50315574 Points: 31 # Comments: 33",
+          "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+          "summary": "Article URL: https://emarzion.github.io/KSRT/ Comments URL: https://news.ycombinator.com/item?id=50321436 Points: 14 # Comments: 1",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-          "published": "Sat, 31 Oct 2026 12:32:10 +0000"
+          "link": "https://emarzion.github.io/KSRT/",
+          "published": "Sat, 31 Oct 2026 23:55:21 +0000"
         },
         {
-          "title": "Prospero: A new coding harness for a more civilized age",
-          "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 39 # Comments: 15",
+          "title": "When electric cars were for women",
+          "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 52 # Comments: 33",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://nullprogram.com/blog/2026/10/31/",
-          "published": "Sat, 31 Oct 2026 11:54:59 +0000"
+          "link": "https://spectrum.ieee.org/early-electric-vehicles",
+          "published": "Sat, 31 Oct 2026 23:08:12 +0000"
         },
         {
-          "title": "Shiny Object Syndrome",
-          "summary": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 41 # Comments: 15",
+          "title": "Altoids Project",
+          "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 74 # Comments: 4",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
-          "published": "Sat, 31 Oct 2026 11:02:14 +0000"
+          "link": "https://uvdn7.github.io/altoids-project/",
+          "published": "Sat, 31 Oct 2026 22:54:55 +0000"
         },
         {
-          "title": "We Took over ChatGPT Accounts",
-          "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 102 # Comments: 46",
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 140 # Comments: 75",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "published": "Sat, 31 Oct 2026 10:30:11 +0000"
+          "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "published": "Sat, 31 Oct 2026 22:46:12 +0000"
         },
         {
-          "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-          "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 102 # Comments: 61",
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://piefed.world/post/1503394",
-          "published": "Sat, 31 Oct 2026 10:23:41 +0000"
+          "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "published": "Sat, 31 Oct 2026 22:41:06 +0000"
         },
         {
-          "title": "Serbia just elected the world's brainiest parliament",
-          "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 457 # Comments: 276",
+          "title": "AI text watermarking and quality loss",
+          "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 37 # Comments: 6",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-          "published": "Sat, 31 Oct 2026 10:21:30 +0000"
+          "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "published": "Sat, 31 Oct 2026 21:50:13 +0000"
         },
         {
-          "title": "Switch Lowering in GCC",
-          "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 110 # Comments: 23",
+          "title": "ChatGPT and Codex usage limits merging",
+          "summary": "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 35 # Comments: 11",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://xoranth.net/gcc-switch/",
-          "published": "Sat, 31 Oct 2026 08:02:26 +0000"
+          "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "published": "Sat, 31 Oct 2026 21:49:07 +0000"
         },
         {
-          "title": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”",
-          "summary": "美国中期选举进入最后冲刺阶段，共和党正面临近年来最严峻的选情压力。民调显示，民主党在国会通用选票上领先逾8个百分点， 众议院大概率易手，参议院亦岌岌可危，共和党人正在全力防守本应稳固的深红阵地。 据媒体报道，参选双方策略师和民调专家普遍认为，民主党夺回共和党主导的众议院胜算较大——特朗普执政以来民调支持率持续下滑，选民对生活成本上涨及伊朗战争的不满情绪持续发酵。最新民调显示，特朗普支持率仅为40%",
+          "title": "盯上“海峡最大油轮船队”！点名“韩国船东”，伊朗警告11月1日采取“全面行动”",
+          "summary": "伊朗对主导波斯湾原油运输的韩国油轮巨头Sinokor实施了史无前例的全面禁令，这一升级举措正直接威胁全球能源供应链的核心枢纽，并可能进一步推高全球航运与保险成本。 近日，朗波斯湾海峡管理局（PGSA）向Sinokor发出警告称，因其船队多次违反过境协议，将自11月1日起，对该公司的所有船舶采取全面反制措施。与此同时，据 环球时报 ，伊朗武装部队总参谋长阿里·阿卜杜拉希10月31日警告美国和以色列称",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784924",
-          "published": "Sat, 31 Oct 2026 11:54:27 GMT"
+          "link": "https://wallstreetcn.com/articles/3784929",
+          "published": "Sun, 01 Nov 2026 00:56:16 GMT"
         },
         {
-          "title": "伊朗最高领袖：要对敌方威胁立即采取有效应对措施",
-          "summary": "当地时间10月31日，伊朗最高领袖穆杰塔巴·哈梅内伊向伊朗武装部队高级指挥官下达命令。穆杰塔巴表示，将“做好充分战备准备与敌人进行强有力的对抗”视为伊朗“最大威慑”的要求之一，必须立即采取有效应对措施，不受地域限制，以应对任何级别和类型的威胁。 穆杰塔巴指出，如果敌人再次发动军事或恐怖袭击，伊朗武装部队和伊朗人民将决定何时以及在何种条件下结束战争。 穆杰塔巴还强调，要加强军事信息架构，深化“理论”",
+          "title": "伊朗正研究万斯提议，外长称暂无会谈计划，军方称将“高强度且不受地理限制”对抗美以",
+          "summary": "沙特阿拉伯阿拉比亚电视台10月31日援引消息人士的话报道说，伊朗正在研究美国副总统万斯在致伊方信件中的提议。 消息人士说，万斯来信中提出了双方谈判的总体原则和框架，但并未包含完整方案。目前，伊朗正在讨论美方有关伊朗核计划的提议。 消息人士透露，伊朗要求获得有关永久、全面停止战事的保证，以此换取开放霍尔木兹海峡。伊方还坚持要求先全面停战再启动谈判，“预计将举行新一轮谈判，但目前确定具体时间为时尚早”",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191956",
-          "published": "Sat, 31 Oct 2026 10:40:57 GMT"
+          "link": "https://wallstreetcn.com/articles/3784928",
+          "published": "Sun, 01 Nov 2026 00:47:31 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+          "summary": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 23 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://arxiv.org/abs/2409.02292",
+          "published": "Sun, 01 Nov 2026 01:46:29 +0000"
         },
         {
-          "title": "全球粮食风险共振：粮食安全年底进入压力测试区？",
-          "summary": "年底全球粮食市场或进入急性冲击与慢燃压力叠加的复合风险阶段。黑海仍是现阶段的核心断点：俄乌双方持续加大对港口、铁路、船只及仓储基础设施的打击，冲突升级令两国粮食与能源出口持续受阻。 俄9月份小麦出口同比下降52%至220万吨，截至10月20日当月仅出口106万吨，远低于去年10月524万吨；乌农产品出口仅为预期的1/2。俄本季迄今小麦出口830万吨、同比下降41%，乌下降约40%。而两国合计占全球",
+          "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+          "summary": "Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRo",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+          "published": "Sun, 01 Nov 2026 00:10:30 +0000"
+        },
+        {
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 140 # Comments: 75",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "published": "Sat, 31 Oct 2026 22:46:12 +0000"
+        },
+        {
+          "title": "AI text watermarking and quality loss",
+          "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 37 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "published": "Sat, 31 Oct 2026 21:50:13 +0000"
+        },
+        {
+          "title": "ChatGPT and Codex usage limits merging",
+          "summary": "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 35 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "published": "Sat, 31 Oct 2026 21:49:07 +0000"
+        },
+        {
+          "title": "Data centers are now a midterm issue, even in Brooklyn",
+          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+          "published": "Sun, 01 Nov 2026 02:22:10 +0000"
+        },
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "published": "Sat, 31 Oct 2026 21:41:00 +0000"
+        },
+        {
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "published": "Sat, 31 Oct 2026 21:17:03 +0000"
+        },
+        {
+          "title": "Get in the spirit with these horrors from YouTube",
+          "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird vide",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+          "published": "2026-10-31T17:06:58-04:00"
+        },
+        {
+          "title": "决定下周市场走势！美国中选“最大悬念”：共和党意外守住参院 vs 民主党取得53席以上",
+          "summary": "距离投票日不足一周，参议院控制权归属成为美股走势最关键变量。 花旗认为，蓝色横扫预期已基本被市场消化，真正的市场风险在于两个尾部情景：共和党意外守住参院，或民主党超预期拿下53席以上。 花旗研究（Citi Research）在10月30日发布的美股策略报告中指出，民主党横扫两院的概率已是当前最高情景，并在近期持续攀升，这一预期很大程度上已被纳入美股当前估值。然而，多个关键参院席位的民调结果仍处于误",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784762",
-          "published": "Sat, 31 Oct 2026 06:56:11 GMT"
+          "link": "https://wallstreetcn.com/articles/3784933",
+          "published": "Sun, 01 Nov 2026 03:05:04 GMT"
+        },
+        {
+          "title": "已进入第二版！傅里叶帮Meta研发机器人原型，打造“Muse物理化身”",
+          "summary": "Meta正在将其AI战略向物理世界延伸。 据The Information 1日援引知情人士透露， Meta Platforms已与中国机器人公司傅里叶（Fourier）联合研发出一款人形机器人原型，内部代号为\"Max\"，并已启动第二代版本的开发工作。 这是Meta自成立机器人业务部门以来最具实质性的进展，标志着这家社交媒体巨头在消费级机器人领域的布局正在加速落地。 Meta首席技术官Andrew",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784932",
+          "published": "Sun, 01 Nov 2026 02:38:23 GMT"
+        },
+        {
+          "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
+          "summary": "美国AI扩张正在进入一个更严苛阶段：资本不再只为增长叙事买单，债市、财报和政治风险同时逼近，投资者开始要求AI投资证明其回报能力。 贷款人和投资者正变得更挑剔，并要求更严格条款。即便是SpaceX和Meta等大型科技相关发行人的债券也在大幅折价交易，CoreWeave，Nebius和Nscale等AI云公司近期实际上已被挡在债券市场门外。 财报季未能缓和疑虑，反而放大了市场对AI资本开支和自由现金",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784930",
+          "published": "Sun, 01 Nov 2026 02:08:14 GMT"
+        },
+        {
+          "title": "DeepSeek公布下一代agent harness理念",
+          "summary": "原标题：《Super-agent 设计探索：迈向更自主的 Agent 系统》。 本文是一篇面向工程实践的架构思路探讨，并非对 DeepSeek Harness 现有产品功能的介绍。 1.Super-agent 过去一年里，以 Coding Agent 为代表的单任务 Agent 已经证明，模型能够使用工具解决复杂问题，且越来越少需要人类持续监控和逐步干预。与此同时，模型的多 Agent 协同能力也",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784931",
+          "published": "Sun, 01 Nov 2026 01:37:03 GMT"
+        },
+        {
+          "title": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "summary": "全球科技股暴跌后，下周苹果、AMD财报将是AI叙事能否重建的关键检验。同时，美国中期选举改选众参两院，结果直接决定特朗普后两年施政空间；以色列议会选举结果公布、俄美乌三方谈判拟重启，地缘风险持续扰动市场。此外，美非农数据若偏强将加大12月加息预期，英国央行、澳联储料将加息，中国外汇储备同步披露。此外，苹果Apple智能即将接入阿里千问。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960121",
+          "published": "Sun, 01 Nov 2026 01:26:35 GMT"
+        },
+        {
+          "title": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "summary": "11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。 财报：下周苹果与AMD将是这轮AI抛售潮后接受检验的科技巨头 ——苹果共识营收约1130亿美元，系新任CEO特努斯首秀；AMD",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784849",
+          "published": "Sun, 01 Nov 2026 01:03:15 GMT"
         }
       ]
     },
@@ -247,84 +231,66 @@
       "summary": "",
       "items": [
         {
-          "title": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”",
-          "summary": "美国中期选举进入最后冲刺阶段，共和党正面临近年来最严峻的选情压力。民调显示，民主党在国会通用选票上领先逾8个百分点， 众议院大概率易手，参议院亦岌岌可危，共和党人正在全力防守本应稳固的深红阵地。 据媒体报道，参选双方策略师和民调专家普遍认为，民主党夺回共和党主导的众议院胜算较大——特朗普执政以来民调支持率持续下滑，选民对生活成本上涨及伊朗战争的不满情绪持续发酵。最新民调显示，特朗普支持率仅为40%",
+          "title": "多家造车“新势力”公布10月销量！小米、小鹏均破5万台，理想2.9万台，深蓝3.26万台",
+          "summary": "11月1日，新势力汽车厂商陆续发布2026年10月份的汽车交付数据。 据小米汽车官微消息，2026年10月，小米汽车交付量超过50000台。 据理想汽车官微，2026年10月，理想汽车交付新车29025辆。截至2026年10月31日，理想汽车历史累计交付量为1862676辆。10月，新一代理想MEGA交付超3000台，连续两月位列50万以上MPV市场销量第一。 据小鹏汽车官微，2026年10月，小",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784924",
-          "published": "Sat, 31 Oct 2026 11:54:27 GMT"
+          "link": "https://wallstreetcn.com/articles/3784934",
+          "published": "Sun, 01 Nov 2026 03:23:13 GMT"
         },
         {
-          "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
-          "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal ",
+          "title": "决定下周市场走势！美国中选“最大悬念”：共和党意外守住参院 vs 民主党取得53席以上",
+          "summary": "距离投票日不足一周，参议院控制权归属成为美股走势最关键变量。 花旗认为，蓝色横扫预期已基本被市场消化，真正的市场风险在于两个尾部情景：共和党意外守住参院，或民主党超预期拿下53席以上。 花旗研究（Citi Research）在10月30日发布的美股策略报告中指出，民主党横扫两院的概率已是当前最高情景，并在近期持续攀升，这一预期很大程度上已被纳入美股当前估值。然而，多个关键参院席位的民调结果仍处于误",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784923",
-          "published": "Sat, 31 Oct 2026 10:20:58 GMT"
+          "link": "https://wallstreetcn.com/articles/3784933",
+          "published": "Sun, 01 Nov 2026 03:05:04 GMT"
         },
         {
-          "title": "国新、诚通出手，三季度加仓名单曝光",
-          "summary": "随着2026年A股三季报披露收官，中国国新与中国诚通两大国有资本运营平台三季度持仓动向浮出水面。中国国新旗下国新投资以及中国诚通控股集团有限公司，在电力、能源、军工电子、通信、半导体等多个重点赛道，展开新进布局与增持动作。 据不完全统计，2026年三季度，国新投资现身23家上市公司前十大股东名单，新进入3家上市公司前十大股东名单，并增持8家上市公司股份。在人工智能和集成电路产业，国新投资全面覆盖材",
+          "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
+          "summary": "美国AI扩张正在进入一个更严苛阶段：资本不再只为增长叙事买单，债市、财报和政治风险同时逼近，投资者开始要求AI投资证明其回报能力。 贷款人和投资者正变得更挑剔，并要求更严格条款。即便是SpaceX和Meta等大型科技相关发行人的债券也在大幅折价交易，CoreWeave，Nebius和Nscale等AI云公司近期实际上已被挡在债券市场门外。 财报季未能缓和疑虑，反而放大了市场对AI资本开支和自由现金",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191946",
-          "published": "Sat, 31 Oct 2026 09:10:28 GMT"
+          "link": "https://wallstreetcn.com/articles/3784930",
+          "published": "Sun, 01 Nov 2026 02:08:14 GMT"
         },
         {
-          "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
-          "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果",
+          "title": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "summary": "全球科技股暴跌后，下周苹果、AMD财报将是AI叙事能否重建的关键检验。同时，美国中期选举改选众参两院，结果直接决定特朗普后两年施政空间；以色列议会选举结果公布、俄美乌三方谈判拟重启，地缘风险持续扰动市场。此外，美非农数据若偏强将加大12月加息预期，英国央行、澳联储料将加息，中国外汇储备同步披露。此外，苹果Apple智能即将接入阿里千问。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784918",
-          "published": "Sat, 31 Oct 2026 09:10:24 GMT"
+          "link": "https://wallstreetcn.com/charts/41960121",
+          "published": "Sun, 01 Nov 2026 01:26:35 GMT"
         },
         {
-          "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
-          "summary": "标普全球评级周五将Meta Platforms的AA-信用评级展望由稳定下调至负面，评级本身维持AA-不变。 标普的理由是AI相关高额资本开支推升杠杆，自由经营现金流承压，且Meta将AI投资变现的能力弱于同业。 标普表示，目前尚不清楚这些开支何时才会带来超过成本上升的重大收入。负面展望反映的是资本开支将维持高位多久、自由经营现金流将持续为负多久的不确定性。 同日美股科技股走弱，纳指收跌约3.5%",
+          "title": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "summary": "11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。 财报：下周苹果与AMD将是这轮AI抛售潮后接受检验的科技巨头 ——苹果共识营收约1130亿美元，系新任CEO特努斯首秀；AMD",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784917",
-          "published": "Sat, 31 Oct 2026 09:04:27 GMT"
+          "link": "https://wallstreetcn.com/articles/3784849",
+          "published": "Sun, 01 Nov 2026 01:03:15 GMT"
         },
         {
-          "title": "长安汽车短期业绩承压，部分新能源平台已盈利",
-          "summary": "10月30日晚，长安汽车披露2026年三季报。第三季度，公司营业收入362.5亿元，同比下降14.17%；归母净亏损7.58亿元，扣非后归母净亏损9.52亿元。公司同期发布的经营信息显示，三季度营收环比增长10.1%。 在整体业绩承压的同时，部分新能源平台已出现盈利进展。从长安汽车方面了解到，目前启源A06、Q06所在平台已经实现盈利，后续同平台新车型的边际成本将持续降低。 对于前三季度的净利润变",
+          "title": "盯上“海峡最大油轮船队”！点名“韩国船东”，伊朗警告11月1日采取“全面行动”",
+          "summary": "伊朗对主导波斯湾原油运输的韩国油轮巨头Sinokor实施了史无前例的全面禁令，这一升级举措正直接威胁全球能源供应链的核心枢纽，并可能进一步推高全球航运与保险成本。 近日，朗波斯湾海峡管理局（PGSA）向Sinokor发出警告称，因其船队多次违反过境协议，将自11月1日起，对该公司的所有船舶采取全面反制措施。与此同时，据 环球时报 ，伊朗武装部队总参谋长阿里·阿卜杜拉希10月31日警告美国和以色列称",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784915",
-          "published": "Sat, 31 Oct 2026 08:04:49 GMT"
-        },
+          "link": "https://wallstreetcn.com/articles/3784929",
+          "published": "Sun, 01 Nov 2026 00:56:16 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
         {
-          "title": "财报炸裂，但闪迪隔夜为何暴跌？",
-          "summary": "闪迪交出全面超预期的财报，股价却在周五美股盘前一度暴跌8%。问题出在它的日本晶圆厂合作伙伴铠侠（Kioxia）：后者给出的利润指引不及预期，并警告AI推动的闪存涨价潮正在降温。 闪迪周四盘后的成绩单几乎挑不出毛病：营收和每股收益超预期，毛利率85%，指引高于华尔街预期，另追加50亿美元回购并宣布1拆8拆股。但股价盘后纹丝不动。 美东时间周五5:54，彭博报道了铠侠的指引，闪迪盘前最多跌至1197.",
+          "title": "DeepSeek公布下一代agent harness理念",
+          "summary": "原标题：《Super-agent 设计探索：迈向更自主的 Agent 系统》。 本文是一篇面向工程实践的架构思路探讨，并非对 DeepSeek Harness 现有产品功能的介绍。 1.Super-agent 过去一年里，以 Coding Agent 为代表的单任务 Agent 已经证明，模型能够使用工具解决复杂问题，且越来越少需要人类持续监控和逐步干预。与此同时，模型的多 Agent 协同能力也",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784914",
-          "published": "Sat, 31 Oct 2026 07:02:53 GMT"
-        },
-        {
-          "title": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高",
-          "summary": "周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。 标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。 防御板块则受到追捧。必需消费是标普500表现最",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784912",
-          "published": "Sat, 31 Oct 2026 06:57:15 GMT"
-        },
-        {
-          "title": "全球粮食风险共振：粮食安全年底进入压力测试区？",
-          "summary": "年底全球粮食市场或进入急性冲击与慢燃压力叠加的复合风险阶段。黑海仍是现阶段的核心断点：俄乌双方持续加大对港口、铁路、船只及仓储基础设施的打击，冲突升级令两国粮食与能源出口持续受阻。 俄9月份小麦出口同比下降52%至220万吨，截至10月20日当月仅出口106万吨，远低于去年10月524万吨；乌农产品出口仅为预期的1/2。俄本季迄今小麦出口830万吨、同比下降41%，乌下降约40%。而两国合计占全球",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3784762",
-          "published": "Sat, 31 Oct 2026 06:56:11 GMT"
-        },
-        {
-          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
-          "summary": "过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。 本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。 两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。 太",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784910",
-          "published": "Sat, 31 Oct 2026 06:31:46 GMT"
+          "link": "https://wallstreetcn.com/articles/3784931",
+          "published": "Sun, 01 Nov 2026 01:37:03 GMT"
         }
       ]
     },
@@ -333,33 +299,19 @@
       "summary": "",
       "items": [
         {
-          "title": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”",
-          "summary": "美国中期选举进入最后冲刺阶段，共和党正面临近年来最严峻的选情压力。民调显示，民主党在国会通用选票上领先逾8个百分点， 众议院大概率易手，参议院亦岌岌可危，共和党人正在全力防守本应稳固的深红阵地。 据媒体报道，参选双方策略师和民调专家普遍认为，民主党夺回共和党主导的众议院胜算较大——特朗普执政以来民调支持率持续下滑，选民对生活成本上涨及伊朗战争的不满情绪持续发酵。最新民调显示，特朗普支持率仅为40%",
+          "title": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "summary": "11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。 财报：下周苹果与AMD将是这轮AI抛售潮后接受检验的科技巨头 ——苹果共识营收约1130亿美元，系新任CEO特努斯首秀；AMD",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784924",
-          "published": "Sat, 31 Oct 2026 11:54:27 GMT"
-        }
-      ]
-    },
-    {
-      "name": "国内军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "国新、诚通出手，三季度加仓名单曝光",
-          "summary": "随着2026年A股三季报披露收官，中国国新与中国诚通两大国有资本运营平台三季度持仓动向浮出水面。中国国新旗下国新投资以及中国诚通控股集团有限公司，在电力、能源、军工电子、通信、半导体等多个重点赛道，展开新进布局与增持动作。 据不完全统计，2026年三季度，国新投资现身23家上市公司前十大股东名单，新进入3家上市公司前十大股东名单，并增持8家上市公司股份。在人工智能和集成电路产业，国新投资全面覆盖材",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3191946",
-          "published": "Sat, 31 Oct 2026 09:10:28 GMT"
+          "link": "https://wallstreetcn.com/articles/3784849",
+          "published": "Sun, 01 Nov 2026 01:03:15 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 40,
-    "total_collected": 26,
+    "total_items": 34,
+    "total_collected": 23,
     "sources": 4,
     "source_list": [
       "Hacker News",
