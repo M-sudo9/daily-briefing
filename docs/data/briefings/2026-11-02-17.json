@@ -1,0 +1,828 @@
+{
+  "id": "2026-11-02-17",
+  "datetime": "2026-11-02 17:56:42",
+  "date": "2026-11-02",
+  "time": "17:56",
+  "period": "下午",
+  "summary": "本期采集 72 篇文章，来自 8 个信息源，覆盖 7 个领域，精选 95 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://subvocal.company/",
+          "published": "Mon, 02 Nov 2026 17:16:17 +0000"
+        },
+        {
+          "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+          "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bug",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://momentic.ai/",
+          "published": "Mon, 02 Nov 2026 17:05:25 +0000"
+        },
+        {
+          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 51 # Comments: 40",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "published": "Mon, 02 Nov 2026 16:40:29 +0000"
+        },
+        {
+          "title": "US Boy names that became girl names (and vice versa)",
+          "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 17 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+          "published": "Mon, 02 Nov 2026 16:34:36 +0000"
+        },
+        {
+          "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+          "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+          "published": "Mon, 02 Nov 2026 16:25:26 +0000"
+        },
+        {
+          "title": "Ask HN: Who is hiring? (November 2026)",
+          "summary": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50338728",
+          "published": "Mon, 02 Nov 2026 16:01:37 +0000"
+        },
+        {
+          "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+          "summary": "Article URL: https://longcat.ai/blog/longcat-2.5/ Comments URL: https://news.ycombinator.com/item?id=50337716 Points: 43 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://longcat.ai/blog/longcat-2.5/",
+          "published": "Mon, 02 Nov 2026 15:00:26 +0000"
+        },
+        {
+          "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+          "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part11/ Comments URL: https://news.ycombinator.com/item?id=50337661 Points: 8 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+          "published": "Mon, 02 Nov 2026 14:56:21 +0000"
+        },
+        {
+          "title": "GPT-Rosalind-6 System Card Addendum",
+          "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 34 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+          "published": "Mon, 02 Nov 2026 14:44:02 +0000"
+        },
+        {
+          "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=5033745",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+          "published": "Mon, 02 Nov 2026 14:40:05 +0000"
+        },
+        {
+          "title": "Last night an AI agent performed brain surgery on a mouse",
+          "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 84 # Comments: 84",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "published": "Mon, 02 Nov 2026 12:50:59 +0000"
+        },
+        {
+          "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+          "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+          "published": "Mon, 02 Nov 2026 17:49:41 +0000"
+        },
+        {
+          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+          "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+          "published": "Mon, 02 Nov 2026 16:30:00 +0000"
+        },
+        {
+          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+          "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+          "published": "Mon, 02 Nov 2026 16:23:21 +0000"
+        },
+        {
+          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+          "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+          "published": "Mon, 02 Nov 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+          "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+          "published": "Mon, 02 Nov 2026 14:42:38 +0000"
+        },
+        {
+          "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+          "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+          "published": "Mon, 02 Nov 2026 14:22:35 +0000"
+        },
+        {
+          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+          "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+          "published": "Mon, 02 Nov 2026 13:57:53 +0000"
+        },
+        {
+          "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+          "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+          "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+        },
+        {
+          "title": "The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls",
+          "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "published": "2026-11-02T12:51:19-05:00"
+        },
+        {
+          "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+          "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information . It says the robot's hardware \"has been fin",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "published": "2026-11-02T12:06:10-05:00"
+        },
+        {
+          "title": "Why Peacock is making a huge bet on YouTube",
+          "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structu",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+          "published": "2026-11-02T11:00:00-05:00"
+        },
+        {
+          "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+          "summary": "The X500 Pro Max is the first Vivo flagship to sit between its Pro and Ultra tiers. | Photo: Dominic Preston / The Verge When I declared this spring that Vivo's X300 Ultra had the best cameras in any ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+          "published": "2026-11-02T10:15:00-05:00"
+        },
+        {
+          "title": "Could data center backlash flip Florida?",
+          "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+          "published": "2026-11-02T10:05:00-05:00"
+        },
+        {
+          "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+          "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post . The deal, which comes as SpaceX aims to ma",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+          "published": "2026-11-02T09:05:34-05:00"
+        },
+        {
+          "title": "Affinity’s creative studio is now available on iPad for free",
+          "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+          "published": "2026-11-02T09:00:00-05:00"
+        },
+        {
+          "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+          "summary": "认识一下 DeepSeek Harness 创造模式：通过对话，把想法变成插件，写好就能直接用。\n从设计工作台、沙盒游戏，到模型可视化工具，让 Harness 拥有你想要的功能，成为适合自己的样子。\n你想为自己的 Harness 加点什么？\n\n我们也整理了视频中这些插件的中英文提示词，供大家参考：https://cdn.deepseek.com/harness/dsh-creator-mode-p",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1i24P6rEmt",
+          "published": "Mon, 02 Nov 2026 13:28:30 GMT"
+        },
+        {
+          "title": "报道：Meta或实施半年来首次重大债务发售，拟募集至少200亿美元",
+          "summary": "据知情人士透露，随着科技巨头Meta Platforms Inc.在市场对人工智能（AI）支出速度怀疑加剧之际评估投资者对其债务的兴趣，该公司正考虑通过一项潜在的跨境投资级债券发行筹集至少200亿美元。目前尚未就此次发行做出最终决定，最终规模仍可能根据投资者需求有所扩大。该公司已要求花旗集团和摩根士丹利在周一和周二举行投资者电话会议。 随着Meta效仿竞争对手谷歌母公司Alphabet Inc.和",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3192775",
+          "published": "Mon, 02 Nov 2026 17:39:00 GMT"
+        },
+        {
+          "title": "付鹏：美股AI巨头的“高压锅”还能撑多久？看科技巨头的三重风险信号【付鹏说图表】",
+          "summary": "“ 交易桌前看天下，付鹏说来评财经 ” 《付鹏说·第七季》全新升级！ 立即订阅 《 付鹏说第七季 》全新升级上线，在日常视频的基础上， 新增专栏交流群更新付鹏说最新市场观点&图表数据解读（社群第一时间更新） 除了付鹏说日常内容，还新增了专栏在线阅读文档，给大家发送每日交易关注早报，和值得关注的研究报告，延展阅读资料，加入专栏的用户请扫码下图添加小助手进入《付鹏说》第七季专属交流群，并领取专栏资料。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3784907?layout=wscn-layout",
+          "published": "Mon, 02 Nov 2026 14:46:12 GMT"
+        },
+        {
+          "title": "中国AI的下一批赢家，不只是卖铲子的公司",
+          "summary": "中国AI产业的投资逻辑，正在从技术创新转向商业化落地。 伯恩斯坦（Bernstein）10月27日发布的最新中国市场深度报告《China Next Winners: From AI to Alpha》指出，中国AI产业的机会正在从大模型和算力基础设施，向更广泛的实体经济扩散。国产模型能力提升与推理成本下降、相对充足且价格较低的电力供应，以及快速发展的本土半导体和服务器产业链，正在为中国AI应用提供",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785008",
+          "published": "Mon, 02 Nov 2026 14:43:45 GMT"
+        },
+        {
+          "title": "美的科技月背后，AI家电的普及考题",
+          "summary": "随着AI技术向家电领域渗透，智能家电正在从执行语音指令，逐步走向理解用户需求、主动提供服务。 10月30日，美的集团第31届科技月大会在佛山顺德举行。在持续推进技术研发和产品创新的同时，美的也在尝试将AI更深入地融入家庭场景，推动家电从单品智能化向多设备协同演进。 美的集团董事长兼总裁方洪波表示，美的要比以往任何时候都更加重视科技，持续加大基础研究、原创性创新的投入，从同质化竞争升级到原创性竞争。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785010",
+          "published": "Mon, 02 Nov 2026 13:37:58 GMT"
+        },
+        {
+          "title": "AI公司赴港成潮，港交所拿出自己的指数",
+          "summary": "港交所指数继续扩容。 日前，港交所宣布推出人工智能指数，共选取40家香港上市公司，覆盖AI芯片、基础设施、模型及应用等产业环节，既有阿里、百度、腾讯等大型科技巨头，也有刚刚在港上市的智谱、MiniMax等AI新贵。 这份指数的编制规则也颇有特点。 一方面，港交所此次重点考察研发投入、资本开支和收入增长，并未将企业盈利能力纳入基本面评分；另一方面，在权重设置上，港交所还对AI芯片、基础设施及模型等核",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785009",
+          "published": "Mon, 02 Nov 2026 13:29:18 GMT"
+        },
+        {
+          "title": "半小时卖出2万亿Token，李佳琦直播卖千问办公爆火",
+          "summary": "11月2日晚，李佳琦直播间迎来双十一新爆款——千问办公Token。开卖仅半小时，就售出10万份千问办公个人会员月卡，累计约2万亿Token。 李佳琦曾创下5分钟卖出1.5万支口红的成绩，被称为“口红一哥”。今年，Token也登上了他的带货清单。当晚，李佳琦直播间评论区不断刷出“321，上Token”。千问办公个人会员月卡，成了李佳琦直播间的抢手货。 千问办公CEO陈宇森做客直播间，分享AI办公的日",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3192652",
+          "published": "Mon, 02 Nov 2026 12:50:26 GMT"
+        },
+        {
+          "title": "Lumentum Q1营收同比飙升136%，Q2指引15.75亿-16.25亿美元超预期，斩获50亿美元订单承诺 | 财报见闻",
+          "summary": "光学与光子技术公司Lumentum Holdings业绩强劲反弹，成为AI基础设施投资浪潮中的直接受益者。受泵浦激光器和光学电路交换机需求爆发拉动，公司2027财年第一季度营收同比增长逾136%，各项盈利指标全面超出市场预期，并发布了远超分析师预测的第二季度业绩指引。 公司2027财年第一季度（截至2026年9月26日）净营收达12.63亿美元，调整后每股收益4.57美元，分别高于市场预估的4.2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785003",
+          "published": "Mon, 02 Nov 2026 12:17:50 GMT"
+        },
+        {
+          "title": "智驾公司，集体争夺货运生意",
+          "summary": "智驾公司的生意，越来越难按乘用车、商用车来划分。重卡正在成为通用智驾公司扩展产品线的一站，原本专做货运的企业，要与能够跨车型研发、供货的公司争夺客户。 11月2日，卓驭宣布，日前已与合作方就郎柯科技智能物流车总部项目签约，计划2027年无人车租赁、销售及运营总量超过3000台。 今年6月，首款搭载卓驭辅助驾驶方案的陕汽重卡量产；10月29日，小马智行与广汽领程合作的L4自动驾驶重卡T9首批量产下线",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785002",
+          "published": "Mon, 02 Nov 2026 12:16:04 GMT"
+        },
+        {
+          "title": "Marvell与Lumentum将合并，打造AI连接领域的行业领军者。Marvell将以股票交易方式收购Lumentum，交易预计将于上半年2028年完成",
+          "summary": "Marvell与Lumentum将合并，打造AI连接领域的行业领军者。Marvell将以股票交易方式收购Lumentum，交易预计将于上半年2028年完成。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785001",
+          "published": "Mon, 02 Nov 2026 12:08:56 GMT"
+        },
+        {
+          "title": "车芯大厂恩智浦再发调价函，2027年1月起涨价",
+          "summary": "记者从产业链获悉，受原材料、能源、人力、物流及上游供应商成本上涨影响，恩智浦（NXP）已向经销商发函，计划对部分分销及直供产品线调价，新规自2027年1月1日生效。有经销商向记者表示，建议有确定需求的项目提前下单，锁定成本，规避调价带来的影响。 注：恩智浦是荷兰半导体厂商、全球汽车芯片龙头，主营车载处理器、MCU、无线连接芯片，布局蓝牙、星闪多模短距通信方案；这是其2026年内第三轮调价通知。（蓝",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3192610",
+          "published": "Mon, 02 Nov 2026 11:38:03 GMT"
+        },
+        {
+          "title": "“避风港”万亿市值狂飙过后，苹果能否支撑过财报考验？",
+          "summary": "苹果股价近几个月的强势上涨，令其在周一美股盘后财报公布前几乎没有任何容错空间。 自6月末低点以来，苹果股价累计上涨25%，市值增加约1万亿美元。 在谷歌和亚马逊等大型科技同行大举投入AI基础设施、引发市场担忧之际，苹果稳健的营收增长与不断攀升的自由现金流，使其成为投资者眼中的\"避风港\"。 然而， 这轮涨势也将苹果估值推至2008年以来最高水平——以未来12个月预期市盈率衡量，苹果达到36倍，约为标",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784996",
+          "published": "Mon, 02 Nov 2026 11:34:47 GMT"
+        },
+        {
+          "title": "AI信仰迎来新考验，股价暴跌后Alphabet赴欧债市场融资",
+          "summary": "Alphabet在第三季度业绩重挫、股价创纪录下跌后不足一周，即赴欧元债券市场启动新一轮融资，直接检验投资者对人工智能巨额资本开支的信心是否依然稳固。 据彭博援引知情人士透露， Alphabet周一开放了一项涵盖2年期至19年期的七档欧元债券发行簿记，承销行预计当天晚些时候完成定价。 此次发行距Alphabet上周公布令市场失望的三季度业绩仅数日，彼时公司单日市值蒸发逾5000亿美元，科技板块信用",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784995",
+          "published": "Mon, 02 Nov 2026 11:18:19 GMT"
+        },
+        {
+          "title": "腾讯与Visa深化跨境支付合作 探索智能体支付",
+          "summary": "依托微信支付的庞大用户和Visa遍布全球的网络，跨境支付领域的后来者腾讯，可能成为支付宝和银联国际“走出去”的强有力竞争对手 【财新网】 近日，腾讯与Visa宣布已签署合作备忘录，在跨境支付、智能体商务、企业级AI以及支持企业全球化拓展等领域搭建全面合作框架，将腾讯的支付解决方案、数字平台和技术能力，与Visa的全球网络及跨境资金流动解决方案深度结合。 2026年10月初，等待了八年的Visa终于",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-02/102500058.html",
+          "published": "Mon, 02 Nov 2026 12:46:44 GMT"
+        },
+        {
+          "title": "惠普推AI学习打印机 AI落地传统硬件进度如何？",
+          "summary": "惠普三季度财报显示，全球打印业务净收入同比下降2.2%；打印机出货量下降6.8%，核心原因是需求走弱，中国市场尤为明显 惠普在杭州发布13款“AI学习打印机”。图：惠普 【财新网】 “不能光从打印这个行当里面去看打印到底能不能发掘出来新的增长，但是我们可以提供更多新的附加值，比如AI的功能。”10月29日，惠普公司全球副总裁、打印机与耗材产品事业部大中华区总经理金卫东告诉财新等媒体，AI应用于传统",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-02/102500025.html",
+          "published": "Mon, 02 Nov 2026 11:15:13 GMT"
+        },
+        {
+          "title": "香港金管局启动新项目 规管AI代理式金融",
+          "summary": "该局希望结合管治与赋能，构建安全可靠的代理式金融 2026年11月2日，“香港金融科技周及StartmeupHK2026”论坛现场。图：陈永诺/中新社/IC photo 【财新网】 香港金管局公布，将启动名为“SAGE”的项目，盼望支持香港金融业界探索人工智能（AI）代理式金融应用的同时，建立起相应的管治框架。金管局还成立了一个跨界别代理式金融专家小组，支持SAGE项目的工作。 香港金管局总裁余伟",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-02/102500010.html",
+          "published": "Mon, 02 Nov 2026 10:31:01 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+          "summary": "Article URL: https://bitmovin.com/careers/8660599002/ Comments URL: https://news.ycombinator.com/item?id=50339827 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://bitmovin.com/careers/8660599002/",
+          "published": "Mon, 02 Nov 2026 17:00:41 +0000"
+        },
+        {
+          "title": "My Favourite Laptop",
+          "summary": "Article URL: https://blog.jsbarretto.com/post/laptop Comments URL: https://news.ycombinator.com/item?id=50339815 Points: 24 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.jsbarretto.com/post/laptop",
+          "published": "Mon, 02 Nov 2026 16:59:57 +0000"
+        },
+        {
+          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 51 # Comments: 40",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "published": "Mon, 02 Nov 2026 16:40:29 +0000"
+        },
+        {
+          "title": "US Boy names that became girl names (and vice versa)",
+          "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 17 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+          "published": "Mon, 02 Nov 2026 16:34:36 +0000"
+        },
+        {
+          "title": "Moving our warehouse off DuckDB",
+          "summary": "Article URL: https://posthog.com/blog/moving-off-duckdb Comments URL: https://news.ycombinator.com/item?id=50338747 Points: 82 # Comments: 42",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://posthog.com/blog/moving-off-duckdb",
+          "published": "Mon, 02 Nov 2026 16:02:26 +0000"
+        },
+        {
+          "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+          "summary": "Article URL: https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1 Comments URL: https://news.ycombinato",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+          "published": "Mon, 02 Nov 2026 15:01:15 +0000"
+        },
+        {
+          "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+          "summary": "Article URL: https://longcat.ai/blog/longcat-2.5/ Comments URL: https://news.ycombinator.com/item?id=50337716 Points: 43 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://longcat.ai/blog/longcat-2.5/",
+          "published": "Mon, 02 Nov 2026 15:00:26 +0000"
+        },
+        {
+          "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+          "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part11/ Comments URL: https://news.ycombinator.com/item?id=50337661 Points: 8 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+          "published": "Mon, 02 Nov 2026 14:56:21 +0000"
+        },
+        {
+          "title": "Napping characteristics and incident dementia",
+          "summary": "Article URL: https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false Comments URL: https://news.ycombinator.com/item?id=50337635 Points: 26 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false",
+          "published": "Mon, 02 Nov 2026 14:53:44 +0000"
+        },
+        {
+          "title": "WTF Ubuntu?",
+          "summary": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 725 # Comments: 364",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+          "published": "Mon, 02 Nov 2026 14:52:00 +0000"
+        },
+        {
+          "title": "We halved DNS build delay and cut memory use by 85%",
+          "summary": "Article URL: https://blog.cloudflare.com/dns-targeted-zone-builds/ Comments URL: https://news.ycombinator.com/item?id=50337558 Points: 42 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+          "published": "Mon, 02 Nov 2026 14:47:28 +0000"
+        },
+        {
+          "title": "GPT-Rosalind-6 System Card Addendum",
+          "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 34 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+          "published": "Mon, 02 Nov 2026 14:44:02 +0000"
+        },
+        {
+          "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=5033745",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+          "published": "Mon, 02 Nov 2026 14:40:05 +0000"
+        },
+        {
+          "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+          "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 15 # Comments: 4",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+          "published": "Mon, 02 Nov 2026 13:55:45 +0000"
+        },
+        {
+          "title": "If you love a website, back it up",
+          "summary": "Article URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/ Comments URL: https://news.ycombinator.com/item?id=50336518 Points: 150 # Comments: 34",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+          "published": "Mon, 02 Nov 2026 13:25:35 +0000"
+        },
+        {
+          "title": "Last night an AI agent performed brain surgery on a mouse",
+          "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 84 # Comments: 84",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "published": "Mon, 02 Nov 2026 12:50:59 +0000"
+        },
+        {
+          "title": "“许多共和党人在忍气吞声，都知道问题出在谁身上”",
+          "summary": "11月3日美国中期选举在即，美国主流民调预测，民主党有望赢下众议院，还有一定机会在参议院“翻盘”。 据央视新闻报道，本届选举已接连出现两个引人关注的新纪录：全美提前投票人数超过5100万，打破历届中期选举纪录；联邦选举总支出预计达到119亿美元，也将创下中期选举新高。 美国“政客新闻网”（Politico）2日发文表示，美国共和党人在为中期选举可能的失利做准备时，已经在私下里将责任归咎于总统特朗普",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_02_906796_s.shtml",
+          "published": "Mon, 02 Nov 2026 14:45:00 GMT"
+        },
+        {
+          "title": "国际油价大幅回落，报道：特朗普或将尝试外交手段，伊朗提出两天内重开霍尔木兹海峡",
+          "summary": "国际原油期货周一大幅下挫，布伦特原油跌至每桶108美元附近，西德克萨斯中间基原油（WTI）跌破100美元关口，市场对美伊外交进展的预期升温，此前数周因霍尔木兹海峡局势持续紧张而积累的地缘政治风险溢价有所释放。 据Axios报道，特朗普倾向于给予对伊外交斡旋更多时间，暂缓发动新一轮军事行动。据 央视新闻 消息，特朗普与以色列总理内塔尼亚胡10月31日就美国与伊朗的谈判进行了一次“直接而尖锐”的通话。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785007",
+          "published": "Mon, 02 Nov 2026 13:31:01 GMT"
+        },
+        {
+          "title": "伊朗抛出恢复霍尔木兹海峡通行方案 美以就重启军事行动仍存分歧",
+          "summary": "内塔尼亚胡敦促特朗普在11月3日的中期选举后立即发动对伊朗的打击，但特朗普则表示他目前希望先进行谈判 当地时间2026年9月5日，伊朗阿巴斯港附近，船只在霍尔木兹海峡。图：IC photo 【财新网】 随着11月3日美国中期选举日渐临近，外界对此次选举后美伊冲突再度爆发的担忧亦持续升高。在临近投票日的10月31日，美国总统特朗普与以色列总理内塔尼亚胡进行了通话，讨论了美伊谈判的当前状态，以及如何迅",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-02/102500051.html",
+          "published": "Mon, 02 Nov 2026 11:45:42 GMT"
+        },
+        {
+          "title": "俄乌前线局部停火结束 双方均对梅拉尼娅人道介入调停表达感谢",
+          "summary": "这是2022年以来，俄乌双方遵守时间最长的一次局部停火 【财新网】 当地时间11月1日晚间10点59分，在目前由俄军控制的乌克兰城市奥列什基及周边的赫尔松州部分地区，俄乌两军为期6天的局部停火正式结束。 这是2022年以来，俄乌双方遵守时间最长的一次局部停火。在美国第一夫人梅拉尼娅的调停下，这场人道主义停火从10月27日凌晨3点开始，停火期间，双方都未见报告对方违规的记录。 乌克兰人权事务专员德米",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-02/102500047.html",
+          "published": "Mon, 02 Nov 2026 11:36:51 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问",
+          "summary": "央视网消息 ：中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问。 一、今日金融管理部门召开座谈会，就用好用足两项结构性货币政策工具作出安排，请问证监会对后续工作有何考虑？ 答：2024年9月，人民银行会同证监会、金融监管总局推出证券、基金、保险公司互换便利和股票回购增持专项再贷款两项新的货币政策工具。两年多来，证券公司、基金管理公司和上市公司等市场主体积极响应，两项工具运作良好。截至今年",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/02/ARTIMNWMFf5RNfh5kOhs9mcL261102.shtml",
+          "published": "Mon, 02 Nov 2026 12:36:08 GMT"
+        },
+        {
+          "title": "关于进一步优化经常项目外汇管理 国家外汇管理局公开征求意见",
+          "summary": "央视网消息 ：为支持贸易创新发展，促进高水平对外开放，国家外汇管理局起草了《国家外汇管理局关于进一步优化经常项目外汇管理有关事项的通知（征求意见稿）》，现向社会公开征求意见。 《通知》包括9项经常项目便利化政策、1项监管要求。其中，9项经常项目便利化政策，一类为拓宽业务适用场景、范围和种类，另一类是进一步降低企业资金结算和交易成本。 （一）拓宽业务适用场景、范围和种类的5项政策。一是拓宽支付机构贸",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/02/ARTI2EGvrLN2atQctCJrYdMt261102.shtml",
+          "published": "Mon, 02 Nov 2026 10:52:14 GMT"
+        },
+        {
+          "title": "报道：Meta或实施半年来首次重大债务发售，拟募集至少200亿美元",
+          "summary": "据知情人士透露，随着科技巨头Meta Platforms Inc.在市场对人工智能（AI）支出速度怀疑加剧之际评估投资者对其债务的兴趣，该公司正考虑通过一项潜在的跨境投资级债券发行筹集至少200亿美元。目前尚未就此次发行做出最终决定，最终规模仍可能根据投资者需求有所扩大。该公司已要求花旗集团和摩根士丹利在周一和周二举行投资者电话会议。 随着Meta效仿竞争对手谷歌母公司Alphabet Inc.和",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3192775",
+          "published": "Mon, 02 Nov 2026 17:39:00 GMT"
+        },
+        {
+          "title": "美国10月ISM制造业指数 55.5，预期 54.7，前值 54.5",
+          "summary": "美国10月ISM制造业指数 55.5，预期 54.7，前值 54.5。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785013",
+          "published": "Mon, 02 Nov 2026 15:00:38 GMT"
+        },
+        {
+          "title": "付鹏：美股AI巨头的“高压锅”还能撑多久？看科技巨头的三重风险信号【付鹏说图表】",
+          "summary": "“ 交易桌前看天下，付鹏说来评财经 ” 《付鹏说·第七季》全新升级！ 立即订阅 《 付鹏说第七季 》全新升级上线，在日常视频的基础上， 新增专栏交流群更新付鹏说最新市场观点&图表数据解读（社群第一时间更新） 除了付鹏说日常内容，还新增了专栏在线阅读文档，给大家发送每日交易关注早报，和值得关注的研究报告，延展阅读资料，加入专栏的用户请扫码下图添加小助手进入《付鹏说》第七季专属交流群，并领取专栏资料。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3784907?layout=wscn-layout",
+          "published": "Mon, 02 Nov 2026 14:46:12 GMT"
+        },
+        {
+          "title": "中国AI的下一批赢家，不只是卖铲子的公司",
+          "summary": "中国AI产业的投资逻辑，正在从技术创新转向商业化落地。 伯恩斯坦（Bernstein）10月27日发布的最新中国市场深度报告《China Next Winners: From AI to Alpha》指出，中国AI产业的机会正在从大模型和算力基础设施，向更广泛的实体经济扩散。国产模型能力提升与推理成本下降、相对充足且价格较低的电力供应，以及快速发展的本土半导体和服务器产业链，正在为中国AI应用提供",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785008",
+          "published": "Mon, 02 Nov 2026 14:43:45 GMT"
+        },
+        {
+          "title": "Anthropic三季度净亏损233亿美元，上年同期121亿美元。 三季度运营亏损5.67亿美元。 三季度营收169.6亿美元，去年同期13.8亿美元",
+          "summary": "Anthropic三季度净亏损233亿美元，上年同期121亿美元。\n三季度运营亏损5.67亿美元。\n三季度营收169.6亿美元，去年同期13.8亿美元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785012",
+          "published": "Mon, 02 Nov 2026 14:28:29 GMT"
+        },
+        {
+          "title": "“稳市政策”次第出台，场外资金料源源不断",
+          "summary": "决策层的“稳定市场”操作，正在系统性的为资本市场注入新的流动性。 11月2日下午，中国人民银行发布公告：为支持资本市场健康稳定发展，将于11月3日开展证券、基金、保险公司互换便利操作，互换期限1年，并可视情展期。来自业界消息，目前有31家证券、基金公司申报需求，申请额度超过1000亿元。 当天晚间，证监会发布《中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问》详细解读了近期出台的“稳市场",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785011",
+          "published": "Mon, 02 Nov 2026 13:45:34 GMT"
+        },
+        {
+          "title": "国际油价大幅回落，报道：特朗普或将尝试外交手段，伊朗提出两天内重开霍尔木兹海峡",
+          "summary": "国际原油期货周一大幅下挫，布伦特原油跌至每桶108美元附近，西德克萨斯中间基原油（WTI）跌破100美元关口，市场对美伊外交进展的预期升温，此前数周因霍尔木兹海峡局势持续紧张而积累的地缘政治风险溢价有所释放。 据Axios报道，特朗普倾向于给予对伊外交斡旋更多时间，暂缓发动新一轮军事行动。据 央视新闻 消息，特朗普与以色列总理内塔尼亚胡10月31日就美国与伊朗的谈判进行了一次“直接而尖锐”的通话。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785007",
+          "published": "Mon, 02 Nov 2026 13:31:01 GMT"
+        },
+        {
+          "title": "AI公司赴港成潮，港交所拿出自己的指数",
+          "summary": "港交所指数继续扩容。 日前，港交所宣布推出人工智能指数，共选取40家香港上市公司，覆盖AI芯片、基础设施、模型及应用等产业环节，既有阿里、百度、腾讯等大型科技巨头，也有刚刚在港上市的智谱、MiniMax等AI新贵。 这份指数的编制规则也颇有特点。 一方面，港交所此次重点考察研发投入、资本开支和收入增长，并未将企业盈利能力纳入基本面评分；另一方面，在权重设置上，港交所还对AI芯片、基础设施及模型等核",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785009",
+          "published": "Mon, 02 Nov 2026 13:29:18 GMT"
+        },
+        {
+          "title": "出口撑起七成销量，奇瑞加速海外造车",
+          "summary": "海外市场的持续拓展，正在为奇瑞汽车的新能源转型提供更大的经营空间。 11月1日，奇瑞汽车披露最新销量数据，10月五大品牌合计销售28.25万辆，同比增长7.2%；其中新能源汽车销量13.20万辆，出口19.47万辆。进入四季度，海外市场和新能源产品继续成为奇瑞业务的重要支撑。 此前于10月30日披露的三季报，则呈现出公司经营质量的变化。前三季度，奇瑞汽车实现营业收入2412.34亿元，同比增长12",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785006",
+          "published": "Mon, 02 Nov 2026 12:56:37 GMT"
+        },
+        {
+          "title": "主动ETF已经启动建仓，最快本月可以上市",
+          "summary": "记者11月2日获悉，首批18只主动ETF合计募集资金已超过342亿。其中节奏比较快的已经开始建仓，预计最快11月下旬就可以在交易所上市，对所有投资者开放，中长期资金亦可投资。（一财）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3192650",
+          "published": "Mon, 02 Nov 2026 12:45:47 GMT"
+        },
+        {
+          "title": "中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问",
+          "summary": "一、今日金融管理部门召开座谈会，就用好用足两项结构性货币政策工具作出安排，请问证监会对后续工作有何考虑？\n\n答：2024年9月，人民银行会同证监会、金融监管总局推出证券、基金、保险公司互换便利和股票回购增持专项再贷款两项新的货币政策工具。两年多来，证券公司、基金管理公司和上市公司等市场主体积极响应，两项工具运作良好。截至今年10月底，已开展了两批次互换便利操作，28家证券公司和基金管理公司参与，合",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785005",
+          "published": "Mon, 02 Nov 2026 12:33:15 GMT"
+        },
+        {
+          "title": "两周交付3612辆，奕境X9能否撬动大六座格局？",
+          "summary": "11月1日，奕境汽车披露，X9自10月18日批量交付起，两周交付3612台，中高配车型占比超95%，平均成交价超34万元。 这款由东风与华为乾崑共同打造的新车，9月24日上市时的限时优惠价为27.98万至35.98万元。 对于一个刚开始交车的新品牌，这批交付提供了观察市场接受度的起点。更值得注意的是，早期订单的重心落在三十多万元，奕境必须在这个价位与已有大六座产品争夺家庭用户。 年末竞争也在加紧。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785004",
+          "published": "Mon, 02 Nov 2026 12:26:00 GMT"
+        },
+        {
+          "title": "Lumentum Q1营收同比飙升136%，Q2指引15.75亿-16.25亿美元超预期，斩获50亿美元订单承诺 | 财报见闻",
+          "summary": "光学与光子技术公司Lumentum Holdings业绩强劲反弹，成为AI基础设施投资浪潮中的直接受益者。受泵浦激光器和光学电路交换机需求爆发拉动，公司2027财年第一季度营收同比增长逾136%，各项盈利指标全面超出市场预期，并发布了远超分析师预测的第二季度业绩指引。 公司2027财年第一季度（截至2026年9月26日）净营收达12.63亿美元，调整后每股收益4.57美元，分别高于市场预估的4.2",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785003",
+          "published": "Mon, 02 Nov 2026 12:17:50 GMT"
+        },
+        {
+          "title": "智驾公司，集体争夺货运生意",
+          "summary": "智驾公司的生意，越来越难按乘用车、商用车来划分。重卡正在成为通用智驾公司扩展产品线的一站，原本专做货运的企业，要与能够跨车型研发、供货的公司争夺客户。 11月2日，卓驭宣布，日前已与合作方就郎柯科技智能物流车总部项目签约，计划2027年无人车租赁、销售及运营总量超过3000台。 今年6月，首款搭载卓驭辅助驾驶方案的陕汽重卡量产；10月29日，小马智行与广汽领程合作的L4自动驾驶重卡T9首批量产下线",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785002",
+          "published": "Mon, 02 Nov 2026 12:16:04 GMT"
+        },
+        {
+          "title": "周三季度再融资声明将至，美债市场屏息等待重大信号",
+          "summary": "美国财政部将于本周三发布季度再融资声明，华尔街正严阵以待 ，预判这将是2024年初以来规模最大的美债发行指引调整。 长端收益率高企与债务规模持续膨胀，将财政部的发行策略选择推至聚光灯下。 财政部长Scott Bessent近期一系列非常规举措已令市场神经高度紧绷。仅在上一份季度声明发布一周后， Bessent便出人意料地扩大了对存量债券的回购规模，外界普遍将此解读为对收益率飙升的直接回应。 与此同",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784998",
+          "published": "Mon, 02 Nov 2026 12:09:49 GMT"
+        },
+        {
+          "title": "Marvell与Lumentum将合并，打造AI连接领域的行业领军者。Marvell将以股票交易方式收购Lumentum，交易预计将于上半年2028年完成",
+          "summary": "Marvell与Lumentum将合并，打造AI连接领域的行业领军者。Marvell将以股票交易方式收购Lumentum，交易预计将于上半年2028年完成。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785001",
+          "published": "Mon, 02 Nov 2026 12:08:56 GMT"
+        },
+        {
+          "title": "企业盈利增长加速时代终结，美股牛市立足的磐石正在动摇",
+          "summary": "美国企业盈利增长依然强劲，但加速时代已经终结。随着三季度财报季接近尾声，增长放缓、超预期幅度收窄、业绩指引趋于保守等信号正在同步出现，支撑美股牛市的核心叙事开始出现裂缝。 高盛David Kostin将问题一语道破：\"三季度财报结果凸显了股票投资者面临的根本挑战：盈利增长依然强劲，但已不再加速。\"他指出，此前连续数个季度呈现的盈利加速态势，正走向终结。 与此同时，高盛Tony Pasquariel",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785000",
+          "published": "Mon, 02 Nov 2026 12:06:57 GMT"
+        },
+        {
+          "title": "中国人民银行 金融监管总局 中国证监会召开支持资本市场两项工具座谈会",
+          "summary": "2026年11月2日，中国人民银行会同金融监管总局、中国证监会等部门先后召开证券、基金、保险公司互换便利座谈会和股票回购增持再贷款座谈会，听取金融机构业务进展及意见建议，研究部署用好用足政策工具有关工作，支持资本市场健康稳定发展。中国人民银行副行长邹澜，金融监管总局副局长丛林，中国证监会副主席刘浩凌出席会议并讲话。 会议认为，支持资本市场两项工具自2024年10月推出以来，证券、基金、保险公司互换",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784999",
+          "published": "Mon, 02 Nov 2026 12:01:52 GMT"
+        },
+        {
+          "title": "“避风港”万亿市值狂飙过后，苹果能否支撑过财报考验？",
+          "summary": "苹果股价近几个月的强势上涨，令其在周一美股盘后财报公布前几乎没有任何容错空间。 自6月末低点以来，苹果股价累计上涨25%，市值增加约1万亿美元。 在谷歌和亚马逊等大型科技同行大举投入AI基础设施、引发市场担忧之际，苹果稳健的营收增长与不断攀升的自由现金流，使其成为投资者眼中的\"避风港\"。 然而， 这轮涨势也将苹果估值推至2008年以来最高水平——以未来12个月预期市盈率衡量，苹果达到36倍，约为标",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784996",
+          "published": "Mon, 02 Nov 2026 11:34:47 GMT"
+        },
+        {
+          "title": "AI信仰迎来新考验，股价暴跌后Alphabet赴欧债市场融资",
+          "summary": "Alphabet在第三季度业绩重挫、股价创纪录下跌后不足一周，即赴欧元债券市场启动新一轮融资，直接检验投资者对人工智能巨额资本开支的信心是否依然稳固。 据彭博援引知情人士透露， Alphabet周一开放了一项涵盖2年期至19年期的七档欧元债券发行簿记，承销行预计当天晚些时候完成定价。 此次发行距Alphabet上周公布令市场失望的三季度业绩仅数日，彼时公司单日市值蒸发逾5000亿美元，科技板块信用",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784995",
+          "published": "Mon, 02 Nov 2026 11:18:19 GMT"
+        },
+        {
+          "title": "黄金跌破3900美元后，华尔街多头集体“投降”，散户蜂拥抄底",
+          "summary": "黄金市场近日经历剧烈震荡。在美联储鹰派立场、强劲经济数据与科技股抛售潮的多重夹击下，金价单周重挫逾3.7%，最低触及3870美元——创一年多来新低。 据Kitco新闻最新每周黄金调查， 本周参与调查的16位华尔街分析师中，仅1人（占6%）看涨后市，63%的受访者预计金价将继续下行，另有31%预计震荡整理。 与此同时，在184位零售投资者参与的在线调查中， 53%仍看涨下周金价，多头比例远高于机构。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784994",
+          "published": "Mon, 02 Nov 2026 11:00:59 GMT"
+        },
+        {
+          "title": "多部门释放稳市举措 两项货币政策加码、护盘回购限制放宽、融券保证金比例下降",
+          "summary": "互换便利申请额度累计超2500亿元，股票回购增持贷款累计4400亿元 【财新网】 近期A股市场经历连续调整，主要指数出现回撤，市场信心面临一定考验。在此背景下，为持续提升资本市场韧性和信心，监管层密集释放稳市场稳预期信号。11月2日，证监会有关负责人在答记者问时表示，正在研究调整优化护盘式回购规则、完善长钱长投考核机制并进一步丰富市场投资工具。 上市公司回购是稳定股价、传递信心的重要途径。今年前1",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-02/102500062.html",
+          "published": "Mon, 02 Nov 2026 12:49:27 GMT"
+        },
+        {
+          "title": "腾讯与Visa深化跨境支付合作 探索智能体支付",
+          "summary": "依托微信支付的庞大用户和Visa遍布全球的网络，跨境支付领域的后来者腾讯，可能成为支付宝和银联国际“走出去”的强有力竞争对手 【财新网】 近日，腾讯与Visa宣布已签署合作备忘录，在跨境支付、智能体商务、企业级AI以及支持企业全球化拓展等领域搭建全面合作框架，将腾讯的支付解决方案、数字平台和技术能力，与Visa的全球网络及跨境资金流动解决方案深度结合。 2026年10月初，等待了八年的Visa终于",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-02/102500058.html",
+          "published": "Mon, 02 Nov 2026 12:46:44 GMT"
+        },
+        {
+          "title": "央行启动第三次互换便利 申请额度超1000亿元",
+          "summary": "2024年10月和2025年1月央行已经操作了500亿元和550亿元的互换便利 【财新网】 11月2日晚间，中国人民银行发布公开市场业务公告称，为支持资本市场健康稳定发展，中国人民银行将于11月3日开展证券、基金、保险公司互换便利（SFISF，下称“互换便利”）操作，互换期限1年，可视情展期。目前有31家证券、基金公司申报需求，申请额度超过1000亿元。 互换便利被认为是强力托底工具，有助于恢复市",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-02/102500038.html",
+          "published": "Mon, 02 Nov 2026 11:19:40 GMT"
+        },
+        {
+          "title": "惠普推AI学习打印机 AI落地传统硬件进度如何？",
+          "summary": "惠普三季度财报显示，全球打印业务净收入同比下降2.2%；打印机出货量下降6.8%，核心原因是需求走弱，中国市场尤为明显 惠普在杭州发布13款“AI学习打印机”。图：惠普 【财新网】 “不能光从打印这个行当里面去看打印到底能不能发掘出来新的增长，但是我们可以提供更多新的附加值，比如AI的功能。”10月29日，惠普公司全球副总裁、打印机与耗材产品事业部大中华区总经理金卫东告诉财新等媒体，AI应用于传统",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-02/102500025.html",
+          "published": "Mon, 02 Nov 2026 11:15:13 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
+          "summary": "[!--begin:htmlVideoCode--]19d03c29ea8d4a2dae5bb476068339b6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 中共中央总书记、国家主席、中央军委主席习近平近日对进一步做好黄河保护治理工作作出重要指示指出，党领导人民治理黄河80年，从根本上改变了历史上“三年两决口”的状况，创造了岁岁安澜的奇迹，充分彰显了社",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/02/ARTIVtg5AGv8p4eeQsSQeBfT261102.shtml",
+          "published": "Mon, 02 Nov 2026 11:47:40 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "赓续长征伟力 史诗照鉴征途｜纪录片《永远的长征》即将播出",
+          "summary": "为纪念中国工农红军长征胜利90周年，中央广播电视总台华语环球节目中心重磅推出五集文献纪录片《永远的长征》，将于11月2日起在CCTV-4黄金时间20:00档《国家记忆》栏目播出。 该片以伟大长征精神的时代传承为主线，回望90多年前党和红军在血与火中开辟胜利道路的峥嵘历程，全面回顾这一人类历史上无与伦比的英雄史诗。同时，聚焦新时代奋斗者弘扬伟大长征精神、走好新的长征路的生动实践，彰显这一伟大精神跨越",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/02/ARTIRSSRVyvuY8Qnha2MaomM261102.shtml",
+          "published": "Mon, 02 Nov 2026 10:47:46 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "付鹏：美股AI巨头的“高压锅”还能撑多久？看科技巨头的三重风险信号【付鹏说图表】",
+          "summary": "“ 交易桌前看天下，付鹏说来评财经 ” 《付鹏说·第七季》全新升级！ 立即订阅 《 付鹏说第七季 》全新升级上线，在日常视频的基础上， 新增专栏交流群更新付鹏说最新市场观点&图表数据解读（社群第一时间更新） 除了付鹏说日常内容，还新增了专栏在线阅读文档，给大家发送每日交易关注早报，和值得关注的研究报告，延展阅读资料，加入专栏的用户请扫码下图添加小助手进入《付鹏说》第七季专属交流群，并领取专栏资料。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3784907?layout=wscn-layout",
+          "published": "Mon, 02 Nov 2026 14:46:12 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“稳市政策”次第出台，场外资金料源源不断",
+          "summary": "决策层的“稳定市场”操作，正在系统性的为资本市场注入新的流动性。 11月2日下午，中国人民银行发布公告：为支持资本市场健康稳定发展，将于11月3日开展证券、基金、保险公司互换便利操作，互换期限1年，并可视情展期。来自业界消息，目前有31家证券、基金公司申报需求，申请额度超过1000亿元。 当天晚间，证监会发布《中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问》详细解读了近期出台的“稳市场",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785011",
+          "published": "Mon, 02 Nov 2026 13:45:34 GMT"
+        },
+        {
+          "title": "智驾公司，集体争夺货运生意",
+          "summary": "智驾公司的生意，越来越难按乘用车、商用车来划分。重卡正在成为通用智驾公司扩展产品线的一站，原本专做货运的企业，要与能够跨车型研发、供货的公司争夺客户。 11月2日，卓驭宣布，日前已与合作方就郎柯科技智能物流车总部项目签约，计划2027年无人车租赁、销售及运营总量超过3000台。 今年6月，首款搭载卓驭辅助驾驶方案的陕汽重卡量产；10月29日，小马智行与广汽领程合作的L4自动驾驶重卡T9首批量产下线",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785002",
+          "published": "Mon, 02 Nov 2026 12:16:04 GMT"
+        },
+        {
+          "title": "中国人民银行 金融监管总局 中国证监会召开支持资本市场两项工具座谈会",
+          "summary": "2026年11月2日，中国人民银行会同金融监管总局、中国证监会等部门先后召开证券、基金、保险公司互换便利座谈会和股票回购增持再贷款座谈会，听取金融机构业务进展及意见建议，研究部署用好用足政策工具有关工作，支持资本市场健康稳定发展。中国人民银行副行长邹澜，金融监管总局副局长丛林，中国证监会副主席刘浩凌出席会议并讲话。 会议认为，支持资本市场两项工具自2024年10月推出以来，证券、基金、保险公司互换",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784999",
+          "published": "Mon, 02 Nov 2026 12:01:52 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 95,
+    "total_collected": 72,
+    "sources": 8,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "观察者网",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
