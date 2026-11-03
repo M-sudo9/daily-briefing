@@ -1,0 +1,1325 @@
+{
+  "id": "2026-11-03-05",
+  "datetime": "2026-11-03 05:44:18",
+  "date": "2026-11-03",
+  "time": "05:44",
+  "period": "凌晨",
+  "summary": "本期采集 100 篇文章，来自 9 个信息源，覆盖 7 个领域，精选 157 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: I built a little browser game to practice Vim commands",
+          "summary": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in. There are still a lot of commands I want to add, but",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://hjkl.duy.run",
+          "published": "Tue, 03 Nov 2026 03:10:04 +0000"
+        },
+        {
+          "title": "Show HN: Rustable is an open source database client built in Rust",
+          "summary": "Article URL: https://rustable.app Comments URL: https://news.ycombinator.com/item?id=50347524 Points: 11 # Comments: 7",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://rustable.app",
+          "published": "Tue, 03 Nov 2026 03:06:53 +0000"
+        },
+        {
+          "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+          "summary": "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 15 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://arxiv.org/abs/2608.25820",
+          "published": "Tue, 03 Nov 2026 02:58:44 +0000"
+        },
+        {
+          "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+          "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 130 # Comments: 45",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://hackertimes.ca/",
+          "published": "Tue, 03 Nov 2026 01:53:34 +0000"
+        },
+        {
+          "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+          "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 102 # Comments: 26",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "published": "Tue, 03 Nov 2026 01:33:43 +0000"
+        },
+        {
+          "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+          "summary": "I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50346164",
+          "published": "Tue, 03 Nov 2026 00:09:36 +0000"
+        },
+        {
+          "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+          "summary": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/i",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+          "published": "Tue, 03 Nov 2026 00:08:53 +0000"
+        },
+        {
+          "title": "Scaling Git at OpenAI",
+          "summary": "Article URL: https://openai.com/index/scaling-git-at-openai/ Comments URL: https://news.ycombinator.com/item?id=50345924 Points: 121 # Comments: 55",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://openai.com/index/scaling-git-at-openai/",
+          "published": "Mon, 02 Nov 2026 23:47:56 +0000"
+        },
+        {
+          "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+          "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 273 # Comments: 210",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+          "published": "Mon, 02 Nov 2026 22:30:47 +0000"
+        },
+        {
+          "title": "V100 SXM2 pinout and NVLink reference",
+          "summary": "Article URL: https://github.com/pigeon-labs-stack/v100-sxm2-reference Comments URL: https://news.ycombinator.com/item?id=50344912 Points: 25 # Comments: 4",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+          "published": "Mon, 02 Nov 2026 22:30:13 +0000"
+        },
+        {
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "published": "Tue, 03 Nov 2026 00:35:52 +0000"
+        },
+        {
+          "title": "又一驻日美军士兵在冲绳被捕 日本防相发声",
+          "summary": "【环球时报综合报道】在一名驻日美军因谋杀抢劫指控被捕不到一个月后，又一名美国海军陆战队员因涉嫌在宵禁期间酒驾被捕。日本共同社11月2日报道称，日本防卫大臣小泉进次郎当日就一名驻日美国海军陆战队员因涉嫌酒驾被捕表示，已要求美方贯彻美军士兵外出禁令，切实整肃纲纪，防止问题再次发生。 10月31日，冲绳县警方以涉嫌违反《道路交通法》为由，当场逮捕隶属美国海军陆战队汉森军营的下士卡多纳。其被捕时正值驻日美",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIYdX5mphPrhyRdZUoa2Aw261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:00:06 GMT"
+        },
+        {
+          "title": "德英将深化人工智能等领域防务合作",
+          "summary": "新华社柏林11月2日电（记者张毅荣 李超）德国国防部长皮斯托里乌斯与英国国防大臣斯特里廷2日在柏林举行会谈，双方同意进一步深化人工智能、远程精确打击及太空等领域的防务合作。 据会后发布的两国防长联合声明，双方决定将旨在加强网络安全和信息共享的“网络灯塔项目”拓展至人工智能领域，并加强相关技术的研发、试验和应用合作。 声明说，两国联合研发射程超过2000公里的远程精确打击能力项目已取得显著进展。海上",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:58:33 GMT"
+        },
+        {
+          "title": "特朗普：“不急于”决定是否重启对伊朗的战事",
+          "summary": "美国总统特朗普（资料图） 美国总统特朗普当地时间2日表示，对于是否重启对伊朗的战事，他“并不急于”作出决定。 特朗普当天在接受采访时说：“无论如何，我们都会采取行动，但并不着急。我们在经济上重创了他们。”他还说，美伊目前正在对话，“进展还算顺利……（伊朗方面）并没有大家想象的那么急迫，但他们比以往任何时候都更想达成协议”。 特朗普当天在华盛顿一场活动上表示，伊朗希望达成协议结束战事，协议“有可能达",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:21:03 GMT"
+        },
+        {
+          "title": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势",
+          "summary": "高盛警告，中东供应中断的持续威胁将使原油市场的地缘政治风险溢价长期维持高位，并据此大幅上调了布伦特原油及WTI原油的价格预测。 高盛石油研究主管Daan Struyven在周日的报告中， 将布伦特原油12月目标价从每桶90美元上调至105美元，WTI目标价则从81美元上调至94美元。 展望2027年，他预计布伦特原油均价将达约88美元（此前预测为80美元），WTI均价约78美元（此前预测为73美元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785053",
+          "published": "Tue, 03 Nov 2026 03:49:30 GMT"
+        },
+        {
+          "title": "跌破50美元/盎司！白银：流动性冲击下的高贝塔清算",
+          "summary": "10月30日，全球贵金属市场继续遭遇集中抛售：现货白银跌破50美元/盎司，日内跌幅超6%，为2025年11月以来首次跌破50美元/盎司关口；10月累计下跌约18%，较1月高点121.67美元/盎司回撤约60%。现货黄金跌至3880美元/盎司附近，月跌约6.6%，较年初高点回撤约30%。从盘面上看，白银在本次下跌中所展现出的弹性与破坏力显著强于黄金，反映出其高贝塔属性在市场流动性收紧时被进一步放大。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784925",
+          "published": "Tue, 03 Nov 2026 03:36:28 GMT"
+        },
+        {
+          "title": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%",
+          "summary": "苹果业绩前景令人失望，叠加隔夜美股芯片股疲软，亚太股市周二普遍承压下行。原油价格在地缘政治紧张局势缓和背景下大幅回落，美元和美债市场则相对平稳。 周二亚洲早盘，MSCI亚太指数下跌0.6%，MSCI亚洲新兴市场下挫超1%。韩股指均下挫超3%，半导体硬件供应链、新能源电池材料及炼油板块出现集体深度回调。 债市方面，澳大利亚10年期国债收益率上行1个基点至5.14%。此前，市场普遍预期澳洲联储将在利率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785045",
+          "published": "Tue, 03 Nov 2026 03:29:51 GMT"
+        },
+        {
+          "title": "\"暂时安全、随时崩溃\"！德银最新警告：全球市场正处于五大“危险错位”",
+          "summary": "全球市场正停留在一个极窄的着陆区：风险表面上仍被隔离，但油价、通胀、利率、债市与股市之间的定价错位正在扩大，任何增长路径偏离都可能触发跨资产重估。 据追风交易台，在11月2日发布的报告中，德银指出，10月压力信号已经增多。上周五S&P 500指数收于六周低点，美国和欧洲债券利差在10月走阔，美国两年期国债收益率录得逾一年最大月度降幅，收益率走势已接近避险模式。 德银宏观策略师Henry Allen",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785040",
+          "published": "Tue, 03 Nov 2026 03:15:35 GMT"
+        },
+        {
+          "title": "韩国创纪录预算发力AI：4.7万亿韩元造\"全球最高性能\"主权模型",
+          "summary": "韩国总统李在明宣布史上最大规模财政预算，将AI与半导体列为核心战略投资方向，押注技术主权与经济增长的双重目标。 据CNBC报道，李在明周一在国会发表讲话， 宣布2027年财政总支出将较上年增长12.8%至820.9万亿韩元（约合6101亿美元），其中用于半导体、实体AI及AI数据中心的投入达21.3万亿韩元，接近2026年水平的两倍 。此外，政府将单独划拨4.7万亿韩元，专项开发李在明所称\"全球最",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785038",
+          "published": "Tue, 03 Nov 2026 01:37:50 GMT"
+        },
+        {
+          "title": "美伊展现“谈判意愿”，全球能源价格重挫",
+          "summary": "国际油价周一录得近三个月来最大单日跌幅，美伊双方通过各自官方渠道释放谈判意愿，令此前因霍尔木兹海峡局势紧张而积累的大量地缘政治风险溢价迅速回落。 据 央视新闻 报道，伊朗总统佩泽希齐扬周一表示，政府正努力通过对话解决问题，伊朗最高领袖已就和平谈判向政府授予\"一定权力\"。与此同时，据 华尔街见闻文章 此前写道，特朗普倾向于给予对伊外交斡旋更多时间，暂缓新一轮军事行动。 据媒体报道，他在当天发表讲话时",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785033",
+          "published": "Tue, 03 Nov 2026 00:34:02 GMT"
+        },
+        {
+          "title": "《向海图强》：透过船舶理解中国制造｜荐书",
+          "summary": "中国船舶工业能走到今天，是改革开放放开了人们的手脚，是市场经济激活了人们的干劲。透过船舶业这扇窗，不难看出，如今牵动着全球经济的高铁、新能源汽车等中国制造业，其实也是这么走过来的 淑敏大姐近日题赠新著《向海图强：中国船舶工业的崛起之路》。她从岗位上退下来不久，就应出版社之约，与几位前同事合写了这本书。 淑敏大姐几乎把整个职业生涯都献给了船舶工业。她曾任《中国船舶报》总编辑，后来去国防科工委系统工程",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-03/102500310.html",
+          "published": "Tue, 03 Nov 2026 04:27:48 GMT"
+        },
+        {
+          "title": "AI冲击、老龄化、政策约束：世界经济风险长短期（下）",
+          "summary": "这是“大政府”的时代。虽然面临种种约束，但是如果做对很多事情，大政府依然有能力力挽狂澜。当然，在社会分裂、政治极化、地缘政治冲突频发下，也存在做错事情、且一错再错的可能性 （接上篇《 能源、利率、收入差距：世界经济风险长短期（上） 》） AI冲击 跟20世纪第一个25年相比，21世纪“第一季度”出现的新产品、新技术毫不逊色。智能手机、移动互联网、云服务、大数据、电动车、无人机、可回收火箭等等，已经",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-03/102500309.html",
+          "published": "Tue, 03 Nov 2026 04:18:48 GMT"
+        },
+        {
+          "title": "【华尔街原声】标普全球副董事长耶金：霍尔木兹海峡将迎来“新常态”",
+          "summary": "耶金称，中东冲突冲击能源和化肥供应，推高农业成本，未来数月或面临食品通胀风险",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500264.html",
+          "published": "Tue, 03 Nov 2026 03:17:55 GMT"
+        },
+        {
+          "title": "【市场动态】哈梅内伊为和平谈判开绿灯 特朗普称“有可能”与伊朗达成协议",
+          "summary": "一名记者大声问他是否会在周二中期选举后恢复对伊朗的军事打击，特朗普用口型回答“不”",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500196.html",
+          "published": "Tue, 03 Nov 2026 02:19:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Scaling Git at OpenAI",
+          "summary": "Article URL: https://openai.com/index/scaling-git-at-openai/ Comments URL: https://news.ycombinator.com/item?id=50345924 Points: 121 # Comments: 55",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://openai.com/index/scaling-git-at-openai/",
+          "published": "Mon, 02 Nov 2026 23:47:56 +0000"
+        },
+        {
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "published": "Tue, 03 Nov 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "published": "Tue, 03 Nov 2026 01:49:52 +0000"
+        },
+        {
+          "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+          "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+          "published": "Tue, 03 Nov 2026 01:12:55 +0000"
+        },
+        {
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "published": "Tue, 03 Nov 2026 00:35:52 +0000"
+        },
+        {
+          "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+          "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+          "published": "Mon, 02 Nov 2026 23:25:32 +0000"
+        },
+        {
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+          "summary": "The one-year-old startup is now valued at $300 million.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "published": "Mon, 02 Nov 2026 23:13:53 +0000"
+        },
+        {
+          "title": "Apple’s inventory surges 154% as memory chip costs climb",
+          "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+          "published": "Mon, 02 Nov 2026 23:04:57 +0000"
+        },
+        {
+          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+          "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "published": "Mon, 02 Nov 2026 22:14:50 +0000"
+        },
+        {
+          "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+          "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters , Ternus said the company is \"working hard to get it to as many custom",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+          "published": "2026-11-02T17:56:11-05:00"
+        },
+        {
+          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+          "published": "2026-11-02T17:02:36-05:00"
+        },
+        {
+          "title": "《原神》角色预告-「米提亚：井井有条」",
+          "summary": "与能源相关的实验都存在一定的危险性，所以工作人员需要时刻保持谨慎的态度。\n不妨多问问自己：有日程可控的预期吗？有数据稳定的可能吗？有提前完成的风险吗？\n\n中文CV：\n米提亚——苏尚卿\n瓦列里——淦子齐\n阿罗夏——王辅平\n沃雅妮莎——苏婉\n奥黛塔——潘丹妮\n\n日文CV：\n米提亚——小林裕介\n瓦列里——古川慎\n阿罗夏——佐藤元\n沃雅妮莎——伊藤加奈惠\n奥黛塔——上坂堇\n\n《原神》bilibili服下载",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV19b4A6PECX",
+          "published": "Tue, 03 Nov 2026 04:00:00 GMT"
+        },
+        {
+          "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+          "summary": "《弧光猎人》（英文名：ARC Raiders）是一款由Embark Studios和腾讯联合开发、腾讯代理发行的第三人称PvEvP撤离射击冒险游戏。\n狭路相逢，是针锋相对、做匹独狼，还是合作抵抗？不一样的选择，会打开不一样的世界。\n你，想要怎样的冒险，想成为怎样的奇袭者？\n\n「数据猎取」——国服专属PVP事件介绍：\n目标区域通讯已中断，奇袭者可在此搜集用以恢复通信的讯号数据，带回斯佩兰扎换取名望与",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1RA4w6AE74",
+          "published": "Tue, 03 Nov 2026 02:00:00 GMT"
+        },
+        {
+          "title": "“我有个提议，AI时代，三年级前不要考试”",
+          "summary": "【文/观察者网 冯雪】 “问问AI呗？” 不过两三年的功夫，AI大模型就渗透普通人生活的方方面面。与之相伴，一种焦虑的社会情绪也正在形成。 在清华大学心理与认知科学系教授彭凯平看来，AI时代到来，叩问人类存在价值：既然AI能够如此高效快捷，那我们还能做什么？ 他注意到，AI已然在改变人类的认知活动，“未来的趋势很可能是我们不太愿意思考、判断、批评”。 同时，快捷并不必然带来幸福，甚至陷入“越自由、",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/pengkaiping/2026_11_03_905955_s.shtml",
+          "published": "Tue, 03 Nov 2026 02:53:00 GMT"
+        },
+        {
+          "title": "这张覆盖展前、展中、展后“智慧医疗保障网”为进博会筑起生命安全保障线",
+          "summary": "[!--begin:htmlVideoCode--]7b376a21276e4e12b273fdadd7ced578,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月5日到10日，第九届进博会将在上海举办。目前，各项筹备工作正有序展开，其中，配套医疗保障已全面就绪。 这里是国家会展中心北大厅，也是观展时期人流最为密集的区域之一。尽管距离进博",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTITGR0GfGZBWPUuJGZpmLX261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:01:44 GMT"
+        },
+        {
+          "title": "第八届海南岛国际电影节将在三亚举办 征片数量再创新高",
+          "summary": "11月3日，记者从第八届海南岛国际电影节新闻发布会上获悉，由中央广播电视总台、海南省人民政府联合主办的第八届海南岛国际电影节将于12月6日至12日在三亚市举办。 本届电影节以“海生万象·影领未来”为主题，共设置开幕式、闭幕式、“金椰奖”竞赛、电影展映、金椰论坛、自贸港国际影视科技展、版权交易活动、AI电影展等11个板块。其中，开幕式定于12月6日举行，闭幕式定于12月12日举行。 △第八届海南岛国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI2Mw1EiUPwk9ZyJIQfU1q261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:51:30 GMT"
+        },
+        {
+          "title": "既有高端对话，又有炫酷体验 多维度解锁乌镇峰会浓浓“新”意",
+          "summary": "[!--begin:htmlVideoCode--]557a11660eb34e688d9d8e3f2db8d6f8,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月2日开始到5日，2026年世界互联网大会乌镇峰会系列活动在浙江乌镇举行。本届峰会以“开源开放、共建共享”为主题，既有高端对话，又有炫酷体验。4天时间，如何感知这场峰会的魅力，会",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI5HjsoYcYdh2csVjnogED261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:37:49 GMT"
+        },
+        {
+          "title": "观察 | “因水制宜”答好算水协同提升水资源利用效率这道“必答题”",
+          "summary": "[!--begin:htmlVideoCode--]302dbf0d7e0848b08f2485db64b496f4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 当前，人工智能产业对算力等硬件需求呈现指数级增长，国内算力中心也在加速布局。人工智能大模型训练、推理都会让算力中心持续产生热量，需要通过冷却系统及时散热，既涉及电力消耗，也涉及水资源",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTILUqzPtq2onsXf8K3ZF5H261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:37:23 GMT"
+        },
+        {
+          "title": "2026年世界互联网大会乌镇峰会今天开幕",
+          "summary": "2026年世界互联网大会乌镇峰会今天（11月3日）在浙江乌镇开幕。本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，全球多国政府、国际组织、企业、专家学者代表汇聚乌镇，聚焦人工智能开源开放，围绕创新发展、安全治理、文明交流、国际合作等开展多维度对话。 本次乌镇峰会除举办开幕式外，主论坛将设置“人工智能乌镇对话”环节，邀请全球领军科技企业、开源大模型企业负责人以及人工智能科学家同",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIVZTxzWZrF9dZEfdOCulS261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:57:54 GMT"
+        },
+        {
+          "title": "当AI闯入数学，研究如何裂变？",
+          "summary": "自今年夏天以来，数学界正在经历一场从未有过的密集震荡，引发这场震荡的正是能力不断迭代的AI。 这场震荡在10月达到了一个高潮。10月6日，OpenAI一次性批量公布700多份AI生成手稿，在几何、计算机科学、代数及其他学科的372个数学问题上取得进展，高等数学的前沿在一天之内被推进。就连刚刚获得菲尔兹奖的三维挂谷猜想问题，也被大模型推进至所有维度。 “眼下数学界确实有很强的不安情绪，大家对技术的发",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIrjPpXxtyite9269OupoT261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:17:45 GMT"
+        },
+        {
+          "title": "求职测评层层加码，招聘岂能变成“漫长闯关”",
+          "summary": "方元陆 秋招大幕拉开，1270万高校毕业生涌入求职市场。不少人投出简历后，最先等来的不是面试邀约，而是接连不断的线上测评链接，行测逻辑、性格量表、AI视频面试环环相扣。有调研显示，超六成大中型企业将线上测评纳入校招必经流程，不少应届生单季参与数十场测评，累计刷题耗时数十小时，却常石沉大海。求职尚未进入核心能力比拼，年轻人先被困在了无休无止的测评消耗战里。 面对动辄数万份的简历投递，标准化测评是企业",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTInos5ffDrPD4amZLQdWF8261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:52:47 GMT"
+        },
+        {
+          "title": "短剧刷不停 为何入坑容易出坑难",
+          "summary": "2026年，AI短剧越来越多地进入人们的日常生活。制作成本低、剧情反转快，一集可能只需一两分钟，成了不少人打发空闲的选择。 问题是，越来越多的人发现，原本只想看几集放松一下，结果却一集接一集，回头一看花掉的总时长吓自己一跳；还有人发现，自己本想用来睡觉、学习、工作、陪伴家人的时间也搭了进去；有人为了“出坑”干脆卸载短剧APP，过了不久却又重新下载回来…… 防沉迷也成为短剧平台开始重视的问题。近期，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIVXOA4BMNsiUXT4ACDTTB261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:42:52 GMT"
+        },
+        {
+          "title": "德英将深化人工智能等领域防务合作",
+          "summary": "新华社柏林11月2日电（记者张毅荣 李超）德国国防部长皮斯托里乌斯与英国国防大臣斯特里廷2日在柏林举行会谈，双方同意进一步深化人工智能、远程精确打击及太空等领域的防务合作。 据会后发布的两国防长联合声明，双方决定将旨在加强网络安全和信息共享的“网络灯塔项目”拓展至人工智能领域，并加强相关技术的研发、试验和应用合作。 声明说，两国联合研发射程超过2000公里的远程精确打击能力项目已取得显著进展。海上",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:58:33 GMT"
+        },
+        {
+          "title": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资",
+          "summary": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资 11月3日，北京共绩科技有限公司（以下简称：共绩科技）宣布完成数亿元新一轮融资。投资方包括中国互联网投资基金、宁德时代系宁波问鼎和溥泉资本、元禾璞华、赛目科技、德石投资、启恒共创等机构，老股东春华资本、力合创投、新进创投继续追加投资，光源资本担任独家财务顾问。公司未披露具体轮次名称及投后估值。 共绩科技成立于2023年，核心创始团队来自清华大",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785058",
+          "published": "Tue, 03 Nov 2026 04:57:30 GMT"
+        },
+        {
+          "title": "苹果：存储反噬终究来了，AI对面的“避风港”要漏风？",
+          "summary": "苹果 (AAPL.O) 北京时间 2026年11月3日上午，美股盘后发布2026财年第四季度财报（截至2026年9月），要点如下： 1、整体业绩：本季度苹果公司实现营收1144.8亿美元，同比增长11.7%，高于市场预期（1135亿美元），也超过了公司此前指引的上限（同比增长9–11%）。 公司本季度收入端的增长，主要受iPhone和Mac业务的带动，其中iPhone 18 Pro系列在季末上市，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785057",
+          "published": "Tue, 03 Nov 2026 04:07:15 GMT"
+        },
+        {
+          "title": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持",
+          "summary": "在Marvell宣布收购光学器件厂商Lumentum之前，两家公司的掌门人曾就这笔交易征询英伟达CEO黄仁勋的意见。 据彭博11月3日报道，Marvell CEO Matthew Murphy与Lumentum CEO Michael Hurlston 在交易公布前曾与黄仁勋通电话，寻求其看法 。知情人士称，黄仁勋对这项交易表示支持。 英伟达已向两家公司各投资20亿美元 报道称，英伟达今年早些时候",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785055",
+          "published": "Tue, 03 Nov 2026 03:55:38 GMT"
+        },
+        {
+          "title": "市场同时存在两个截然相反的熊市逻辑：“算力不足与算力过剩”",
+          "summary": "美股超大规模云厂商刚刚交出连续第六个季度加速增长的成绩单，英特尔却经历了半个世纪来最惨烈的单日暴跌（-29%）。夹在中间的对冲基金，整个10月都在抛售一切带“AI”字样的标的。 市场究竟在怕什么？高盛EMEA Delta One交易主管Rich Privorotsky在周一早间的周报中表示， 没人真正知道该担心什么。 他写道： 关于AI的大辩论正在变得有些循环。 一半市场认为，我们根本不可能建造足",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785050",
+          "published": "Tue, 03 Nov 2026 03:37:50 GMT"
+        },
+        {
+          "title": "跌破50美元/盎司！白银：流动性冲击下的高贝塔清算",
+          "summary": "10月30日，全球贵金属市场继续遭遇集中抛售：现货白银跌破50美元/盎司，日内跌幅超6%，为2025年11月以来首次跌破50美元/盎司关口；10月累计下跌约18%，较1月高点121.67美元/盎司回撤约60%。现货黄金跌至3880美元/盎司附近，月跌约6.6%，较年初高点回撤约30%。从盘面上看，白银在本次下跌中所展现出的弹性与破坏力显著强于黄金，反映出其高贝塔属性在市场流动性收紧时被进一步放大。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784925",
+          "published": "Tue, 03 Nov 2026 03:36:28 GMT"
+        },
+        {
+          "title": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%",
+          "summary": "苹果业绩前景令人失望，叠加隔夜美股芯片股疲软，亚太股市周二普遍承压下行。原油价格在地缘政治紧张局势缓和背景下大幅回落，美元和美债市场则相对平稳。 周二亚洲早盘，MSCI亚太指数下跌0.6%，MSCI亚洲新兴市场下挫超1%。韩股指均下挫超3%，半导体硬件供应链、新能源电池材料及炼油板块出现集体深度回调。 债市方面，澳大利亚10年期国债收益率上行1个基点至5.14%。此前，市场普遍预期澳洲联储将在利率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785045",
+          "published": "Tue, 03 Nov 2026 03:29:51 GMT"
+        },
+        {
+          "title": "“招商名片”变“选举雷区”，“数据中心暂停令”席卷美国20州，公用事业股面临重估",
+          "summary": "数据中心正在从美国各州的招商名片，转化为2026年中期选举中的高敏感议题。AI用电需求、居民电费压力与地方审批权交汇，公用事业股的估值逻辑随之进入重估阶段。 据美银公用事业团队报告， 在周二投票的36场州长选举中，已有20场出现数据中心暂停或禁令提案，范围覆盖得克萨斯、佐治亚、俄亥俄等关键负荷增长州。 美银认为，市场影响的核心在于监管任命、超大负荷接入规则，以及竞选承诺在州议会、法律框架和公用事业",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785048",
+          "published": "Tue, 03 Nov 2026 03:22:03 GMT"
+        },
+        {
+          "title": "从“直播地球”到太空算力，国星宇航闯关港股",
+          "summary": "商业航天企业冲刺上市的脚步越来越密集。 2026年10月29日，成都国星宇航科技股份有限公司（下称“国星宇航”）通过港交所上市聆讯。此前，蓝箭航天、中科宇航已先后进入科创板IPO审核，星河动力、天兵科技等也已启动上市辅导。 与主要研制运载火箭的企业不同，国星宇航的生意围绕卫星展开， 其主营业务是卫星及相关服务与星基解决方案‌，覆盖从卫星研制、在轨运营到数据应用的全链条。除了根据客户需求研发、制造定",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785051",
+          "published": "Tue, 03 Nov 2026 03:20:23 GMT"
+        },
+        {
+          "title": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了",
+          "summary": "电气化的剧变已经脱离了单纯的AI叙事，一场高达 5000亿美元 的财富创造盛宴正在全球电力市场中加速发酵，而华尔街的定价模型却普遍落后于现实。那些拥有可靠基荷电力、掌握核心电网节点的企业，正在迎来自上世纪工业化以来最强劲的现金流超级周期。 据追风交易台消息，摩根士丹利（Morgan Stanley）全球公用事业团队在11月2日的最新研报中发出了明确信号：全球电力紧张局势将大幅超出预期。电气化“超级",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785043",
+          "published": "Tue, 03 Nov 2026 02:48:31 GMT"
+        },
+        {
+          "title": "英特尔股价单月暴跌45%，PC仍占公司约一半营收、代工客户信心动摇",
+          "summary": "10月最后一个交易日，英特尔股价单日崩跌29%，创下1970年代以来最惨烈的单日表现。整个10月，股价累计下滑45%——据FactSet数据，这是英特尔有史以来最差的单月表现。进入11月首个交易日，股价再跌8%。 导火索是一份令华尔街失望的业绩预警。英特尔警告，本季度营收将比分析师预期低10亿至20亿美元。原因直指PC市场：内存及其他零部件成本居高不下，消费者越来越不愿意升级电脑。而PC业务目前仍",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785037",
+          "published": "Tue, 03 Nov 2026 02:21:52 GMT"
+        },
+        {
+          "title": "对冲基金巨头Elliott：当前市场与大萧条前高度相似，熊市的所有警报已经拉响",
+          "summary": "保罗·辛格旗下Elliott投资管理公司发出严厉警告，称当前市场环境与大萧条前的特征高度相似，几乎所有预示重大熊市的警报均已拉响。 11月2日，据《华尔街日报》报道，Elliott在给投资者的10月信函中列举了 美国预算赤字、顽固通胀、私人信贷组合以及人工智能炒作等多项风险 ，并警示： 目前，几乎每一个预警重大熊市来临的警钟都在鸣响。 该机构认为，一旦支撑当前牛市的关键因素中有一两项出现逆转，市场",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785034",
+          "published": "Tue, 03 Nov 2026 01:42:13 GMT"
+        },
+        {
+          "title": "到不了，也回不去：美股科技巨头的AI投资正面临两难",
+          "summary": "AI投资仍在加速，美股的定价逻辑却开始变化。资本开支持续攀升，科技巨头的自由现金流与回购能力受到挤压，传统业务也面临新的竞争挑战。与此同时，Non-AI交易升温。华尔街开始重新计算AI增长的代价。 10月底的财报季，市场却开始把这些数字与折旧、融资、自由现金流和回购放在一张表上核算。AI故事仍然动人，投资者开始计较故事的成本。 一、发生了什么？——美股10月突然变天 1. 同样是AI高增长，市场给",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784977",
+          "published": "Tue, 03 Nov 2026 01:41:45 GMT"
+        },
+        {
+          "title": "韩国创纪录预算发力AI：4.7万亿韩元造\"全球最高性能\"主权模型",
+          "summary": "韩国总统李在明宣布史上最大规模财政预算，将AI与半导体列为核心战略投资方向，押注技术主权与经济增长的双重目标。 据CNBC报道，李在明周一在国会发表讲话， 宣布2027年财政总支出将较上年增长12.8%至820.9万亿韩元（约合6101亿美元），其中用于半导体、实体AI及AI数据中心的投入达21.3万亿韩元，接近2026年水平的两倍 。此外，政府将单独划拨4.7万亿韩元，专项开发李在明所称\"全球最",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785038",
+          "published": "Tue, 03 Nov 2026 01:37:50 GMT"
+        },
+        {
+          "title": "野村：AI数据中心非常赚钱，科技股下跌是被市场“错杀”了",
+          "summary": "对于本轮科技股的下跌，野村证券认为，市场将大型科技公司负自由现金流误读为\"AI不赚钱\"，这是对利润与现金流概念的混淆。数据中心投资高度盈利，科技股的下跌在野村看来反应过度，对半导体股票而言更属错杀。 据追风交易台，野村证券在11月2日发布的报告中指出，近期科技股遭受抛售源于两大担忧：AI蚕食传统业务，以及自由现金流（FCF）转负。然而野村认为， 第一个担忧恰恰说明大型科技公司无法削减投资，这对半导",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785036",
+          "published": "Tue, 03 Nov 2026 01:37:25 GMT"
+        },
+        {
+          "title": "35 岁不会写代码？这波 AI 红利，可能就轮到你了",
+          "summary": "今年以来，全球科技公司已宣布裁员近 20 万人。与此同时，有一个 AI 岗位的招聘需求却在爆发：美国的招聘广告三年涨了 30 多倍，薪资中位数约 19.5 万美元；国内相关职位的发布量一年涨了 21 倍。 OpenAI、Anthropic、微软、亚马逊、谷歌，几家巨头前后砸下近百亿美元，有的开新公司，有的建新部门，抢的都是这类人才。 最反常识的是：这个岗位最稀缺的本事，恰恰不是写代码。 Anthr",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784474",
+          "published": "Mon, 02 Nov 2026 23:50:05 GMT"
+        },
+        {
+          "title": "芯片公司Marvell拟1150亿亿美元收购光模块公司Lumentum AI光互连开启垂直整合",
+          "summary": "AI集群的互连竞赛从芯片平台层延伸到了上游光子器件与制造环节 【财新网】 当地时间11月2日，美国芯片厂商Marvell宣布，将以全股票交易方式收购光通信厂商Lumentum，交易价格约1150亿美元（约合人民币8180亿元），交易对价较10月28日收盘价溢价23.9%。交易完成后，Lumentum股东将持有合并后公司约33%的股份，预计2028年上半年完成交割。受收购价格及AI基础设施投资回报担",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-03/102500323.html",
+          "published": "Tue, 03 Nov 2026 05:11:20 GMT"
+        },
+        {
+          "title": "AI冲击、老龄化、政策约束：世界经济风险长短期（下）",
+          "summary": "这是“大政府”的时代。虽然面临种种约束，但是如果做对很多事情，大政府依然有能力力挽狂澜。当然，在社会分裂、政治极化、地缘政治冲突频发下，也存在做错事情、且一错再错的可能性 （接上篇《 能源、利率、收入差距：世界经济风险长短期（上） 》） AI冲击 跟20世纪第一个25年相比，21世纪“第一季度”出现的新产品、新技术毫不逊色。智能手机、移动互联网、云服务、大数据、电动车、无人机、可回收火箭等等，已经",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-03/102500309.html",
+          "published": "Tue, 03 Nov 2026 04:18:48 GMT"
+        },
+        {
+          "title": "【华尔街原声】Marvell、Lumentum两公司CEO谈收购：打造AI互联龙头",
+          "summary": "双方认为，AI数据中心需求推动半导体与光通信技术加速融合",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500205.html",
+          "published": "Tue, 03 Nov 2026 02:37:38 GMT"
+        },
+        {
+          "title": "【市场动态】Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
+          "summary": "Anthropic在推出较新的模型时已经下调价格，其中包括9月发布的Opus 5.5。其竞争对手OpenAI近几个月也推出了价格更低的模型",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500190.html",
+          "published": "Tue, 03 Nov 2026 02:05:55 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+          "summary": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場由來已久的辯論，並引發了關於科學與娛樂之間界限的新問題。",
+          "importance": "medium",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 00:21:54 GMT"
+        },
+        {
+          "title": "“我有个提议，AI时代，三年级前不要考试”",
+          "summary": "【文/观察者网 冯雪】 “问问AI呗？” 不过两三年的功夫，AI大模型就渗透普通人生活的方方面面。与之相伴，一种焦虑的社会情绪也正在形成。 在清华大学心理与认知科学系教授彭凯平看来，AI时代到来，叩问人类存在价值：既然AI能够如此高效快捷，那我们还能做什么？ 他注意到，AI已然在改变人类的认知活动，“未来的趋势很可能是我们不太愿意思考、判断、批评”。 同时，快捷并不必然带来幸福，甚至陷入“越自由、",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/pengkaiping/2026_11_03_905955_s.shtml",
+          "published": "Tue, 03 Nov 2026 02:53:00 GMT"
+        },
+        {
+          "title": "美4名志愿者完成378天模拟“火星之旅”",
+          "summary": "“宇航员健康与任务表现探索模拟计划”项目模拟火星表面的部分 美国国家航空航天局日前宣布，4名志愿者于10月31日完成为期378天的模拟火星驻留任务。这项任务旨在研究人类如何适应深空长期驻留环境，为美国未来建设月球基地和开展火星探索任务提供参考。 据介绍，这是美航空航天局“宇航员健康与任务表现探索模拟计划”框架下的第二次任务。此次任务于2025年10月19日启动，4名志愿者在得克萨斯州休斯敦约翰逊航",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTImIXYjyZgZec6bI7AYkQz261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:34:56 GMT"
+        },
+        {
+          "title": "当AI闯入数学，研究如何裂变？",
+          "summary": "自今年夏天以来，数学界正在经历一场从未有过的密集震荡，引发这场震荡的正是能力不断迭代的AI。 这场震荡在10月达到了一个高潮。10月6日，OpenAI一次性批量公布700多份AI生成手稿，在几何、计算机科学、代数及其他学科的372个数学问题上取得进展，高等数学的前沿在一天之内被推进。就连刚刚获得菲尔兹奖的三维挂谷猜想问题，也被大模型推进至所有维度。 “眼下数学界确实有很强的不安情绪，大家对技术的发",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIrjPpXxtyite9269OupoT261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:17:45 GMT"
+        },
+        {
+          "title": "求职测评层层加码，招聘岂能变成“漫长闯关”",
+          "summary": "方元陆 秋招大幕拉开，1270万高校毕业生涌入求职市场。不少人投出简历后，最先等来的不是面试邀约，而是接连不断的线上测评链接，行测逻辑、性格量表、AI视频面试环环相扣。有调研显示，超六成大中型企业将线上测评纳入校招必经流程，不少应届生单季参与数十场测评，累计刷题耗时数十小时，却常石沉大海。求职尚未进入核心能力比拼，年轻人先被困在了无休无止的测评消耗战里。 面对动辄数万份的简历投递，标准化测评是企业",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTInos5ffDrPD4amZLQdWF8261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:52:47 GMT"
+        },
+        {
+          "title": "短剧刷不停 为何入坑容易出坑难",
+          "summary": "2026年，AI短剧越来越多地进入人们的日常生活。制作成本低、剧情反转快，一集可能只需一两分钟，成了不少人打发空闲的选择。 问题是，越来越多的人发现，原本只想看几集放松一下，结果却一集接一集，回头一看花掉的总时长吓自己一跳；还有人发现，自己本想用来睡觉、学习、工作、陪伴家人的时间也搭了进去；有人为了“出坑”干脆卸载短剧APP，过了不久却又重新下载回来…… 防沉迷也成为短剧平台开始重视的问题。近期，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIVXOA4BMNsiUXT4ACDTTB261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:42:52 GMT"
+        },
+        {
+          "title": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%",
+          "summary": "苹果业绩前景令人失望，叠加隔夜美股芯片股疲软，亚太股市周二普遍承压下行。原油价格在地缘政治紧张局势缓和背景下大幅回落，美元和美债市场则相对平稳。 周二亚洲早盘，MSCI亚太指数下跌0.6%，MSCI亚洲新兴市场下挫超1%。韩股指均下挫超3%，半导体硬件供应链、新能源电池材料及炼油板块出现集体深度回调。 债市方面，澳大利亚10年期国债收益率上行1个基点至5.14%。此前，市场普遍预期澳洲联储将在利率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785045",
+          "published": "Tue, 03 Nov 2026 03:29:51 GMT"
+        },
+        {
+          "title": "对冲基金巨头Elliott：当前市场与大萧条前高度相似，熊市的所有警报已经拉响",
+          "summary": "保罗·辛格旗下Elliott投资管理公司发出严厉警告，称当前市场环境与大萧条前的特征高度相似，几乎所有预示重大熊市的警报均已拉响。 11月2日，据《华尔街日报》报道，Elliott在给投资者的10月信函中列举了 美国预算赤字、顽固通胀、私人信贷组合以及人工智能炒作等多项风险 ，并警示： 目前，几乎每一个预警重大熊市来临的警钟都在鸣响。 该机构认为，一旦支撑当前牛市的关键因素中有一两项出现逆转，市场",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785034",
+          "published": "Tue, 03 Nov 2026 01:42:13 GMT"
+        },
+        {
+          "title": "美伊展现“谈判意愿”，全球能源价格重挫",
+          "summary": "国际油价周一录得近三个月来最大单日跌幅，美伊双方通过各自官方渠道释放谈判意愿，令此前因霍尔木兹海峡局势紧张而积累的大量地缘政治风险溢价迅速回落。 据 央视新闻 报道，伊朗总统佩泽希齐扬周一表示，政府正努力通过对话解决问题，伊朗最高领袖已就和平谈判向政府授予\"一定权力\"。与此同时，据 华尔街见闻文章 此前写道，特朗普倾向于给予对伊外交斡旋更多时间，暂缓新一轮军事行动。 据媒体报道，他在当天发表讲话时",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785033",
+          "published": "Tue, 03 Nov 2026 00:34:02 GMT"
+        },
+        {
+          "title": "花旗余向荣：预计2027年实际GDP增速4.1% 政策应更多转向民生和消费",
+          "summary": "他建议2027年可以新增5000亿元特别国债额度，安排为“投资于人”的专项资金 【财新网】 “展望2027年，经济增长的压力可能会更加明显的放大。我觉得要至少警惕出口走弱、房地产拖累以及私人部门去杠杆这三重‘逆风’。”花旗集团大中华区首席经济学家余向荣指出。 2026年11月2日，花旗集团大中华区首席经济学家余向荣在接受财新等媒体采访时指出，预计2026年全年GDP增速会是4.6%，但明年的实际G",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-11-03/102500302.html",
+          "published": "Tue, 03 Nov 2026 04:05:56 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“我有个提议，AI时代，三年级前不要考试”",
+          "summary": "【文/观察者网 冯雪】 “问问AI呗？” 不过两三年的功夫，AI大模型就渗透普通人生活的方方面面。与之相伴，一种焦虑的社会情绪也正在形成。 在清华大学心理与认知科学系教授彭凯平看来，AI时代到来，叩问人类存在价值：既然AI能够如此高效快捷，那我们还能做什么？ 他注意到，AI已然在改变人类的认知活动，“未来的趋势很可能是我们不太愿意思考、判断、批评”。 同时，快捷并不必然带来幸福，甚至陷入“越自由、",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/pengkaiping/2026_11_03_905955_s.shtml",
+          "published": "Tue, 03 Nov 2026 02:53:00 GMT"
+        },
+        {
+          "title": "这张覆盖展前、展中、展后“智慧医疗保障网”为进博会筑起生命安全保障线",
+          "summary": "[!--begin:htmlVideoCode--]7b376a21276e4e12b273fdadd7ced578,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月5日到10日，第九届进博会将在上海举办。目前，各项筹备工作正有序展开，其中，配套医疗保障已全面就绪。 这里是国家会展中心北大厅，也是观展时期人流最为密集的区域之一。尽管距离进博",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTITGR0GfGZBWPUuJGZpmLX261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:01:44 GMT"
+        },
+        {
+          "title": "超深地下工程装备迈向智能化、无人化 一批自主研制高端装备相继投用",
+          "summary": "[!--begin:htmlVideoCode--]5bf10c88cc9542a98d7a28bbdaad6d91,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者11月3日从三峡集团获悉，我国首套专用于超深竖井的压力钢管智能焊接成套装备，在浙江松阳抽水蓄能电站正式投用。装备面向深地工程狭小深井极端工况自主研发，补齐了超深竖井高强钢钢管自动",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIp1L4VjjPonB3z9ztxqzl261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:01:27 GMT"
+        },
+        {
+          "title": "河南安阳通报“中介称花3.5万元买高考100分”：涉事人员被责令整改",
+          "summary": "央视网消息： 据“安阳市场监管”微信公众号消息，11月3日，河南安阳市市场监管局针对网传“中介广告宣称，花3.5万元，通过海南、宁夏落户、代办学籍，就能让高三考生‘少考100分’上本科”发布情况通报。近日，媒体关注有人在安阳开展“异地高考”咨询。安阳市市场监管局高度重视，迅速依法开展调查，目前已对涉事人员侯某依法下达责令整改通知书，对其违法开展咨询的无照经营行为予以取缔。下一步，安阳市市场监管局将",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIeWINfjguASEyHt1ZersR261103.shtml",
+          "published": "Tue, 03 Nov 2026 04:42:33 GMT"
+        },
+        {
+          "title": "第八届海南岛国际电影节将在三亚举办 征片数量再创新高",
+          "summary": "11月3日，记者从第八届海南岛国际电影节新闻发布会上获悉，由中央广播电视总台、海南省人民政府联合主办的第八届海南岛国际电影节将于12月6日至12日在三亚市举办。 本届电影节以“海生万象·影领未来”为主题，共设置开幕式、闭幕式、“金椰奖”竞赛、电影展映、金椰论坛、自贸港国际影视科技展、版权交易活动、AI电影展等11个板块。其中，开幕式定于12月6日举行，闭幕式定于12月12日举行。 △第八届海南岛国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI2Mw1EiUPwk9ZyJIQfU1q261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:51:30 GMT"
+        },
+        {
+          "title": "从“靠天吃饭”到拼面料、拓场景 新业态赋能助力小伞具“撑开”大市场",
+          "summary": "[!--begin:htmlVideoCode--]5b920ab534504518b70f2e3a8f714245,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年以来，在新兴产业产品加速出海的同时，一些传统产业凭借持续创新，在保持较高国际市场份额和高基数的情况下，依然实现了稳步增长。中国是全球最大的伞具生产国和出口国，全球每三把伞就",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIODTtgmELxqJIOSVei84C261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:38:10 GMT"
+        },
+        {
+          "title": "既有高端对话，又有炫酷体验 多维度解锁乌镇峰会浓浓“新”意",
+          "summary": "[!--begin:htmlVideoCode--]557a11660eb34e688d9d8e3f2db8d6f8,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月2日开始到5日，2026年世界互联网大会乌镇峰会系列活动在浙江乌镇举行。本届峰会以“开源开放、共建共享”为主题，既有高端对话，又有炫酷体验。4天时间，如何感知这场峰会的魅力，会",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI5HjsoYcYdh2csVjnogED261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:37:49 GMT"
+        },
+        {
+          "title": "角逐2036年夏奥会举办权 七国申办名单最终敲定",
+          "summary": "新华社日内瓦11月2日电（记者单磊）国际奥委会2日确认，2036年夏季奥运会申办意向名单最终确定，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围。申办意向提交窗口期已截止，未有新的国家表达申办意愿。 这七个意向申奥的国家名单已于10月6日对外公布，10月31日之后，国际奥委会将不再考虑其他2036年奥运会的申办方。接下来，2036年奥运会申办工作将进入专业评估阶段。 2036年夏季奥运会将",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:23:38 GMT"
+        },
+        {
+          "title": "涉嫌受贿、行贿、贪污，中南大学原副校长郭学益被提起公诉",
+          "summary": "央视网消息 ：据最高人民检察院消息，中南大学原党委常委、副校长郭学益涉嫌受贿、行贿、贪污一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院指定管辖，安徽省人民检察院依法以涉嫌受贿罪、行贿罪、贪污罪对郭学益作出逮捕决定。近日，安徽省六安市人民检察院已向六安市中级人民法院提起公诉。 检察机关在审查起诉阶段，依法告知了被告人郭学益享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIQfpqoDEl7pkjeEwO1EUv261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:02:46 GMT"
+        },
+        {
+          "title": "2026年世界互联网大会乌镇峰会今天开幕",
+          "summary": "2026年世界互联网大会乌镇峰会今天（11月3日）在浙江乌镇开幕。本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，全球多国政府、国际组织、企业、专家学者代表汇聚乌镇，聚焦人工智能开源开放，围绕创新发展、安全治理、文明交流、国际合作等开展多维度对话。 本次乌镇峰会除举办开幕式外，主论坛将设置“人工智能乌镇对话”环节，邀请全球领军科技企业、开源大模型企业负责人以及人工智能科学家同",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIVZTxzWZrF9dZEfdOCulS261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:57:54 GMT"
+        },
+        {
+          "title": "成都中小学贯通式培养改革落地一年多，试点效果怎么样？",
+          "summary": "“不选拔”“不掐尖”“免试升学”，从小学一年级读到高三，或初一读到高三——成都的中小学贯通式培养改革已落地一年多，变化不只在学段衔接上，还体现在课程、评价、教研等方方面面。对选择就读贯通班的孩子而言，升学节点不再是“重新适应”的关口，而是成长中一段可以自然衔接的连续路程。 变化从2025年的首批试点开始，全市8所试点学校在不改变学制和国家课程的基础上，探索学段贯通的长周期连续培养。2026年，改革",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIsSplHVodyfxpAYLy8oiY261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:38:59 GMT"
+        },
+        {
+          "title": "鲁迅故里：每一代人都在用自己的方式走近鲁迅",
+          "summary": "【编者按】 到一地，最多人愿与其合照者，是为“地标”。人们常常和地标合影，但较少知道该地标是如何形成的，和这座城市精神、市民性格又有怎样的互动。而这正是我们思考的起点，这些思考辑成《地标是如何炼成的》专题。 今天，我们关注浙江绍兴的地标鲁迅故里。 海报设计：王璐瑶 鲁迅故里，是浙江绍兴的地标。 这里并不缺关注度和话题度：去年，一幅鲁迅先生抽烟的墙画把它送上热搜；今年国庆假期首日，它又“空降”微博热",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIcpKxDKyPJI3KrhamogBy261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:21:48 GMT"
+        },
+        {
+          "title": "当AI闯入数学，研究如何裂变？",
+          "summary": "自今年夏天以来，数学界正在经历一场从未有过的密集震荡，引发这场震荡的正是能力不断迭代的AI。 这场震荡在10月达到了一个高潮。10月6日，OpenAI一次性批量公布700多份AI生成手稿，在几何、计算机科学、代数及其他学科的372个数学问题上取得进展，高等数学的前沿在一天之内被推进。就连刚刚获得菲尔兹奖的三维挂谷猜想问题，也被大模型推进至所有维度。 “眼下数学界确实有很强的不安情绪，大家对技术的发",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIrjPpXxtyite9269OupoT261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:17:45 GMT"
+        },
+        {
+          "title": "正式投用！我国超深地下工程装备自主化再迈关键一步",
+          "summary": "[!--begin:htmlVideoCode--]5bf10c88cc9542a98d7a28bbdaad6d91,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者11月3日从三峡集团获悉，我国首套专用于超深竖井的压力钢管智能焊接成套装备，在浙江松阳抽水蓄能电站正式投用，装备面向深地工程狭小深井极端工况自主研发，补齐了超深竖井高强钢钢管自动",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIAKTMxhvXJgYjOApYSUaj261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:08:48 GMT"
+        },
+        {
+          "title": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资",
+          "summary": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资 11月3日，北京共绩科技有限公司（以下简称：共绩科技）宣布完成数亿元新一轮融资。投资方包括中国互联网投资基金、宁德时代系宁波问鼎和溥泉资本、元禾璞华、赛目科技、德石投资、启恒共创等机构，老股东春华资本、力合创投、新进创投继续追加投资，光源资本担任独家财务顾问。公司未披露具体轮次名称及投后估值。 共绩科技成立于2023年，核心创始团队来自清华大",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785058",
+          "published": "Tue, 03 Nov 2026 04:57:30 GMT"
+        },
+        {
+          "title": "消防学院毕业能否直接提干？改革过渡期引发人事纠纷",
+          "summary": "消防体制改革后，原公安消防部队、武警森林部队整体转制，并入公务员队伍。过渡期内经过层层选拔进入消防学院就读的消防员，能否毕业即提干？ 【财新网】 八年前，消防体制改革大幕开启，原公安消防部队、武警森林部队整体转制。经过层层选拔，2019年9月，孙云磊等随队转改的消防员进入新组建的中国消防救援学院，就读消防指挥专业。当年，应急管理部发布的招录消防员公告中提到“对消防员中的优秀业务骨干，可择优选拔到消",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-03/102500260.html",
+          "published": "Tue, 03 Nov 2026 03:17:09 GMT"
+        },
+        {
+          "title": "被控三罪 中南大学原副校长郭学益将与老校长同在安徽受审",
+          "summary": "官方通报曾指其为获取学术奖项、学术称号送给他人礼品、礼金，为谋取职务提拔向有关人员行贿 【财新网】 中南大学原校长 张尧学 被公诉21天后，中南大学原副校长郭学益也被公诉，二人均将于安徽受审。11月3日，最高检发布消息称，郭学益涉嫌受贿、行贿、贪污一案，由国家监委调查终结，移送检方审查起诉。经最高检指定管辖，安徽省检察院以涉嫌受贿罪、行贿罪、贪污罪对郭学益作出逮捕决定。近日，安徽六安检察院已向六安",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-03/102500237.html",
+          "published": "Tue, 03 Nov 2026 02:54:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“我有个提议，AI时代，三年级前不要考试”",
+          "summary": "【文/观察者网 冯雪】 “问问AI呗？” 不过两三年的功夫，AI大模型就渗透普通人生活的方方面面。与之相伴，一种焦虑的社会情绪也正在形成。 在清华大学心理与认知科学系教授彭凯平看来，AI时代到来，叩问人类存在价值：既然AI能够如此高效快捷，那我们还能做什么？ 他注意到，AI已然在改变人类的认知活动，“未来的趋势很可能是我们不太愿意思考、判断、批评”。 同时，快捷并不必然带来幸福，甚至陷入“越自由、",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/pengkaiping/2026_11_03_905955_s.shtml",
+          "published": "Tue, 03 Nov 2026 02:53:00 GMT"
+        },
+        {
+          "title": "“守好根脉+创新发展”让沉淀千年农耕文明为乡村振兴添活力",
+          "summary": "[!--begin:htmlVideoCode--]c16dcb551ff1432bad4db807c8020482,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从农业农村部了解到，近日，我国认定第八批重要农业文化遗产，新增88项传统农业系统。至此，中国重要农业文化遗产增至276项。 农业文化遗产是中华民族在长期农耕生产实践中守护传承的，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIVH0nKeK1h6yBi09QbPeb261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:01:05 GMT"
+        },
+        {
+          "title": "千年农耕活态传承尽显焕新魅力 “良田+美景”成农户增收新密码",
+          "summary": "[!--begin:htmlVideoCode--]7243ab883d79411784eea2215ec6a800,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，在广西，多地的水稻陆续进入收获期。其中，桂林的龙脊梯田三大核心区域11月1日同步开镰，独具少数民族特色的梯田秋收也吸引了各地的游客前来体验和打卡。 平安壮寨是龙脊梯田最早对外开",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIELULVJrOMhGxpXNwLwgl261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:39:09 GMT"
+        },
+        {
+          "title": "角逐2036年夏奥会举办权 七国申办名单最终敲定",
+          "summary": "新华社日内瓦11月2日电（记者单磊）国际奥委会2日确认，2036年夏季奥运会申办意向名单最终确定，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围。申办意向提交窗口期已截止，未有新的国家表达申办意愿。 这七个意向申奥的国家名单已于10月6日对外公布，10月31日之后，国际奥委会将不再考虑其他2036年奥运会的申办方。接下来，2036年奥运会申办工作将进入专业评估阶段。 2036年夏季奥运会将",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:23:38 GMT"
+        },
+        {
+          "title": "甘肃文县油橄榄丰收",
+          "summary": "甘肃文县油橄榄丰收 这是11月2日拍摄的文县一家油橄榄加工企业的榨油车间。文县目前已经拥有初榨油生产线3条，年可加工橄榄油4200吨。 甘肃省陇南市文县水、肥、气、热条件良好，适宜油橄榄产业发展。截至目前，全县油橄榄种植基地达到24.8万亩，成为文县的富民产业。橄榄树种植兼具经济价值和生态效益，不仅让荒山秃岭披上绿装，还增加了群众收入。 新华社发（兰红光 摄） 甘肃文县油橄榄丰收 11月2日，工作",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/11/03/PHOAGdV5hTBue4WMPE7zOWx9261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:21:09 GMT"
+        },
+        {
+          "title": "当AI闯入数学，研究如何裂变？",
+          "summary": "自今年夏天以来，数学界正在经历一场从未有过的密集震荡，引发这场震荡的正是能力不断迭代的AI。 这场震荡在10月达到了一个高潮。10月6日，OpenAI一次性批量公布700多份AI生成手稿，在几何、计算机科学、代数及其他学科的372个数学问题上取得进展，高等数学的前沿在一天之内被推进。就连刚刚获得菲尔兹奖的三维挂谷猜想问题，也被大模型推进至所有维度。 “眼下数学界确实有很强的不安情绪，大家对技术的发",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIrjPpXxtyite9269OupoT261103.shtml",
+          "published": "Tue, 03 Nov 2026 01:17:45 GMT"
+        },
+        {
+          "title": "再论 Marvell 并购 Lumentum： 为何市场选择暴跌？",
+          "summary": "1150 亿美元的史上第二大科技并购，换来三个交易日911亿美元的市值蒸发。市场否决的点，在于它的价格、方式和时点都不甚合理。 11月2日，Marvell 宣布以「1股Lumentum换4.5股Marvell」的全股票方式收购后者，隐含企业价值1150亿美元、股权价值 1026亿美元，对应Lumentum10月28日收盘价溢价23.9%，交易完成后原Marvell股东持股67%。消息落地后，Mar",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785047",
+          "published": "Tue, 03 Nov 2026 03:12:33 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "大盘稳定，需求支撑稳健，透视多维物流指数感知经济澎湃活力",
+          "summary": "[!--begin:htmlVideoCode--]3f1d679b90334ea6b26b4e7b5a1aa14c,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 中国物流与采购联合会11月3日发布10月份中国物流业景气指数。指数继续处于扩张区间，新订单环比回升，但区域走势分化明显。 10月份，中国物流业景气指数为51.2%，环比回落0.3个百",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIZSTDMdzuFJt9cmiot8Yg261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:02:24 GMT"
+        },
+        {
+          "title": "稳市场，“大块头”出手！一系列政策“组合拳”干货满满 | 解读梳理↓",
+          "summary": "[!--begin:htmlVideoCode--]41f3e6891089445c970f5c3727275180,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月2日中国人民银行、金融监管总局、中国证监会召开支持资本市场两项工具座谈会。会议提出，为维护资本市场稳定，提升市场韧性和信心，三部门将继续加强政策支持，进一步优化政策要素和实施细",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIcZixPPC5c6VP9KwHSHY1261103.shtml",
+          "published": "Tue, 03 Nov 2026 05:00:44 GMT"
+        },
+        {
+          "title": "老菜场正“年轻”！“菜场社交”时髦出圈 烟火气里“长出”新生意",
+          "summary": "[!--begin:htmlVideoCode--]410a69f300a344628b68c5fefc9af840,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： “菜市场”在今天很多人的眼里是一个既陌生又熟悉的词。它曾经是老一辈人每天必须要去的地方，如今大多数城市居民一年到头也不一定会去一次。可即便是这样，我国目前仍然有近4万家菜市场。随着城",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIamiHHacJF6Iyt94yBPXi261103.shtml",
+          "published": "Tue, 03 Nov 2026 04:59:35 GMT"
+        },
+        {
+          "title": "河南安阳通报“中介称花3.5万元买高考100分”：涉事人员被责令整改",
+          "summary": "央视网消息： 据“安阳市场监管”微信公众号消息，11月3日，河南安阳市市场监管局针对网传“中介广告宣称，花3.5万元，通过海南、宁夏落户、代办学籍，就能让高三考生‘少考100分’上本科”发布情况通报。近日，媒体关注有人在安阳开展“异地高考”咨询。安阳市市场监管局高度重视，迅速依法开展调查，目前已对涉事人员侯某依法下达责令整改通知书，对其违法开展咨询的无照经营行为予以取缔。下一步，安阳市市场监管局将",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIeWINfjguASEyHt1ZersR261103.shtml",
+          "published": "Tue, 03 Nov 2026 04:42:33 GMT"
+        },
+        {
+          "title": "国家知识产权局印发《专利和商标审查“十五五”规划》",
+          "summary": "央视网消息 ：国家知识产权局日前印发《专利和商标审查“十五五”规划》（以下简称《规划》），明确了“十五五”时期开展专利和商标审查工作的主要目标、重点任务和专项工程。 《规划》强调，坚持以习近平新时代中国特色社会主义思想为指导，以高质量审查更好激励高水平科技创新、更好促进高标准市场体系建设、更好服务高水平对外开放，为实现中国式现代化提供有力支撑。 《规划》提出，要坚持质量第一，坚持改革创新，坚持服务",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI8MsGLJbwLkDOogPjdMfD261103.shtml",
+          "published": "Tue, 03 Nov 2026 04:02:40 GMT"
+        },
+        {
+          "title": "从“靠天吃饭”到拼面料、拓场景 新业态赋能助力小伞具“撑开”大市场",
+          "summary": "[!--begin:htmlVideoCode--]5b920ab534504518b70f2e3a8f714245,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年以来，在新兴产业产品加速出海的同时，一些传统产业凭借持续创新，在保持较高国际市场份额和高基数的情况下，依然实现了稳步增长。中国是全球最大的伞具生产国和出口国，全球每三把伞就",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIODTtgmELxqJIOSVei84C261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:38:10 GMT"
+        },
+        {
+          "title": "金秋丰收好时节 | 从千年梯田到蓝色粮仓 斑斓的丰收色彩铺满大地",
+          "summary": "[!--begin:htmlVideoCode--]b2289e4f88604096907aa103ac5ae41f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 金秋时节，斑斓的丰收色彩铺满大地，绘就乡村振兴动人图景。 广西龙胜：龙脊梯田开镰 千年梯田获丰收 随着金秋梯田最佳观赏期渐入尾声，广西桂林市龙胜各族自治县龙脊梯田景区的三大核心梯田区",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTInuyECKQaLEJn49OAC8yX261103.shtml",
+          "published": "Tue, 03 Nov 2026 03:36:57 GMT"
+        },
+        {
+          "title": "角逐2036年夏奥会举办权 七国申办名单最终敲定",
+          "summary": "新华社日内瓦11月2日电（记者单磊）国际奥委会2日确认，2036年夏季奥运会申办意向名单最终确定，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围。申办意向提交窗口期已截止，未有新的国家表达申办意愿。 这七个意向申奥的国家名单已于10月6日对外公布，10月31日之后，国际奥委会将不再考虑其他2036年奥运会的申办方。接下来，2036年奥运会申办工作将进入专业评估阶段。 2036年夏季奥运会将",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:23:38 GMT"
+        },
+        {
+          "title": "甘肃文县油橄榄丰收",
+          "summary": "甘肃文县油橄榄丰收 这是11月2日拍摄的文县一家油橄榄加工企业的榨油车间。文县目前已经拥有初榨油生产线3条，年可加工橄榄油4200吨。 甘肃省陇南市文县水、肥、气、热条件良好，适宜油橄榄产业发展。截至目前，全县油橄榄种植基地达到24.8万亩，成为文县的富民产业。橄榄树种植兼具经济价值和生态效益，不仅让荒山秃岭披上绿装，还增加了群众收入。 新华社发（兰红光 摄） 甘肃文县油橄榄丰收 11月2日，工作",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/11/03/PHOAGdV5hTBue4WMPE7zOWx9261103.shtml",
+          "published": "Tue, 03 Nov 2026 02:21:09 GMT"
+        },
+        {
+          "title": "身体好就不用打流感疫苗？这几个常见误区要避开",
+          "summary": "流感是由流感病毒引起的急性呼吸道传染病，其季节性流行往往会带来较为严重的健康危害与经济负担。每年接种流感疫苗，是预防流感、减少相关重症和死亡发生最经济、最有效的手段。下面，我们一起了解关于流感疫苗接种的几个常见误区。 误区一 强壮的身体确实是抵御疾病的基石，但在高致病性的流感病毒面前，没有人具有天生的免疫力。身体强壮的人感染流感后，虽然可能只表现为轻症甚至无症状，但他们依然具有传染性，会在不知不觉",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI0AJTq2rO8cB4kefFdRSU261103.shtml",
+          "published": "Tue, 03 Nov 2026 00:50:38 GMT"
+        },
+        {
+          "title": "求职测评层层加码，招聘岂能变成“漫长闯关”",
+          "summary": "方元陆 秋招大幕拉开，1270万高校毕业生涌入求职市场。不少人投出简历后，最先等来的不是面试邀约，而是接连不断的线上测评链接，行测逻辑、性格量表、AI视频面试环环相扣。有调研显示，超六成大中型企业将线上测评纳入校招必经流程，不少应届生单季参与数十场测评，累计刷题耗时数十小时，却常石沉大海。求职尚未进入核心能力比拼，年轻人先被困在了无休无止的测评消耗战里。 面对动辄数万份的简历投递，标准化测评是企业",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTInos5ffDrPD4amZLQdWF8261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:52:47 GMT"
+        },
+        {
+          "title": "国家医保局：今年前9个月 生育保险基金支出超1000亿元",
+          "summary": "[!--begin:htmlVideoCode--]9ec6cf7c49634c2199ef81fa9fe98c58,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者11月2日从国家医保局获悉，今年前9个月，生育保险基金支出1010亿元，惠及3355万人次，其中，生育津贴支出781.61亿元，全面实现直发个人。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI8lQrxciUoOxcEUGhs1GU261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:56:12 GMT"
+        },
+        {
+          "title": "特朗普：“不急于”决定是否重启对伊朗的战事",
+          "summary": "美国总统特朗普（资料图） 美国总统特朗普当地时间2日表示，对于是否重启对伊朗的战事，他“并不急于”作出决定。 特朗普当天在接受采访时说：“无论如何，我们都会采取行动，但并不着急。我们在经济上重创了他们。”他还说，美伊目前正在对话，“进展还算顺利……（伊朗方面）并没有大家想象的那么急迫，但他们比以往任何时候都更想达成协议”。 特朗普当天在华盛顿一场活动上表示，伊朗希望达成协议结束战事，协议“有可能达",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:21:03 GMT"
+        },
+        {
+          "title": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资",
+          "summary": "共绩科技宣布完成数亿元融资，宁德时代全资子公司参与投资 11月3日，北京共绩科技有限公司（以下简称：共绩科技）宣布完成数亿元新一轮融资。投资方包括中国互联网投资基金、宁德时代系宁波问鼎和溥泉资本、元禾璞华、赛目科技、德石投资、启恒共创等机构，老股东春华资本、力合创投、新进创投继续追加投资，光源资本担任独家财务顾问。公司未披露具体轮次名称及投后估值。 共绩科技成立于2023年，核心创始团队来自清华大",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785058",
+          "published": "Tue, 03 Nov 2026 04:57:30 GMT"
+        },
+        {
+          "title": "从预测市场到下一代交易所：400亿美元Kalshi明年冲刺IPO？",
+          "summary": "近期，预测市场平台Kalshi完成G轮10亿美元融资，估值升至400亿美元，较今年5月F轮融资估值的220亿美元上涨约82%。随着估值迅速攀升，Kalshi已开始讨论IPO，最早或于2027年启动，但目前尚无明确上市时间表。 Kalshi成立于2018年，2021年获得美国商品期货交易委员会（CFTC）批准后正式运营，是美国首家受CFTC监管的事件合约交易所。其核心产品是围绕现实事件发行二元合约，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784927",
+          "published": "Tue, 03 Nov 2026 04:55:35 GMT"
+        },
+        {
+          "title": "中国央行：11月3日开展了1000亿元证券、基金、保险公司互换便利操作",
+          "summary": "中国央行：根据参与机构需求情况，中国人民银行于2026年11月3日开展了证券、基金、保险公司互换便利操作。本次操作金额1000亿元，采用费率招标方式，31家证券、基金公司参与投标，中标费率为10bp。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3193064",
+          "published": "Tue, 03 Nov 2026 04:31:30 GMT"
+        },
+        {
+          "title": "苹果：存储反噬终究来了，AI对面的“避风港”要漏风？",
+          "summary": "苹果 (AAPL.O) 北京时间 2026年11月3日上午，美股盘后发布2026财年第四季度财报（截至2026年9月），要点如下： 1、整体业绩：本季度苹果公司实现营收1144.8亿美元，同比增长11.7%，高于市场预期（1135亿美元），也超过了公司此前指引的上限（同比增长9–11%）。 公司本季度收入端的增长，主要受iPhone和Mac业务的带动，其中iPhone 18 Pro系列在季末上市，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785057",
+          "published": "Tue, 03 Nov 2026 04:07:15 GMT"
+        },
+        {
+          "title": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持",
+          "summary": "在Marvell宣布收购光学器件厂商Lumentum之前，两家公司的掌门人曾就这笔交易征询英伟达CEO黄仁勋的意见。 据彭博11月3日报道，Marvell CEO Matthew Murphy与Lumentum CEO Michael Hurlston 在交易公布前曾与黄仁勋通电话，寻求其看法 。知情人士称，黄仁勋对这项交易表示支持。 英伟达已向两家公司各投资20亿美元 报道称，英伟达今年早些时候",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785055",
+          "published": "Tue, 03 Nov 2026 03:55:38 GMT"
+        },
+        {
+          "title": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势",
+          "summary": "高盛警告，中东供应中断的持续威胁将使原油市场的地缘政治风险溢价长期维持高位，并据此大幅上调了布伦特原油及WTI原油的价格预测。 高盛石油研究主管Daan Struyven在周日的报告中， 将布伦特原油12月目标价从每桶90美元上调至105美元，WTI目标价则从81美元上调至94美元。 展望2027年，他预计布伦特原油均价将达约88美元（此前预测为80美元），WTI均价约78美元（此前预测为73美元",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785053",
+          "published": "Tue, 03 Nov 2026 03:49:30 GMT"
+        },
+        {
+          "title": "市场同时存在两个截然相反的熊市逻辑：“算力不足与算力过剩”",
+          "summary": "美股超大规模云厂商刚刚交出连续第六个季度加速增长的成绩单，英特尔却经历了半个世纪来最惨烈的单日暴跌（-29%）。夹在中间的对冲基金，整个10月都在抛售一切带“AI”字样的标的。 市场究竟在怕什么？高盛EMEA Delta One交易主管Rich Privorotsky在周一早间的周报中表示， 没人真正知道该担心什么。 他写道： 关于AI的大辩论正在变得有些循环。 一半市场认为，我们根本不可能建造足",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785050",
+          "published": "Tue, 03 Nov 2026 03:37:50 GMT"
+        },
+        {
+          "title": "跌破50美元/盎司！白银：流动性冲击下的高贝塔清算",
+          "summary": "10月30日，全球贵金属市场继续遭遇集中抛售：现货白银跌破50美元/盎司，日内跌幅超6%，为2025年11月以来首次跌破50美元/盎司关口；10月累计下跌约18%，较1月高点121.67美元/盎司回撤约60%。现货黄金跌至3880美元/盎司附近，月跌约6.6%，较年初高点回撤约30%。从盘面上看，白银在本次下跌中所展现出的弹性与破坏力显著强于黄金，反映出其高贝塔属性在市场流动性收紧时被进一步放大。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784925",
+          "published": "Tue, 03 Nov 2026 03:36:28 GMT"
+        },
+        {
+          "title": "澳洲联储加息25个基点至4.85%，符合预期",
+          "summary": "澳洲联储加息25个基点至4.85%，符合预期。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785052",
+          "published": "Tue, 03 Nov 2026 03:30:24 GMT"
+        },
+        {
+          "title": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%",
+          "summary": "苹果业绩前景令人失望，叠加隔夜美股芯片股疲软，亚太股市周二普遍承压下行。原油价格在地缘政治紧张局势缓和背景下大幅回落，美元和美债市场则相对平稳。 周二亚洲早盘，MSCI亚太指数下跌0.6%，MSCI亚洲新兴市场下挫超1%。韩股指均下挫超3%，半导体硬件供应链、新能源电池材料及炼油板块出现集体深度回调。 债市方面，澳大利亚10年期国债收益率上行1个基点至5.14%。此前，市场普遍预期澳洲联储将在利率",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785045",
+          "published": "Tue, 03 Nov 2026 03:29:51 GMT"
+        },
+        {
+          "title": "“招商名片”变“选举雷区”，“数据中心暂停令”席卷美国20州，公用事业股面临重估",
+          "summary": "数据中心正在从美国各州的招商名片，转化为2026年中期选举中的高敏感议题。AI用电需求、居民电费压力与地方审批权交汇，公用事业股的估值逻辑随之进入重估阶段。 据美银公用事业团队报告， 在周二投票的36场州长选举中，已有20场出现数据中心暂停或禁令提案，范围覆盖得克萨斯、佐治亚、俄亥俄等关键负荷增长州。 美银认为，市场影响的核心在于监管任命、超大负荷接入规则，以及竞选承诺在州议会、法律框架和公用事业",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785048",
+          "published": "Tue, 03 Nov 2026 03:22:03 GMT"
+        },
+        {
+          "title": "从“直播地球”到太空算力，国星宇航闯关港股",
+          "summary": "商业航天企业冲刺上市的脚步越来越密集。 2026年10月29日，成都国星宇航科技股份有限公司（下称“国星宇航”）通过港交所上市聆讯。此前，蓝箭航天、中科宇航已先后进入科创板IPO审核，星河动力、天兵科技等也已启动上市辅导。 与主要研制运载火箭的企业不同，国星宇航的生意围绕卫星展开， 其主营业务是卫星及相关服务与星基解决方案‌，覆盖从卫星研制、在轨运营到数据应用的全链条。除了根据客户需求研发、制造定",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785051",
+          "published": "Tue, 03 Nov 2026 03:20:23 GMT"
+        },
+        {
+          "title": "\"暂时安全、随时崩溃\"！德银最新警告：全球市场正处于五大“危险错位”",
+          "summary": "全球市场正停留在一个极窄的着陆区：风险表面上仍被隔离，但油价、通胀、利率、债市与股市之间的定价错位正在扩大，任何增长路径偏离都可能触发跨资产重估。 据追风交易台，在11月2日发布的报告中，德银指出，10月压力信号已经增多。上周五S&P 500指数收于六周低点，美国和欧洲债券利差在10月走阔，美国两年期国债收益率录得逾一年最大月度降幅，收益率走势已接近避险模式。 德银宏观策略师Henry Allen",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785040",
+          "published": "Tue, 03 Nov 2026 03:15:35 GMT"
+        },
+        {
+          "title": "芒格生前最后一次采访：马斯克成功有很大运气成分，我绝不会投资他",
+          "summary": "芒格认为，马斯克的成功很大程度上依赖于运气和极端的冒险（高杠杆），其事业未来仍充满不确定性，因此尽管钦佩他的成就，但也绝不会投资他，而是采取“不押注、不反对、当他不存在”的远离态度。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960134",
+          "published": "Tue, 03 Nov 2026 03:13:25 GMT"
+        },
+        {
+          "title": "再论 Marvell 并购 Lumentum： 为何市场选择暴跌？",
+          "summary": "1150 亿美元的史上第二大科技并购，换来三个交易日911亿美元的市值蒸发。市场否决的点，在于它的价格、方式和时点都不甚合理。 11月2日，Marvell 宣布以「1股Lumentum换4.5股Marvell」的全股票方式收购后者，隐含企业价值1150亿美元、股权价值 1026亿美元，对应Lumentum10月28日收盘价溢价23.9%，交易完成后原Marvell股东持股67%。消息落地后，Mar",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785047",
+          "published": "Tue, 03 Nov 2026 03:12:33 GMT"
+        },
+        {
+          "title": "美股科技股暴跌，恐慌指数却岿然不动！BTIG警告：底部信号未现，抛售还没完",
+          "summary": "美股科技股在崩，但市场表面上看起来还算平静。 纳斯达克100指数较高点已下跌约9%，英特尔单日重挫29%跌幅创历史纪录，费城半导体指数（SOXX）连续四周下跌。然而截至上周五收盘，衡量市场恐慌程度的VIX指数仍未收于20以上。 这个反差，正是BTIG首席技术策略师Jonathan Krinsky在其最新周报《我们已不在堪萨斯》（ We're Not in Kansas Anymore ）中重点剖析",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785046",
+          "published": "Tue, 03 Nov 2026 03:11:00 GMT"
+        },
+        {
+          "title": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了",
+          "summary": "电气化的剧变已经脱离了单纯的AI叙事，一场高达 5000亿美元 的财富创造盛宴正在全球电力市场中加速发酵，而华尔街的定价模型却普遍落后于现实。那些拥有可靠基荷电力、掌握核心电网节点的企业，正在迎来自上世纪工业化以来最强劲的现金流超级周期。 据追风交易台消息，摩根士丹利（Morgan Stanley）全球公用事业团队在11月2日的最新研报中发出了明确信号：全球电力紧张局势将大幅超出预期。电气化“超级",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785043",
+          "published": "Tue, 03 Nov 2026 02:48:31 GMT"
+        },
+        {
+          "title": "英特尔股价单月暴跌45%，PC仍占公司约一半营收、代工客户信心动摇",
+          "summary": "10月最后一个交易日，英特尔股价单日崩跌29%，创下1970年代以来最惨烈的单日表现。整个10月，股价累计下滑45%——据FactSet数据，这是英特尔有史以来最差的单月表现。进入11月首个交易日，股价再跌8%。 导火索是一份令华尔街失望的业绩预警。英特尔警告，本季度营收将比分析师预期低10亿至20亿美元。原因直指PC市场：内存及其他零部件成本居高不下，消费者越来越不愿意升级电脑。而PC业务目前仍",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785037",
+          "published": "Tue, 03 Nov 2026 02:21:52 GMT"
+        },
+        {
+          "title": "创业板指翻红，此前一度跌超2%",
+          "summary": "创业板指翻红，此前一度跌超2%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785042",
+          "published": "Tue, 03 Nov 2026 01:55:10 GMT"
+        },
+        {
+          "title": "对冲基金巨头Elliott：当前市场与大萧条前高度相似，熊市的所有警报已经拉响",
+          "summary": "保罗·辛格旗下Elliott投资管理公司发出严厉警告，称当前市场环境与大萧条前的特征高度相似，几乎所有预示重大熊市的警报均已拉响。 11月2日，据《华尔街日报》报道，Elliott在给投资者的10月信函中列举了 美国预算赤字、顽固通胀、私人信贷组合以及人工智能炒作等多项风险 ，并警示： 目前，几乎每一个预警重大熊市来临的警钟都在鸣响。 该机构认为，一旦支撑当前牛市的关键因素中有一两项出现逆转，市场",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785034",
+          "published": "Tue, 03 Nov 2026 01:42:13 GMT"
+        },
+        {
+          "title": "到不了，也回不去：美股科技巨头的AI投资正面临两难",
+          "summary": "AI投资仍在加速，美股的定价逻辑却开始变化。资本开支持续攀升，科技巨头的自由现金流与回购能力受到挤压，传统业务也面临新的竞争挑战。与此同时，Non-AI交易升温。华尔街开始重新计算AI增长的代价。 10月底的财报季，市场却开始把这些数字与折旧、融资、自由现金流和回购放在一张表上核算。AI故事仍然动人，投资者开始计较故事的成本。 一、发生了什么？——美股10月突然变天 1. 同样是AI高增长，市场给",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3784977",
+          "published": "Tue, 03 Nov 2026 01:41:45 GMT"
+        },
+        {
+          "title": "韩国创纪录预算发力AI：4.7万亿韩元造\"全球最高性能\"主权模型",
+          "summary": "韩国总统李在明宣布史上最大规模财政预算，将AI与半导体列为核心战略投资方向，押注技术主权与经济增长的双重目标。 据CNBC报道，李在明周一在国会发表讲话， 宣布2027年财政总支出将较上年增长12.8%至820.9万亿韩元（约合6101亿美元），其中用于半导体、实体AI及AI数据中心的投入达21.3万亿韩元，接近2026年水平的两倍 。此外，政府将单独划拨4.7万亿韩元，专项开发李在明所称\"全球最",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785038",
+          "published": "Tue, 03 Nov 2026 01:37:50 GMT"
+        },
+        {
+          "title": "野村：AI数据中心非常赚钱，科技股下跌是被市场“错杀”了",
+          "summary": "对于本轮科技股的下跌，野村证券认为，市场将大型科技公司负自由现金流误读为\"AI不赚钱\"，这是对利润与现金流概念的混淆。数据中心投资高度盈利，科技股的下跌在野村看来反应过度，对半导体股票而言更属错杀。 据追风交易台，野村证券在11月2日发布的报告中指出，近期科技股遭受抛售源于两大担忧：AI蚕食传统业务，以及自由现金流（FCF）转负。然而野村认为， 第一个担忧恰恰说明大型科技公司无法削减投资，这对半导",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785036",
+          "published": "Tue, 03 Nov 2026 01:37:25 GMT"
+        },
+        {
+          "title": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
+          "summary": "中国人民银行11月3日宣布，为加强金融机构外汇流动性管理，将自 2026年11月15日 起，上调金融机构外汇存款准备金率 2个百分点 ，由现行的 4%提高至6% 。 外汇存款准备金率是银行必须以外汇形式上缴央行的存款比例。上调这一比率，意味着市场上可流通的外汇流动性将被收紧。 消息一出，市场反应迅速。美元兑离岸人民币短线拉升约200点，最高报 6.6664元 ，跌幅约 0.3% 。这也是离岸人民币",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785039",
+          "published": "Tue, 03 Nov 2026 01:36:11 GMT"
+        },
+        {
+          "title": "美伊展现“谈判意愿”，全球能源价格重挫",
+          "summary": "国际油价周一录得近三个月来最大单日跌幅，美伊双方通过各自官方渠道释放谈判意愿，令此前因霍尔木兹海峡局势紧张而积累的大量地缘政治风险溢价迅速回落。 据 央视新闻 报道，伊朗总统佩泽希齐扬周一表示，政府正努力通过对话解决问题，伊朗最高领袖已就和平谈判向政府授予\"一定权力\"。与此同时，据 华尔街见闻文章 此前写道，特朗普倾向于给予对伊外交斡旋更多时间，暂缓新一轮军事行动。 据媒体报道，他在当天发表讲话时",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785033",
+          "published": "Tue, 03 Nov 2026 00:34:02 GMT"
+        },
+        {
+          "title": "苹果在电话会上预计第一财季营收将增长7%-10%，分析师预期增长6.1%",
+          "summary": "苹果在电话会上预计第一财季营收将增长7%-10%，分析师预期增长6.1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785028",
+          "published": "Mon, 02 Nov 2026 22:28:56 GMT"
+        },
+        {
+          "title": "芯片公司Marvell拟1150亿亿美元收购光模块公司Lumentum AI光互连开启垂直整合",
+          "summary": "AI集群的互连竞赛从芯片平台层延伸到了上游光子器件与制造环节 【财新网】 当地时间11月2日，美国芯片厂商Marvell宣布，将以全股票交易方式收购光通信厂商Lumentum，交易价格约1150亿美元（约合人民币8180亿元），交易对价较10月28日收盘价溢价23.9%。交易完成后，Lumentum股东将持有合并后公司约33%的股份，预计2028年上半年完成交割。受收购价格及AI基础设施投资回报担",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-03/102500323.html",
+          "published": "Tue, 03 Nov 2026 05:11:20 GMT"
+        },
+        {
+          "title": "电诈团伙从柬埔寨转向马达加斯加 FBI披露细节",
+          "summary": "FBI表示，随着越来越多的东南亚电诈园区关闭后，非洲的电诈中心正日益增多。中国驻马达加斯加、南非、肯尼亚使馆均曾发文提醒 【财新网】 在东南亚多国持续打击电信网络诈骗之际，犯罪团伙将窝点南迁至印度尼西亚、斯里兰卡，再出现跨洲迁移。近日，美国司法部公布的一起案件披露，诈骗人员从柬埔寨转移至非洲岛国马达加斯加，继续实施电诈。马达加斯加官方搜查当地13个电诈窝点时共拘押约400人，其中包括约40名中国公",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-03/102500315.html",
+          "published": "Tue, 03 Nov 2026 04:53:39 GMT"
+        },
+        {
+          "title": "《向海图强》：透过船舶理解中国制造｜荐书",
+          "summary": "中国船舶工业能走到今天，是改革开放放开了人们的手脚，是市场经济激活了人们的干劲。透过船舶业这扇窗，不难看出，如今牵动着全球经济的高铁、新能源汽车等中国制造业，其实也是这么走过来的 淑敏大姐近日题赠新著《向海图强：中国船舶工业的崛起之路》。她从岗位上退下来不久，就应出版社之约，与几位前同事合写了这本书。 淑敏大姐几乎把整个职业生涯都献给了船舶工业。她曾任《中国船舶报》总编辑，后来去国防科工委系统工程",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-03/102500310.html",
+          "published": "Tue, 03 Nov 2026 04:27:48 GMT"
+        },
+        {
+          "title": "AI冲击、老龄化、政策约束：世界经济风险长短期（下）",
+          "summary": "这是“大政府”的时代。虽然面临种种约束，但是如果做对很多事情，大政府依然有能力力挽狂澜。当然，在社会分裂、政治极化、地缘政治冲突频发下，也存在做错事情、且一错再错的可能性 （接上篇《 能源、利率、收入差距：世界经济风险长短期（上） 》） AI冲击 跟20世纪第一个25年相比，21世纪“第一季度”出现的新产品、新技术毫不逊色。智能手机、移动互联网、云服务、大数据、电动车、无人机、可回收火箭等等，已经",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-03/102500309.html",
+          "published": "Tue, 03 Nov 2026 04:18:48 GMT"
+        },
+        {
+          "title": "花旗余向荣：预计2027年实际GDP增速4.1% 政策应更多转向民生和消费",
+          "summary": "他建议2027年可以新增5000亿元特别国债额度，安排为“投资于人”的专项资金 【财新网】 “展望2027年，经济增长的压力可能会更加明显的放大。我觉得要至少警惕出口走弱、房地产拖累以及私人部门去杠杆这三重‘逆风’。”花旗集团大中华区首席经济学家余向荣指出。 2026年11月2日，花旗集团大中华区首席经济学家余向荣在接受财新等媒体采访时指出，预计2026年全年GDP增速会是4.6%，但明年的实际G",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-11-03/102500302.html",
+          "published": "Tue, 03 Nov 2026 04:05:56 GMT"
+        },
+        {
+          "title": "智驾科技公司盯上干线物流 市场前景几何？",
+          "summary": "部分科技公司将辅助或自动驾驶技术拓展至重卡领域，希望通过降低运输成本、缓解司机工作负担，打开新的市场空间 【财新网】 相较乘用车，重卡等商用车是更为垂直的汽车市场。部分原本以乘用车辅助驾驶或自动驾驶技术见长的科技公司，正在尝试将业务版图拓展到商用车赛道。 10月29日，卓驭科技宣布推出针对商用车的智能辅助驾驶方案“磐行”。该公司还一口气公布了徐工汽车、陕汽集团、中国重汽、一汽解放、福田汽车、东风商",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-03/102500298.html",
+          "published": "Tue, 03 Nov 2026 04:00:34 GMT"
+        },
+        {
+          "title": "人民币升破6.65后 央行时隔近五年上调外汇存款准备金率至6%",
+          "summary": "央行上一次上调外汇存款准备金率是2021年12月；近期的人民币对美元中间价报价亦释放避免汇率超调的信号 【财新网】 在近期人民币持续升值的背景下，央行再次动用外汇“升准”工具。 2026年11月3日一早8点40分，中国人民银行发布公告称，为加强金融机构外汇流动性管理，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。 外汇存款准备金率上调",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-03/102500270.html",
+          "published": "Tue, 03 Nov 2026 03:25:19 GMT"
+        },
+        {
+          "title": "【华尔街原声】标普全球副董事长耶金：霍尔木兹海峡将迎来“新常态”",
+          "summary": "耶金称，中东冲突冲击能源和化肥供应，推高农业成本，未来数月或面临食品通胀风险",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500264.html",
+          "published": "Tue, 03 Nov 2026 03:17:55 GMT"
+        },
+        {
+          "title": "王喆：10月中国新经济指数升至新高，主因科技投入上升",
+          "summary": "2026年10月，财新中国新经济指数（NEI）录得35.4，录得该指数历史最高值 2026年10月，财新中国新经济指数（NEI）录得35.4，即新经济投入占整个经济投入的比重为35.4%，按可比口径计算，本月NEI比上月上升1.3个百分点，这是该指数2017年发布以来的最高值。 NEI包括劳动力、资本和科技三项一级指标，它们在NEI中的权重分别是40%、35%和25%。其中劳动力指标包括新经济招聘",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-03/102500243.html",
+          "published": "Tue, 03 Nov 2026 03:03:16 GMT"
+        },
+        {
+          "title": "如何看待“字节时间”",
+          "summary": "注意力可以被商业算法蚕食，但一个时代的公共智力与精神生活，绝不能完全沉溺于顺从人性的廉价刺激之中 【财新网】 近日，知名财经媒体人秦朔与抖音集团副总裁李亮之间的一场隔空交锋，将“字节时间”这一概念推到了舆论的风口浪尖。 这场争论起源于10月26日“秦朔朋友圈”发布的一篇题为《可怕的红果与中国互联网的字节时间》的文章。秦朔在文中抛出这一概念，其依据十分直接：野村证券援引的QuestMobile数据表",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-03/102500235.html",
+          "published": "Tue, 03 Nov 2026 02:49:41 GMT"
+        },
+        {
+          "title": "当流量逐渐退去，淄博旅游怎么样了？｜亲历",
+          "summary": "旅游爆火除了打开城市知名度、拉动经济增长，更重要的意义或许在于政府对基础建设的翻新改造，让当地百姓真正受益 每年春节，北方天气乍暖还寒，山东淄博街头的外地车牌又逐渐多起来。这波由三年前淄博烧烤爆火带来的旅游热潮，通常会让当地的人流量在五一假期和暑期达到顶峰，直至国庆节后落幕。 2023年春季，淄博这座地处鲁中的传统工业城市因烧烤意外走红，全年旅游人次和收入同比增长224%和260%，成为当年的现象",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-03/102500218.html",
+          "published": "Tue, 03 Nov 2026 02:44:53 GMT"
+        },
+        {
+          "title": "【市场动态】币安黑客慌乱脱手 为加密货币交易者创造意外之财",
+          "summary": "对于一小部分行动迅速的交易公司和技术娴熟的投资者来说，币安遭遇的63亿美元盗窃案是一次大赚快钱的机会",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500204.html",
+          "published": "Tue, 03 Nov 2026 02:36:48 GMT"
+        },
+        {
+          "title": "【市场动态】哈梅内伊为和平谈判开绿灯 特朗普称“有可能”与伊朗达成协议",
+          "summary": "一名记者大声问他是否会在周二中期选举后恢复对伊朗的军事打击，特朗普用口型回答“不”",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500196.html",
+          "published": "Tue, 03 Nov 2026 02:19:58 GMT"
+        },
+        {
+          "title": "【市场动态】Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
+          "summary": "Anthropic在推出较新的模型时已经下调价格，其中包括9月发布的Opus 5.5。其竞争对手OpenAI近几个月也推出了价格更低的模型",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-03/102500190.html",
+          "published": "Tue, 03 Nov 2026 02:05:55 GMT"
+        },
+        {
+          "title": "何立峰：支持香港更高水平自由开放 将及时推出增量政策",
+          "summary": "香港在首份“五年规划”中，确定“四中心、一高地”的战略定位 【财新网】 国务院副总理何立峰于11月3日举办的香港国际金融领袖投资峰会致辞时称，2026年香港主动对接国家“十五五”规划，提出特区政府首个五年规划，中央一如既往地全力支持香港长期保持独特地位和优势，充分发挥“一国两制”的优势，达到更高水平更具竞争力的自由开放经济环境。 今年是香港国际金融领袖投资峰会连续第五年举办，也是何立峰连续第四年为",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-03/102500185.html",
+          "published": "Tue, 03 Nov 2026 02:01:05 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "强党强国开新局 凝心聚力谱华章（学习贯彻党的二十届五中全会精神）",
+          "summary": "党的二十届五中全会审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，对进一步开创新时代管党治党、兴党强党新局面，以中国式现代化全面推进强国建设、民族复兴伟业，具有重大现实意义和长远指导意义。 连日来，各地干部群众深入学习领会党的二十届五中全会精神。大家一致表示，要深学细悟、全面贯彻全会精神，把学习成效转化为笃行实干的强大动力，在各自岗位上奋力拼搏，为强国建设、民族复兴作出新的贡",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTI7tSa2KORxT0ln2yELCru261103.shtml",
+          "published": "Mon, 02 Nov 2026 23:17:17 GMT"
+        },
+        {
+          "title": "德英将深化人工智能等领域防务合作",
+          "summary": "新华社柏林11月2日电（记者张毅荣 李超）德国国防部长皮斯托里乌斯与英国国防大臣斯特里廷2日在柏林举行会谈，双方同意进一步深化人工智能、远程精确打击及太空等领域的防务合作。 据会后发布的两国防长联合声明，双方决定将旨在加强网络安全和信息共享的“网络灯塔项目”拓展至人工智能领域，并加强相关技术的研发、试验和应用合作。 声明说，两国联合研发射程超过2000公里的远程精确打击能力项目已取得显著进展。海上",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml",
+          "published": "Mon, 02 Nov 2026 22:58:33 GMT"
+        },
+        {
+          "title": "消防学院毕业能否直接提干？改革过渡期引发人事纠纷",
+          "summary": "消防体制改革后，原公安消防部队、武警森林部队整体转制，并入公务员队伍。过渡期内经过层层选拔进入消防学院就读的消防员，能否毕业即提干？ 【财新网】 八年前，消防体制改革大幕开启，原公安消防部队、武警森林部队整体转制。经过层层选拔，2019年9月，孙云磊等随队转改的消防员进入新组建的中国消防救援学院，就读消防指挥专业。当年，应急管理部发布的招录消防员公告中提到“对消防员中的优秀业务骨干，可择优选拔到消",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-03/102500260.html",
+          "published": "Tue, 03 Nov 2026 03:17:09 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 157,
+    "total_collected": 100,
+    "sources": 9,
+    "source_list": [
+      "BBC中文",
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "观察者网",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
