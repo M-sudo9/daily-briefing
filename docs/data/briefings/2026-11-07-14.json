@@ -1,0 +1,96 @@
+{
+  "id": "2026-11-07-14",
+  "datetime": "2026-11-07 14:46:29",
+  "date": "2026-11-07",
+  "time": "14:46",
+  "period": "下午",
+  "summary": "本期采集 7 篇文章，来自 2 个信息源，覆盖 2 个领域，精选 8 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "The $8 Linux Computer (2022)",
+          "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 7 # Comments: 4",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+          "published": "Sat, 07 Nov 2026 14:00:20 +0000"
+        },
+        {
+          "title": "Upload Your RAM",
+          "summary": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 203 # Comments: 168",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://uploadyourram.org",
+          "published": "Sat, 07 Nov 2026 10:15:26 +0000"
+        },
+        {
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 274 # Comments: 137",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "published": "Sat, 07 Nov 2026 09:46:03 +0000"
+        },
+        {
+          "title": "Running a law firm on Free software",
+          "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 54 # Comments: 14",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+          "published": "Sat, 07 Nov 2026 09:39:06 +0000"
+        },
+        {
+          "title": "Port 0: The Port That Does Not Exist",
+          "summary": "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 27 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+          "published": "Sat, 07 Nov 2026 09:38:26 +0000"
+        },
+        {
+          "title": "Need for Speed Underground 2 online in the browser",
+          "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 266 # Comments: 80",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://nfsu2.xyz/",
+          "published": "Sat, 07 Nov 2026 09:36:36 +0000"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 274 # Comments: 137",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "published": "Sat, 07 Nov 2026 09:46:03 +0000"
+        },
+        {
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models imp",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "published": "2026-11-07T07:30:00-05:00"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 8,
+    "total_collected": 7,
+    "sources": 2,
+    "source_list": [
+      "Hacker News",
+      "The Verge"
+    ],
+    "domains": 2
+  }
+}
