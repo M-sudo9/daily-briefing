@@ -1,0 +1,537 @@
+{
+  "id": "2026-11-11-05",
+  "datetime": "2026-11-11 05:09:17",
+  "date": "2026-11-11",
+  "time": "05:09",
+  "period": "凌晨",
+  "summary": "本期采集 45 篇文章，来自 5 个信息源，覆盖 7 个领域，精选 59 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+          "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118905",
+          "published": "Wed, 11 Nov 2026 08:26:34 +0800"
+        },
+        {
+          "title": "LLMs Play Zachtronics' TIS-100",
+          "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 25 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tis-100.wincon.dev/",
+          "published": "Wed, 11 Nov 2026 00:37:05 +0000"
+        },
+        {
+          "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+          "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points:",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+          "published": "Wed, 11 Nov 2026 00:15:33 +0000"
+        },
+        {
+          "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+          "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 355 # Comments: 165",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+          "published": "Tue, 10 Nov 2026 22:17:56 +0000"
+        },
+        {
+          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+          "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+          "published": "2026-11-10T17:00:00-05:00"
+        },
+        {
+          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+          "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year . Counsel Health calls its",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+          "published": "2026-11-10T16:40:31-05:00"
+        },
+        {
+          "title": "“试配方”变“算配方”黑灯实验室开辟新赛道 科研人员从“操作员”转向“思想者”",
+          "summary": "[!--begin:htmlVideoCode--]7784ad8ac52f4653a6937d436f92abdb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 随着人工智能技术的快速迭代，这两年，AI“黑灯实验室”正在加快落地，开辟智能科研服务新赛道。对于精细化、重复性的科研活动，相对于以往的人工操作，“黑灯实验室”效率更高，精确性更强。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIusvSeRegP7KMOXE2twQj261111.shtml",
+          "published": "Wed, 11 Nov 2026 04:23:14 GMT"
+        },
+        {
+          "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+          "summary": "新华社澳门11月10日电 题：从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际 新华社记者宋晨、齐菲 11月9日至10日，“文明互鉴国际论坛2026”在澳门举行。来自中国、日本、英国、希腊等地的历史学家、法学家、国际关系学者、传播学者用两天时间，共话文明互鉴与传承发展，回答一个看似古老、实则紧迫的问题：当人类社会现代化进程又一次来到历史的十字路口，不同文明如何相处，人类文明又将走",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:43:50 GMT"
+        },
+        {
+          "title": "AI投入扩大，正反馈却在下降｜中国工业企业AI应用观察",
+          "summary": "增幅虽然有限，但企业使用AI的目的开始变得多样化：提高生产效率仍居首位，强化决策管理、改善客户服务、满足创新需求的比例持续上升 2026年，工业企业正在尝试把人工智能用于更多业务环节。10月，工业和信息化部发布人工智能赋能新型工业化高价值应用场景，覆盖石化、钢铁、汽车、消费电子等多个领域。从设备维护、质量检测到研发设计、经营管理，企业正在寻找更多适合实际部署AI的应用场景。 长江商学院面向2000",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-11/102503398.html",
+          "published": "Wed, 11 Nov 2026 03:59:35 GMT"
+        },
+        {
+          "title": "阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别",
+          "summary": "机构对平头哥估值在250亿至860亿美元之间，但外部客户拓展、关联交易结构及收入独立性将持续考验估值 【财新网】 11月10日晚，阿里巴巴集团发布公告称，已向香港联交所交表，拟拆分旗下全资子公司平头哥，申请独立上市。公告显示，平头哥已于9月11日以保密形式向香港联交所递交上市申请，拟通过发行H股在港交所主板独立上市。发行规模、结构及阿里巴巴持股比例的变化尚未确定，分拆完成后，平头哥仍为阿里巴巴子公",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-11/102503390.html",
+          "published": "Wed, 11 Nov 2026 03:43:47 GMT"
+        },
+        {
+          "title": "【华尔街原声】美联储鲍曼：通胀压力持续，进一步加息需权衡经济成本",
+          "summary": "鲍曼警告AI投资回报不及预期可能引发股市大幅调整，市场预期美联储12月继续加息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503384.html",
+          "published": "Wed, 11 Nov 2026 03:36:31 GMT"
+        },
+        {
+          "title": "【市场动态】美联储理事鲍曼警告AI投资回报不及预期或导致股市估值大幅回调",
+          "summary": "AI投资回报问题可能引发“股票估值大幅回调”的风险，同时还提及“私营部门长期利率急剧上升”的隐患",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503340.html",
+          "published": "Wed, 11 Nov 2026 01:25:16 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 8 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+          "published": "Wed, 11 Nov 2026 04:28:57 +0000"
+        },
+        {
+          "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+          "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 25 # Comments: ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+          "published": "Wed, 11 Nov 2026 02:57:08 +0000"
+        },
+        {
+          "title": "Hooked on Tuna",
+          "summary": "Article URL: https://blue-continuum.com/hooked-on-tuna Comments URL: https://news.ycombinator.com/item?id=50449080 Points: 17 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blue-continuum.com/hooked-on-tuna",
+          "published": "Wed, 11 Nov 2026 02:23:25 +0000"
+        },
+        {
+          "title": "A great old-timey game-programming hack (2013)",
+          "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 72 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+          "published": "Wed, 11 Nov 2026 01:56:31 +0000"
+        },
+        {
+          "title": "LLMs Play Zachtronics' TIS-100",
+          "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 25 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tis-100.wincon.dev/",
+          "published": "Wed, 11 Nov 2026 00:37:05 +0000"
+        },
+        {
+          "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+          "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points:",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+          "published": "Wed, 11 Nov 2026 00:15:33 +0000"
+        },
+        {
+          "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+          "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 355 # Comments: 165",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+          "published": "Tue, 10 Nov 2026 22:17:56 +0000"
+        },
+        {
+          "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+          "summary": "新华社澳门11月10日电 题：从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际 新华社记者宋晨、齐菲 11月9日至10日，“文明互鉴国际论坛2026”在澳门举行。来自中国、日本、英国、希腊等地的历史学家、法学家、国际关系学者、传播学者用两天时间，共话文明互鉴与传承发展，回答一个看似古老、实则紧迫的问题：当人类社会现代化进程又一次来到历史的十字路口，不同文明如何相处，人类文明又将走",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:43:50 GMT"
+        },
+        {
+          "title": "中方向美方移交“驼峰航线”美军援华抗日飞行员遗骸",
+          "summary": "新华社成都11月10日电（记者童芳、薛晨）中美两军10日在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。 第二次世界大战期间，中美两国人民并肩作战，开辟出被称为“驼峰航线”的空中生命线，是战时中国与外界保持联系的重要国际通道，1000多名中美机组人员牺牲在这条航线上。 20世纪70年代以来，中美围绕搜寻二战期间美军在华失踪人员遗骸一直保持着良好",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIRtI50p1tpflyeZmQwH9Q261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:49:06 GMT"
+        },
+        {
+          "title": "美方指控一男子在纽约监狱参与策划袭击英国空军基地",
+          "summary": "△美国司法部（资料图） 当地时间11月10日，据美国司法部消息，美国联邦检察官公布的一份新起诉书指控，一名与伊拉克什叶派民兵武装“真主旅”有关联的伊朗、伊拉克双重国籍男子，在纽约一所联邦监狱参与策划袭击英国一处供美军使用的空军基地。 检方称， 嫌疑人穆罕默德·达伍德·萨阿迪在与家人通话时使用暗语，向参与袭击计划的人员传递指令。 根据起诉书，萨阿迪与一名伊朗伊斯兰革命卫队成员及另一名伊朗籍男子共同策",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:45:59 GMT"
+        },
+        {
+          "title": "苏丹东南部一村庄遭无人机袭击 致9人死亡",
+          "summary": "苏丹东南部青尼罗州库尔穆克地区政府官员10日说，这个地区的一个村庄当天遭无人机袭击，造成9名流离失所者死亡、另有多人重伤。 库尔穆克地区行政长官阿卜杜勒·阿提·穆罕默德·法基10日表示，袭击发生在当天上午，当时一批流离失所者正从遭袭村庄前往青尼罗州首府达马津。他说，袭击系准军事组织快速支援部队所为。 苏丹军方消息人士同日表示，近几日，苏丹空军对快速支援部队及其盟友苏丹人民解放运动（北方局）在青尼罗",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTI5bhK4Efw8pmnCqSf6kpa261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:38:07 GMT"
+        },
+        {
+          "title": "乌外长：乌俄领导人直接会面有望加速冲突结束",
+          "summary": "△乌克兰外长瑟比加（资料图） 当地时间10日，乌克兰外长瑟比加表示，在阿联酋阿布扎比举行的乌美俄三方谈判中，乌方提出多项核心诉求：缓和局势、落实停火、建立安全保障机制，以及推动乌总统泽连斯基与俄总统普京举行会晤。 瑟比加认为，乌俄领导人直接会面有望加速冲突结束。乌方同时提交黑海、能源领域专项停火方案，目前等待俄方回应。 当地时间10日中午，俄罗斯、美国和乌克兰新一轮三方会谈在阿联酋阿布扎比启动，探",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIGb5RaLfsBk9tWqqmqdHC261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:31:05 GMT"
+        },
+        {
+          "title": "众议院共和党人力保赫格塞思 弹劾动议遭事实冻结",
+          "summary": "共和党人在本次投票中展现出的对赫格塞思的支持和团结，超过了外界此前的预期 【财新网】 美东时间11月10日下午，美国国会众议院的共和党人通过一次程序性投票的技术性操作，事实上阻止了针对美国防长赫格塞思的弹劾流程的推进。除了提出弹劾议案的肯塔基州众议员梅西（Thomas Massie）外，其他共和党众议员均投票反对推进这项弹劾动议。共和党人在本次投票中展现出的对赫格塞思的支持和团结，超过了外界此前的",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-11/102503373.html",
+          "published": "Wed, 11 Nov 2026 03:12:48 GMT"
+        },
+        {
+          "title": "【市场动态】美国牵头斡旋的俄乌和平谈判结束首日磋商 周三继续",
+          "summary": "在阿布扎比举行的三方会谈持续逾四个小时后结束，并将于周三恢复",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503355.html",
+          "published": "Wed, 11 Nov 2026 02:21:32 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "“秒懂”APEC，层级最高、领域最广、最具影响力……",
+          "summary": "[!--begin:htmlVideoCode--]179378c0a07a477ca3d8f20282701950,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： “秒懂”APEC，了解一下亚太经合组织APEC是个什么样的组织。 什么是APEC？ APEC是4个英文单词的缩写，A是Asia，代表亚洲。P是Pacific，代表太平洋，这两个字母代",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIUec9yqTHwZFDTaA4wcuN261111.shtml",
+          "published": "Wed, 11 Nov 2026 04:38:22 GMT"
+        },
+        {
+          "title": "中国外贸“APEC含量”十足！每100元，有60.3元来自APEC经济体",
+          "summary": "[!--begin:htmlVideoCode--]9a81b2fe1d344bfcba317c06ecc41fcf,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： APEC成员经济总量占全球约六成、贸易额占比近一半。可以说是全球经济增长的引擎。而经贸也是亚太命运共同体的“基本盘”。 我国外贸中的“APEC含量”又有多高？长期以来，这个数字都维持",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIcY96kQNAnCJEOKFmv5Pm261111.shtml",
+          "published": "Wed, 11 Nov 2026 04:37:58 GMT"
+        },
+        {
+          "title": "守好文脉算好老厂房的“盘活账” “不拆”老厂也能“织”出新消费",
+          "summary": "[!--begin:htmlVideoCode--]c38fc0be30e54e05a51cfa00482a1441,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 天津西青区一片闲置20多年的色织厂区，35栋红砖老房2026年“五一”重新开放就火了。它做对了什么？ 这几天，潮汕美食节在天津色织厂旅游休闲街区开市。潮汕糕点甜美飘香，特色茶饮茶香四",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIZGInfMVFkMGUHWy4l5H5261111.shtml",
+          "published": "Wed, 11 Nov 2026 04:22:52 GMT"
+        },
+        {
+          "title": "进博会，明年见！邀请函不设门槛 “小而美”一样有舞台",
+          "summary": "[!--begin:htmlVideoCode--]08ee5b98eaef4e3090dbe2c4cb82698b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 第九届中国国际进口博览会11月10日在上海落下帷幕。展会为期6天，按一年计意向成交额854.5亿美元，创历史新高。 东方之约，五洲汇聚。五天半时间，进博会累计进场近100万人次。在2",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTImek2mtQ0snTI6esIGvnN261111.shtml",
+          "published": "Wed, 11 Nov 2026 04:21:07 GMT"
+        },
+        {
+          "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+          "summary": "新华社澳门11月10日电 题：从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际 新华社记者宋晨、齐菲 11月9日至10日，“文明互鉴国际论坛2026”在澳门举行。来自中国、日本、英国、希腊等地的历史学家、法学家、国际关系学者、传播学者用两天时间，共话文明互鉴与传承发展，回答一个看似古老、实则紧迫的问题：当人类社会现代化进程又一次来到历史的十字路口，不同文明如何相处，人类文明又将走",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:43:50 GMT"
+        },
+        {
+          "title": "北京电影学院原副院长尼跃红受贿案一审宣判",
+          "summary": "央视网消息 ：2026年11月9日，北京市第一中级人民法院依法公开宣判北京电影学院原副院长尼跃红犯受贿罪一案，对被告人尼跃红以受贿罪判处有期徒刑十年，并处罚金人民币五十万元；对被告人尼跃红受贿犯罪所得予以没收，上缴国库。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTI3qhRBcgTsyrv683q4pv6261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:35:06 GMT"
+        },
+        {
+          "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
+          "summary": "11月11日，国务院台办举行例行新闻发布会，有记者问：台湾个人电脑品牌企业华硕、宏碁将部分泰国、越南产能转回中国大陆，这一调整近日在岛内受到关注，认为此番台企“回流”大陆，让外界再度关注两岸产业链供应链的深度嵌合。请问对此有何评论？ 发言人张晗表示，大陆拥有门类最为齐全的工业体系、成熟完善的产品配套网络，是台资制造企业投资发展的最佳选择。紧密、强韧的两岸产业链供应链不仅有利于台企发展壮大，增进两岸",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIiyatMWhzD4PXuma8Cymu261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:29:59 GMT"
+        },
+        {
+          "title": "湖南道县：砂糖桔迎丰收",
+          "summary": "湖南道县：砂糖桔迎丰收 11月10日，湖南道县蚣坝镇光家岭村，村民抢抓农时采摘、分拣、装运金秋砂糖桔。近日，当地种植的金秋砂糖桔迎来收获季，农户忙着采收供应市场。视觉中国 湖南道县：砂糖桔迎丰收 11月10日，湖南道县蚣坝镇光家岭村，村民抢抓农时采摘、分拣、装运金秋砂糖桔。近日，当地种植的金秋砂糖桔迎来收获季，农户忙着采收供应市场。视觉中国 湖南道县：砂糖桔迎丰收 11月10日，湖南道县蚣坝镇光家",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/11/11/PHOATAfzBzvjoRJ5m7vt3Nif261111.shtml",
+          "published": "Wed, 11 Nov 2026 02:48:59 GMT"
+        },
+        {
+          "title": "大道行丨亚太潮涌 同舟扬帆",
+          "summary": "[!--begin:htmlVideoCode--]9f08363066b5492a9bf8912308de24c8,0,1,16:9,newPlayer[!--end:htmlVideoCode--] “深圳地处太平洋沿岸，几十年间从一个落后的小渔村发展成为现代化国际大都市，是中国人民创造的世界发展史上的一个奇迹，也是中国坚定不移奉行互利共赢开放战略的重要窗口。期待各方明年共赴深圳之约，共商亚太",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTI8s5ZUGYpEpzvJAx3jAbJ261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:52:16 GMT"
+        },
+        {
+          "title": "顺应人口总量和结构之变 “十五五”民生礼包密集落地",
+          "summary": "增加普通高中和高等教育学位，改善养老和托育机构条件，让老百姓看得上病、看得好病、住院更舒心、出院康复有人管……11月10日，国家发改委举行奋进“十五五”系列新闻发布会，介绍保障和改善民生的有关部署和落实举措，发布一系列民生“大礼包”。 实现人民对美好生活的向往是中国式现代化的出发点和落脚点，“十五五”规划纲要将“人民生活品质不断提高”列为经济社会发展的主要目标。 国家发改委社会发展司副司长黄玮茹在",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIVfbXetAgkoz9VcVPFtcy261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:12:19 GMT"
+        },
+        {
+          "title": "河北火流星初步确认为普通球粒陨石 每克20至100元",
+          "summary": "11月6日晚，北京、河北多地网友目击到一颗火流星划过夜空。据悉，碎片散落在河北石家庄鹿泉区一带，吸引了来自全国各地的爱好者赶赴现场搜寻。经初步检测，该陨石初步确认为普通球粒陨石L6型。 ▲从村民手中购入的陨石碎片 受访者供图 10日下午，“陨石猎人”和相关专家向红星新闻介绍，普通球粒陨石L6型属于比较常见的陨石类型，目前市场实际成交价格在每克20元至100元不等。至于外界关心的权属问题，按照通行惯",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIk0jnSQQcXSPbYrZ29bP1261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:06:57 GMT"
+        },
+        {
+          "title": "《基金会管理条例》修订：约束与赋能之间",
+          "summary": "约束是手段，赋能才是目的。公信力不是公开出来的，是治理出来的；治理能力不是约束出来的，是培育出来的 国务院于近日公布修订后的《基金会管理条例》（国务院令第848号），自2027年1月1日起施行。此乃该条例施行22年来的首次全面修订。修订后的立法目的条款，末句由“促进社会力量参与公益事业”调整为“加强基金会公信力建设，促进基金会健康有序发展”，规范基金会的组织和活动、维护基金会及捐赠人和受益人合法权",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-11/102503408.html",
+          "published": "Wed, 11 Nov 2026 04:27:00 GMT"
+        },
+        {
+          "title": "【华尔街原声】美联储鲍曼：通胀压力持续，进一步加息需权衡经济成本",
+          "summary": "鲍曼警告AI投资回报不及预期可能引发股市大幅调整，市场预期美联储12月继续加息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503384.html",
+          "published": "Wed, 11 Nov 2026 03:36:31 GMT"
+        },
+        {
+          "title": "“画地为牢”，终于有一个词，可以形容和最好的朋友走散｜热点",
+          "summary": "一方在告白，一方没听懂。这个错位给了它一个喜剧式出口，让它可以从原语境里被摘下来，甚至变成了一个句式：我＋成语，名字，说什么都成立 （本文含剧透） “画地为牢”在今秋有了新的注脚。 最近，芒果TV综艺《后会友期》凭借高话题度出圈。节目以四对疏远多年的老友重聚旅行为主线，记录他们在相处中修补裂痕、重建友情的过程。其中，2006届《超级女声》选手许飞和厉娜的互动成为焦点。 预告片中，许飞对着15年没好",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-11/102503383.html",
+          "published": "Wed, 11 Nov 2026 03:32:38 GMT"
+        },
+        {
+          "title": "【市场动态】Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+          "summary": "按文件所列的发行在外股份计算，如果发行价定在区间上限，Anthropic的市值将约为1万亿美元",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503357.html",
+          "published": "Wed, 11 Nov 2026 02:24:30 GMT"
+        },
+        {
+          "title": "【市场动态】美国牵头斡旋的俄乌和平谈判结束首日磋商 周三继续",
+          "summary": "在阿布扎比举行的三方会谈持续逾四个小时后结束，并将于周三恢复",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503355.html",
+          "published": "Wed, 11 Nov 2026 02:21:32 GMT"
+        },
+        {
+          "title": "今日开盘：两市双双低开 沪指跌幅0.22%",
+          "summary": "沪指开盘报3655.66点，跌幅0.22%；深成指报11205.35点，跌幅0.32% 财新网11月11日电：沪指开盘报3655.66点，跌幅0.22%。 深成指报11205.35点，跌幅0.32%；创业板指报2490.10点，跌幅0.17%；中小板指报7148.92点，跌幅0.32%。 盘面上，通信领涨，食品饮料、银行、石油石化、公用事业、交通运输等板块涨幅居前，有色金属领跌，综合、电力设备、纺",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-11/102503343.html",
+          "published": "Wed, 11 Nov 2026 01:29:53 GMT"
+        },
+        {
+          "title": "【市场动态】美联储官员释放加快升息信号",
+          "summary": "理事沃勒称12月或需加息50基点，达拉斯联储行长洛根表示支持至少再进行两次幅度25基点的加息",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503341.html",
+          "published": "Wed, 11 Nov 2026 01:28:57 GMT"
+        },
+        {
+          "title": "【市场动态】美联储理事鲍曼警告AI投资回报不及预期或导致股市估值大幅回调",
+          "summary": "AI投资回报问题可能引发“股票估值大幅回调”的风险，同时还提及“私营部门长期利率急剧上升”的隐患",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503340.html",
+          "published": "Wed, 11 Nov 2026 01:25:16 GMT"
+        },
+        {
+          "title": "【市场动态】美国债市大逆转",
+          "summary": "加息预期和CPI刺激收益率创出关税危机以来最大涨幅 当地时间2026年11月10日，美国纽约市，纽约证券交易所，一名交易员在交易大厅工作。图：视觉中国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503338.html",
+          "published": "Wed, 11 Nov 2026 01:22:08 GMT"
+        },
+        {
+          "title": "税改消息提前泄露引股价异动 英国财长将接受质询",
+          "summary": "英国政府确认已启动调查，追查预算案公布前银行税调整消息的疑似泄露事件；财政政策信息提前披露引发金融市场公平交易争议已非首次 【财新网】 英国政府正在调查2026年度财政预算案公布前，一项涉及银行税的政策消息疑似提前泄露事件。相关信息在财政大臣正式宣布前近两小时被媒体披露，随后多家英国大型上市银行股价上涨，引发有关内幕信息披露和金融市场公平交易的质疑。 当地时间11月10日，英国议会财政委员会公开的",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-11/102503328.html",
+          "published": "Wed, 11 Nov 2026 01:07:50 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+          "summary": "新华社澳门11月10日电 题：从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际 新华社记者宋晨、齐菲 11月9日至10日，“文明互鉴国际论坛2026”在澳门举行。来自中国、日本、英国、希腊等地的历史学家、法学家、国际关系学者、传播学者用两天时间，共话文明互鉴与传承发展，回答一个看似古老、实则紧迫的问题：当人类社会现代化进程又一次来到历史的十字路口，不同文明如何相处，人类文明又将走",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:43:50 GMT"
+        },
+        {
+          "title": "厦门大学图书馆：让百年校史可见可感",
+          "summary": "【校馆弦歌】 光明日报记者 马跃华 光明日报通讯员 戴佩琪 “字字皆铁骨丹心，足令山河生色。今公昔日所护之国，已换人间；所创之学，弦歌不辍……”这是在厦门大学图书馆“书信映初心——革命先驱书信展”的互动回信区，一位厦大学子对陈嘉庚先生《述志诗》的回信。 还未进入厦门大学图书馆，记者就被外立面上的浮雕吸引，陈嘉庚、罗扬才、萨本栋、陈景润、王亚南的故事，以可视化、场景化的艺术形式呈现。“这四组浮雕由我",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIr5GkHlSHgD3WAc8zhMYi261111.shtml",
+          "published": "Wed, 11 Nov 2026 00:16:29 GMT"
+        },
+        {
+          "title": "“影视考古”为何打动年轻观众",
+          "summary": "作者：林梅（陕西科技大学设计与艺术学院教授） 近期，一批播出多年的老剧不断引发热议。观众重新审视《我的前半生》中的人物关系，关注《父母爱情》里曾处于叙事边缘的角色，从《甄嬛传》《知否知否应是绿肥红瘦》《士兵突击》等作品中挖掘新的话题。耐人寻味的是，参与其中的不少年轻人并未经历这些作品的首播年代，谈不上怀旧，却愿意投入时间观看、讨论，并形成与昔日评论不尽相同的判断。 其实，年轻人看老剧，是带着今天的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIls48Dc6U9qtnU4s34ETn261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:25:53 GMT"
+        },
+        {
+          "title": "宁波舟山港年集装箱吞吐量突破4000万箱",
+          "summary": "[!--begin:htmlVideoCode--]ed5965aa65e4476993e24369cf6435d6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 宁波舟山港年集装箱吞吐量10日突破4000万标箱，较去年提前22天。目前，宁波舟山港集装箱航线已超310条，连接全球200多个国家和地区的700多个港口。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTI0vcT5yQKTo7C7BvOlfUy261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:15:48 GMT"
+        },
+        {
+          "title": "我国科研团队破解植物微量元素营养重要谜题",
+          "summary": "“木桶短板”理论同样适用于庄稼生长： 除了氮磷钾，微量元素也会卡住产量 。长期以来， 镍 在禾本科作物里的运输规律一直是谜团。近日，中国科学院分子植物科学卓越创新中心联合上海张江智种中心、华中农业大学组成的科研团队， 首次找到玉米负责向籽粒转运镍的关键蛋白 ，刷新了学界对镍营养作用的传统认知，为玉米、水稻等粮食增产提效提供了新思路。相关成果11月11日在国际学术期刊《细胞》发表。 作物生长，缺了哪",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIZdQlf6FGmLLnO3GTm2bC261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:36:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+          "summary": "新华社澳门11月10日电 题：从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际 新华社记者宋晨、齐菲 11月9日至10日，“文明互鉴国际论坛2026”在澳门举行。来自中国、日本、英国、希腊等地的历史学家、法学家、国际关系学者、传播学者用两天时间，共话文明互鉴与传承发展，回答一个看似古老、实则紧迫的问题：当人类社会现代化进程又一次来到历史的十字路口，不同文明如何相处，人类文明又将走",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+          "published": "Wed, 11 Nov 2026 03:43:50 GMT"
+        },
+        {
+          "title": "“影视考古”为何打动年轻观众",
+          "summary": "作者：林梅（陕西科技大学设计与艺术学院教授） 近期，一批播出多年的老剧不断引发热议。观众重新审视《我的前半生》中的人物关系，关注《父母爱情》里曾处于叙事边缘的角色，从《甄嬛传》《知否知否应是绿肥红瘦》《士兵突击》等作品中挖掘新的话题。耐人寻味的是，参与其中的不少年轻人并未经历这些作品的首播年代，谈不上怀旧，却愿意投入时间观看、讨论，并形成与昔日评论不尽相同的判断。 其实，年轻人看老剧，是带着今天的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIls48Dc6U9qtnU4s34ETn261111.shtml",
+          "published": "Tue, 10 Nov 2026 23:25:53 GMT"
+        },
+        {
+          "title": "AI投入扩大，正反馈却在下降｜中国工业企业AI应用观察",
+          "summary": "增幅虽然有限，但企业使用AI的目的开始变得多样化：提高生产效率仍居首位，强化决策管理、改善客户服务、满足创新需求的比例持续上升 2026年，工业企业正在尝试把人工智能用于更多业务环节。10月，工业和信息化部发布人工智能赋能新型工业化高价值应用场景，覆盖石化、钢铁、汽车、消费电子等多个领域。从设备维护、质量检测到研发设计、经营管理，企业正在寻找更多适合实际部署AI的应用场景。 长江商学院面向2000",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-11/102503398.html",
+          "published": "Wed, 11 Nov 2026 03:59:35 GMT"
+        },
+        {
+          "title": "【华尔街原声】甲骨文CFO：公司在美五座大型数据中心在建，一座接近完工",
+          "summary": "中期选举未改变现有项目建设计划，新建数据中心面临限制或提升在建项目价值",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-11/102503369.html",
+          "published": "Wed, 11 Nov 2026 03:04:38 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "骸骨迷踪：前后跨越28年的“花坛藏尸案”侦破始末",
+          "summary": "2025年6月7日清晨，四川省泸州市龙马潭区某商城的楼顶，随着一声沉闷的榔头撞击声，花坛应声碎裂。正在进行拆除作业的工人惊恐地发现，泥土之下，赫然蜷缩着一具白骨。 接警后，泸州市公安局迅速调度龙马潭区公安分局刑侦、技侦力量赶赴现场。经勘验，骸骨位于花台内，蜷曲在长约1.5米、宽仅1米的狭小花坛底部，上面覆盖着厚厚的泥土。 这是谁的骸骨？为何会被残忍地埋在闹市高楼？由此，一场沉寂28年的命案浮出水面",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTILVSNpbTkjyMtqTpAl2eV261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:58:06 GMT"
+        },
+        {
+          "title": "我国科研团队破解植物微量元素营养重要谜题",
+          "summary": "“木桶短板”理论同样适用于庄稼生长： 除了氮磷钾，微量元素也会卡住产量 。长期以来， 镍 在禾本科作物里的运输规律一直是谜团。近日，中国科学院分子植物科学卓越创新中心联合上海张江智种中心、华中农业大学组成的科研团队， 首次找到玉米负责向籽粒转运镍的关键蛋白 ，刷新了学界对镍营养作用的传统认知，为玉米、水稻等粮食增产提效提供了新思路。相关成果11月11日在国际学术期刊《细胞》发表。 作物生长，缺了哪",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIZdQlf6FGmLLnO3GTm2bC261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:36:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "中方向美方移交“驼峰航线”美军援华抗日飞行员遗骸",
+          "summary": "新华社成都11月10日电（记者童芳、薛晨）中美两军10日在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。 第二次世界大战期间，中美两国人民并肩作战，开辟出被称为“驼峰航线”的空中生命线，是战时中国与外界保持联系的重要国际通道，1000多名中美机组人员牺牲在这条航线上。 20世纪70年代以来，中美围绕搜寻二战期间美军在华失踪人员遗骸一直保持着良好",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/11/ARTIRtI50p1tpflyeZmQwH9Q261111.shtml",
+          "published": "Tue, 10 Nov 2026 22:49:06 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 59,
+    "total_collected": 45,
+    "sources": 5,
+    "source_list": [
+      "Hacker News",
+      "The Verge",
+      "央视新闻",
+      "少数派",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
