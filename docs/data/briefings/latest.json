@@ -1,150 +1,214 @@
 {
-  "id": "2026-11-12-06",
-  "datetime": "2026-11-12 06:12:11",
+  "id": "2026-11-12-16",
+  "datetime": "2026-11-12 16:38:57",
   "date": "2026-11-12",
-  "time": "06:12",
-  "period": "上午",
-  "summary": "本期采集 82 篇文章，来自 8 个信息源，覆盖 7 个领域，精选 123 条摘要",
+  "time": "16:38",
+  "period": "下午",
+  "summary": "本期采集 98 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 137 条摘要",
   "domains": [
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "Darling Development Update – Q4 2026",
-          "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 9 # Comments: 3",
+          "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+          "summary": "Article URL: https://fable52.games Comments URL: https://news.ycombinator.com/item?id=50469007 Points: 14 # Comments: 5",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-          "published": "Thu, 12 Nov 2026 04:32:31 +0000"
+          "link": "https://fable52.games",
+          "published": "Thu, 12 Nov 2026 15:30:01 +0000"
         },
         {
-          "title": "Lean Grimoire",
-          "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 27 # Comments: 4",
+          "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+          "summary": "Article URL: https://github.com/chocoford/ExcalidrawZ Comments URL: https://news.ycombinator.com/item?id=50468944 Points: 17 # Comments: 2",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-          "published": "Thu, 12 Nov 2026 02:36:48 +0000"
+          "link": "https://github.com/chocoford/ExcalidrawZ",
+          "published": "Thu, 12 Nov 2026 15:25:52 +0000"
         },
         {
-          "title": "Critical RCE Vulnerability in Apache HTTP Server",
-          "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 88 # Comments: 37",
+          "title": "I'm making LLMs work on small and old devices",
+          "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 9 # Comments: 4",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-          "published": "Thu, 12 Nov 2026 02:11:11 +0000"
+          "link": "https://github.com/hyperionaidev/smolmaxxing/",
+          "published": "Thu, 12 Nov 2026 15:23:10 +0000"
         },
         {
-          "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-          "summary": "Article URL: https://github.com/tylertms/Stela Comments URL: https://news.ycombinator.com/item?id=50460154 Points: 85 # Comments: 34",
+          "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+          "summary": "Article URL: https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/ Comments URL: https://news.ycombinator.com/item?id=50468720 Points: 10 # Comments: 4",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/tylertms/Stela",
-          "published": "Wed, 11 Nov 2026 23:02:38 +0000"
+          "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+          "published": "Thu, 12 Nov 2026 15:14:52 +0000"
         },
         {
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 316 # Comments: 45",
+          "title": "Roadside investigations of psyllids, ants and eucs",
+          "summary": "Article URL: https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/ Comments URL: https://news.ycombinator.com/item?id=50468687 Points: 3 # Comments: 1",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.mcmillen.dev/sigbovik/",
-          "published": "Wed, 11 Nov 2026 22:34:23 +0000"
+          "link": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+          "published": "Thu, 12 Nov 2026 15:13:06 +0000"
         },
         {
-          "title": "Nvidia is preparing to oust Jensen Huang",
-          "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 805 # Comments: 1143",
+          "title": "Running web sites makes me not want to",
+          "summary": "Article URL: https://lowkey.party/running-web-sites-makes-me-not-want-to Comments URL: https://news.ycombinator.com/item?id=50467869 Points: 11 # Comments: 4",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-          "published": "Wed, 11 Nov 2026 22:31:06 +0000"
+          "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+          "published": "Thu, 12 Nov 2026 14:30:38 +0000"
         },
         {
-          "title": "Lock Your GitHub Actions",
-          "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 195 # Comments: 36",
+          "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+          "summary": "Article URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/ Comments URL: https://news.ycombinator.com/item?id=50467763 Points: 48 # Comments: 3",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-          "published": "Wed, 11 Nov 2026 22:16:41 +0000"
+          "link": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+          "published": "Thu, 12 Nov 2026 14:25:23 +0000"
         },
         {
-          "title": "俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况",
-          "summary": "当地时间11日，俄罗斯外长拉夫罗夫称，俄罗斯总统普京将于12日在莫斯科会见美国总统特使威特科夫和特朗普总统的女婿库什纳。 △俄罗斯外长拉夫罗夫（资料图） 俄罗斯外长拉夫罗夫11日在接受采访时表示，他从已经发布的声明中获悉，美国特使将前往莫斯科向普京通报会谈的相关情况，普京也会定期收到俄罗斯代表团团长、俄总统助理梅金斯基的报告，结合从美方那里得知的情况，普京将决定下一步该怎么做。拉夫罗夫还表示，俄方",
+          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+          "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 81 # Comments: 27",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+          "published": "Thu, 12 Nov 2026 14:18:49 +0000"
+        },
+        {
+          "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+          "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 73 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+          "published": "Thu, 12 Nov 2026 14:12:37 +0000"
+        },
+        {
+          "title": "Libreagi – Save OSS Models",
+          "summary": "Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 44 # Comments: 14",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://libreagi.com/",
+          "published": "Thu, 12 Nov 2026 14:11:58 +0000"
+        },
+        {
+          "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+          "summary": "Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 24 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://spectrum.ieee.org/electric-ship-batteries",
+          "published": "Thu, 12 Nov 2026 14:06:03 +0000"
+        },
+        {
+          "title": "Our software engineering interviews are changing (a little)",
+          "summary": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 Points: 64 # Comments: 48",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+          "published": "Thu, 12 Nov 2026 14:05:28 +0000"
+        },
+        {
+          "title": "NVIDIA Announces CEO Transition",
+          "summary": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 1176 # Comments: 1004",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "published": "Thu, 12 Nov 2026 13:52:29 +0000"
+        },
+        {
+          "title": "Anthropic IPO",
+          "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 408 # Comments: 416",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://ipo.anthropic.com/us/",
+          "published": "Thu, 12 Nov 2026 11:46:41 +0000"
+        },
+        {
+          "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+          "summary": "Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=5046545",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+          "published": "Thu, 12 Nov 2026 10:46:20 +0000"
+        },
+        {
+          "title": "Why Writing Correct Software Is Hard",
+          "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 247 # Comments: 100",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pron.github.io/posts/correctness-and-complexity",
+          "published": "Thu, 12 Nov 2026 10:28:26 +0000"
+        },
+        {
+          "title": "伏笔满满、高层改戏、英雄崩溃！漫威口碑“系列最差”的《复联2》到底冤不冤？",
+          "summary": "《复联2》刚上映的时候，很多人不理解奥创为什么非要毁灭世界，但如今他获得了很多观众的认可，甚至觉得他花了5分钟才决定毁灭人类，还是太善良了。\n\n乔斯·韦登仅花了45分钟就构思好了《复联2》的剧情，但后续的拍摄却困难重重，韦登和漫威高层在对电影的创作上产生了巨大的冲突，这部分内容我们也会在这期的映后部分详细展开！现在就让我们先回到纽约大战之后...",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1GpWd6uEcE",
+          "published": "Thu, 12 Nov 2026 09:12:44 GMT"
+        },
+        {
+          "title": "冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案",
+          "summary": "新华社都柏林11月12日电（记者张兆卿　赵家淞）欧盟委员会主席冯德莱恩12日在爱尔兰首都都柏林表示，欧盟委员会正在制定第22轮对俄制裁以及有关满足乌克兰2027年资金需求的提案，两项提案将在下次欧洲理事会会议前提出。 冯德莱恩当天在出席第九届欧洲政治共同体领导人会议前对记者表示，与会领导人将讨论多项议题，并在会议间隙讨论在阿联酋首都阿布扎比举行的俄罗斯与乌克兰的和平谈判。 她对阿布扎比和平谈判表示",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml",
-          "published": "Thu, 12 Nov 2026 02:07:30 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml",
+          "published": "Thu, 12 Nov 2026 14:04:11 GMT"
         },
         {
-          "title": "【8点见】本科四年跑步570公里才能毕业？校方回应",
-          "summary": "央视网消息： 每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件。 ·10月新能源汽车月度新车销量占比达64.3%。 ·住建部：开展房屋市政工程预防高处坠落专项行动。 ·国际地质科学联合会‌公布第三批‌世界地质遗产地‌名录，我国‌鲜水河断裂‌、‌云阳中侏罗世恐龙化石群‌与‌大别山三叠纪超高压变质带‌3处入选，总数增至‌",
+          "title": "“文明互鉴国际论坛二O二六”在澳门举办 以文化为桥 跨山海对话",
+          "summary": "“文明互鉴国际论坛2026”11月9日至10日在澳门举办。来自20多个国家和地区的政府部门代表、国际组织代表以及专家学者与会，展开近40场专题演讲、文明对话、校园分享等，展现了跨领域专家汇聚、高水平国际交流、高端文明对话的鲜明特色。 做当代文明对话的积极建设者 本次论坛以“文明互鉴与传承发展”为主题，延伸“跨越山海的文明对话”“中国与葡语国家的文明连接”“AI时代的文明之光”等分论坛。 “以澳门为",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIddARKQIKmM8hjRBUdywI261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:00:12 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIjgFIKvONQhDci8p8U2XP261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:19:13 GMT"
         },
         {
-          "title": "泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识",
-          "summary": "△乌克兰总统泽连斯基 乌克兰总统泽连斯基11日在丹麦表示，已听取乌克兰代表团有关乌克兰、美国和俄罗斯代表在阿联酋举行会谈的成果以及乌方与欧洲伙伴协调情况的汇报。 泽连斯基介绍，会谈各方就筹备新一轮人道主义战俘交换达成共识，并讨论了安全保障问题，认为结束冲突应是落实安全保障的第一步。此外，各方还就扩大后续工作机制、纳入欧洲国家参与进行了协调。乌方强调，欧洲应参与外交进程的所有阶段。 乌克兰谈判代表团",
+          "title": "泽连斯基：“星链”系统近期出现严重运行异常",
+          "summary": "△泽连斯基（资料图） 乌克兰总统泽连斯基12日表示，过去几天，乌军发现美国“星链”系统在乌克兰境内出现严重运行异常，系统受到每小时161公里（100英里）的速度限制，涉及整个前线。 泽连斯基表示，当天听取了乌克兰国防部长和乌军总司令的汇报。泽连斯基指出，乌军已核查相关情况，认为这并非偶发故障，而是系统性速度限制。这一情况大幅增加了乌军拦截俄罗斯喷气式无人机的难度。他同时表示，乌方目前正与美国方面沟",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:39:56 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml",
+          "published": "Thu, 12 Nov 2026 10:52:35 GMT"
         },
         {
-          "title": "胡塞武装称过去24小时内沙特联军发动93次空袭",
-          "summary": "当地时间11日晚，也门胡塞武装发表声明称，过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、焦夫省、哈杰省、马里卜省和扎马尔省发动了93次空袭。 声明还称，自新一轮军事升级以来，沙特主导的联军发动的空袭和导弹袭击总数已达4765次。（总台记者 张雨辰）",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”",
+          "summary": "当地时间11日，有以色列方面消息称，美国总统特朗普与以色列看守政府总理内塔尼亚胡上周末通电话时，围绕是否重启对伊朗的军事行动爆发“地狱般的激烈争吵”。 消息称，内塔尼亚胡在通话中敦促特朗普重启军事行动，而特朗普则主张继续以外交途径推进与伊朗的谈判。两名消息人士透露，此次通话“艰难”，演变成一场“地狱般的激烈争吵”。 以色列总理办公室回应称上述消息为“假新闻”，“完全是无稽之谈”，否认通话具有对抗性",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIx5HHfkobdWV97bWKiYqA261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:36:21 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml",
+          "published": "Thu, 12 Nov 2026 10:52:13 GMT"
         },
         {
-          "title": "美中央司令部：美军严格执行对伊朗海上封锁",
-          "summary": "当地时间11月11日，美国中央司令部表示，美军持续昼夜不停地开展行动，以确保霍尔木兹海峡对商业航运保持开放。同时，美军严格执行针对伊朗的严密海上封锁，并与美国政府各相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道，转移先进武器系统、军民两用技术、受制裁物资，或进行“非法资金往来”。（央视记者 曹健）",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:33:39 GMT"
-        },
-        {
-          "title": "证监会：中国政府高度重视资本市场平稳健康发展，中国的发展具有长期确定性，投资中国具备坚实的基础",
-          "summary": "“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持续加大监管执法力度，切实维护投资者的合法权益。发言全文如下： 尊敬的贺青副市长、邱勇理事长， 各位来宾，各位朋友： 大家上午好！ 金秋时节，很高兴与大家共同参加",
+          "title": "伊朗强硬派高官：美军若再袭击，其欧洲基地也将成为打击目标",
+          "summary": "伊朗最高安全官员发出迄今最强硬的军事警告，将潜在打击目标范围扩大至欧洲境内的美军基地，令中东局势紧张态势进一步向外蔓延，并对全球能源市场构成新的不确定性压力。 据央视新闻12日报道，伊朗最高国家安全委员会秘书雷扎伊（Mohsen Rezaei）在11月11日播出的采访中表示，如果美国再次对伊朗发动军事打击，伊朗将把打击范围扩大至欧洲境内的美军基地。他明确警告： \"如果美国军机从欧洲国家的美军基地起",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785790",
-          "published": "Thu, 12 Nov 2026 05:16:39 GMT"
+          "link": "https://wallstreetcn.com/articles/3785824",
+          "published": "Thu, 12 Nov 2026 12:56:02 GMT"
         },
         {
-          "title": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件",
-          "summary": "美伊之间的外交试探正在升温。 据媒体最新报道，美国副总统万斯正考虑与伊朗强硬派安全官员Mohsen Rezaei进行直接会谈，特朗普已向幕僚和外国对应方表示，支持万斯重启对伊谈判并授权其主导这一进程。 伊朗一方则表示，美国必须全面满足伊方七项条件，方可重开霍尔木兹海峡、重启谈判。据 央视新闻 12日报道，伊朗议会议长卡利巴夫表示，伊朗已向美方给出了明确且直白的答复，阐述了伊朗的正当诉求。 万斯浮出",
+          "title": "失去黄仁勋，英伟达会怎样？",
+          "summary": "这几天科技圈、资本市场都在吃黄仁勋的瓜，细节不给大家复述了。 忽略掉最终结果，我们可以探索一个问题：假如黄仁勋从CEO的位置上被下架，英伟达会怎么样，这应该也是外界更关心的一个议题。 事实上，出轨花边这种事看都不要看，核心就两个问题：是否涉及违规（美国出口管制）、是否违反公司治理的规则。 关于出口管制的问题我们不去讨论了。关于公司治理规则，CEO跟直属下属有关系，在美国公司是明确违反行为准则的事项",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785776",
-          "published": "Thu, 12 Nov 2026 00:56:30 GMT"
+          "link": "https://wallstreetcn.com/articles/3785823",
+          "published": "Thu, 12 Nov 2026 12:40:27 GMT"
         },
         {
-          "title": "尹艳林：全球经济“三高”问题短期内难根本性改善",
-          "summary": "主要经济体货币政策有望向常态化回归，但利率下调的空间和节奏均有较大不确定性；高债务不可能短期内解决，利息支出占用较大财政空间；部分不确定性可能阶段性缓解，但很难彻底消除 第十四届全国政协委员尹艳林11月12日在第十七届财新峰会大会讨论环节发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 对当前全球经济面临高利率、高债务、高不确定性的“三高”问题，第十四届全国",
+          "title": "李俊峰：中国能源体系充分展现了供应韧性",
+          "summary": "今年以来，中东战事扰乱国际能源供应，新能源成为中国能源安全的重要支撑，电动汽车的快速发展也减少了中国交通领域对石油的依赖 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在国际能源市场面临地缘政治冲突、超强厄尔尼诺现象冲击之际，中国能源供应体系展现出自身的韧性。 11月12日，国家应对气候变化战略研究和国际合作中心首任主任李俊峰在第十七届财新峰会上表示，中国过去几十年持续",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503934.html",
-          "published": "Thu, 12 Nov 2026 05:02:03 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504155.html",
+          "published": "Thu, 12 Nov 2026 12:08:40 GMT"
         },
         {
-          "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
-          "summary": "中国为全球发展注入活力和稳定性；观察AI能不能可持续发展，不能只从技术维度看，还要看AI与产业的融合度，能不能带动产业，以及跟社会的协调性 2026年11月12日，屠光绍在第十七届财新峰会“战略稳定期下的发展合作新机遇”环节做出表述。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 美国中期选举刚刚结束，2027年将是欧洲选举大年，地缘政治和经济走向将如何变化？上",
+          "title": "监管释放市场韧性信号 加快形成“长钱长投”生态",
+          "summary": "社保、年金、保险等中长期资金入市规模和比例稳步提升，年初以来净买入A股超过6000亿元 【财新网】 在2026年上海证券交易所国际投资者大会上，中国证监会副主席表示，中国发展具有长期确定性，投资中国具备坚实基础；同时，资本市场具有发展韧性，产业创新价值加速激活。 根据上交所官微信文章《中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上的致辞》，刘浩凌强调中国发展具有长期确定性。当前国",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503905.html",
-          "published": "Thu, 12 Nov 2026 03:45:08 GMT"
-        },
-        {
-          "title": "【市场动态】俄乌第二日和谈不到两小时结束 美国特使将先后会见普京及泽连斯基",
-          "summary": "库什纳称，乌克兰和俄罗斯之间目前仍不存在互信；领土问题是谈判中最棘手的问题 当地时间2026年11月11日，阿联酋阿布扎比，美国斡旋的俄罗斯与乌克兰会谈期间，美国特使贾里德·库什纳（中）在新闻发布会上发表讲话。图：视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-12/102503840.html",
-          "published": "Thu, 12 Nov 2026 01:51:52 GMT"
+          "link": "https://finance.caixin.com/2026-11-12/102504124.html",
+          "published": "Thu, 12 Nov 2026 10:55:38 GMT"
         }
       ]
     },
@@ -153,720 +217,332 @@
       "summary": "",
       "items": [
         {
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 316 # Comments: 45",
+          "title": "I'm making LLMs work on small and old devices",
+          "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 9 # Comments: 4",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.mcmillen.dev/sigbovik/",
-          "published": "Wed, 11 Nov 2026 22:34:23 +0000"
+          "link": "https://github.com/hyperionaidev/smolmaxxing/",
+          "published": "Thu, 12 Nov 2026 15:23:10 +0000"
+        },
+        {
+          "title": "Libreagi – Save OSS Models",
+          "summary": "Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 44 # Comments: 14",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://libreagi.com/",
+          "published": "Thu, 12 Nov 2026 14:11:58 +0000"
+        },
+        {
+          "title": "Jensen Huang agrees to testify before Congress",
+          "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+          "published": "Thu, 12 Nov 2026 16:36:37 +0000"
+        },
+        {
+          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+          "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+          "published": "Thu, 12 Nov 2026 16:32:33 +0000"
+        },
+        {
+          "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+          "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+          "published": "Thu, 12 Nov 2026 16:12:44 +0000"
+        },
+        {
+          "title": "Norwest pushes deeper into AI with new $4B fund",
+          "summary": "This is the investment firm's largest fund to date.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+          "published": "Thu, 12 Nov 2026 15:18:14 +0000"
+        },
+        {
+          "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+          "summary": "This is Fireworks' second data breach in as many months.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+          "published": "Thu, 12 Nov 2026 15:02:28 +0000"
         },
         {
           "title": "The unfolding Jensen Huang scandal: a timeline",
-          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-          "published": "Wed, 11 Nov 2026 23:50:00 +0000"
+          "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "published": "Thu, 12 Nov 2026 14:30:01 +0000"
         },
         {
-          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-          "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+          "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+          "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-          "published": "Wed, 11 Nov 2026 23:17:05 +0000"
+          "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+          "published": "Thu, 12 Nov 2026 14:10:34 +0000"
         },
         {
-          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-          "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair , just days after he admitted to a separate affair with a ",
+          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+          "published": "Thu, 12 Nov 2026 13:26:25 +0000"
+        },
+        {
+          "title": "Jensen Huang is out. What did China want from him?",
+          "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-          "published": "2026-11-11T17:44:36-05:00"
+          "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+          "published": "2026-11-12T11:30:00-05:00"
         },
         {
-          "title": "《原神》过场动画-「岩与契约」",
-          "summary": "随着象征契约的摩拉在契约之神手中凝成，璃月的试炼已然通过。\n以此为始，判罚之钉的符号消失了第一枚。\n \n中文CV：\n钟离——彭博\n空——鹿喑\n派蒙——多多\n\n日文CV：\n钟离——前野智昭\n空——堀江瞬\n派蒙——古贺葵\n\n《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+          "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+          "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang ",
           "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1aTWm6jEL8",
-          "published": "Thu, 12 Nov 2026 04:00:00 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+          "published": "2026-11-12T10:48:12-05:00"
         },
         {
-          "title": "三年之期已到，恭迎世一上归位！【第17集】",
-          "summary": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
+          "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+          "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
           "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV12pWQ6QETV",
-          "published": "Thu, 12 Nov 2026 03:13:12 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-12T10:01:31-05:00"
         },
         {
-          "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
-          "summary": "近日，一起涉及企业网络舆情的案件牵出一条以MCN机构为外壳、以实名账号为载体、以AI洗稿和虚假流量为工具的黑灰产业链。山西晋中警方查明，犯罪嫌疑人注册82个个体工商户、55家MCN机构，收购2000多个实名账号，批量改写文章、借平台“按浏览量返现”规则牟利。 记者调查发现，二手平台上特定暗语“国白”“新美”等账号被明码标价，新号几十元一个，成熟账号则按粉丝的特征和数量来定价。MCN机构如何搭建矩阵",
+          "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+          "summary": "It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation le",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTI2sMlQWQ5vPohf1h9mleg261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:54:28 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+          "published": "2026-11-12T09:00:00-05:00"
         },
         {
-          "title": "“跑偏”的技术",
-          "summary": "[!--begin:htmlVideoCode--]4c53080e03e042248343ccb154bf901b,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 美妆博主因病休养，经纪公司竟用其AI替身售卖三无产品，博主起诉公司侵权。程序员为救重病父亲，利用技术开发抢单外挂，获利数万元，严重扰乱市场。当新兴技术沦为非法牟利的工具，法律的界限又",
+          "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+          "summary": "Apple’s first smart display is finally here. And it’s good.﻿ | Photo: Hunter McRae for The Verge The HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIN9gxcxFVZuA0AFCsmeYv261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:07:35 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+          "published": "2026-11-12T09:00:00-05:00"
         },
         {
-          "title": "CoreWeave季报史上最强，但伯恩斯坦和汇丰仍坚持\"卖出\"",
-          "summary": "云计算公司CoreWeave交出了一份几乎无可挑剔的季报，却未能说服华尔街最坚定的两位空头改变立场。 华尔街见闻文章 写道， CoreWeave周三盘中一度飙升逾27%，创逾一年来最佳单日表现。 此前一天， 公司发布第三季度财报 ：营收36.6亿美元超出预期，利润率双双超预期，全年收入及运营利润指引双双上调，合同积压订单达1325亿美元，首席执行官Michael Intrator将其称为\"突破性季",
+          "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+          "summary": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigne",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785788",
-          "published": "Thu, 12 Nov 2026 06:02:40 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+          "published": "2026-11-12T08:53:16-05:00"
         },
         {
-          "title": "黄仁勋的麻烦：4万亿英伟达如何受挫以及接班人困境的影响有多大？",
-          "summary": "英伟达预计11月12日召开董事会表决，决定要不要把黄仁勋踢出CEO的位置。 受到AI信心冲击和黄仁勋连续两次桃色事件的影响，英伟达市值从最高点5.88万亿下跌至4万亿美元以下，市值蒸发超2万亿美元。在产业趋势和桃色事件背后，市场更多在定价黄仁勋的治理情况——如果黄仁勋走了，英伟达还能不能完成70%增长的承诺？接班人选择如何影响英伟达未来的战略和AI产业的进展？ 一文看懂黄仁勋的麻烦、英伟达的挫折以",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785787",
-          "published": "Thu, 12 Nov 2026 04:54:04 GMT"
-        },
-        {
-          "title": "马斯克回应Anthropic或不续租算力：乐意收回",
-          "summary": "Anthropic与SpaceX之间具有指标意义的算力租赁协议面临提前终止的可能，马斯克对此回应称“乐意收回”算力。在全美多州冻结数据中心新建许可的背景下，这一商业博弈正成为重塑全球AI产业定价权与竞争格局的关键节点。 最新动态显示，Anthropic高管近期向部分卖方分析师透露，该公司与SpaceX的算力租赁合同在2027年第二季度后将不再延长。面对这一表态，马斯克给出了异常直接的回应，表示“完",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785789",
-          "published": "Thu, 12 Nov 2026 04:40:30 GMT"
-        },
-        {
-          "title": "腾讯管理层再谈AI：一半人要提效做好现有核心业务，另一半探索AI Native，“裁员50%”不实",
-          "summary": "从接近腾讯的知情人士处获悉，在腾讯28周年线上直播中，腾讯管理层表示要加快组织变革的决心，同时提到，这和几年前那次“降本增效”不一样。前一次相对被动，更偏“降本”，这一次是面向AI时代的主动出击，更偏“增效”，激发团队去创造新的价值，鼓励一线同事积极举手向前冲，中间的管理层则需要变得更扁平和灵敏。为了应对新的变革，内部需要主动思考新打法和新战场。 接近腾讯的知情人士表示：腾讯管理层称，50%的人要",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3198808",
-          "published": "Thu, 12 Nov 2026 04:15:23 GMT"
-        },
-        {
-          "title": "铜价涨了40% 矿山为啥跌惨了",
-          "summary": "过去一年多，关于铜的说法几乎是一边倒的：AI 数据中心要铜，电网要铜，电动车和光伏要铜。铜价也配合得很好——15 个月涨了四成。 按常理，矿价涨矿山也会跟着涨，但事实刚好相反，矿山股却跌惨了。 比如全球第二大铜生产商自由港麦克莫兰，股价从8月的高点跌掉了两成还多。 流行的解释有两个：矿商没看懂新需求，或者价格还不够高。 两个都不对。真正的答案是……",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785676",
-          "published": "Thu, 12 Nov 2026 03:47:07 GMT"
-        },
-        {
-          "title": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家",
-          "summary": "英伟达市值从1万亿美元攀升至最高5.8万亿美元，随后跌回18个月低点。这一轮涨跌，让高盛策略师Bobby Molavi想起了180年前的英国铁路狂热。 Molavi在其最新一期\"沉思录\"（Ruminations）策略笔记中提出一个核心问题：如果这是一场泡沫，价值最终会落在谁手里？他的答案，借鉴了历史上多次资本支出狂潮的经验——\"很可能不是那些建造它的人。\" 泡沫和最终效用是两回事。技术创新可以是划",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785782",
-          "published": "Thu, 12 Nov 2026 03:45:59 GMT"
-        },
-        {
-          "title": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”",
-          "summary": "人工智能（AI）初创企业的估值正面临现实的考验。行业领军企业OpenAI和Anthropic下调估值预期的举动，加剧了风险投资界对初创企业估值全面回调的担忧，这也使得Anthropic即将到来的首次公开募股（IPO）成为决定整个AI行业走向的关键时刻。 据彭博11月12日报道，知情人士透露， OpenAI近期面临市场环境恶化及投资者反馈，将其目标估值从1.4万亿美元下调至1.25万亿美元，并将融资",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785778",
-          "published": "Thu, 12 Nov 2026 03:35:26 GMT"
-        },
-        {
-          "title": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？",
-          "summary": "华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。 Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785784",
-          "published": "Thu, 12 Nov 2026 03:35:19 GMT"
-        },
-        {
-          "title": "AI存储进入下半场，华为为什么押注磁电存储？",
-          "summary": "AI存储的竞争，正在从谁能更快地把数据送进GPU，延伸到谁能以更低成本保存不断膨胀的数据资产。华为MED试图把磁带的低成本、低能耗与在线存储的便利性结合起来。它能否成功仍待客户验证，但其背后折射出的温冷数据经济学，值得重新审视。 一、发生了什么？——AI存储的另一场竞赛，正在温冷数据中展开 1. AI存储不只有HBM，数据还需要一个长期的“家”： 过去两年，AI产业谈存储，最常出现的是HBM、DR",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785703",
-          "published": "Thu, 12 Nov 2026 02:49:20 GMT"
-        },
-        {
-          "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
-          "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指、科创50大涨超2%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头，寒武纪涨超9%。贵金属、物理AI、人形",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785781",
-          "published": "Thu, 12 Nov 2026 02:09:53 GMT"
-        },
-        {
-          "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
-          "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告： AI内存及数据中心需求在短期内可能出现波动， 市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝， 表示希望与三星共同开发下一代AI终",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785777",
-          "published": "Thu, 12 Nov 2026 01:59:57 GMT"
-        },
-        {
-          "title": "马斯克谈聘任黄仁勋：那将是我莫大的荣幸",
-          "summary": "在回复zerohedge的提议“埃隆，请聘任Jensen”时，马斯克回复：“那将是我莫大的荣幸”。 据媒体报道，英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。 华尔街正密切评估，如果这位人工智能基础设施的核心架构师被迫离职，将对整个AI行业的资金链、客户信心与发展前景造成何种程度的直接冲击。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960162",
-          "published": "Thu, 12 Nov 2026 01:59:14 GMT"
-        },
-        {
-          "title": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
-          "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话： 前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大基建，到底像不像？ Volpi是极少数",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785780",
-          "published": "Thu, 12 Nov 2026 01:57:19 GMT"
-        },
-        {
-          "title": "Anthropic上市 就是本轮AI行情的顶！？",
-          "summary": "每一轮大行情走到尽头的时候，从来没有人跳出来喊一声“到顶了，赶紧跑”。原因很简单：顶部是事后才知道的。身在其中的时候，每个人都觉得还能再涨。 但如果回头看，有一种信号反复出现过：当一个时代最热的赛道里，跑出了一笔巨大的上市，行情往往就快到头了。 问题是，这个信号听起来一点也不像警报——它听起来像庆典。 2000年3月Palm上市，发行价38美元盘中冲到165美元，所有人都在鼓掌。纳斯达克又涨了八天",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785771",
-          "published": "Thu, 12 Nov 2026 00:48:20 GMT"
-        },
-        {
-          "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
-          "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。 市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785774",
-          "published": "Thu, 12 Nov 2026 00:43:39 GMT"
-        },
-        {
-          "title": "Anthropic的300页招股书，仍未能证明AI是一门好生意",
-          "summary": "Anthropic已经赚到钱。第三季度收入达到170亿美元，调整后营业利润约25亿美元，企业客户持续扩张。大模型商业化早已越过“有没有人付费”的阶段。 但Anthropic的IPO也把另一个问题摆到了市场面前：一家模型公司收入增长越快，可能就越需要提前锁定算力、机房和芯片；它今天训练出的领先模型，几个月后又可能遭遇追赶和降价。产品端越像软件，资本端却越来越像基础设施。 这构成了Anthropic商",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785708",
-          "published": "Thu, 12 Nov 2026 00:33:39 GMT"
-        },
-        {
-          "title": "芯片制造商“严阵以待”，反思产业链绑定太深，“英伟达事件”让韩国AI产业界揪心",
-          "summary": "“在英伟达启动黄仁勋调查之际，韩国芯片制造商‘严阵以待’准备应对冲击。”韩国《中央日报》10日报道称，英伟达首席执行官黄仁勋的个人婚外情事件给韩国半导体行业带来了“不确定性的涟漪”。英伟达领导层可能产生的变动或会对韩国芯片制造商和更广泛的人工智能（AI）产业生态产生深远影响。近年来，英伟达与韩企的合作已从内存芯片全面拓展至AI数据中心、机器人及自动驾驶等关键领域。尽管目前尚未出现项目停摆或供货中断",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785769",
-          "published": "Thu, 12 Nov 2026 00:00:32 GMT"
-        },
-        {
-          "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
-          "summary": "英伟达正面临一场可能重塑这家全球最高市值人工智能芯片制造商领导架构的严峻危机。因首席执行官黄仁勋卷入多起婚外情丑闻，公司董事会目前正积极寻找潜在的继任者，以应对可能出现的权力真空。 据彭博和《华尔街日报》报道， 英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。 此前，《纽约时报》最新披露了黄仁勋与一名直接下属存在不正",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785773",
-          "published": "Wed, 11 Nov 2026 23:59:17 GMT"
-        },
-        {
-          "title": "11月12日会员早报：Anthropic IPO获数倍超额认购 英伟达董事会据报准备罢免黄仁勋",
-          "summary": "1、【Anthropic IPO获数倍超额认购】据彭博社11月11日援引知情人士报道，Claude开发商Anthropic的IPO已获得数倍于发行股数的认购，需求主要来自基石投资者级别的大额认购意向。根据监管文件，按发行价区间上限计算，Anthropic及其联合创始人通过IPO和同步私募合计最多可募资904亿美元，这一数字低于部分投资者此前的预期。若顺利完成，其规模将超过SpaceX今年6月的IP",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785772",
-          "published": "Wed, 11 Nov 2026 23:48:45 GMT"
-        },
-        {
-          "title": "CoreWeave拟发行至少40亿美元投资级贷款，盘后下挫近6%",
-          "summary": "AI算力供应商CoreWeave正寻求通过投资级贷款再度大规模融资。 11月11日，据彭博社援引知情人士透露， 摩根士丹利与三菱日联金融集团（MUFG）正主导该笔至少40亿美元的潜在融资，计划分阶段向投资者进行银团推介，最快可能于下周启动，但方案尚未最终确定。 CoreWeave周二发布财报，将全年营收指引上调至130亿至133亿美元，高于此前预期区间，也超出华尔街平均预期的129亿美元。公司股价",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785770",
-          "published": "Wed, 11 Nov 2026 23:39:07 GMT"
-        },
-        {
-          "title": "云端之下的美国：AI雄心、地方利益与公众制约",
-          "summary": "华盛顿要维持美国的技术优势，企业要让已经投入的资本尽早产生收入，又有地方层面的公众参与制约，这些和不同地区间利益博弈相关的财政税收竞争，在AI+发展的现实生活中交织 当地时间2026年10月7日，美国弗吉尼亚州劳登县，一处数据中心。图：视觉中国 文｜贾康 孙善群 提要： 弗吉尼亚州劳登县预计，数据中心将贡献其2027财年一般基金收入的四成。机房噪声由附近住户承受，扩建电网的费用还可能摊到县外用户的",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-12/102503930.html",
-          "published": "Thu, 12 Nov 2026 04:52:47 GMT"
-        },
-        {
-          "title": "亚投行副行长陆书泽：多边合作对国际投资仍然奏效",
-          "summary": "国际机构和多边机构对于全球经济仍然保持乐观，亚洲基础设施投资银行、亚洲开发银行、世界银行等多边机构合作良好，多边合作仍是国际投资的主流 在11月12日在京举行的第十七届财新峰会上，亚洲基础设施投资银行（AIIB）战略政策副行长陆书泽（Ludger Schuknecht）在讨论环节发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在人工智能（AI）浪潮当中，各",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503912.html",
-          "published": "Thu, 12 Nov 2026 04:12:31 GMT"
-        },
-        {
-          "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
-          "summary": "中国为全球发展注入活力和稳定性；观察AI能不能可持续发展，不能只从技术维度看，还要看AI与产业的融合度，能不能带动产业，以及跟社会的协调性 2026年11月12日，屠光绍在第十七届财新峰会“战略稳定期下的发展合作新机遇”环节做出表述。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 美国中期选举刚刚结束，2027年将是欧洲选举大年，地缘政治和经济走向将如何变化？上",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503905.html",
-          "published": "Thu, 12 Nov 2026 03:45:08 GMT"
-        },
-        {
-          "title": "【市场动态】OpenAI和Anthropic估值松动 AI初创企业身价随之面临重估",
-          "summary": "公开市场的AI股已经连续数周遭到抛售，整个行业本就不安，现在更担心非上市公司是否即将迎来估值回调 OpenAI缩减融资规模，竞争对手Anthropic PBC又决定以低于预期的1.4万亿美元完全摊薄估值进行首次公开募股(IPO)，两件事在整个风投界引发震动。图：IC photo",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-12/102503846.html",
-          "published": "Thu, 12 Nov 2026 02:12:10 GMT"
-        },
-        {
-          "title": "美元信用退潮｜2027年美国经济和资产展望",
-          "summary": "2027年美债将在漫长熊市等待最后一轮流动性冲击——非美资金回流本国、撤离美国市场，这也是本轮美元潮汐，同样也是本轮美元信用周期的句号 在AI这一轮，美国是否能继续垄断产业链中的高利润环节，决定美元信用未来的走向。图：视觉中国 2022年以来美国经济和美国资产，基本上围绕三个核心矛盾展开：AI、财政和通胀。 与之对应，2027年观察美国经济和资产，紧跟三条主线——AI能否兑现回报、市场能够承受多高",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-12/102503844.html",
-          "published": "Thu, 12 Nov 2026 02:04:18 GMT"
-        }
-      ]
-    },
-    {
-      "name": "金融 / 投资",
-      "summary": "",
-      "items": [
-        {
-          "title": "黃仁勳疑涉另一宗婚外情，Nvidia董事會傳擬撤換執行長",
-          "summary": "隨着第二宗婚外情的報導曝光，Nvidia股價大幅下跌。據報董事會正與一家外部公司合作，尋找黃仁勳的潛在繼任者。",
-          "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 05:20:57 GMT"
-        },
-        {
-          "title": "APEC朋友圈 | 俄外交部发言人：期待深圳APEC会议取得丰硕成果",
-          "summary": "[!--begin:htmlVideoCode--]d246935011a1487d9fcdbbd525c18dad,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是APEC中国年。当地时间11日，俄罗斯外交部发言人扎哈罗娃在例行记者会上回答总台报道员提问时表示，俄方高度评价中国担任2026年亚太经合组织（也就是APEC）东道主期间的工作，",
+          "title": "“文明互鉴国际论坛二O二六”在澳门举办 以文化为桥 跨山海对话",
+          "summary": "“文明互鉴国际论坛2026”11月9日至10日在澳门举办。来自20多个国家和地区的政府部门代表、国际组织代表以及专家学者与会，展开近40场专题演讲、文明对话、校园分享等，展现了跨领域专家汇聚、高水平国际交流、高端文明对话的鲜明特色。 做当代文明对话的积极建设者 本次论坛以“文明互鉴与传承发展”为主题，延伸“跨越山海的文明对话”“中国与葡语国家的文明连接”“AI时代的文明之光”等分论坛。 “以澳门为",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIzusKaNPLy3I3fDlA61x9261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:35:12 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIjgFIKvONQhDci8p8U2XP261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:19:13 GMT"
         },
         {
-          "title": "国际人士热切期待APEC“深圳时间”",
-          "summary": "[!--begin:htmlVideoCode--]b73af48657e84bedbe96f4dde12d9a74,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是中国加入APEC的第35个年头，35年来，中国既是APEC合作的受益者，更是重要的推动者和贡献者。国际人士如何看待亚太合作共赢？对APEC“中国年”又有哪些期待？ 亚太合作，你",
+          "title": "美政商界人士呼吁共同推动稳定健康的美中关系",
+          "summary": "美中关系全国委员会成立60周年暨2026年度颁奖晚宴10日晚在纽约举办，中美政商界人士近400人出席。与会嘉宾表示，两国元首对新阶段两国关系发展的战略引领至关重要，呼吁扩大共识、管控分歧，共同推动发展稳定健康的美中关系。 美国财政部长贝森特在致辞中表示，美中两国元首在一年内频繁互访前所未有，建立了一种“基于相互尊重和两国人民根本利益的友谊”。当前，两国正就人工智能相关议题建立新的对话机制，旨在防范",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIIBHf3RyJGtZDVXSSxYU6261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:28:25 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:18:58 GMT"
         },
         {
-          "title": "深圳各口岸进入“APEC时间” “3秒识物”智能查验台提升通关效率",
-          "summary": "[!--begin:htmlVideoCode--]8f020eb3cdfa4d948016628da387cd98,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 随着2026年APEC领导人会议周临近，深圳各口岸共计25条APEC专用通道已全部开启，全力保障APEC成员经济体参会人员及媒体记者来华。上月刚刚启用联检大楼的深圳皇岗口岸是目前深圳",
+          "title": "从“一米柜台”到商贸枢纽 华强北见证电子产业成长",
+          "summary": "这两天，深圳网友都在刷“偶遇康辉”的帖子，大家都好奇康辉去华强北到底干了啥？答案揭晓——康老师体验当创客，挑战亲手搓一款小产品！ 华强北是很多人到深圳的必打卡地。今年特别火的“China Haul”，不少外国游客带着空的旅行箱来华强北淘货。机器人、AI眼镜、AI手表等科技潮品成为“必购清单”。 从“中国电子第一街”到“新质生产力策源第一街”，跟随记者一起去探访华强北里的“一米柜台”如何华丽变身？ ",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIG3BEPRyOF5IEXCCaiRBS261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:17:24 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIECd2mPeHqRnSxlkLXxdO261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:55:14 GMT"
         },
         {
-          "title": "湖南衡阳：采摘砂糖橘供应市场",
-          "summary": "湖南衡阳：采摘砂糖橘供应市场 11月11日，务工人员在衡南县花桥镇的源氏农林柑橘种植基地采摘砂糖橘（无人机照片）。 立冬过后，湖南省衡阳市衡南县花桥镇源氏农林柑橘种植基地种植的砂糖橘、脐橙、葡萄柚陆续进入成熟采摘期，当地村民抢抓晴好天气开展采摘，供应市场。新华社发（曹正平摄） 湖南衡阳：采摘砂糖橘供应市场 11月11日，务工人员在衡南县花桥镇的源氏农林柑橘种植基地采摘砂糖橘。 湖南衡阳：采摘砂糖橘",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://photo.cctv.com/2026/11/12/PHOA9w6w3ntlnsCFtk4bjT7p261112.shtml",
-          "published": "Thu, 12 Nov 2026 02:41:36 GMT"
-        },
-        {
-          "title": "当工业遗存“邂逅”城市更新碰撞新火花 新场景新业态点燃老街老厂新活力",
-          "summary": "[!--begin:htmlVideoCode--]d55f4da2816749f6ba5ca973e9337a1f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在河南郑州，一座有着七十余年历史的老牌油脂化学厂通过自筹改造资金、市场化运营，在保护工业遗存的同时，不断引入文创、非遗、艺术体验等新业态，废弃厂区蝶变为国家级旅游休闲街区。 走进郑州",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIgLeJrREiEJUd2w2hyjpe261112.shtml",
-          "published": "Thu, 12 Nov 2026 02:04:40 GMT"
-        },
-        {
-          "title": "中国外贸的APEC“底色”有多浓？数据里找到答案",
-          "summary": "[!--begin:htmlVideoCode--]827512eb73994f208d36014ccbf424c6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是APEC“中国年”。中国与APEC经济体间的贸易往来不断加深，结构也不断优化。中国外贸的APEC底色究竟有多浓，我们通过一组数据来了解。 前三季度对APEC其他经济体进出口占总",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTI8ntw7bdYPEx3HHkbPfp5261112.shtml",
-          "published": "Thu, 12 Nov 2026 01:33:45 GMT"
-        },
-        {
-          "title": "《江汉揽胜图》：长江经济带的古老切片",
-          "summary": "【晒晒咱家的镇馆之宝69】 光明日报记者 张锐 王建宏 “如何不作钱塘景，要与江城作画图。”走进武汉博物馆大厅，一张挂毯铺满整个墙壁，山水、舟楫与城郭，刹那间就把人的目光牢牢攫住，让人不由得停下脚步。 “这是镇馆之宝、国家一级文物《江汉揽胜图》的等比例放大挂毯。”武汉博物馆馆长任晓飞介绍，原件纵107cm、横171cm，是创作于明末清初的绢本设色山水图。《江汉揽胜图》主画面选取武汉三镇江汉朝宗的水",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIfWmmBHHEMaF4USxcGnmi261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:12:55 GMT"
-        },
-        {
-          "title": "“跑偏”的技术",
-          "summary": "[!--begin:htmlVideoCode--]4c53080e03e042248343ccb154bf901b,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 美妆博主因病休养，经纪公司竟用其AI替身售卖三无产品，博主起诉公司侵权。程序员为救重病父亲，利用技术开发抢单外挂，获利数万元，严重扰乱市场。当新兴技术沦为非法牟利的工具，法律的界限又",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIN9gxcxFVZuA0AFCsmeYv261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:07:35 GMT"
-        },
-        {
-          "title": "我国外贸中的“APEC含量”",
-          "summary": "[!--begin:htmlVideoCode--]827512eb73994f208d36014ccbf424c6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是APEC“中国年”。中国与APEC经济体间的贸易往来不断加深，结构也不断优化。中国外贸的APEC底色究竟有多浓，我们通过一组数据来了解。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIAkmIbwe5oeHUCUU5m5YL261112.shtml",
-          "published": "Wed, 11 Nov 2026 23:18:36 GMT"
-        },
-        {
-          "title": "新闻1+1｜基金会，如何赢得更多公信力？",
-          "summary": "[!--begin:htmlVideoCode--]9c69605a40dc4115835285ff4c0ee92a,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月10日，新修订的《基金会管理条例》发布，这是该条例实施22年来的首次全面修订。如何加强基金会的公信力建设？除了完善内部治理，又细化了哪些外部监管与法律责任？制度规范之下，如何促",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIdALtt3EaGdp0yEUvHGTF261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:26:05 GMT"
-        },
-        {
-          "title": "光通信的再博弈：微软为什么要游说FCC？",
-          "summary": "微软游说的真实效果可能不是取消禁令，而是把禁令的靶心从「产地」改成「代际」； 市场交易修复的是政策风险溢价（分母），但光板块真正的压力来自2026年三季度已经出现的毛利率与环比增速拐点（分子）。在北美四大云厂商资本开支仍有 77% 同比增速的背景下，被错杀的是结构，不是总量。",
+          "title": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元",
+          "summary": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785705",
-          "published": "Thu, 12 Nov 2026 06:07:59 GMT"
+          "link": "https://wallstreetcn.com/articles/3785830",
+          "published": "Thu, 12 Nov 2026 14:52:42 GMT"
         },
         {
-          "title": "CoreWeave季报史上最强，但伯恩斯坦和汇丰仍坚持\"卖出\"",
-          "summary": "云计算公司CoreWeave交出了一份几乎无可挑剔的季报，却未能说服华尔街最坚定的两位空头改变立场。 华尔街见闻文章 写道， CoreWeave周三盘中一度飙升逾27%，创逾一年来最佳单日表现。 此前一天， 公司发布第三季度财报 ：营收36.6亿美元超出预期，利润率双双超预期，全年收入及运营利润指引双双上调，合同积压订单达1325亿美元，首席执行官Michael Intrator将其称为\"突破性季",
+          "title": "美联储哈马克：通胀正朝着错误的方向发展，需要转向限制性政策立场",
+          "summary": "美联储官员再度发出鹰派信号。美联储官员哈马克警告称，通胀正朝着错误的方向发展，并点名人工智能基础设施建设是当前真实价格压力的来源之一，呼吁货币政策转向更具限制性的立场。 哈马克的表态为近期美联储官员的整体鹰派基调再添注脚。在通胀方向出现偏差、新兴价格压力来源被点名的背景下，市场对美联储年内加息的预期空间或将进一步放大。 更新中....... 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785788",
-          "published": "Thu, 12 Nov 2026 06:02:40 GMT"
+          "link": "https://wallstreetcn.com/articles/3785828",
+          "published": "Thu, 12 Nov 2026 13:45:29 GMT"
         },
         {
-          "title": "证监会：中国政府高度重视资本市场平稳健康发展，中国的发展具有长期确定性，投资中国具备坚实的基础",
-          "summary": "“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持续加大监管执法力度，切实维护投资者的合法权益。发言全文如下： 尊敬的贺青副市长、邱勇理事长， 各位来宾，各位朋友： 大家上午好！ 金秋时节，很高兴与大家共同参加",
+          "title": "华虹宏力：将进一步扩大光模块内硅基产品类型 关注光学产品",
+          "summary": "华虹宏力高管在第三季度业绩说明会上介绍，目前华虹已经身处硅光领域，光模块内部有多种不同的芯片，其中一部分公司已在生产，比如应用于光模块的MCU，部分电源管理芯片和功率器件等，公司参与器件层，而非更集成的系统层面。公司将进一步扩大硅基份额，拓展产品类型；对于非硅基的光学产品公司也将保持关注。（证券时报）",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785790",
-          "published": "Thu, 12 Nov 2026 05:16:39 GMT"
+          "link": "https://wallstreetcn.com/livenews/3199162",
+          "published": "Thu, 12 Nov 2026 13:36:47 GMT"
         },
         {
-          "title": "黄仁勋的麻烦：4万亿英伟达如何受挫以及接班人困境的影响有多大？",
-          "summary": "英伟达预计11月12日召开董事会表决，决定要不要把黄仁勋踢出CEO的位置。 受到AI信心冲击和黄仁勋连续两次桃色事件的影响，英伟达市值从最高点5.88万亿下跌至4万亿美元以下，市值蒸发超2万亿美元。在产业趋势和桃色事件背后，市场更多在定价黄仁勋的治理情况——如果黄仁勋走了，英伟达还能不能完成70%增长的承诺？接班人选择如何影响英伟达未来的战略和AI产业的进展？ 一文看懂黄仁勋的麻烦、英伟达的挫折以",
+          "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
+          "summary": "AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。 Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。 然而，公司将年化经常性收入（ARR）目标从此前承诺的\"2026",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785787",
-          "published": "Thu, 12 Nov 2026 04:54:04 GMT"
+          "link": "https://wallstreetcn.com/articles/3785826",
+          "published": "Thu, 12 Nov 2026 13:32:11 GMT"
         },
         {
-          "title": "马斯克回应Anthropic或不续租算力：乐意收回",
-          "summary": "Anthropic与SpaceX之间具有指标意义的算力租赁协议面临提前终止的可能，马斯克对此回应称“乐意收回”算力。在全美多州冻结数据中心新建许可的背景下，这一商业博弈正成为重塑全球AI产业定价权与竞争格局的关键节点。 最新动态显示，Anthropic高管近期向部分卖方分析师透露，该公司与SpaceX的算力租赁合同在2027年第二季度后将不再延长。面对这一表态，马斯克给出了异常直接的回应，表示“完",
+          "title": "百度想重构大模型调度的入口",
+          "summary": "11月12日的百度世界大会上，李彦宏谈起了大模型市场里的一门常见的生意——中转站的商业痛点。 “这些中转站它们把各种模型提供方聚合起来，提供给开发者来调用，但它们并不对模型的效果、服务的稳定性、响应速度等负责，甚至有时候这个模型的真实性都无从考证，它如果说用一个flash来代替，或者它生成一个Pro版本基本上也不会在中转站遇到什么阻力。” 模型厂商和第三方推理服务商越来越多，同一款模型往往有多个供",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785789",
-          "published": "Thu, 12 Nov 2026 04:40:30 GMT"
+          "link": "https://wallstreetcn.com/articles/3785825",
+          "published": "Thu, 12 Nov 2026 12:46:12 GMT"
         },
         {
-          "title": "证监会：进一步拓宽中长期资金来源、渠道和入市方式 全力维护市场平稳运行",
-          "summary": "中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上致辞时 表示 ，中国政府高度重视资本市场平稳健康发展。中国证监会将坚决贯彻党中央决策部署，落实近日国务院常务会议要求，完善稳市机制，增强股市内在稳定性，会同相关部门协同发力，打好稳市场、稳预期政策组合拳。 用好用足两项结构性货币政策工具，证券、基金公司已开展第三批互换便利操作1000亿元。支持上市公司加大回购增持力度，今年以来上市公司",
+          "title": "马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust也拦不住AI制造复杂性",
+          "summary": "“真男人自己管理内存。” 11 月 10 日，面对网友“为什么用 C/C++ 重写，之前用的是 Rust 吗”的追问，Elon Musk 用这句话回应了 xAI 的技术选择。 四年前，他还公开表示自己是 Rust 的拥趸，认为 Discord 的实践证明了它的扩展能力。不过，他当时也保留了一个判断：在专用硬件上追求极致性能，精炼的 C 代码配合定制编译器，依然无可匹敌。 如今，随着他宣布弃用 JA",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3198804",
-          "published": "Thu, 12 Nov 2026 04:10:16 GMT"
+          "link": "https://wallstreetcn.com/articles/3785822",
+          "published": "Thu, 12 Nov 2026 12:27:22 GMT"
         },
         {
-          "title": "见闻历11.11大促最后2天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "title": "长鑫科技副总裁骆晓东：算力超级周期迈入“分层时代”，存储竞争转向全场景布局",
+          "summary": "11月12日，第二十三届中国国际半导体博览会（IC China 2026）开幕。长鑫科技副总裁骆晓东在大会演讲中表示，受全球算力需求激增推动，算力超级周期正在进入一个全新的“分层时代”。不同细分市场的增长节奏、不同AI应用对内存的需求正在出现明显分化，存储产业竞争也由单一性能指标比拼，转向全场景产品布局能力的竞争。 骆晓东指出，这种分层首先体现在市场需求上。目前，服务器市场需求占比已超过50%，需",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782813",
-          "published": "Thu, 12 Nov 2026 04:08:57 GMT"
+          "link": "https://wallstreetcn.com/articles/3785821",
+          "published": "Thu, 12 Nov 2026 12:13:44 GMT"
         },
         {
-          "title": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家",
-          "summary": "英伟达市值从1万亿美元攀升至最高5.8万亿美元，随后跌回18个月低点。这一轮涨跌，让高盛策略师Bobby Molavi想起了180年前的英国铁路狂热。 Molavi在其最新一期\"沉思录\"（Ruminations）策略笔记中提出一个核心问题：如果这是一场泡沫，价值最终会落在谁手里？他的答案，借鉴了历史上多次资本支出狂潮的经验——\"很可能不是那些建造它的人。\" 泡沫和最终效用是两回事。技术创新可以是划",
+          "title": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？",
+          "summary": "橡树资本联合创始人霍华德·马克斯（Howard Marks）在最新备忘录中，以一个\"外行\"的视角系统梳理了围绕人工智能投资的核心问题。他的结论并不乐观： AI投资涉及的关键变量数量异常庞大，预测难度远超以往任何一次技术革命，而真正能从中获利的究竟是谁，目前在很大程度上仍是一个信仰问题。 马克斯在备忘录中援引Anthropic旗下AI模型Claude的评估指出， AI整体的可预测性评分仅为3分（满分",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785782",
-          "published": "Thu, 12 Nov 2026 03:45:59 GMT"
+          "link": "https://wallstreetcn.com/articles/3785818",
+          "published": "Thu, 12 Nov 2026 11:52:58 GMT"
         },
         {
-          "title": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”",
-          "summary": "人工智能（AI）初创企业的估值正面临现实的考验。行业领军企业OpenAI和Anthropic下调估值预期的举动，加剧了风险投资界对初创企业估值全面回调的担忧，这也使得Anthropic即将到来的首次公开募股（IPO）成为决定整个AI行业走向的关键时刻。 据彭博11月12日报道，知情人士透露， OpenAI近期面临市场环境恶化及投资者反馈，将其目标估值从1.4万亿美元下调至1.25万亿美元，并将融资",
+          "title": "中国三季度货政报告关注全球风险，中国AI硬件处于尾声加速上涨初期，华发事件冲击债市与信用分化---1112宏观脱水",
+          "summary": "央行三季度货政报告对全球经济表述转向关注风险，关注重点由人工智能转向金融市场风险与财政可持续性。结构性工具新增六张网建设支持，货币政策总体延续但面临不可能三角约束，汇率表述基本未变。 当前国内市场正处于成长10月26日起华发事件发酵，相关债券显著下跌并波及国企债与地产债，10月30日个体信用事件有向债市赎回冲击演变迹象。本轮赎回风波修复速度快于以往，但市场对信用风险担忧并未完全消除，后续信用利差或",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785778",
-          "published": "Thu, 12 Nov 2026 03:35:26 GMT"
+          "link": "https://wallstreetcn.com/member/articles/3785820",
+          "published": "Thu, 12 Nov 2026 11:47:57 GMT"
         },
         {
-          "title": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？",
-          "summary": "华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。 Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个",
+          "title": "Alice开始走出wind终端",
+          "summary": "11月10日，万得为终端之外的个人用户，开出了一张新的价目表。 这一天，Alice Market上线个人订阅。用户可以购买套餐，在自己常用的AI里调用万得的数据和工具。研究从别人的界面开始，专业服务仍然向万得购买。 这个连接外部AI的平台，属于金融智能品牌Alice。10月，这个从万得终端中成长起来的智能金融助理，刚刚以独立品牌、官网和新的业务分工走到台前。 一张订阅账单背后，是万得过去半年不断加",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785784",
-          "published": "Thu, 12 Nov 2026 03:35:19 GMT"
+          "link": "https://wallstreetcn.com/articles/3785813",
+          "published": "Thu, 12 Nov 2026 10:13:56 GMT"
         },
         {
-          "title": "净多头处于两年极低水平，白银逼空行情或已悄然启动",
-          "summary": "过去这个秋天，做空白银的交易者大赚特赚。 从10月初到美国中期选举前，白银价格一路下泄，一度短暂跌破50美元/盎司。The Market Ear将这段行情称之为 \"白银血洗：从FOMO到彻底恐慌\" 。这个价位，较1月29日创下的历史高点121.67美元，累计跌幅超过55%。 然后，中期选举结果改变了走向。11月3日至9日，白银价格反弹约6%。 高盛大宗商品策略师Robert Quinn在最新报告中",
+          "title": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹",
+          "summary": "英伟达的管理层危机把风险从一家公司扩散到整条人工智能供应链，投资者不得不重新为今年最拥挤的交易定价。 周四美股盘前，英伟达跌约7%，黄仁勋被曝光第二件婚外情，董事会正筹划将其解职。 CoreWeave跌约7%，报道称该公司准备出售投资级贷款来募集至少40亿美元。 存储芯片股普跌，SK海力士跌约4%，闪迪跌约4%。光通信股普跌，Coherent跌约4%，Lumentum跌约4%。 避险情绪随即外溢。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785786",
-          "published": "Thu, 12 Nov 2026 03:20:44 GMT"
+          "link": "https://wallstreetcn.com/articles/3785806",
+          "published": "Thu, 12 Nov 2026 09:01:42 GMT"
         },
         {
-          "title": "AI存储进入下半场，华为为什么押注磁电存储？",
-          "summary": "AI存储的竞争，正在从谁能更快地把数据送进GPU，延伸到谁能以更低成本保存不断膨胀的数据资产。华为MED试图把磁带的低成本、低能耗与在线存储的便利性结合起来。它能否成功仍待客户验证，但其背后折射出的温冷数据经济学，值得重新审视。 一、发生了什么？——AI存储的另一场竞赛，正在温冷数据中展开 1. AI存储不只有HBM，数据还需要一个长期的“家”： 过去两年，AI产业谈存储，最常出现的是HBM、DR",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785703",
-          "published": "Thu, 12 Nov 2026 02:49:20 GMT"
-        },
-        {
-          "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
-          "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指、科创50大涨超2%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头，寒武纪涨超9%。贵金属、物理AI、人形",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785781",
-          "published": "Thu, 12 Nov 2026 02:09:53 GMT"
-        },
-        {
-          "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
-          "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告： AI内存及数据中心需求在短期内可能出现波动， 市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝， 表示希望与三星共同开发下一代AI终",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785777",
-          "published": "Thu, 12 Nov 2026 01:59:57 GMT"
-        },
-        {
-          "title": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
-          "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话： 前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大基建，到底像不像？ Volpi是极少数",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785780",
-          "published": "Thu, 12 Nov 2026 01:57:19 GMT"
-        },
-        {
-          "title": "Anthropic上市 就是本轮AI行情的顶！？",
-          "summary": "每一轮大行情走到尽头的时候，从来没有人跳出来喊一声“到顶了，赶紧跑”。原因很简单：顶部是事后才知道的。身在其中的时候，每个人都觉得还能再涨。 但如果回头看，有一种信号反复出现过：当一个时代最热的赛道里，跑出了一笔巨大的上市，行情往往就快到头了。 问题是，这个信号听起来一点也不像警报——它听起来像庆典。 2000年3月Palm上市，发行价38美元盘中冲到165美元，所有人都在鼓掌。纳斯达克又涨了八天",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785771",
-          "published": "Thu, 12 Nov 2026 00:48:20 GMT"
-        },
-        {
-          "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
-          "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。 市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785774",
-          "published": "Thu, 12 Nov 2026 00:43:39 GMT"
-        },
-        {
-          "title": "Anthropic的300页招股书，仍未能证明AI是一门好生意",
-          "summary": "Anthropic已经赚到钱。第三季度收入达到170亿美元，调整后营业利润约25亿美元，企业客户持续扩张。大模型商业化早已越过“有没有人付费”的阶段。 但Anthropic的IPO也把另一个问题摆到了市场面前：一家模型公司收入增长越快，可能就越需要提前锁定算力、机房和芯片；它今天训练出的领先模型，几个月后又可能遭遇追赶和降价。产品端越像软件，资本端却越来越像基础设施。 这构成了Anthropic商",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785708",
-          "published": "Thu, 12 Nov 2026 00:33:39 GMT"
-        },
-        {
-          "title": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击",
-          "summary": "美国中期选举落幕，两党对抗随即进入新阶段。民主党赢得国会控制权后，迅速将矛头指向特朗普政府，誓言展开大规模腐败调查；白宫则率先出手，警告民主党议员其调查行为\"可能涉嫌犯罪\"，华盛顿政治对决骤然升温。 据 新华社 报道，白宫法律顾问Will Scharf于11月9日致信众议院监督委员会主席、民主党人Robert Garcia，指责民主党人意图利用国会调查程序恐吓和骚扰政府官员，并警告称若相关调查旨在",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785775",
-          "published": "Thu, 12 Nov 2026 00:31:08 GMT"
-        },
-        {
-          "title": "芯片制造商“严阵以待”，反思产业链绑定太深，“英伟达事件”让韩国AI产业界揪心",
-          "summary": "“在英伟达启动黄仁勋调查之际，韩国芯片制造商‘严阵以待’准备应对冲击。”韩国《中央日报》10日报道称，英伟达首席执行官黄仁勋的个人婚外情事件给韩国半导体行业带来了“不确定性的涟漪”。英伟达领导层可能产生的变动或会对韩国芯片制造商和更广泛的人工智能（AI）产业生态产生深远影响。近年来，英伟达与韩企的合作已从内存芯片全面拓展至AI数据中心、机器人及自动驾驶等关键领域。尽管目前尚未出现项目停摆或供货中断",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785769",
-          "published": "Thu, 12 Nov 2026 00:00:32 GMT"
-        },
-        {
-          "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
-          "summary": "英伟达正面临一场可能重塑这家全球最高市值人工智能芯片制造商领导架构的严峻危机。因首席执行官黄仁勋卷入多起婚外情丑闻，公司董事会目前正积极寻找潜在的继任者，以应对可能出现的权力真空。 据彭博和《华尔街日报》报道， 英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。 此前，《纽约时报》最新披露了黄仁勋与一名直接下属存在不正",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785773",
-          "published": "Wed, 11 Nov 2026 23:59:17 GMT"
-        },
-        {
-          "title": "11月12日会员早报：Anthropic IPO获数倍超额认购 英伟达董事会据报准备罢免黄仁勋",
-          "summary": "1、【Anthropic IPO获数倍超额认购】据彭博社11月11日援引知情人士报道，Claude开发商Anthropic的IPO已获得数倍于发行股数的认购，需求主要来自基石投资者级别的大额认购意向。根据监管文件，按发行价区间上限计算，Anthropic及其联合创始人通过IPO和同步私募合计最多可募资904亿美元，这一数字低于部分投资者此前的预期。若顺利完成，其规模将超过SpaceX今年6月的IP",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785772",
-          "published": "Wed, 11 Nov 2026 23:48:45 GMT"
-        },
-        {
-          "title": "CoreWeave拟发行至少40亿美元投资级贷款，盘后下挫近6%",
-          "summary": "AI算力供应商CoreWeave正寻求通过投资级贷款再度大规模融资。 11月11日，据彭博社援引知情人士透露， 摩根士丹利与三菱日联金融集团（MUFG）正主导该笔至少40亿美元的潜在融资，计划分阶段向投资者进行银团推介，最快可能于下周启动，但方案尚未最终确定。 CoreWeave周二发布财报，将全年营收指引上调至130亿至133亿美元，高于此前预期区间，也超出华尔街平均预期的129亿美元。公司股价",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785770",
-          "published": "Wed, 11 Nov 2026 23:39:07 GMT"
-        },
-        {
-          "title": "英伟达盘后跌幅扩大至8%，该公司准备罢免CEO黄仁勋",
-          "summary": "英伟达盘后跌幅扩大至8%，该公司准备罢免CEO黄仁勋。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785765",
-          "published": "Wed, 11 Nov 2026 22:30:12 GMT"
-        },
-        {
-          "title": "尹艳林：全球经济“三高”问题短期内难根本性改善",
-          "summary": "主要经济体货币政策有望向常态化回归，但利率下调的空间和节奏均有较大不确定性；高债务不可能短期内解决，利息支出占用较大财政空间；部分不确定性可能阶段性缓解，但很难彻底消除 第十四届全国政协委员尹艳林11月12日在第十七届财新峰会大会讨论环节发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 对当前全球经济面临高利率、高债务、高不确定性的“三高”问题，第十四届全国",
+          "title": "图集｜【第十七届财新峰会】财新AI圆桌：人工智能下一程",
+          "summary": "11月12日，第十七届财新峰会在北京开幕，主题为“人工智能下一程”的圆桌会现场。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 2026年11月12日，第十七届财新峰会在北京开幕，主题为“人工智能下一程”的圆桌会举行。 主题讨论中国AI基建目前在全球处于何种水平？需要怎样的能源来支持大规模AI基础设施投入？电算协同情况如何？能源侧哪些因素仍在制约获得足够和快速的",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503934.html",
-          "published": "Thu, 12 Nov 2026 05:02:03 GMT"
+          "link": "https://photos.caixin.com/2026-11-12/102504207.html",
+          "published": "Thu, 12 Nov 2026 15:23:03 GMT"
         },
         {
-          "title": "云端之下的美国：AI雄心、地方利益与公众制约",
-          "summary": "华盛顿要维持美国的技术优势，企业要让已经投入的资本尽早产生收入，又有地方层面的公众参与制约，这些和不同地区间利益博弈相关的财政税收竞争，在AI+发展的现实生活中交织 当地时间2026年10月7日，美国弗吉尼亚州劳登县，一处数据中心。图：视觉中国 文｜贾康 孙善群 提要： 弗吉尼亚州劳登县预计，数据中心将贡献其2027财年一般基金收入的四成。机房噪声由附近住户承受，扩建电网的费用还可能摊到县外用户的",
+          "title": "广发证券郑峰：红利和科技是天然的互补组合",
+          "summary": "虽然今年下半年以来科技板块呈现反复的波动，但是需求端仍然是相对比较稳健的 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “当科技板块因为高拥挤度、估值出现回撤的时候，实际上红利能够提供非常有效的对冲的。”在11月12日的第十七届财新峰会上，广发证券财富管理部执行董事、金融产品研究引进部总经理郑峰作出如上表述。 郑峰表示，即便AI是中长期的趋势和主线，但是这个过程的波动是",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-12/102503930.html",
-          "published": "Thu, 12 Nov 2026 04:52:47 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504203.html",
+          "published": "Thu, 12 Nov 2026 15:10:40 GMT"
         },
         {
-          "title": "厚朴投资方风雷：全球经济韧性未达极限 三重风险压制世界经济",
-          "summary": "方风雷认为全球经济韧性未至极限，但高通胀高利息、政治和民粹主义切断供应链导致生产成本增加、全球性打压企业家，成为三大挑战 厚朴投资创始人暨董事长方风雷11月12日在第十七届财新峰会上发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我觉得还远远没到极限，就是几千年来的人类社会都是这一过程的重复。”厚朴投资创始人暨董事长方风雷11月12日在第十七届财新峰会上",
+          "title": "月之暗面徐天天：AI能力远未达到上限 还在加速进化",
+          "summary": "徐天天称，企业工作流以及制度的设计目前速度远远慢于模型迭代的速度 11月12日，第十七届财新峰会，月之暗面金融行业与生态负责人徐天天发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “AI的能力边界，或者说智能上限，还远远没有达到，甚至（AI）还在加速进化。”11月12日下午，月之暗面金融行业与生态负责人徐天天在 第十七届财新峰会 上表示。 徐天天称，AI能",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503927.html",
-          "published": "Thu, 12 Nov 2026 04:40:33 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504190.html",
+          "published": "Thu, 12 Nov 2026 14:48:39 GMT"
         },
         {
-          "title": "吉尔吉斯斯坦前总理：中国与中亚国家正转向新合作模式",
-          "summary": "奥托尔巴耶夫表示，在与中国的合作中，包括吉尔吉斯斯坦在内的中亚国家正从输出、出售原材料转向高科技型经济，双方正在转向以制造业为重点的新型合作模式 1月12日上午，吉尔吉斯斯坦前总理朱马尔特·奥托尔巴耶夫（Djoomart Otorbaev）在第十七届财新峰会上发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我对我们（指中国与中亚）未来的合作非常乐观，充满",
+          "title": "百度李彦宏：企业应围绕AI重新设计组织形态",
+          "summary": "百度正在发力AI智能体，拓展用户，因此强调AI对企业形态的改造 【财新网】 “AI的下一幕是‘智能组织’。”11月12日，在百度世界大会上，百度（NASDAQ：BIDU/09888.HK）创始人李彦宏称。 百度正在发力AI智能体，拓展用户，因此强调AI对企业形态的改造。李彦宏称，AI技术的下游是组织能力，企业需要一套不同于现在通行的、科层制的AI原生组织体系，李彦宏将其称作“智能组织”。 李彦宏解",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503923.html",
-          "published": "Thu, 12 Nov 2026 04:34:21 GMT"
+          "link": "https://www.caixin.com/2026-11-12/102504181.html",
+          "published": "Thu, 12 Nov 2026 14:20:35 GMT"
         },
         {
-          "title": "甘思德：美国中期选举后 “特朗普巅峰”已过",
-          "summary": "受制于民主党掌控的国会，特朗普政府外交、贸易政策的实质内容将出现变化 美国国际战略研究中心高级顾问、中国商务和经济董事项目主任甘思德（Scott Kennedy）11月12日在第17届财新峰会上发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 美国共和党在中期选举大败，将对美国总统特朗普的政策选择产生什么影响？是在外交和贸易政策上全面加码，还是被民主党掌控的",
+          "title": "TCL李东生谈AI：企业参与AI变革势在必行 但技术投入不必然转为商业价值",
+          "summary": "AI发展带来三大变化，包括产品、竞争、商业模式和组织，但另一边高达2.6万亿美元的投入并不必然转化为商业价值，诸多AI企业能否继续发展还有待观察 11月12日，第17届财新峰会，TCL集团董事长李东生发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “当前全球经济面临诸多挑战，产业格局加速调整，中国企业发展面临严峻考验。同时，以人工智能为代表的新一轮科技革命",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503914.html",
-          "published": "Thu, 12 Nov 2026 04:21:56 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504173.html",
+          "published": "Thu, 12 Nov 2026 13:55:21 GMT"
         },
         {
-          "title": "亚投行副行长陆书泽：多边合作对国际投资仍然奏效",
-          "summary": "国际机构和多边机构对于全球经济仍然保持乐观，亚洲基础设施投资银行、亚洲开发银行、世界银行等多边机构合作良好，多边合作仍是国际投资的主流 在11月12日在京举行的第十七届财新峰会上，亚洲基础设施投资银行（AIIB）战略政策副行长陆书泽（Ludger Schuknecht）在讨论环节发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在人工智能（AI）浪潮当中，各",
+          "title": "具身智能落地有瓶颈 如何发挥行业潜力？",
+          "summary": "按目前的数据存量和增长速度，具身数据要达到GPT所用数据的规模，可能还需要数百年 11月12日，第十七届财新峰会，机器人灵巧手公司灵心巧手联合创始人、副总裁左家平。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 机器人应用落地仍处于初步试验阶段，机器人何时才能真正走进现实场景？11月12日下午，在第 十七届财新峰会 上，机器人灵巧手公司灵心巧手联合创始人、副总裁",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503912.html",
-          "published": "Thu, 12 Nov 2026 04:12:31 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504171.html",
+          "published": "Thu, 12 Nov 2026 13:52:59 GMT"
         },
         {
-          "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
-          "summary": "中国为全球发展注入活力和稳定性；观察AI能不能可持续发展，不能只从技术维度看，还要看AI与产业的融合度，能不能带动产业，以及跟社会的协调性 2026年11月12日，屠光绍在第十七届财新峰会“战略稳定期下的发展合作新机遇”环节做出表述。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 美国中期选举刚刚结束，2027年将是欧洲选举大年，地缘政治和经济走向将如何变化？上",
+          "title": "新加坡公布Megaspeed调查始末：不起诉黄乐但禁止其入境",
+          "summary": "早在2025年2月，警方和海关就已对Megaspeed等企业展开独立调查，怀疑其在采购服务器过程中存在虚假申报等违法行为 【财新网】 因卷入美国芯片巨头英伟达（Nvidia）首席执行官黄仁勋的婚外情及间谍指控争议，香港居民黄乐（Alice Huang）近期受到高度关注。11月12日晚间，新加坡内政部发表声明称，黄乐此前因涉嫌在服务器（servers）采购过程中作出虚假申报而受到警方调查，但当局已于",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503905.html",
-          "published": "Thu, 12 Nov 2026 03:45:08 GMT"
+          "link": "https://companies.caixin.com/2026-11-12/102504166.html",
+          "published": "Thu, 12 Nov 2026 13:40:46 GMT"
         },
         {
-          "title": "图集｜印尼数千学生持续抗议 要求多项政治经济改革",
-          "summary": "当地时间2026年11月10日，印度尼西亚雅加达，学生在议会大楼外举行集会，要求因学历争议引咎辞职的印度尼西亚副总统吉伯兰·拉卡布明·拉卡下台，并彻查涉嫌窃听总统案。警方在现场阻拦抗议学生。图：Achmad Ibrahim/视觉中国 【财新网】 当地时间2026年11月10日，印尼英雄日当天，印尼学生群体和公民社会联盟举行针对总统普拉博沃和副总统吉布兰政府的示威活动，延续近期的多轮社会抗议。 据印",
+          "title": "北方华创夏威：可借助AI推动集成电路装备升级",
+          "summary": "AI融入装备制造领域，可将集成电路的研制周期从数月缩短至几分钟 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “这一轮AI浪潮与前几次技术周期最大的不同，是对集成电路各领域都提出了更高的要求，而不只集中在个别环节，”在11月12日举行的第十七届财新峰会上，北方华创科技集团股份有限公司副总裁夏威指出，当前市场对性能的要求，既给集成电路装备制造带来新的挑战，也带来新的机遇。",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://photos.caixin.com/2026-11-12/102503877.html",
-          "published": "Thu, 12 Nov 2026 03:15:16 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504161.html",
+          "published": "Thu, 12 Nov 2026 13:30:27 GMT"
         },
         {
-          "title": "中美独立董事的差异化治理",
-          "summary": "为什么中国的独立董事是少数派、学者型、低薪酬和高流动性，而美国的独立董事是董事会主体、企业家型、高薪且长任期？答案藏在两国资本市场更深层的治理结构差异里 在守住独立底线与中小股东保护初心的同时，适度拓宽人才来源、完善长效激励，让独立董事在继续履行好“看门人”职责的同时，也能更好地为企业长期稳健发展贡献智慧。图：视觉中国 独立董事制度进入中国已经20余年。从2001年证监会《关于在上市公司建立独立董",
+          "title": "清华梁屹天：高质量数据是AI时代企业营销核心竞争力",
+          "summary": "企业在AI时代能处理的数据信息急剧增加，用户的面部表情、眼神，甚至在网页上浏览的轨迹都能够被相对低成本地处理 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我们正处在高速变化的数字环境中，对企业而言，快速迭代及响应能力十分重要。”11月12日下午，在 第十七届财新峰会 现场，清华大学经济管理学院院长助理、市场营销系长聘副教授梁屹天表示，AI时代消费者获取信息的渠道进一",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-12/102503856.html",
-          "published": "Thu, 12 Nov 2026 03:01:21 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504142.html",
+          "published": "Thu, 12 Nov 2026 11:26:59 GMT"
         },
         {
-          "title": "新加坡前副总理王瑞杰：全球化下一阶段应使中国和世界共同繁荣",
-          "summary": "王瑞杰说：“全球化的可持续性不仅取决于经济效率，还取决于普通民众是否相信他们在其成功中能获益” 11月12日，王瑞杰在主题为“以发展应变局”的第17届财新峰会上，围绕“新全球化：竞争、合作、创造共享繁荣”发表主旨演讲，并与财新传媒社长胡舒立对谈。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我们需要一种新的全球分工，这种分工应基于互补优势、专业化、创新以及互",
+          "title": "外贸信托卫濛濛谈另类资产配置：从追求收益转向风险分散",
+          "summary": "过去另类资产配置的核心目标多是追求高收益吗，但股债市场波动加剧，未来配置决策需要更多关注波动、回撤、现金流的长期可持续性 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在股债市场波动加剧、传统资产相关性上升的背景下，另类资产在构建投资组合韧性方面发挥着越来越重要的作用。中化资本总经理、中国外贸信托董事长卫濛濛认为，另类资产的价值不应仅仅体现为较高收益，还应成为长期现金流",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503854.html",
-          "published": "Thu, 12 Nov 2026 02:46:31 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504120.html",
+          "published": "Thu, 12 Nov 2026 10:54:20 GMT"
         },
         {
-          "title": "【华尔街原声】Anthropic拟将两成IPO份额留给散户，市场需求受关注",
-          "summary": "约20%配售份额拟留给散户，研究机构预计交易活跃度可能超过SpaceX上市时的两倍",
+          "title": "小红书副总裁许磊：消费需求越来越细分 AI提升供需匹配效率",
+          "summary": "他认为，在当前供给相对过剩的环境下，依然有很多需求没被充分识别和满足，而“种草”就是需求信号被看到的过程 11月12日，第17届财新峰会“服务消费：增长新曲线”专题会议，小红书副总裁许磊发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 消费行业竞争激烈，消费者还在为什么而付费？11月12日下午，在 第17届财新峰会 “服务消费：增长新曲线”专题会议上，小红书",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-12/102503850.html",
-          "published": "Thu, 12 Nov 2026 02:35:13 GMT"
-        },
-        {
-          "title": "【市场动态】OpenAI和Anthropic估值松动 AI初创企业身价随之面临重估",
-          "summary": "公开市场的AI股已经连续数周遭到抛售，整个行业本就不安，现在更担心非上市公司是否即将迎来估值回调 OpenAI缩减融资规模，竞争对手Anthropic PBC又决定以低于预期的1.4万亿美元完全摊薄估值进行首次公开募股(IPO)，两件事在整个风投界引发震动。图：IC photo",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-12/102503846.html",
-          "published": "Thu, 12 Nov 2026 02:12:10 GMT"
-        },
-        {
-          "title": "美元信用退潮｜2027年美国经济和资产展望",
-          "summary": "2027年美债将在漫长熊市等待最后一轮流动性冲击——非美资金回流本国、撤离美国市场，这也是本轮美元潮汐，同样也是本轮美元信用周期的句号 在AI这一轮，美国是否能继续垄断产业链中的高利润环节，决定美元信用未来的走向。图：视觉中国 2022年以来美国经济和美国资产，基本上围绕三个核心矛盾展开：AI、财政和通胀。 与之对应，2027年观察美国经济和资产，紧跟三条主线——AI能否兑现回报、市场能够承受多高",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-12/102503844.html",
-          "published": "Thu, 12 Nov 2026 02:04:18 GMT"
-        },
-        {
-          "title": "【市场动态】俄乌第二日和谈不到两小时结束 美国特使将先后会见普京及泽连斯基",
-          "summary": "库什纳称，乌克兰和俄罗斯之间目前仍不存在互信；领土问题是谈判中最棘手的问题 当地时间2026年11月11日，阿联酋阿布扎比，美国斡旋的俄罗斯与乌克兰会谈期间，美国特使贾里德·库什纳（中）在新闻发布会上发表讲话。图：视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-12/102503840.html",
-          "published": "Thu, 12 Nov 2026 01:51:52 GMT"
-        },
-        {
-          "title": "财政部：“十五五”严查财务造假大案要案 推动清存量、遏增量",
-          "summary": "2026年至2028年开展财会监督三年行动，严厉打击虚构经济业务、虚增利润、粉饰报表等违法违规行为，以及中介机构伪造审计证据、串通舞弊、抄表式审计、出具虚假报告等问题 《规划》还提出，聚焦提升识别财务造假能力，加快修订与识别应对财务造假相关的审计准则，适时发布重点行业和业务领域审计实务指引，加大实务指导力度，规范和指导注册会计师更好地应对系统性造假、第三方配合造假等。图：IC photo 【财新网",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://economy.caixin.com/2026-11-12/102503834.html",
-          "published": "Thu, 12 Nov 2026 01:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "name": "心理学",
-      "summary": "",
-      "items": [
-        {
-          "title": "【纪录片】人生一串 第四季 02 心惊肉跳",
-          "summary": "夜色铺开之后，烧烤摊不止是满足口腹的去处，也是人类安放好奇、试探边界的地方。总有一类烤串，跳出寻常吃食的安全区，在大众认知里贴上暗黑、惊悚的标签。很多人远远望见便心生退意，也总有食客愿意坐下来，直面这份感官上的冲击。",
-          "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV16DWj61EoY",
-          "published": "Thu, 12 Nov 2026 03:00:02 GMT"
-        },
-        {
-          "title": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？",
-          "summary": "华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。 Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785784",
-          "published": "Thu, 12 Nov 2026 03:35:19 GMT"
-        },
-        {
-          "title": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
-          "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话： 前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大基建，到底像不像？ Volpi是极少数",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785780",
-          "published": "Thu, 12 Nov 2026 01:57:19 GMT"
-        },
-        {
-          "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
-          "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。 市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785774",
-          "published": "Thu, 12 Nov 2026 00:43:39 GMT"
-        },
-        {
-          "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
-          "summary": "英伟达正面临一场可能重塑这家全球最高市值人工智能芯片制造商领导架构的严峻危机。因首席执行官黄仁勋卷入多起婚外情丑闻，公司董事会目前正积极寻找潜在的继任者，以应对可能出现的权力真空。 据彭博和《华尔街日报》报道， 英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。 此前，《纽约时报》最新披露了黄仁勋与一名直接下属存在不正",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785773",
-          "published": "Wed, 11 Nov 2026 23:59:17 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504077.html",
+          "published": "Thu, 12 Nov 2026 10:00:38 GMT"
         }
       ]
     },
@@ -875,36 +551,36 @@
       "summary": "",
       "items": [
         {
+          "title": "独家视频丨习近平：继承孙中山先生的遗志 同心协力共襄中华民族伟大复兴盛举",
+          "summary": "[!--begin:htmlVideoCode--]9bf227e80f28448387ad570a1576450c,0,1,16:9,news[!--end:htmlVideoCode--] 纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。 习近平说：“以中国式现代化全面推进强国建设、民族复兴伟业，是中国共产党和中国人民",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTI26rehTVAPUoHehEYX1O3261112.shtml",
+          "published": "Thu, 12 Nov 2026 15:41:24 GMT"
+        },
+        {
+          "title": "习近平：对孙中山先生最好的纪念，就是学习、继承、发扬他的宝贵精神",
+          "summary": "纪念孙中山先生诞辰160周年大会12日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，海内外全体中华儿女要更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟大复兴盛举，不断把近代以来我国各族人民孜孜以求的伟大梦想变成美好现实。 总监制丨王涵 监制丨王元 主编丨王兴 潘梦莹 视觉丨蒋秋飞 编辑丨战星岑",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIdP1dyuO6gOD1Xw2zcc0A261112.shtml",
+          "published": "Thu, 12 Nov 2026 15:38:17 GMT"
+        },
+        {
           "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-          "summary": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话 李强赵乐际蔡奇丁薛祥李希出席　王沪宁主持 新华社北京11月12日电　纪念孙中山先生诞辰160周年大会12日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，海内外全体中华儿女要更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟大复兴盛举，不断把近代以来我国各族人民孜孜以求的伟大梦想",
+          "summary": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话 李强赵乐际蔡奇丁薛祥李希出席　王沪宁主持 [!--begin:htmlVideoCode--]ef9d4aa9d7004419b2793a129715cdb9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月12日，纪念孙中山先生诞辰160周年大会在北京人民大会堂隆重举行。中共中央总书记、国家",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIplejF6r4Dqeo6JWTsyKj261112.shtml",
-          "published": "Thu, 12 Nov 2026 04:15:53 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTI10vCAUl26hEHTx6L3lWg261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:28:40 GMT"
         },
         {
-          "title": "独家视频丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-          "summary": "[!--begin:htmlVideoCode--]82b5561a9c184b49948e785881959c8d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。",
+          "title": "泽连斯基：“星链”系统近期出现严重运行异常",
+          "summary": "△泽连斯基（资料图） 乌克兰总统泽连斯基12日表示，过去几天，乌军发现美国“星链”系统在乌克兰境内出现严重运行异常，系统受到每小时161公里（100英里）的速度限制，涉及整个前线。 泽连斯基表示，当天听取了乌克兰国防部长和乌军总司令的汇报。泽连斯基指出，乌军已核查相关情况，认为这并非偶发故障，而是系统性速度限制。这一情况大幅增加了乌军拦截俄罗斯喷气式无人机的难度。他同时表示，乌方目前正与美国方面沟",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIn5YEb1tRTAaFngYeDaTC261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:19:29 GMT"
-        },
-        {
-          "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-          "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。 摄影：谢环驰 岳月伟 编辑：侯俊 虞东升 郝昭 毕晓洋",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIsCVfzCStYCdhIqu49WQi261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:06:14 GMT"
-        },
-        {
-          "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-          "summary": "新华社快讯：纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIFN2ktTKxZST1dNS8lOoV261112.shtml",
-          "published": "Thu, 12 Nov 2026 02:14:59 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml",
+          "published": "Thu, 12 Nov 2026 10:52:35 GMT"
         }
       ]
     },
@@ -913,68 +589,496 @@
       "summary": "",
       "items": [
         {
-          "title": "国际人士热切期待APEC“深圳时间”",
-          "summary": "[!--begin:htmlVideoCode--]b73af48657e84bedbe96f4dde12d9a74,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是中国加入APEC的第35个年头，35年来，中国既是APEC合作的受益者，更是重要的推动者和贡献者。国际人士如何看待亚太合作共赢？对APEC“中国年”又有哪些期待？ 亚太合作，你",
+          "title": "“文明互鉴国际论坛二O二六”在澳门举办 以文化为桥 跨山海对话",
+          "summary": "“文明互鉴国际论坛2026”11月9日至10日在澳门举办。来自20多个国家和地区的政府部门代表、国际组织代表以及专家学者与会，展开近40场专题演讲、文明对话、校园分享等，展现了跨领域专家汇聚、高水平国际交流、高端文明对话的鲜明特色。 做当代文明对话的积极建设者 本次论坛以“文明互鉴与传承发展”为主题，延伸“跨越山海的文明对话”“中国与葡语国家的文明连接”“AI时代的文明之光”等分论坛。 “以澳门为",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIIBHf3RyJGtZDVXSSxYU6261112.shtml",
-          "published": "Thu, 12 Nov 2026 03:28:25 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIjgFIKvONQhDci8p8U2XP261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:19:13 GMT"
         },
         {
-          "title": "英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信",
-          "summary": "据英国方面11日消息，英国和爱尔兰超千所学校当天收到威胁邮件，警方评估后认定该威胁不可信。 △资料图 英国苏格兰警方11日发布公告说，当天早些时候，约有1000所苏格兰学校收到一封带有威胁性质的电子邮件。警方评估后认定该威胁不可信。同日，英国北爱尔兰警方称，有超过300所北爱尔兰学校收到的威胁邮件是虚假威胁。北爱尔兰教育部当天在社交媒体发文说，除非警方建议停课，否则各学校应当继续开放。 此外，爱尔",
+          "title": "青春华章・我们的新长征 | 百年校史，让思政课“活”起来",
+          "summary": "央视网消息 （记者 孙晓媛）：思政课是立德树人的关键课程。2026年是中国共产党成立105周年、红军长征胜利90周年，也是“十五五”开局之年。如何把思政教育“小课堂”和社会“大课堂”有效融合起来，引导青少年在历史现场读懂信仰、在精神谱系中校准坐标，是新时代思政课需要面对的重要课题。 11月11日，“青春华章・我们的新长征”大思政课网络主题宣传和互动引导活动媒体行走进天津市南开中学。 走进南开中学，",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml",
-          "published": "Thu, 12 Nov 2026 02:07:40 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIAuDqMyZkADCBZCa7pxgK261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:47:40 GMT"
         },
         {
-          "title": "让古老非遗在课堂重焕光彩——全球非遗教育的课程设计与实施路径",
-          "summary": "【世界教育之窗】 作者：王乐（辽宁师范大学美术学院讲师） 非物质文化遗产作为承载民族文化基因的活态载体，其与国民教育的深度融合，是守护文化根脉、培育文化自信、促进文明互鉴的关键路径。联合国教科文组织在《保护非物质文化遗产公约》中明确提出，要通过正规与非正规教育体系传承非遗，这一倡议已成为全球共识。世界各国基于自身文化传统与教育国情，探索出各具特色的课程设计理念与实施模式，为非遗的活态传承注入持久动",
+          "title": "流感季来临，请收好这份“预防指南”",
+          "summary": "[!--begin:htmlVideoCode--]10cde517b0964c87af918c933d1196ed,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月已经是流感季上升期，今天我们就来了解一下今年的流行毒株有哪些特征？应对流感我们可以做哪些预防措施？中国疾控中心最新监测显示，我国流感活动呈波动上升趋势，今年流行毒株呈现新特点：",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIHOuTRV9BLeExuuDOJTHZ261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:36:33 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTImBd4adi91VOUiSQxzpdV261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:30:12 GMT"
         },
         {
-          "title": "3元一顿 浙江丽水机关食堂把多备“余餐”留给了他们",
-          "summary": "新华社杭州11月11日电（记者吴帅帅）晚高峰的订单潮刚刚退去。在浙江省丽水市莲都区紫金街道东银苑社区的骑手之家，保温箱一打开，菜香在屋内散开来。外卖骑手况杰掏出手机，扫了扫桌上的公益专户二维码，付款3元，领到一份盒饭。 丽水市莲都区社区志愿者为外卖骑手发放爱心餐。新华社发 “两荤两素，在快餐店起码要二十块。跑单跑到这个点，很多店已经没什么菜了。”况杰打开餐盒笑着说，过去晚饭常常是一个饭团或一碗泡面",
+          "title": "冯忠华任广东省委副书记",
+          "summary": "据南方日报消息，近日，中央批准：冯忠华同志任广东省委副书记。 冯忠华（资料图） 公开简历显示，冯忠华，男，汉族，1970年5月生，大学学历，工程硕士学位，中共党员。 冯忠华曾任住建部科技与产业化发展中心（住宅产业化促进中心）主任（正司长级），城乡规划司司长，十三届全国人大常委会委员（专职）、全国人大农业与农村委员会委员等职，2019年6月任海南省副省长。 2022年4月，冯忠华任海南省委常委、组织",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIh0AaStN4YoJD4pq1xrIk261112.shtml",
-          "published": "Wed, 11 Nov 2026 23:04:17 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIoZVnDIWhFXFkkjIiEjFB261112.shtml",
+          "published": "Thu, 12 Nov 2026 10:14:06 GMT"
         },
         {
-          "title": "美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉",
-          "summary": "据爱尔兰警方通报，美国前总统拜登10日在爱尔兰首都都柏林出席一场活动时，遭部分支持巴勒斯坦的抗议者扔掷牛奶盒等物品。 警方逮捕3名男子，其中一人已被起诉 。 警方表示，被起诉男子50多岁，另外两名被捕男子已获释，未受到指控。警方尚未公布具体罪名。 △安保人员撑伞进行防护 拜登当天到访都柏林圣三一大学。当拜登及其家人离开会场时，部分抗议者高呼“你手上沾着血”等口号，并向其扔掷牛奶盒等物品。现场有牛奶",
+          "title": "五中全会精神在基层丨特写：“小饭碗”装着“大民生”",
+          "summary": "“菜来啦！”早上6点，随着配送车到达学校，嘉兴经开实验教育集团小学校区迎来了忙碌时刻。值班老师和食堂工作人员一起卸下食材，一一拿到智能秤上拍照、验收，相关照片和数据实时上传。 这是记者近日在浙江省嘉兴市采访“校园餐”整治成效时看到的一幕。校园食品安全直接关系学生健康成长，是群众关心关注的焦点问题。党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，提出“常态化整",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:42:58 GMT"
+          "link": "https://news.cctv.com/2026/11/12/ARTIoGclzzBB5PxibFoa8ApY261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:54:31 GMT"
         },
         {
-          "title": "新闻1+1｜基金会，如何赢得更多公信力？",
-          "summary": "[!--begin:htmlVideoCode--]9c69605a40dc4115835285ff4c0ee92a,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月10日，新修订的《基金会管理条例》发布，这是该条例实施22年来的首次全面修订。如何加强基金会的公信力建设？除了完善内部治理，又细化了哪些外部监管与法律责任？制度规范之下，如何促",
+          "title": "Alice开始走出wind终端",
+          "summary": "11月10日，万得为终端之外的个人用户，开出了一张新的价目表。 这一天，Alice Market上线个人订阅。用户可以购买套餐，在自己常用的AI里调用万得的数据和工具。研究从别人的界面开始，专业服务仍然向万得购买。 这个连接外部AI的平台，属于金融智能品牌Alice。10月，这个从万得终端中成长起来的智能金融助理，刚刚以独立品牌、官网和新的业务分工走到台前。 一张订阅账单背后，是万得过去半年不断加",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIdALtt3EaGdp0yEUvHGTF261112.shtml",
-          "published": "Wed, 11 Nov 2026 22:26:05 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785813",
+          "published": "Thu, 12 Nov 2026 10:13:56 GMT"
         },
         {
-          "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
-          "summary": "中国为全球发展注入活力和稳定性；观察AI能不能可持续发展，不能只从技术维度看，还要看AI与产业的融合度，能不能带动产业，以及跟社会的协调性 2026年11月12日，屠光绍在第十七届财新峰会“战略稳定期下的发展合作新机遇”环节做出表述。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 美国中期选举刚刚结束，2027年将是欧洲选举大年，地缘政治和经济走向将如何变化？上",
+          "title": "清华梁屹天：高质量数据是AI时代企业营销核心竞争力",
+          "summary": "企业在AI时代能处理的数据信息急剧增加，用户的面部表情、眼神，甚至在网页上浏览的轨迹都能够被相对低成本地处理 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我们正处在高速变化的数字环境中，对企业而言，快速迭代及响应能力十分重要。”11月12日下午，在 第十七届财新峰会 现场，清华大学经济管理学院院长助理、市场营销系长聘副教授梁屹天表示，AI时代消费者获取信息的渠道进一",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503905.html",
-          "published": "Thu, 12 Nov 2026 03:45:08 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504142.html",
+          "published": "Thu, 12 Nov 2026 11:26:59 GMT"
         },
         {
-          "title": "新加坡前副总理王瑞杰：全球化下一阶段应使中国和世界共同繁荣",
-          "summary": "王瑞杰说：“全球化的可持续性不仅取决于经济效率，还取决于普通民众是否相信他们在其成功中能获益” 11月12日，王瑞杰在主题为“以发展应变局”的第17届财新峰会上，围绕“新全球化：竞争、合作、创造共享繁荣”发表主旨演讲，并与财新传媒社长胡舒立对谈。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我们需要一种新的全球分工，这种分工应基于互补优势、专业化、创新以及互",
+          "title": "人事观察｜接替孟凡利 广州书记冯忠华任广东省委副书记",
+          "summary": "冯忠华曾在住建部工作23年，2019年由全国人大转至地方，历任海南、广东 资料图：冯忠华。 【财新网】 空缺超过一年后，新任广东省委专职副书记到位。11月12日，南方+客户端发布消息，近日，中央批准：广东省委常委、广州市委书记冯忠华任广东省委副书记。此前担任该职的 孟凡利 是二十届中央委员，2025年10月升任广东省长。 除了广州，深圳市委书记现由广东省委常委靳磊担任，佛山市委书记现由广东省委常委",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503854.html",
-          "published": "Thu, 12 Nov 2026 02:46:31 GMT"
+          "link": "https://china.caixin.com/2026-11-12/102504130.html",
+          "published": "Thu, 12 Nov 2026 10:59:59 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "上海气质 国际风范——在进博会感受有序与活力",
+          "summary": "“空前热闹！” 11月5日至10日在上海举行的第九届中国国际进口博览会上，很多参加者有这样的感受。展程还未过半时，多家参展商带来的展品就已被预订一空，初冬阴雨也并未减弱各方来宾的热情。 不论世界经济和国际形势如何变乱交织，九年来进博会稳健前行，安全、有序、活力、共赢……盛会常办常新，九年九进，何以可能？ 在热闹人气背后，有一种似乎看不见，却让人实实在在感受得到的美好力量——中国的有序与活力。 大道",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTI3yKDv6EewW4pI8onIxwT261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:19:06 GMT"
+        },
+        {
+          "title": "美政商界人士呼吁共同推动稳定健康的美中关系",
+          "summary": "美中关系全国委员会成立60周年暨2026年度颁奖晚宴10日晚在纽约举办，中美政商界人士近400人出席。与会嘉宾表示，两国元首对新阶段两国关系发展的战略引领至关重要，呼吁扩大共识、管控分歧，共同推动发展稳定健康的美中关系。 美国财政部长贝森特在致辞中表示，美中两国元首在一年内频繁互访前所未有，建立了一种“基于相互尊重和两国人民根本利益的友谊”。当前，两国正就人工智能相关议题建立新的对话机制，旨在防范",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:18:58 GMT"
+        },
+        {
+          "title": "“不只盯着干，大家还一起商量着办”（贯彻五中全会精神一线见闻）",
+          "summary": "11月初，湖南衡阳县，阴雨初歇。罗小成又开始了新一天的“巡田”。 “高标准农田建设不容易，自己种的地得好好盯。”罗小成的胸前证件，显示着这名80后新农人的另一重身份：高标准农田建设监督员。 党的二十届五中全会《决定》提出，“善于依靠群众力量做好工作、化解矛盾”。 高标准农田建设涉及面广、资金投入量大、监管链条长，暗藏廉政风险。今年10月，衡阳县西渡镇黄林村启动高标准农田建设，总投资800多万元，是",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTI1DaFhZeTEaPzuep9C8GM261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:15:41 GMT"
+        },
+        {
+          "title": "国际锐评丨透过进博之窗，世界深切感知“中国机遇2.0”",
+          "summary": "“基于对中国市场和进博会平台的坚定信心，我们签约了第十届进博会”“明年还会再来”“在华深耕是公司长期的承诺”……10日，第九届中国国际进口博览会闭幕，蔡司、雀巢等多家外企高管向《国际锐评》评论员表达了对下届进博会的期待。截至当天，已有143家企业及机构签约参展第十届进博会。“十五五”时期，拥抱“中国机遇2.0”、共享进博开放红利，成为众多外企的共识。 数据显示，本届进博会取得了丰硕成果：按一年计意",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIQkr64bLvZyEFPu2wEspV261112.shtml",
+          "published": "Thu, 12 Nov 2026 12:15:29 GMT"
+        },
+        {
+          "title": "一饭店老板悄悄为连吃7碗米饭母女放钱？重庆梁平通报：视频系摆拍",
+          "summary": "央视网消息： 据“梁平发布”微信公众号消息，近期，“一饭店老板悄悄为连吃7碗米饭母女放钱”视频引发关注。重庆市梁平区高度重视，组织网信、公安、民政、市场监管等部门成立联合调查组开展核查。 经查，李某（女，57岁，餐馆运营人）为博取关注、吸引流量，编造虚假情节、组织人员摆拍、制作视频发布。相关内容误导公众认知，造成不良影响，扰乱正常网络公共秩序。目前，相关部门已对其立案调查，对涉嫌违法行为将依法进行",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTILfoghEC0vKicMP59WSCQ261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:47:05 GMT"
+        },
+        {
+          "title": "数说APEC | 亚太“味道”丰富中国餐桌 APEC元素渗透进百姓生活烟火",
+          "summary": "[!--begin:htmlVideoCode--]a5e114586b3a4943b8c2b86bb5d1e9e6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： APEC其实和我们的日常生活息息相关，贸易畅通带来的实惠早已渗透进寻常百姓的餐桌烟火。接下来，我们从一杯9.9元的咖啡说起，看看中国人餐桌上的“APEC含量”。 一杯9.9元的平价咖",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIKVit72IuT9nyQDKcqvuk261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:08:08 GMT"
+        },
+        {
+          "title": "大江奔涌 十载蝶变丨你“笑”起来真好看",
+          "summary": "[!--begin:htmlVideoCode--]d3ec40fcb0e24e9494a14a47cac1f290,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 长江江豚是国家一级重点保护野生动物，也被称为“微笑天使”，是长江生态系统的指示性物种。 曾几何时，长江承载了过重的发展负荷——过度捕捞让“江豚吹浪立，沙鸟得鱼闲”的景象渐少，无序开发令“山随平野尽",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIktu5tAGresAxVhkguoUO261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:55:39 GMT"
+        },
+        {
+          "title": "投资结构持续向新向优——中国经济三季报亮点解析",
+          "summary": "在政策引导和市场需求的双重驱动下，前三季度，我国新质生产力加快培育壮大，现代化产业体系建设加速推进，技术进步、产业升级等领域投资保持良好增长态势，投资结构持续优化，投资在强基础、促转型、惠民生等方面的重要作用继续有效发挥。 稳投资积极因素增多 前三季度，全国固定资产投资（不含农户）334115亿元，同比下降7.2%，与1月至8月持平。“尽管投资增速在下降，但是投资对优化供给、推动创新的支撑作用在不",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIFwBFbUYmjhx1QRFXzgZP261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:55:22 GMT"
+        },
+        {
+          "title": "从“一米柜台”到商贸枢纽 华强北见证电子产业成长",
+          "summary": "这两天，深圳网友都在刷“偶遇康辉”的帖子，大家都好奇康辉去华强北到底干了啥？答案揭晓——康老师体验当创客，挑战亲手搓一款小产品！ 华强北是很多人到深圳的必打卡地。今年特别火的“China Haul”，不少外国游客带着空的旅行箱来华强北淘货。机器人、AI眼镜、AI手表等科技潮品成为“必购清单”。 从“中国电子第一街”到“新质生产力策源第一街”，跟随记者一起去探访华强北里的“一米柜台”如何华丽变身？ ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIECd2mPeHqRnSxlkLXxdO261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:55:14 GMT"
+        },
+        {
+          "title": "脱贫后，看一个西部县“造血式”振兴——贵州省丹寨县推进乡村全面振兴观察",
+          "summary": "青翠茶园依山铺展，自山顶延伸至山脚；银饰铺里锤声叮当，蜡染坊中松脂幽香，传统手工工坊里一派繁忙；游客的欢笑声伴着潺潺水声，在山村中回荡……深藏苗岭腹地，贵州省黔东南苗族侗族自治州丹寨县，蓬勃活力奔涌。 丹寨县曾是国家扶贫开发工作重点县，由审计署定点帮扶。2019年4月，整县脱贫摘帽。脱贫摘帽不是终点，而是新生活、新奋斗的起点。7年多来，丹寨县立足自身特色资源禀赋，探索走出一条乡村全面振兴的发展之路",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIVxR67kgRQRaBpfJGBIAr261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:54:58 GMT"
+        },
+        {
+          "title": "APEC驶向何方？一起读懂这份亚太合作蓝图",
+          "summary": "[!--begin:htmlVideoCode--]e2084ca369824199bb077f8b77aa81b3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年APEC“中国年”确立“开放、创新、合作”三大优先领域，为全年亚太合作锚定了务实方向。作为亚太区域最重要的经济合作框架，APEC的发展始终有着清晰的中长期路线图。从已收官的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIPDeNxVIvVoZYLh4kaA5n261112.shtml",
+          "published": "Thu, 12 Nov 2026 09:45:12 GMT"
+        },
+        {
+          "title": "涉巧克力广告宣扬错误婚恋观等 12起违法广告典型案例公布",
+          "summary": "2026年，长三角三省一市市场监管部门深入贯彻落实长三角一体化发展战略，积极统筹广告监管和产业发展工作，聚焦互联网广告生态治理、广告中提示性用语监管、户外广告导向问题专项治理等重点工作，持续加大广告监管执法力度，依法查处了一批虚假违法广告案件。今年以来，三省一市市场监管部门共查办各类广告违法案件10463件，罚没金额5770万元。现选取12起违法广告典型案例予以公布。 一、上海市普陀区市场监管局查",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTIvMSpoutcPY0qM4s5b30t261112.shtml",
+          "published": "Thu, 12 Nov 2026 08:48:50 GMT"
+        },
+        {
+          "title": "英伟达关于黄仁勋辞职及领导团队调整的声明全文",
+          "summary": "英伟达董事会今日宣布，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即时生效。\n英伟达现任执行副总裁兼首席财务官Colette Kress已同意担任临时首席执行官。在正式继任者被任命之前，Kress在履行临时首席执行官之职的同时将继续兼任执行副总裁和首席财务官。董事会正启动正式首席执行官的遴选，并将考虑公司内外的候选人。\n董事会同时任命Harvey C. Jones为有史以来首任董事会主席。\n黄仁",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785832",
+          "published": "Thu, 12 Nov 2026 15:12:09 GMT"
+        },
+        {
+          "title": "美国10月成屋销售总数年化下降至375万，创2010年以来新低。西部地区创1999年有数据记录以来新低，南部、中西部创最近逾10年最低",
+          "summary": "美国10月成屋销售总数年化下降至375万，创2010年以来新低。西部地区创1999年有数据记录以来新低，南部、中西部创最近逾10年最低。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785831",
+          "published": "Thu, 12 Nov 2026 15:02:13 GMT"
+        },
+        {
+          "title": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元",
+          "summary": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785830",
+          "published": "Thu, 12 Nov 2026 14:52:42 GMT"
+        },
+        {
+          "title": "英伟达首席执行官黄仁勋辞职",
+          "summary": "英伟达首席执行官黄仁勋辞职，英伟达任命首席财务官Colette Kress为临时首席执行官。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785829",
+          "published": "Thu, 12 Nov 2026 13:49:39 GMT"
+        },
+        {
+          "title": "美联储哈马克：通胀正朝着错误的方向发展，需要转向限制性政策立场",
+          "summary": "美联储官员再度发出鹰派信号。美联储官员哈马克警告称，通胀正朝着错误的方向发展，并点名人工智能基础设施建设是当前真实价格压力的来源之一，呼吁货币政策转向更具限制性的立场。 哈马克的表态为近期美联储官员的整体鹰派基调再添注脚。在通胀方向出现偏差、新兴价格压力来源被点名的背景下，市场对美联储年内加息的预期空间或将进一步放大。 更新中....... 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785828",
+          "published": "Thu, 12 Nov 2026 13:45:29 GMT"
+        },
+        {
+          "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
+          "summary": "AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。 Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。 然而，公司将年化经常性收入（ARR）目标从此前承诺的\"2026",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785826",
+          "published": "Thu, 12 Nov 2026 13:32:11 GMT"
+        },
+        {
+          "title": "特朗普称美国不需要与伊朗达成协议",
+          "summary": "据央视新闻，当地时间11月12日，美国总统特朗普表示，美国不需要与伊朗达成协议。 特朗普称，那样的日子早已过去。他声称，美国已经掌握了伊朗数千亿美元的资金以及霍尔木兹海峡。 话音一落，原油直线拉升，布油转涨，截至发稿，日内涨幅接近1%。 特朗普表示，副总统JD·万斯应把重点放在国内事务上，尤其是调查美国各地由民主党掌管的城市和州所涉腐败问题。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785827",
+          "published": "Thu, 12 Nov 2026 13:20:55 GMT"
+        },
+        {
+          "title": "伊朗强硬派高官：美军若再袭击，其欧洲基地也将成为打击目标",
+          "summary": "伊朗最高安全官员发出迄今最强硬的军事警告，将潜在打击目标范围扩大至欧洲境内的美军基地，令中东局势紧张态势进一步向外蔓延，并对全球能源市场构成新的不确定性压力。 据央视新闻12日报道，伊朗最高国家安全委员会秘书雷扎伊（Mohsen Rezaei）在11月11日播出的采访中表示，如果美国再次对伊朗发动军事打击，伊朗将把打击范围扩大至欧洲境内的美军基地。他明确警告： \"如果美国军机从欧洲国家的美军基地起",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785824",
+          "published": "Thu, 12 Nov 2026 12:56:02 GMT"
+        },
+        {
+          "title": "百度想重构大模型调度的入口",
+          "summary": "11月12日的百度世界大会上，李彦宏谈起了大模型市场里的一门常见的生意——中转站的商业痛点。 “这些中转站它们把各种模型提供方聚合起来，提供给开发者来调用，但它们并不对模型的效果、服务的稳定性、响应速度等负责，甚至有时候这个模型的真实性都无从考证，它如果说用一个flash来代替，或者它生成一个Pro版本基本上也不会在中转站遇到什么阻力。” 模型厂商和第三方推理服务商越来越多，同一款模型往往有多个供",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785825",
+          "published": "Thu, 12 Nov 2026 12:46:12 GMT"
+        },
+        {
+          "title": "失去黄仁勋，英伟达会怎样？",
+          "summary": "这几天科技圈、资本市场都在吃黄仁勋的瓜，细节不给大家复述了。 忽略掉最终结果，我们可以探索一个问题：假如黄仁勋从CEO的位置上被下架，英伟达会怎么样，这应该也是外界更关心的一个议题。 事实上，出轨花边这种事看都不要看，核心就两个问题：是否涉及违规（美国出口管制）、是否违反公司治理的规则。 关于出口管制的问题我们不去讨论了。关于公司治理规则，CEO跟直属下属有关系，在美国公司是明确违反行为准则的事项",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785823",
+          "published": "Thu, 12 Nov 2026 12:40:27 GMT"
+        },
+        {
+          "title": "长鑫科技副总裁骆晓东：算力超级周期迈入“分层时代”，存储竞争转向全场景布局",
+          "summary": "11月12日，第二十三届中国国际半导体博览会（IC China 2026）开幕。长鑫科技副总裁骆晓东在大会演讲中表示，受全球算力需求激增推动，算力超级周期正在进入一个全新的“分层时代”。不同细分市场的增长节奏、不同AI应用对内存的需求正在出现明显分化，存储产业竞争也由单一性能指标比拼，转向全场景产品布局能力的竞争。 骆晓东指出，这种分层首先体现在市场需求上。目前，服务器市场需求占比已超过50%，需",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785821",
+          "published": "Thu, 12 Nov 2026 12:13:44 GMT"
+        },
+        {
+          "title": "Nebius第三季度营收9.808亿美元，预期为9.185亿美元。 第三季度调整后EBITDA为4.658亿美元，预期为3.574亿美元。 第三季度调整后净利润为9,090万美元，预期为亏...",
+          "summary": "Nebius第三季度营收9.808亿美元，预期为9.185亿美元。 第三季度调整后EBITDA为4.658亿美元，预期为3.574亿美元。 第三季度调整后净利润为9,090万美元，预期为亏损2.714亿美元。 Nebius预计2026年营收将处于30亿至34亿美元区间的低端。 Nebius预计2027年资本开支为400亿至450亿美元。 Nebius美股盘前涨近5%。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3199120",
+          "published": "Thu, 12 Nov 2026 12:12:39 GMT"
+        },
+        {
+          "title": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？",
+          "summary": "橡树资本联合创始人霍华德·马克斯（Howard Marks）在最新备忘录中，以一个\"外行\"的视角系统梳理了围绕人工智能投资的核心问题。他的结论并不乐观： AI投资涉及的关键变量数量异常庞大，预测难度远超以往任何一次技术革命，而真正能从中获利的究竟是谁，目前在很大程度上仍是一个信仰问题。 马克斯在备忘录中援引Anthropic旗下AI模型Claude的评估指出， AI整体的可预测性评分仅为3分（满分",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785818",
+          "published": "Thu, 12 Nov 2026 11:52:58 GMT"
+        },
+        {
+          "title": "中国三季度货政报告关注全球风险，中国AI硬件处于尾声加速上涨初期，华发事件冲击债市与信用分化---1112宏观脱水",
+          "summary": "央行三季度货政报告对全球经济表述转向关注风险，关注重点由人工智能转向金融市场风险与财政可持续性。结构性工具新增六张网建设支持，货币政策总体延续但面临不可能三角约束，汇率表述基本未变。 当前国内市场正处于成长10月26日起华发事件发酵，相关债券显著下跌并波及国企债与地产债，10月30日个体信用事件有向债市赎回冲击演变迹象。本轮赎回风波修复速度快于以往，但市场对信用风险担忧并未完全消除，后续信用利差或",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785820",
+          "published": "Thu, 12 Nov 2026 11:47:57 GMT"
+        },
+        {
+          "title": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值",
+          "summary": "11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。李强强调，要突出重点、加强协同，持续优化完善社会保障制度。加快补齐社会保障体系短板，扩大企业年金覆盖面，提高个人养老金制度吸引力，支持商业健康保险发展壮大，稳妥有序推进长期护理保险制度建设。完善灵活就业人员社会保障制度，逐步提高参保率，加强新就业形态人员权益保障。推动社会保障制度更加公平，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785819",
+          "published": "Thu, 12 Nov 2026 11:42:03 GMT"
+        },
+        {
+          "title": "伯恩斯坦：为什么现在绝对不能抄底英伟达？",
+          "summary": "华尔街顶级券商伯恩斯坦（Bernstein）将英伟达股票评级从\"跑赢大市\"下调至\"与大市同步\"，目标价从400美元腰斩至200美元。触发此次下调的，不是基本面恶化，而是一场席卷公司最高层、仍在持续发酵的管理层丑闻。 目前，关于英伟达CEO黄仁勋的丑闻不断蔓延，公司董事会已宣布启动独立调查，《华尔街日报》更进一步报道称，公司正准备将其解职。伯恩斯坦分析师Stacy A. Rasgon在报告中直言： ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785817",
+          "published": "Thu, 12 Nov 2026 11:27:48 GMT"
+        },
+        {
+          "title": "通胀就业双重暴击！12月到底加25还是50bp？",
+          "summary": "11月10日，美国劳工统计局（BLS）公布CPI数据显示，10月份美国整体CPI环比上涨0.4%（预期0.30%），核心CPI环比上涨0.30%（预期0.20%）。由于去年10月美国政府停摆导致同比数据缺失，但从环比趋势看，美国通胀并未出现市场此前期待的持续降温。 核心CPI三个月年化增速升至3.75%，创下两年多最大涨幅，六个月年化增速也达到2.69%，潜在价格压力仍然顽固。10月核心PCE环比",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785727",
+          "published": "Thu, 12 Nov 2026 11:24:19 GMT"
+        },
+        {
+          "title": "山姆399元羽绒服的采购账",
+          "summary": "11月11日，一款售价399.9元、充绒量300克的羽绒服，让山姆再次登上微博热搜。 这款羽绒服来自ROKKA&ROLLA，男款售价399.9元，女款售价499.9元。武汉一家山姆门店的工作人员称，商品早在10月就已上架，近期女款全部售完，男款也只剩部分尺码。 山姆卖断货的羽绒服，去年冬天就火过一次。 2025年，同系列一款充绒量400克、售价499.9元的女款羽绒服，也曾在多地出现断货。今年39",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785815",
+          "published": "Thu, 12 Nov 2026 11:11:25 GMT"
+        },
+        {
+          "title": "机器人泡沫在老股市场漏了气",
+          "summary": "具身智能最热的时候，投资人得抢着进下一轮。到了今年10月，部分老股东愿意按上一轮估值的六五折到八折找买家，接手的人仍然谨慎。同一个月，做绳驱机器人的星尘智能宣布融了10亿元，新一轮估值升到150亿元。6月，它刚宣布估值超过100亿元。 打折卖股和公司继续融资，可以同时发生。新投资人认购公司新增股份，出的是等下一代产品做出来的钱。老股东卖的是手里的股份，基金快到期就要考虑怎么给出资人回款，没那么容易",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785814",
+          "published": "Thu, 12 Nov 2026 10:51:34 GMT"
+        },
+        {
+          "title": "Alice开始走出wind终端",
+          "summary": "11月10日，万得为终端之外的个人用户，开出了一张新的价目表。 这一天，Alice Market上线个人订阅。用户可以购买套餐，在自己常用的AI里调用万得的数据和工具。研究从别人的界面开始，专业服务仍然向万得购买。 这个连接外部AI的平台，属于金融智能品牌Alice。10月，这个从万得终端中成长起来的智能金融助理，刚刚以独立品牌、官网和新的业务分工走到台前。 一张订阅账单背后，是万得过去半年不断加",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785813",
+          "published": "Thu, 12 Nov 2026 10:13:56 GMT"
+        },
+        {
+          "title": "大众搁置沃尔夫斯堡压铸项目，燃油高尔夫迁产再起争议",
+          "summary": "大众在沃尔夫斯堡的工厂改造计划生变。 据大众职工委员会透露，沃尔夫斯堡主工厂的新压铸车间原定于11月中旬动工。 11月11日，大众向外确认，公司将不再按原计划实施“Gamechanger”制造方案。原拟建设的大型压铸中心随之搁置。大众发言人表示，集团正审查各项投资，下一代电动车平台SSP仍将继续开发。 大型压铸是这次工厂改造的重要组成部分。它把原本需要拼装的多个车身零件整合成较大的铸件，可以减少装",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785811",
+          "published": "Thu, 12 Nov 2026 10:10:45 GMT"
+        },
+        {
+          "title": "EnerSys数据中心业务两位数增长，UPS锂电方案获首单",
+          "summary": "数据中心需求正在带动EnerSys的基础设施业务增长。 北京时间11月12日凌晨，美国工业电池厂商EnerSys公布2027财年第二季度（2026年7月6日 – 2026年10月4日）业绩。截至10月4日，公司季度净销售额为9.499亿美元，同比下降0.1%，低于此前给出的9.55亿至9.95亿美元指引。公司将营收微降和未达指引归因于汇率折算。 三项业务的表现分化。网络与基础设施解决方案部门录得4",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785810",
+          "published": "Thu, 12 Nov 2026 10:09:35 GMT"
+        },
+        {
+          "title": "奔驰在中国碰了壁，康林松却要更靠中国",
+          "summary": "作者 | 周智宇 四年前，康林松在法国蔚蓝海岸为奔驰定下了一门生意经：把超过四分之三的投资投向核心豪华和高端豪华车型，靠卖更贵的车赚更多的钱。如今到了中国，他仍想守住奔驰的身价，只是得先想办法，把一辆奔驰造得便宜些。 当地时间11月11日，梅赛德斯-奔驰集团董事会主席康林松在柏林参加德国《汽车周刊》大会时表示，奔驰愿意接受一部分销量损失，以稳住成交价，让经销商有钱可赚。但在中国造车，奔驰的成本也得",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785809",
+          "published": "Thu, 12 Nov 2026 09:59:33 GMT"
+        },
+        {
+          "title": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹",
+          "summary": "英伟达的管理层危机把风险从一家公司扩散到整条人工智能供应链，投资者不得不重新为今年最拥挤的交易定价。 周四美股盘前，英伟达跌约7%，黄仁勋被曝光第二件婚外情，董事会正筹划将其解职。 CoreWeave跌约7%，报道称该公司准备出售投资级贷款来募集至少40亿美元。 存储芯片股普跌，SK海力士跌约4%，闪迪跌约4%。光通信股普跌，Coherent跌约4%，Lumentum跌约4%。 避险情绪随即外溢。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785806",
+          "published": "Thu, 12 Nov 2026 09:01:42 GMT"
+        },
+        {
+          "title": "图集｜【第十七届财新峰会】财新AI圆桌：人工智能下一程",
+          "summary": "11月12日，第十七届财新峰会在北京开幕，主题为“人工智能下一程”的圆桌会现场。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 2026年11月12日，第十七届财新峰会在北京开幕，主题为“人工智能下一程”的圆桌会举行。 主题讨论中国AI基建目前在全球处于何种水平？需要怎样的能源来支持大规模AI基础设施投入？电算协同情况如何？能源侧哪些因素仍在制约获得足够和快速的",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-11-12/102504207.html",
+          "published": "Thu, 12 Nov 2026 15:23:03 GMT"
+        },
+        {
+          "title": "广发证券郑峰：红利和科技是天然的互补组合",
+          "summary": "虽然今年下半年以来科技板块呈现反复的波动，但是需求端仍然是相对比较稳健的 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “当科技板块因为高拥挤度、估值出现回撤的时候，实际上红利能够提供非常有效的对冲的。”在11月12日的第十七届财新峰会上，广发证券财富管理部执行董事、金融产品研究引进部总经理郑峰作出如上表述。 郑峰表示，即便AI是中长期的趋势和主线，但是这个过程的波动是",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504203.html",
+          "published": "Thu, 12 Nov 2026 15:10:40 GMT"
+        },
+        {
+          "title": "徐林：打造更稳定可预期的新能源投资环境",
+          "summary": "目前新能源产能供给过剩、产品价格下跌，新能源项目投资回报受到估值周期影响，退出渠道有限 11月12日，第十七届财新峰会，中美绿色基金董事长徐林发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 政策层应关注新能源领域的产业生态，建立更稳定、可预期的新能源投资环境，鼓励更多社会资本，特别是民营资本在新能源领域进行投资。11月12日，中美绿色基金董事长徐林在第十七",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504198.html",
+          "published": "Thu, 12 Nov 2026 14:58:57 GMT"
+        },
+        {
+          "title": "百度李彦宏：企业应围绕AI重新设计组织形态",
+          "summary": "百度正在发力AI智能体，拓展用户，因此强调AI对企业形态的改造 【财新网】 “AI的下一幕是‘智能组织’。”11月12日，在百度世界大会上，百度（NASDAQ：BIDU/09888.HK）创始人李彦宏称。 百度正在发力AI智能体，拓展用户，因此强调AI对企业形态的改造。李彦宏称，AI技术的下游是组织能力，企业需要一套不同于现在通行的、科层制的AI原生组织体系，李彦宏将其称作“智能组织”。 李彦宏解",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-12/102504181.html",
+          "published": "Thu, 12 Nov 2026 14:20:35 GMT"
+        },
+        {
+          "title": "TCL李东生谈AI：企业参与AI变革势在必行 但技术投入不必然转为商业价值",
+          "summary": "AI发展带来三大变化，包括产品、竞争、商业模式和组织，但另一边高达2.6万亿美元的投入并不必然转化为商业价值，诸多AI企业能否继续发展还有待观察 11月12日，第17届财新峰会，TCL集团董事长李东生发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “当前全球经济面临诸多挑战，产业格局加速调整，中国企业发展面临严峻考验。同时，以人工智能为代表的新一轮科技革命",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504173.html",
+          "published": "Thu, 12 Nov 2026 13:55:21 GMT"
+        },
+        {
+          "title": "北方华创夏威：可借助AI推动集成电路装备升级",
+          "summary": "AI融入装备制造领域，可将集成电路的研制周期从数月缩短至几分钟 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “这一轮AI浪潮与前几次技术周期最大的不同，是对集成电路各领域都提出了更高的要求，而不只集中在个别环节，”在11月12日举行的第十七届财新峰会上，北方华创科技集团股份有限公司副总裁夏威指出，当前市场对性能的要求，既给集成电路装备制造带来新的挑战，也带来新的机遇。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504161.html",
+          "published": "Thu, 12 Nov 2026 13:30:27 GMT"
+        },
+        {
+          "title": "李俊峰：中国能源体系充分展现了供应韧性",
+          "summary": "今年以来，中东战事扰乱国际能源供应，新能源成为中国能源安全的重要支撑，电动汽车的快速发展也减少了中国交通领域对石油的依赖 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在国际能源市场面临地缘政治冲突、超强厄尔尼诺现象冲击之际，中国能源供应体系展现出自身的韧性。 11月12日，国家应对气候变化战略研究和国际合作中心首任主任李俊峰在第十七届财新峰会上表示，中国过去几十年持续",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504155.html",
+          "published": "Thu, 12 Nov 2026 12:08:40 GMT"
+        },
+        {
+          "title": "清华梁屹天：高质量数据是AI时代企业营销核心竞争力",
+          "summary": "企业在AI时代能处理的数据信息急剧增加，用户的面部表情、眼神，甚至在网页上浏览的轨迹都能够被相对低成本地处理 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “我们正处在高速变化的数字环境中，对企业而言，快速迭代及响应能力十分重要。”11月12日下午，在 第十七届财新峰会 现场，清华大学经济管理学院院长助理、市场营销系长聘副教授梁屹天表示，AI时代消费者获取信息的渠道进一",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504142.html",
+          "published": "Thu, 12 Nov 2026 11:26:59 GMT"
+        },
+        {
+          "title": "巴斯夫副总裁晏思：外企在华投资转向“在中国、面向世界”",
+          "summary": "外资企业在中国的本地化，能帮助企业从中国走向海外，并在海外为自身全球业务提供支持 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 近几年，外资企业在从“在中国、为中国”转向“在中国、面向世界”。全球化工巨头巴斯夫（BASF）副总裁、大中华区政府关系负责人晏思（Jens Hildebrandt）11月12日在第十七届财新峰会上表示。 他称，外资企业在中国的本地化，能帮助企业",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504136.html",
+          "published": "Thu, 12 Nov 2026 11:12:04 GMT"
+        },
+        {
+          "title": "监管释放市场韧性信号 加快形成“长钱长投”生态",
+          "summary": "社保、年金、保险等中长期资金入市规模和比例稳步提升，年初以来净买入A股超过6000亿元 【财新网】 在2026年上海证券交易所国际投资者大会上，中国证监会副主席表示，中国发展具有长期确定性，投资中国具备坚实基础；同时，资本市场具有发展韧性，产业创新价值加速激活。 根据上交所官微信文章《中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上的致辞》，刘浩凌强调中国发展具有长期确定性。当前国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-12/102504124.html",
+          "published": "Thu, 12 Nov 2026 10:55:38 GMT"
+        },
+        {
+          "title": "外贸信托卫濛濛谈另类资产配置：从追求收益转向风险分散",
+          "summary": "过去另类资产配置的核心目标多是追求高收益吗，但股债市场波动加剧，未来配置决策需要更多关注波动、回撤、现金流的长期可持续性 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在股债市场波动加剧、传统资产相关性上升的背景下，另类资产在构建投资组合韧性方面发挥着越来越重要的作用。中化资本总经理、中国外贸信托董事长卫濛濛认为，另类资产的价值不应仅仅体现为较高收益，还应成为长期现金流",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504120.html",
+          "published": "Thu, 12 Nov 2026 10:54:20 GMT"
+        },
+        {
+          "title": "香港证监会：香港代币化发展从试验阶段迈向商业应用",
+          "summary": "近期“Ensemble项目”再升级，实现了代币化存款的“7×24”全天候真实价值交易 香港证监会投资产品部执行董事吴家俐称，香港的代币化发展正从试验阶段迈向商业应用。图：香港证监会 【财新网】 香港证监会投资产品部执行董事吴家俐称，香港的代币化发展正从试验阶段迈向商业应用。 吴家俐是在2026年11月11日香港证监会与香港金管局联合举办的研讨会上作出上述表述。研讨会聚焦“Ensemble项目”，及",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-12/102504113.html",
+          "published": "Thu, 12 Nov 2026 10:38:40 GMT"
+        },
+        {
+          "title": "小红书副总裁许磊：消费需求越来越细分 AI提升供需匹配效率",
+          "summary": "他认为，在当前供给相对过剩的环境下，依然有很多需求没被充分识别和满足，而“种草”就是需求信号被看到的过程 11月12日，第17届财新峰会“服务消费：增长新曲线”专题会议，小红书副总裁许磊发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 消费行业竞争激烈，消费者还在为什么而付费？11月12日下午，在 第17届财新峰会 “服务消费：增长新曲线”专题会议上，小红书",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504077.html",
+          "published": "Thu, 12 Nov 2026 10:00:38 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "一饭店老板悄悄为连吃7碗米饭母女放钱？重庆梁平通报：视频系摆拍",
+          "summary": "央视网消息： 据“梁平发布”微信公众号消息，近期，“一饭店老板悄悄为连吃7碗米饭母女放钱”视频引发关注。重庆市梁平区高度重视，组织网信、公安、民政、市场监管等部门成立联合调查组开展核查。 经查，李某（女，57岁，餐馆运营人）为博取关注、吸引流量，编造虚假情节、组织人员摆拍、制作视频发布。相关内容误导公众认知，造成不良影响，扰乱正常网络公共秩序。目前，相关部门已对其立案调查，对涉嫌违法行为将依法进行",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/12/ARTILfoghEC0vKicMP59WSCQ261112.shtml",
+          "published": "Thu, 12 Nov 2026 11:47:05 GMT"
+        },
+        {
+          "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
+          "summary": "AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。 Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。 然而，公司将年化经常性收入（ARR）目标从此前承诺的\"2026",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785826",
+          "published": "Thu, 12 Nov 2026 13:32:11 GMT"
+        },
+        {
+          "title": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹",
+          "summary": "英伟达的管理层危机把风险从一家公司扩散到整条人工智能供应链，投资者不得不重新为今年最拥挤的交易定价。 周四美股盘前，英伟达跌约7%，黄仁勋被曝光第二件婚外情，董事会正筹划将其解职。 CoreWeave跌约7%，报道称该公司准备出售投资级贷款来募集至少40亿美元。 存储芯片股普跌，SK海力士跌约4%，闪迪跌约4%。光通信股普跌，Coherent跌约4%，Lumentum跌约4%。 避险情绪随即外溢。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785806",
+          "published": "Thu, 12 Nov 2026 09:01:42 GMT"
         }
       ]
     },
@@ -983,62 +1087,69 @@
       "summary": "",
       "items": [
         {
-          "title": "让古老非遗在课堂重焕光彩——全球非遗教育的课程设计与实施路径",
-          "summary": "【世界教育之窗】 作者：王乐（辽宁师范大学美术学院讲师） 非物质文化遗产作为承载民族文化基因的活态载体，其与国民教育的深度融合，是守护文化根脉、培育文化自信、促进文明互鉴的关键路径。联合国教科文组织在《保护非物质文化遗产公约》中明确提出，要通过正规与非正规教育体系传承非遗，这一倡议已成为全球共识。世界各国基于自身文化传统与教育国情，探索出各具特色的课程设计理念与实施模式，为非遗的活态传承注入持久动",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIHOuTRV9BLeExuuDOJTHZ261112.shtml",
-          "published": "Thu, 12 Nov 2026 00:36:33 GMT"
-        },
-        {
-          "title": "时政微观察丨从总书记引用的典故，感悟如何涵养党性",
-          "summary": "“种树者必培其根，种德者必养其心。”党性教育是共产党人修身养性的必修课。 党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，将“增强共产党人的党性”摆在持之以恒推进全面从严治党7项战略任务和重大举措的第一条，明确提出“增强党性是全面从严治党的根本性任务”。 围绕如何增强共产党人的党性，《决定》提出新举措——“挖掘用好中华优秀传统文化中讲忠信、尚气节、知廉耻、存戒",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/12/ARTIlrk0b9LntKzBq2D4YUV0261112.shtml",
-          "published": "Wed, 11 Nov 2026 23:35:59 GMT"
-        },
-        {
-          "title": "证监会：中国政府高度重视资本市场平稳健康发展，中国的发展具有长期确定性，投资中国具备坚实的基础",
-          "summary": "“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持续加大监管执法力度，切实维护投资者的合法权益。发言全文如下： 尊敬的贺青副市长、邱勇理事长， 各位来宾，各位朋友： 大家上午好！ 金秋时节，很高兴与大家共同参加",
+          "title": "马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust也拦不住AI制造复杂性",
+          "summary": "“真男人自己管理内存。” 11 月 10 日，面对网友“为什么用 C/C++ 重写，之前用的是 Rust 吗”的追问，Elon Musk 用这句话回应了 xAI 的技术选择。 四年前，他还公开表示自己是 Rust 的拥趸，认为 Discord 的实践证明了它的扩展能力。不过，他当时也保留了一个判断：在专用硬件上追求极致性能，精炼的 C 代码配合定制编译器，依然无可匹敌。 如今，随着他宣布弃用 JA",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785790",
-          "published": "Thu, 12 Nov 2026 05:16:39 GMT"
+          "link": "https://wallstreetcn.com/articles/3785822",
+          "published": "Thu, 12 Nov 2026 12:27:22 GMT"
         },
         {
-          "title": "腾讯管理层再谈AI：一半人要提效做好现有核心业务，另一半探索AI Native，“裁员50%”不实",
-          "summary": "从接近腾讯的知情人士处获悉，在腾讯28周年线上直播中，腾讯管理层表示要加快组织变革的决心，同时提到，这和几年前那次“降本增效”不一样。前一次相对被动，更偏“降本”，这一次是面向AI时代的主动出击，更偏“增效”，激发团队去创造新的价值，鼓励一线同事积极举手向前冲，中间的管理层则需要变得更扁平和灵敏。为了应对新的变革，内部需要主动思考新打法和新战场。 接近腾讯的知情人士表示：腾讯管理层称，50%的人要",
+          "title": "长鑫科技副总裁骆晓东：算力超级周期迈入“分层时代”，存储竞争转向全场景布局",
+          "summary": "11月12日，第二十三届中国国际半导体博览会（IC China 2026）开幕。长鑫科技副总裁骆晓东在大会演讲中表示，受全球算力需求激增推动，算力超级周期正在进入一个全新的“分层时代”。不同细分市场的增长节奏、不同AI应用对内存的需求正在出现明显分化，存储产业竞争也由单一性能指标比拼，转向全场景产品布局能力的竞争。 骆晓东指出，这种分层首先体现在市场需求上。目前，服务器市场需求占比已超过50%，需",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3198808",
-          "published": "Thu, 12 Nov 2026 04:15:23 GMT"
+          "link": "https://wallstreetcn.com/articles/3785821",
+          "published": "Thu, 12 Nov 2026 12:13:44 GMT"
         },
         {
-          "title": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家",
-          "summary": "英伟达市值从1万亿美元攀升至最高5.8万亿美元，随后跌回18个月低点。这一轮涨跌，让高盛策略师Bobby Molavi想起了180年前的英国铁路狂热。 Molavi在其最新一期\"沉思录\"（Ruminations）策略笔记中提出一个核心问题：如果这是一场泡沫，价值最终会落在谁手里？他的答案，借鉴了历史上多次资本支出狂潮的经验——\"很可能不是那些建造它的人。\" 泡沫和最终效用是两回事。技术创新可以是划",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785782",
-          "published": "Thu, 12 Nov 2026 03:45:59 GMT"
-        },
-        {
-          "title": "亚投行副行长陆书泽：多边合作对国际投资仍然奏效",
-          "summary": "国际机构和多边机构对于全球经济仍然保持乐观，亚洲基础设施投资银行、亚洲开发银行、世界银行等多边机构合作良好，多边合作仍是国际投资的主流 在11月12日在京举行的第十七届财新峰会上，亚洲基础设施投资银行（AIIB）战略政策副行长陆书泽（Ludger Schuknecht）在讨论环节发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在人工智能（AI）浪潮当中，各",
+          "title": "TCL李东生谈AI：企业参与AI变革势在必行 但技术投入不必然转为商业价值",
+          "summary": "AI发展带来三大变化，包括产品、竞争、商业模式和组织，但另一边高达2.6万亿美元的投入并不必然转化为商业价值，诸多AI企业能否继续发展还有待观察 11月12日，第17届财新峰会，TCL集团董事长李东生发言。图：财新 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 “当前全球经济面临诸多挑战，产业格局加速调整，中国企业发展面临严峻考验。同时，以人工智能为代表的新一轮科技革命",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://topics.caixin.com/2026-11-12/102503912.html",
-          "published": "Thu, 12 Nov 2026 04:12:31 GMT"
+          "link": "https://topics.caixin.com/2026-11-12/102504173.html",
+          "published": "Thu, 12 Nov 2026 13:55:21 GMT"
+        },
+        {
+          "title": "监管释放市场韧性信号 加快形成“长钱长投”生态",
+          "summary": "社保、年金、保险等中长期资金入市规模和比例稳步提升，年初以来净买入A股超过6000亿元 【财新网】 在2026年上海证券交易所国际投资者大会上，中国证监会副主席表示，中国发展具有长期确定性，投资中国具备坚实基础；同时，资本市场具有发展韧性，产业创新价值加速激活。 根据上交所官微信文章《中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上的致辞》，刘浩凌强调中国发展具有长期确定性。当前国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-12/102504124.html",
+          "published": "Thu, 12 Nov 2026 10:55:38 GMT"
+        },
+        {
+          "title": "外贸信托卫濛濛谈另类资产配置：从追求收益转向风险分散",
+          "summary": "过去另类资产配置的核心目标多是追求高收益吗，但股债市场波动加剧，未来配置决策需要更多关注波动、回撤、现金流的长期可持续性 [查看更多峰会报道，请访问本届财新峰会首页。 可点此打开 ] 【财新网】 在股债市场波动加剧、传统资产相关性上升的背景下，另类资产在构建投资组合韧性方面发挥着越来越重要的作用。中化资本总经理、中国外贸信托董事长卫濛濛认为，另类资产的价值不应仅仅体现为较高收益，还应成为长期现金流",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://topics.caixin.com/2026-11-12/102504120.html",
+          "published": "Thu, 12 Nov 2026 10:54:20 GMT"
+        },
+        {
+          "title": "香港证监会：香港代币化发展从试验阶段迈向商业应用",
+          "summary": "近期“Ensemble项目”再升级，实现了代币化存款的“7×24”全天候真实价值交易 香港证监会投资产品部执行董事吴家俐称，香港的代币化发展正从试验阶段迈向商业应用。图：香港证监会 【财新网】 香港证监会投资产品部执行董事吴家俐称，香港的代币化发展正从试验阶段迈向商业应用。 吴家俐是在2026年11月11日香港证监会与香港金管局联合举办的研讨会上作出上述表述。研讨会聚焦“Ensemble项目”，及",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-12/102504113.html",
+          "published": "Thu, 12 Nov 2026 10:38:40 GMT"
+        },
+        {
+          "title": "图集｜故宫太和门封闭修缮 被红色围挡包裹成独特景观",
+          "summary": "2026年11月10日，故宫博物院，游客在太和门前广场拍照打卡，远处的太和门正在修缮，被围挡严密地包裹起来。 【财新网】 近日，故宫太和门封闭修缮，仅门前的铜狮可供游客观看。施工过程中，太和门搭设脚手架并加装红色围挡，整座建筑成为故宫的独特景观。故宫博物院2026年7月31日发布公告：根据古建修缮工作计划，太和门自8月3日起封闭施工，重开时间视工程进度另行通知。 此次维修主要对太和门上下檐屋面及各",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-11-12/102504084.html",
+          "published": "Thu, 12 Nov 2026 10:28:02 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 123,
-    "total_collected": 82,
-    "sources": 8,
+    "total_items": 137,
+    "total_collected": 98,
+    "sources": 7,
     "source_list": [
-      "BBC中文",
       "B站科技热门",
       "Hacker News",
       "TechCrunch",
