@@ -1,0 +1,481 @@
+{
+  "id": "2026-11-15-15",
+  "datetime": "2026-11-15 15:26:22",
+  "date": "2026-11-15",
+  "time": "15:26",
+  "period": "下午",
+  "summary": "本期采集 36 篇文章，来自 5 个信息源，覆盖 7 个领域，精选 52 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "All AI-generated code should be Open Source",
+          "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "published": "Sun, 15 Nov 2026 14:46:58 +0000"
+        },
+        {
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 61 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "published": "Sun, 15 Nov 2026 12:14:06 +0000"
+        },
+        {
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our c",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+          "published": "2026-11-15T08:57:30-05:00"
+        },
+        {
+          "title": "三年之期已到，恭迎世一上归位！【第18集】",
+          "summary": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1uUsJ6BES6",
+          "published": "Sun, 15 Nov 2026 09:24:02 GMT"
+        },
+        {
+          "title": "汽车、芯片、算力……产业“森林”越种越密 昔日“经济洼地”蝶变跃升",
+          "summary": "[!--begin:htmlVideoCode--]89b83413fb34433994c6158d83c9d6be,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 作为APEC东道主城市，深圳有澎湃的科创活力，这种活力也不断辐射到周边城市。从深圳向东，深汕特别合作区正是一个值得细看的观察窗口。这里行政区划归属汕尾海丰，但开发建设、经济社会事务由",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIVYftNqta48Eqtm69Aagz261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:07:21 GMT"
+        },
+        {
+          "title": "带回“中国经验”寻求合作机遇 各经济体携手助推亚太合作迈上新台阶",
+          "summary": "[!--begin:htmlVideoCode--]9947d22227a0418e8899aa2861bd05cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 对于即将召开的2026年APEC工商领导人峰会，全球工商界参会嘉宾表示，期待峰会能够深化对话、推进合作、释放亚太区域增长新动能。 参会嘉宾表示，亚太区域内各经济体面临着不同的发展需求",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIQ65r7pmR96f2YAoXdigY261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:06:32 GMT"
+        },
+        {
+          "title": "【APEC面对面】相约深圳，解锁科技合作新看点 感知协同创新“加速度”",
+          "summary": "[!--begin:htmlVideoCode--]b9f903f3e12a4c63b7d4fa17954e4fe2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 从手机里的芯片到汽车里的智能应用，美国科技企业高通与中国伙伴的合作已走过三十多年。在人工智能和6G时代，双方还将碰撞出哪些新火花？相约深圳，科技合作有哪些新看点，协同创新如何跑出“加",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIruxhhqRALuKrs8ieqs4N261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:04:24 GMT"
+        },
+        {
+          "title": "最黑暗处最光明",
+          "summary": "【报 告导读 】 市场对美元紧缩预期上升，其前提是美国就业市场和经济增长持续处于高位。然而，从对美国经济增长和就业市场具有领先性的大型云厂商新增租赁承诺指标来看，在四季度时AI基建对美国就业与经济增长的拉动可能都会放缓。从过去一年的经验来看，强美元对于中国资产中非AI部分的压制明显，未来随着新兴经济体景气度的改善与美元压制的解除，中国资产中非AI领域将会出现更多的机会。 Summary 摘要 1 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785965",
+          "published": "Sun, 15 Nov 2026 11:11:06 GMT"
+        },
+        {
+          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
+          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785963",
+          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
+        },
+        {
+          "title": "周小川给资本市场支招：装个低通滤波器，让交易频率与基本面适配",
+          "summary": "据上海证券报报道，第十二届全国政协副主席、中国人民银行原行长、中国证监会原主席周小川11月14日在2026中国资本市场学术年会上表示，AI快速发展深刻改变资本市场人机分工，未来AI或将实现递推式自我改进（RSI），核心是设定好目标函数，锚定优化资源配置、管控风险（平衡股权与债券市场融资结构，强化股权资本损失吸收能力）、为投资者尤其是养老金提供合理回报三大目标，统筹协调政府、企业、居民等多方诉求，引",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785962",
+          "published": "Sun, 15 Nov 2026 07:55:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "All AI-generated code should be Open Source",
+          "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "published": "Sun, 15 Nov 2026 14:46:58 +0000"
+        },
+        {
+          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+          "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 17 # Comments: 7",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+          "published": "Sun, 15 Nov 2026 14:31:52 +0000"
+        },
+        {
+          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 41 # Comments: 7",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://prog21.dadgum.com/116.html",
+          "published": "Sun, 15 Nov 2026 13:44:16 +0000"
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 102 # Comments: 56",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "published": "Sun, 15 Nov 2026 13:15:22 +0000"
+        },
+        {
+          "title": "A NES emulator written in Odin",
+          "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 31 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://lucypero.com/lucynes.html",
+          "published": "Sun, 15 Nov 2026 12:51:47 +0000"
+        },
+        {
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 61 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "published": "Sun, 15 Nov 2026 12:14:06 +0000"
+        },
+        {
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+          "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 P",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+          "published": "Sun, 15 Nov 2026 11:40:51 +0000"
+        },
+        {
+          "title": "Why did some Apollo missions carry a grenade launcher?",
+          "summary": "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 122 # Comments: 75",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://space.stackexchange.com/questions/37775",
+          "published": "Sun, 15 Nov 2026 09:06:43 +0000"
+        },
+        {
+          "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展",
+          "summary": "[!--begin:htmlVideoCode--]b769da85400f4d3b9b27c98c0059d9af,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：亚太经合组织是亚太地区层级最高、领域最广、影响力最大的经济合作机制。作为亚太大家庭一员，中国始终与区域伙伴共享机遇、协同发展。11月18日至19日，亚太经合组织第三十三次",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIu7Rnd4dgZCodi1wUsq84261115.shtml",
+          "published": "Sun, 15 Nov 2026 11:57:31 GMT"
+        },
+        {
+          "title": "国际能源署署长：可获得、可负担 中国清洁能源发展助力全球能源转型",
+          "summary": "[!--begin:htmlVideoCode--]dabb65beecf946dfa77d5ad8c4deeed6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《联合国气候变化框架公约》第三十一次缔约方大会期间，能源转型成为各国代表关注的一大焦点。国际能源署署长法提赫·比罗尔表示，如何统筹能源安全与绿色转型是各国面临的共同课题，中国清洁能源",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIhATahAFI2wRmQdThZZAK261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:03:29 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "习近平：携手共建亚太命运共同体",
+          "summary": "携手共建亚太命运共同体 ※ 习近平 一 亚太各经济体利益交融，命运与共，一荣俱荣，一损俱损。在这个动态平衡的链条中，每个经济体的发展都会对其他经济体产生连锁反应。我们要牢固树立亚太命运共同体意识，以自身发展带动他人发展，以协调联动最大限度发挥各自优势，传导正能量，形成各经济体良性互动、协调发展的格局。 （2013年10月7日在印度尼西亚巴厘岛举行的亚太经合组织工商领导人峰会上的演讲） 2014年1",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIxdiHyBpf7YRcuYsx7bY3261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:37:49 GMT"
+        },
+        {
+          "title": "同舟共济：开放的深圳与亚太共赴新程",
+          "summary": "南海之滨，潮涌鹏城。11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。这是中国第三次担任APEC东道主，也是深圳这座“奇迹之城”在世界舞台上的又一次高光时刻。本次会议以“建设亚太共同体，促进共同繁荣”为主题，将“开放、创新、合作”作为三大优先领域。盛会即将启幕之际，人民网特别策划推出“亚太经济合作看深圳”系列稿件，分别从开放、创新、合作三个维度，透视这座未来之城",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIo9kA5XKQs6CnN0elRF6D261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:32:22 GMT"
+        },
+        {
+          "title": "一见·当APEC“中国年”遇见“十五五”开局之年",
+          "summary": "南海之滨，湾区潮涌。习近平主席将出席亚太经合组织第三十三次领导人非正式会议及相关活动。 2025年11月，韩国庆州。习近平主席在亚太经合组织第三十二次领导人非正式会议东道主交接环节宣布，中国将于2026年11月在广东省深圳市举办APEC第三十三次领导人非正式会议。 2026年，APEC合作进入“中国时间”；这一年，也是“十五五”开局之年。 当APEC“中国年”与“十五五”开局之年相遇，“不断以中国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIfHsZ8Zd0ErCCOaCTk2ob261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:31:05 GMT"
+        },
+        {
+          "title": "【数说APEC】中国生态治理经验为亚太增“绿”",
+          "summary": "[!--begin:htmlVideoCode--]8b0696ae9beb492c92e7c200df935fd7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：最新数据显示，中国近十年一直是全球森林面积年均净增长最多的国家。来自中国的生态治理经验，如今也在为亚太地区增“绿”。 如今，到曼谷邦加巢骑行，成为不少外国游客喜爱的体验。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIhTmFSXaKIpS5C3K0ltJ4261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:04:40 GMT"
+        },
+        {
+          "title": "2026年APEC工商领导人峰会准备就绪",
+          "summary": "[!--begin:htmlVideoCode--]4e3d930ce7044eccb8278ed8293c0145,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从11月15日举行的2026年APEC工商界活动专题新闻发布会上了解到，2026年APEC工商领导人峰会将于11月17日—18日在深圳举行，目前各项筹备工作已就绪。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIlnFYuscSsMA42uxa2mFx261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:04:32 GMT"
+        },
+        {
+          "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展",
+          "summary": "[!--begin:htmlVideoCode--]b769da85400f4d3b9b27c98c0059d9af,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：亚太经合组织是亚太地区层级最高、领域最广、影响力最大的经济合作机制。作为亚太大家庭一员，中国始终与区域伙伴共享机遇、协同发展。11月18日至19日，亚太经合组织第三十三次",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIu7Rnd4dgZCodi1wUsq84261115.shtml",
+          "published": "Sun, 15 Nov 2026 11:57:31 GMT"
+        },
+        {
+          "title": "汽车、芯片、算力……产业“森林”越种越密 昔日“经济洼地”蝶变跃升",
+          "summary": "[!--begin:htmlVideoCode--]89b83413fb34433994c6158d83c9d6be,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 作为APEC东道主城市，深圳有澎湃的科创活力，这种活力也不断辐射到周边城市。从深圳向东，深汕特别合作区正是一个值得细看的观察窗口。这里行政区划归属汕尾海丰，但开发建设、经济社会事务由",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIVYftNqta48Eqtm69Aagz261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:07:21 GMT"
+        },
+        {
+          "title": "用语言“架桥”迎接APEC盛会 志愿者向世界递出一张有“温度”的名片",
+          "summary": "[!--begin:htmlVideoCode--]0a84b158b20b4d12b6c544007052a51f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 迎接APEC盛会，深圳420万注册志愿者投身城市服务保障。其中，一支4000多人的专项外籍志愿者队伍格外亮眼。他们来自不同国家，掌握多语种，在口岸、枢纽、商圈、邮轮母港一线，用语言“",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIZbIZxXoYxbVZLGVIggZt261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:06:50 GMT"
+        },
+        {
+          "title": "带回“中国经验”寻求合作机遇 各经济体携手助推亚太合作迈上新台阶",
+          "summary": "[!--begin:htmlVideoCode--]9947d22227a0418e8899aa2861bd05cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 对于即将召开的2026年APEC工商领导人峰会，全球工商界参会嘉宾表示，期待峰会能够深化对话、推进合作、释放亚太区域增长新动能。 参会嘉宾表示，亚太区域内各经济体面临着不同的发展需求",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIQ65r7pmR96f2YAoXdigY261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:06:32 GMT"
+        },
+        {
+          "title": "国际能源署署长：可获得、可负担 中国清洁能源发展助力全球能源转型",
+          "summary": "[!--begin:htmlVideoCode--]dabb65beecf946dfa77d5ad8c4deeed6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《联合国气候变化框架公约》第三十一次缔约方大会期间，能源转型成为各国代表关注的一大焦点。国际能源署署长法提赫·比罗尔表示，如何统筹能源安全与绿色转型是各国面临的共同课题，中国清洁能源",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIhATahAFI2wRmQdThZZAK261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:03:29 GMT"
+        },
+        {
+          "title": "从“共同守护”到“共享保护” 亚太生态合作在山海间传递拓展新空间",
+          "summary": "[!--begin:htmlVideoCode--]2470b82c68614fdebb4d0cde3c6a46bf,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 亚太经合组织第三十三次领导人非正式会议即将在深圳举办，APEC“中国年”迎来重要时刻。回望这一年，在21个成员经济体的交流与讨论中，哪些共同关切正在浮现？来看一件关乎未来的议题——生",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTILRJYMFWKHavsEPGt7Ghm261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:02:51 GMT"
+        },
+        {
+          "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
+          "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785968",
+          "published": "Sun, 15 Nov 2026 13:08:47 GMT"
+        },
+        {
+          "title": "如果调查证明没有违法，黄仁勋应该重任英伟达CEO？",
+          "summary": "知名投资人David Friedberg认为，若黄仁勋未违反法律，即便存在行为准则违规或未向董事会履行披露义务，股东仍可选择忽略这些问题并让其回归CEO职位。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960182",
+          "published": "Sun, 15 Nov 2026 11:34:41 GMT"
+        },
+        {
+          "title": "最黑暗处最光明",
+          "summary": "【报 告导读 】 市场对美元紧缩预期上升，其前提是美国就业市场和经济增长持续处于高位。然而，从对美国经济增长和就业市场具有领先性的大型云厂商新增租赁承诺指标来看，在四季度时AI基建对美国就业与经济增长的拉动可能都会放缓。从过去一年的经验来看，强美元对于中国资产中非AI部分的压制明显，未来随着新兴经济体景气度的改善与美元压制的解除，中国资产中非AI领域将会出现更多的机会。 Summary 摘要 1 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785965",
+          "published": "Sun, 15 Nov 2026 11:11:06 GMT"
+        },
+        {
+          "title": "过去1年10亿美元以上爆仓就发生3次！比特币堪称“财富毁灭机”",
+          "summary": "比特币市场的巨额爆仓正从意外事件变成日常现象。 周六比特币在亚洲交易时段一度跌至66586美元，为8月以来最低；周日进一步下探62022美元，创7月14日以来新低，随后回升至约64800美元。 自10月21日以来，比特币累计跌幅已超过20%，并走向连续第六周下跌。 （周日比特币价格走势） 截至周日17时，据CoinGlass数据统计，过去24小时超31万人爆仓，爆仓总金额为19.71亿美元。最大单",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785964",
+          "published": "Sun, 15 Nov 2026 09:25:31 GMT"
+        },
+        {
+          "title": "金饰克价跌了近100元！有人抢着买：有地方小克重金条卖空了",
+          "summary": "本周国际金价震荡走低，伦敦现货黄金价格累计下跌4.9%，创下今年3月底以来最大单周跌幅。国际金价持续走弱，带动国内黄金零售价回调。 据扬子晚报报道，11月15日，国内头部品牌金饰、非品牌金饰价格迎来连续第五天下调，南京各大商场金店同步更新挂牌价，不少消费者趁着金价回落进店咨询选购。 据央视财经报道，近两天，国内主要黄金品牌的足金挂牌价连续下调，跌破每克1200元关口。当天，周大福、老凤祥、周生生的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785959",
+          "published": "Sun, 15 Nov 2026 08:59:55 GMT"
+        },
+        {
+          "title": "投资中怎样避免接飞刀？",
+          "summary": "近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785961",
+          "published": "Sun, 15 Nov 2026 08:53:13 GMT"
+        },
+        {
+          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
+          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785963",
+          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
+        },
+        {
+          "title": "马斯克再创历史，人类首次用“筷子”夹住星舰飞船",
+          "summary": "北京时间11月15日周日，SpaceX成功回收星舰上级，首次实现巨型机械臂“夹住”星舰飞船。此前11月6日巴伦投资年会上，顶级投资人罗恩·巴伦谈马斯克的研发逻辑：项目若不常失败，说明创新不够。SpaceX以“牺牲硬件换取信息”，快速试错让系统更可靠，助其甩开对手。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960181",
+          "published": "Sun, 15 Nov 2026 08:19:09 GMT"
+        },
+        {
+          "title": "周小川给资本市场支招：装个低通滤波器，让交易频率与基本面适配",
+          "summary": "据上海证券报报道，第十二届全国政协副主席、中国人民银行原行长、中国证监会原主席周小川11月14日在2026中国资本市场学术年会上表示，AI快速发展深刻改变资本市场人机分工，未来AI或将实现递推式自我改进（RSI），核心是设定好目标函数，锚定优化资源配置、管控风险（平衡股权与债券市场融资结构，强化股权资本损失吸收能力）、为投资者尤其是养老金提供合理回报三大目标，统筹协调政府、企业、居民等多方诉求，引",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785962",
+          "published": "Sun, 15 Nov 2026 07:55:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "同舟共济：开放的深圳与亚太共赴新程",
+          "summary": "南海之滨，潮涌鹏城。11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。这是中国第三次担任APEC东道主，也是深圳这座“奇迹之城”在世界舞台上的又一次高光时刻。本次会议以“建设亚太共同体，促进共同繁荣”为主题，将“开放、创新、合作”作为三大优先领域。盛会即将启幕之际，人民网特别策划推出“亚太经济合作看深圳”系列稿件，分别从开放、创新、合作三个维度，透视这座未来之城",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIo9kA5XKQs6CnN0elRF6D261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:32:22 GMT"
+        },
+        {
+          "title": "一见·当APEC“中国年”遇见“十五五”开局之年",
+          "summary": "南海之滨，湾区潮涌。习近平主席将出席亚太经合组织第三十三次领导人非正式会议及相关活动。 2025年11月，韩国庆州。习近平主席在亚太经合组织第三十二次领导人非正式会议东道主交接环节宣布，中国将于2026年11月在广东省深圳市举办APEC第三十三次领导人非正式会议。 2026年，APEC合作进入“中国时间”；这一年，也是“十五五”开局之年。 当APEC“中国年”与“十五五”开局之年相遇，“不断以中国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIfHsZ8Zd0ErCCOaCTk2ob261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:31:05 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神",
+          "summary": "[!--begin:htmlVideoCode--]d82b20db74ea4901860704c3da756f52,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：连日来，学习贯彻党的二十届五中全会精神中央宣讲团成员在云南、辽宁、黑龙江宣讲，并与基层干部群众互动交流，推动全会精神走深走实。 中央宣讲团成员、中央纪委副书记、国家监委副",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIApuZRUql4pqwOW3y0xtb261115.shtml",
+          "published": "Sun, 15 Nov 2026 12:04:17 GMT"
+        },
+        {
+          "title": "用语言“架桥”迎接APEC盛会 志愿者向世界递出一张有“温度”的名片",
+          "summary": "[!--begin:htmlVideoCode--]0a84b158b20b4d12b6c544007052a51f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 迎接APEC盛会，深圳420万注册志愿者投身城市服务保障。其中，一支4000多人的专项外籍志愿者队伍格外亮眼。他们来自不同国家，掌握多语种，在口岸、枢纽、商圈、邮轮母港一线，用语言“",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIZbIZxXoYxbVZLGVIggZt261115.shtml",
+          "published": "Sun, 15 Nov 2026 10:06:50 GMT"
+        },
+        {
+          "title": "APEC互联互通落到普通人的日常 让生活更便利、人与人越走越近",
+          "summary": "[!--begin:htmlVideoCode--]e3c33f2d379a4d069219e30fb5a46140,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 互联互通是2026年APEC合作的重要内容，作为东道主，中方推动各方共同制定APEC互联互通蓝图升级版，进一步做实做细“硬联通”“软联通”“心联通”。从规则衔接到人员交流，互联互通如",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIZzLtzCVfzYNyXdgT9M5t261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:03:44 GMT"
+        },
+        {
+          "title": "A级景区“不香了”？答好“重构”文旅服务这道“必答题”",
+          "summary": "[!--begin:htmlVideoCode--]a4b63990bf7647d69de4f6e37744f95d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 不久前，多地文旅主管部门陆续公布A级旅游景区复核结果，一批景区被取消等级、降级或限期整改。 前阶段被清退的景区均存在长期不符合A级旅游景区运营标准的核心问题。其中，安徽金寨县大别山玉",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIVlsyMRQbHLmx5hOdve93261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:00:52 GMT"
+        },
+        {
+          "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
+          "summary": "据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。 卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。（新华社）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3200196",
+          "published": "Sun, 15 Nov 2026 11:56:21 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "不仅看星辰大海，还为深空旅行积攒“生命密码”！ | 中国空间站周记再“上”新",
+          "summary": "[!--begin:htmlVideoCode--]22d70d7645c941d0bec5f90e5ad4a9cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 神二十三乘组三名航天员朱杨柱、张志远、黎家盈的“太空出差之旅”已进入第6个月，3名航天员的在轨工作依旧充实忙碌。上周，空间站里有哪些新进展？ 空间科学实（试）验 在空间生命科学与人体",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIZNwdJkdxqVnhIFcbJ8wB261115.shtml",
+          "published": "Sun, 15 Nov 2026 09:03:14 GMT"
+        },
+        {
+          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
+          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785963",
+          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "过去1年10亿美元以上爆仓就发生3次！比特币堪称“财富毁灭机”",
+          "summary": "比特币市场的巨额爆仓正从意外事件变成日常现象。 周六比特币在亚洲交易时段一度跌至66586美元，为8月以来最低；周日进一步下探62022美元，创7月14日以来新低，随后回升至约64800美元。 自10月21日以来，比特币累计跌幅已超过20%，并走向连续第六周下跌。 （周日比特币价格走势） 截至周日17时，据CoinGlass数据统计，过去24小时超31万人爆仓，爆仓总金额为19.71亿美元。最大单",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785964",
+          "published": "Sun, 15 Nov 2026 09:25:31 GMT"
+        },
+        {
+          "title": "金饰克价跌了近100元！有人抢着买：有地方小克重金条卖空了",
+          "summary": "本周国际金价震荡走低，伦敦现货黄金价格累计下跌4.9%，创下今年3月底以来最大单周跌幅。国际金价持续走弱，带动国内黄金零售价回调。 据扬子晚报报道，11月15日，国内头部品牌金饰、非品牌金饰价格迎来连续第五天下调，南京各大商场金店同步更新挂牌价，不少消费者趁着金价回落进店咨询选购。 据央视财经报道，近两天，国内主要黄金品牌的足金挂牌价连续下调，跌破每克1200元关口。当天，周大福、老凤祥、周生生的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785959",
+          "published": "Sun, 15 Nov 2026 08:59:55 GMT"
+        },
+        {
+          "title": "投资中怎样避免接飞刀？",
+          "summary": "近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785961",
+          "published": "Sun, 15 Nov 2026 08:53:13 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 52,
+    "total_collected": 36,
+    "sources": 5,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻"
+    ],
+    "domains": 7
+  }
+}
