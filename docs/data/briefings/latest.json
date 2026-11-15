@@ -1,416 +1,110 @@
 {
-  "id": "2026-11-14-14",
-  "datetime": "2026-11-14 14:51:43",
-  "date": "2026-11-14",
-  "time": "14:51",
-  "period": "下午",
-  "summary": "本期采集 40 篇文章，来自 5 个信息源，覆盖 5 个领域，精选 50 条摘要",
+  "id": "2026-11-15-05",
+  "datetime": "2026-11-15 05:20:37",
+  "date": "2026-11-15",
+  "time": "05:20",
+  "period": "凌晨",
+  "summary": "本期采集 49 篇文章，来自 7 个信息源，覆盖 6 个领域，精选 60 条摘要",
   "domains": [
-    {
-      "name": "哲学",
-      "summary": "",
-      "items": [
-        {
-          "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-          "importance": "medium",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118276",
-          "published": "Sat, 14 Nov 2026 15:40:21 +0800"
-        },
-        {
-          "title": "“1带1”“1带2”打造科产融创新典范 把地下“不可能”变成流水线上“一定能”",
-          "summary": "[!--begin:htmlVideoCode--]1ebe581dd417476c855c09d67b4fe1d1,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月14日，记者从中国石化获悉，胜利油田丰页B13HF井以11.68天的钻井周期，刷新国内6000米井深陆相页岩油井最短钻井周期纪录，为深层页岩油规模化、效益化开发提供了提速降本的",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTINOKQRdgde1b9xm8JlszJ261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:45:43 GMT"
-        }
-      ]
-    },
     {
       "name": "AI / 人工智能",
       "summary": "",
       "items": [
         {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-fr",
+          "title": "Kiri – The Modern Container Runtime",
+          "summary": "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 9 # Comments: 2",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://runkiri.com/",
+          "published": "Sun, 15 Nov 2026 04:40:41 +0000"
+        },
+        {
+          "title": "Show HN: Gawain – Require type hints on all Python variables",
+          "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 9 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/matheuzgomes/gawain",
+          "published": "Sun, 15 Nov 2026 04:39:25 +0000"
+        },
+        {
+          "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+          "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.ycombinator.com/item?id=50503588 Points: ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+          "published": "Sun, 15 Nov 2026 03:05:54 +0000"
+        },
+        {
+          "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+          "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 17 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://bobbiec.github.io/jamaican-font.html",
+          "published": "Sun, 15 Nov 2026 00:56:45 +0000"
+        },
+        {
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed ' chops",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-          "published": "2026-11-14T09:18:36-05:00"
+          "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "published": "2026-11-14T16:44:44-05:00"
         },
         {
-          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-          "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con , my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2 , we always bring at ",
+          "title": "围堵中国的“四方安全对话”，快被特朗普搞散了",
+          "summary": "特朗普第二任期内，一度被华盛顿视作印太围堵抓手的美日印澳“四方安全对话”（Quad），正日渐衰弱。 按计划，特朗普将在菲律宾举办的东盟峰会期间，与澳大利亚、印度和日本领导人举行“四方安全对话”会议。这场会晤将重点讨论所谓的中国问题。 知情人士透露，四国领导人计划在会上宣布，拿出8500万美元技术与资金援助，用于扶持印太地区所谓“可信赖的人工智能基础设施”建设。但在这份新议程的背后，这个意在印度—太",
           "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-          "published": "2026-11-14T09:00:00-05:00"
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_15_908412_s.shtml",
+          "published": "Sun, 15 Nov 2026 03:55:00 GMT"
         },
         {
-          "title": "A gadget to make your dumb house smarter",
-          "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you c",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-          "published": "2026-11-14T08:00:00-05:00"
-        },
-        {
-          "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-          "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at ",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-          "published": "2026-11-14T07:00:00-05:00"
-        },
-        {
-          "title": "政策发力显效 多项先行指标持续改善",
-          "summary": "[!--begin:htmlVideoCode--]8f64fa95820b481e8831866f520e31b9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家发展改革委国家信息中心最新发布的多项先行指标显示，10月份，新型基础设施、新兴产业等领域投资持续升温，消费市场活力稳步释放。 数据显示，10月份，全国工程机械开工率同",
+          "title": "“新员工”上岗和游客“花式”互动 主题乐园玩转新场景溢出效应放大",
+          "summary": "[!--begin:htmlVideoCode--]c9f9123fd1d64e869da15208fb3322cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 近年来，随着人工智能技术的发展，一批全新形态的主题乐园陆续涌现，开辟消费新场景，给游客带来不一样的体验。在广东珠海，全球第一个实现机器人常态化运营的主题乐园日前亮相，吸引了很多游客前",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI2kfV6lLWU54PfhEo5dZm261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:28:35 GMT"
+          "link": "https://news.cctv.com/2026/11/15/ARTII0LDRjeoczuXijH68pht261115.shtml",
+          "published": "Sun, 15 Nov 2026 04:17:57 GMT"
         },
         {
-          "title": "以技术创新回应市场需求（高质量发展微视角）",
-          "summary": "18.6% 前三季度，我国光纤产品产量同比增长18.6%，光纤制造行业利润增长5.7倍。 湖北武汉，烽火锐拓科技有限公司生产车间里，30多米高的光纤拉丝塔正平稳运转。 拉丝塔上，一根长约4米、电线杆粗细的石英光棒一端被缓缓送入加热炉。2000摄氏度高温熔融，坚硬透明的光棒逐渐软化，在装置牵引下，被越拉越长、越拉越细，最终化作一根比头发丝还细的光纤，在塔底快速卷绕成一个个线盘。 “这样一根光棒1到2",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIm9Q5v4HvQMfZpAsr6MBb261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:04:59 GMT"
-        },
-        {
-          "title": "【建设亚太共同体 促进共同繁荣】创新亚太 携手同行",
-          "summary": "[!--begin:htmlVideoCode--]50aa22bb737540a3af8f62cb7ffec77f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：“创新”是2026年APEC“中国年”确定的三大优先领域之一。习近平主席在出席亚太经合组织第三十一次领导人非正式会议时指出：“我们要牢牢抓住新一轮科技革命和产业变革机遇，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIzY8m6IiZvGPjugcT3eZg261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:03:35 GMT"
-        },
-        {
-          "title": "一度电跨越边界点亮万家灯火 普惠、创新、协同的亚太能源共同体变成现实",
-          "summary": "[!--begin:htmlVideoCode--]4033e7a98adf49e18d0ce3a48d434275,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。APEC“中国年”这一年，从人工智能、产业发展到绿色转型，人们关注的不同议题都连着同一个关键词—",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI5MwpyUBxZ6PBTiqQbyrR261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:46:32 GMT"
-        },
-        {
-          "title": "从无障碍改造到服务规范，提质焕新！文旅全链条适老化标准体系逐步成型",
-          "summary": "[!--begin:htmlVideoCode--]14b4344a1afd4ea69482ef77cee00114,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 随着我国进入老龄化社会，老年游客已成为文旅市场的重要群体，特别是旅游淡季，他们更是错峰出游的主力军。目前，各地景区、文博场馆持续推进适老化改造提质焕新，优化配套服务，让银发旅途更加舒",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIef3fEHrBtuypWTBdfGwQ261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:45:18 GMT"
-        },
-        {
-          "title": "大科学装置托举城市创新上限 深圳澎湃科创活力催生亮眼技术突破",
-          "summary": "[!--begin:htmlVideoCode--]a9be8d612b514b93a32bda9e8bccf0ca,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 作为APEC东道主城市，深圳澎湃的科创活力催生了一项项亮眼的技术突破，而这背后正是一座座大科学装置筑牢的扎实地基。合成生物、脑解析与脑模拟、材料基因组等大科学装置陆续投用，持续面向全",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIA9amBzZ8frmmeKFMFJck261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:44:09 GMT"
-        },
-        {
-          "title": "华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战",
-          "summary": "Anthropic正在冲刺一场可能创下史上最大规模IPO纪录的资本市场盛事，而推动这场上市的，不仅是华尔街的逐利本能，更是整个科技生态系统对AI未来的集体押注。 Anthropic本周披露计划以最高1.4万亿美元估值融资最多1000亿美元。公司已联合22家承销行展开路演，同时获得包括英伟达、微软、博通在内的七家科技巨头承诺在上市后立即合计注资260亿美元。 前美国银行股票资本市场全球负责人Crai",
+          "title": "本周市场的“意外”：美债收益率与科技股债同涨",
+          "summary": "美债收益率大幅跳升的同时，科技股与信用债同步反弹。这一\"异常共振\"打破了市场对高利率压制风险资产的传统预期，也令投资者对这一组合能否持续心存疑虑。 追风交易台消息，11月13日，野村证券策略师Naka Matsuzawa研报指出， 科技股的反弹更可能只是此前大幅下跌后的技术性修复 ，对AI投资回报能够覆盖当前利率水平的信心实际上并未重建。 分析认为，这一组合的可持续性，将是未来一周市场的核心议题。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785948",
-          "published": "Sat, 14 Nov 2026 11:47:50 GMT"
+          "link": "https://wallstreetcn.com/articles/3785953",
+          "published": "Sun, 15 Nov 2026 03:41:47 GMT"
         },
         {
-          "title": "特斯拉向受邀个人开放Cybercab购买，起售价29990美元，首批12月交付",
-          "summary": "特斯拉在全自动驾驶商业化道路上迈出重要一步，开始向受邀个人消费者开放无方向盘自动驾驶车辆Cybercab的购买。 特斯拉于美东时间11月13日在X平台宣布，向\"精选客户\"发出邀请，允许其以个人用途购买Cybercab，起售价29990美元，另需每月支付299美元的自动驾驶订阅费用，预计首批交付时间为2026年12月。这将使Cybercab成为特斯拉现售车型中售价最低的产品。 特斯拉人工智能负责人A",
+          "title": "芯片股刚刚创下4月以来最大单周涨幅，对冲基金却又“逢高减持”",
+          "summary": "芯片股强劲反弹，对冲基金却选择加码做空。这一反常信号，正在成为市场能否持续走高的核心悬念。 费城半导体指数上周单周涨幅逾8%，创下4月以来最佳表现，标普500指数同期上涨2.5%。然而据高盛最新Prime Brokerage周报，对冲基金连续第二周净卖出美股，且本周的卖出以新建空头为主，与上周的多头平仓性质截然不同。换言之，机构投资者利用芯片股最强反弹周之一，大举押注个股下行。 在标普500单周回",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785947",
-          "published": "Sat, 14 Nov 2026 11:30:54 GMT"
+          "link": "https://wallstreetcn.com/articles/3785954",
+          "published": "Sun, 15 Nov 2026 02:53:37 GMT"
         },
         {
-          "title": "Anthropic CEO“直播荐股”，满屏都是免责声明",
-          "summary": "美国当地时间11月13日午间，Anthropic联合创始人兼CEO达里奥·阿莫迪与摩根大通CEO杰米·戴蒙（Jamie Dimon）在纽约举行了一场IPO主题对话。 对于正准备登陆公开市场的Anthropic而言，这场对话不仅是一次上市推介，也是外界观察其商业模式、竞争策略和长期发展规划的窗口。 阿莫迪把Anthropic的竞争优势归结为“人才和文化”。 在他看来，人才和文化决定技术，技术决定产品",
+          "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+          "summary": "英伟达创始人黄仁勋的离职，无疑是近期科技界最大的一场地震。在这场看似突如其来的人事巨震背后，却隐藏着一场精心策划的“猎杀行动”。 究竟是谁在幕后扣动了扳机？随着更多细节的浮出水面，两股力量逐渐显露在聚光灯下：修改机密备忘录的美国国务卿鲁比奥，以及向媒体频频“递刀子”的AI竞争对手Anthropic。 从政策层面看，争议核心在于AI芯片管控的路径之争。 芯片出口管制派系美国多年来寻求切断英伟达与海外",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785946",
-          "published": "Sat, 14 Nov 2026 11:15:53 GMT"
+          "link": "https://wallstreetcn.com/articles/3785952",
+          "published": "Sun, 15 Nov 2026 02:42:34 GMT"
         },
         {
-          "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
-          "summary": "英伟达CEO离职风波尚未平息，华尔街已将目光投向下周——英伟达季报与Anthropic上市将接连登场，AI交易的信心能否经受住这轮双重压力测试，答案即将揭晓。 英伟达CEO黄仁勋因婚外情丑闻于上周四突然辞职，引发市场对这家AI芯片巨头的深度担忧。尽管如此，英伟达股价本周跌幅约13%，远小于此前市场担忧的20%乃至更大跌幅，标普500指数更录得8月以来最佳单周表现。与此同时，Anthropic宣布其",
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "summary": "APEC领导人非正式会议深圳举行，中美俄元首是否会晤备受关注；英伟达公布黄仁勋辞任后首份财报，临时CEO主持电话会，同日黄仁勋赴国会听证；Anthropic IPO获六倍超额认购，即将在纳斯达克挂牌；百度、京东、腾讯、阿里接力披露财报；中国10月经济数据集中披露。此外，关注沃什AI听证会、微软开发者大会。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785944",
-          "published": "Sat, 14 Nov 2026 10:20:53 GMT"
+          "link": "https://wallstreetcn.com/charts/41960177",
+          "published": "Sun, 15 Nov 2026 02:18:35 GMT"
         },
         {
-          "title": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！",
-          "summary": "英伟达董事长黄仁勋的骤然离场，不仅是一家芯片公司的高管更迭，更是整个AI融资生态系统面临的系统性冲击。在过去三年里，英伟达实际上已演变为AI行业的\"最后贷款人\"，以股权投资、担保承诺和回购协议构建起一台规模逾5000亿美元的循环融资机器。如今，这台机器的操盘手已经离场。 黄仁勋辞职消息宣布后，英伟达股价盘中一度暴跌逾13%，收盘跌约4%。与此同时，高盛、瑞银、William Blair等14家卖方",
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785942",
-          "published": "Sat, 14 Nov 2026 09:44:04 GMT"
-        },
-        {
-          "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
-          "summary": "一周之内，英伟达创始人丑闻缠身后黯然离任，美国CPI连续第三个月超预期，PPI攀升至四年新高，美联储官员放风12月加息50个基点——所有利空同时引爆，美股却逆势收涨，标普500周涨2%，费城半导体指数创4月以来最佳单周表现。 答案只有一个： 空头已无牌可打。 这是一场典型的\"无票可卖\"式逼空。高盛Prime数据显示，对冲基金在中期选举当周大幅削减杠杆，净多头仓位降至五年最低。进入本周，空头已基本出",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785940",
-          "published": "Sat, 14 Nov 2026 08:34:01 GMT"
-        },
-        {
-          "title": "为何上市？Anthropic CEO点名医药、机器人和网络安全“都要钱”",
-          "summary": "Anthropic CEO达里奥·阿莫代伊表示，现在上市的最大原因是现金：在低算力与高算力世界之间建立更大的缓冲，以便Anthropic能在生物学、机器人和网络安全领域投入足够资金。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960175",
-          "published": "Sat, 14 Nov 2026 07:26:59 GMT"
-        }
-      ]
-    },
-    {
-      "name": "金融 / 投资",
-      "summary": "",
-      "items": [
-        {
-          "title": "勇立潮头再扬帆——中国携手亚太共启发展繁荣新航程",
-          "summary": "风从大洋来，潮起珠江畔。 世界的目光，投向中国、投向深圳。亚太经合组织（APEC）第三十三次领导人非正式会议将在这里启幕。 太平洋汇聚千流，广阔的亚太区域，承载着各经济体扬帆远航的梦想，承载着数十亿人命运与共的明天，汇聚起合作发展的澎湃动力。 一年前，在韩国庆州，中国正式接任APEC东道主。“中方将顺应时代发展大势，倾听各成员呼声，同各方携手构建亚太共同体，为亚太乃至世界和平与发展注入新动力。”习",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIeLeTd2Y9V8PvoxkBaEK3261114.shtml",
-          "published": "Sat, 14 Nov 2026 14:00:31 GMT"
-        },
-        {
-          "title": "习近平主席引领亚太大家庭扬帆前行",
-          "summary": "“亚太是我们共同发展的空间，我们都是亚太这片大海中前行的风帆。” 11月18日至19日，习近平主席将在深圳主持亚太经合组织（APEC）第三十三次领导人非正式会议并发表重要讲话。作为东道主的中国，将携手各方围绕“建设亚太共同体，促进共同繁荣”这一APEC“中国年”主题，聚焦“开放、创新、合作”三大优先领域，开辟亚太各经济体互利共赢新境界。 2013年以来，习近平主席出席或主持历次APEC领导人非正式",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTISGxk4eyk12bux9hGOi9J261114.shtml",
-          "published": "Sat, 14 Nov 2026 13:00:50 GMT"
-        },
-        {
-          "title": "【数说APEC】APEC进口农产品丰富中国餐桌",
-          "summary": "[!--begin:htmlVideoCode--]73aacaf595864d369657c65be505fd69,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：近些年，来自APEC经济体的农产品不断丰富中国百姓的餐桌，双向贸易红利也持续惠及亚太伙伴。 一杯9块9的平价咖啡，如今正在中国街头变得常见。它为什么能卖这么便宜？答案就藏",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI4g1jTqn9JwDngbjYmwRI261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:29:36 GMT"
-        },
-        {
-          "title": "2026年APEC领导人会议周活动逐步升温",
-          "summary": "[!--begin:htmlVideoCode--]96104f79868b40e9b1f91e5d3e3b1e17,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：2026年APEC“中国年”最后一次高官会，11月14日在深圳举行，会议为期两天，15日结束。高官会是APEC推进各领域合作，为即将在深圳举行的亚太经合组织第三十三次领导",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI1IVThu0x5nRBncdvYMU8261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:29:09 GMT"
-        },
-        {
-          "title": "政策发力显效 多项先行指标持续改善",
-          "summary": "[!--begin:htmlVideoCode--]8f64fa95820b481e8831866f520e31b9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家发展改革委国家信息中心最新发布的多项先行指标显示，10月份，新型基础设施、新兴产业等领域投资持续升温，消费市场活力稳步释放。 数据显示，10月份，全国工程机械开工率同",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI2kfV6lLWU54PfhEo5dZm261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:28:35 GMT"
-        },
-        {
-          "title": "以技术创新回应市场需求（高质量发展微视角）",
-          "summary": "18.6% 前三季度，我国光纤产品产量同比增长18.6%，光纤制造行业利润增长5.7倍。 湖北武汉，烽火锐拓科技有限公司生产车间里，30多米高的光纤拉丝塔正平稳运转。 拉丝塔上，一根长约4米、电线杆粗细的石英光棒一端被缓缓送入加热炉。2000摄氏度高温熔融，坚硬透明的光棒逐渐软化，在装置牵引下，被越拉越长、越拉越细，最终化作一根比头发丝还细的光纤，在塔底快速卷绕成一个个线盘。 “这样一根光棒1到2",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIm9Q5v4HvQMfZpAsr6MBb261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:04:59 GMT"
-        },
-        {
-          "title": "这5场发布会，传递了哪些信号",
-          "summary": "近两周，国家发展改革委密集召开奋进“十五五”系列新闻发布会。5场发布会，分别聚焦培育壮大新动能、夯实发展支撑、筑牢安全底座、增进民生福祉和共建“一带一路”等主题。 在开局之年“收官季”密集召开发布会，释放了什么信号？ 一句话：规划不是写在纸上的口号，而是落在地上的行动。 “十五五”规划纲要里的每一句话，都在变成专项规划、实施方案、项目清单，有的甚至已经落地见效。 先看产业。 今天的新兴产业，可能就",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIxNUwvUaqLT8BO9Kdeo2y261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:03:52 GMT"
-        },
-        {
-          "title": "【建设亚太共同体 促进共同繁荣】创新亚太 携手同行",
-          "summary": "[!--begin:htmlVideoCode--]50aa22bb737540a3af8f62cb7ffec77f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：“创新”是2026年APEC“中国年”确定的三大优先领域之一。习近平主席在出席亚太经合组织第三十一次领导人非正式会议时指出：“我们要牢牢抓住新一轮科技革命和产业变革机遇，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIzY8m6IiZvGPjugcT3eZg261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:03:35 GMT"
-        },
-        {
-          "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
-          "summary": "[!--begin:htmlVideoCode--]06843ff3a8d34888998c96fdf0604925,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI0CbnyS95QdXXvXhsij4m261114.shtml",
-          "published": "Sat, 14 Nov 2026 10:40:50 GMT"
-        },
-        {
-          "title": "359.06万亿元、469.16万亿元、11.42万亿元 利好积聚成势护航中国经济",
-          "summary": "[!--begin:htmlVideoCode--]4ae0996bf9824a5f9fc3b8db9d8f355f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 中国人民银行11月13日公布多项金融数据。数据显示，我国金融总量合理增长，社会融资条件较为宽松。 10月末，广义货币（M2）余额359.06万亿元，同比增长7.1%；社会融资规模存量",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIuKd7nigWbe7SgYo4V2UM261114.shtml",
-          "published": "Sat, 14 Nov 2026 10:38:58 GMT"
-        },
-        {
-          "title": "从精准提质的林地到东南亚城市滩涂 一棵棵树苗成为亚太“绿色纽带”",
-          "summary": "[!--begin:htmlVideoCode--]4c1f40d3f3814808a38b0e2a2785f889,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 最新数据显示，中国近10年一直是全球森林面积年均净增长最多的国家。来自中国的生态治理经验，如今也在为亚太地区增“绿”。 如今，到曼谷邦加巢骑行成为不少外国游客喜爱的体验。穿行在这片约",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIqqVdzipMrflpHGHXFYHZ261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:46:56 GMT"
-        },
-        {
-          "title": "一度电跨越边界点亮万家灯火 普惠、创新、协同的亚太能源共同体变成现实",
-          "summary": "[!--begin:htmlVideoCode--]4033e7a98adf49e18d0ce3a48d434275,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。APEC“中国年”这一年，从人工智能、产业发展到绿色转型，人们关注的不同议题都连着同一个关键词—",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTI5MwpyUBxZ6PBTiqQbyrR261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:46:32 GMT"
-        },
-        {
-          "title": "从无障碍改造到服务规范，提质焕新！文旅全链条适老化标准体系逐步成型",
-          "summary": "[!--begin:htmlVideoCode--]14b4344a1afd4ea69482ef77cee00114,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 随着我国进入老龄化社会，老年游客已成为文旅市场的重要群体，特别是旅游淡季，他们更是错峰出游的主力军。目前，各地景区、文博场馆持续推进适老化改造提质焕新，优化配套服务，让银发旅途更加舒",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIef3fEHrBtuypWTBdfGwQ261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:45:18 GMT"
-        },
-        {
-          "title": "推动构建亚太共同体的中国担当",
-          "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议将于11月18日至19日在深圳举行。国家主席习近平将主持会议并发表讲话。 2013年以来，习近平主席出席或主持历次APEC领导人非正式会议并发表重要讲话，以宏阔视野阐述亚太合作之道，以时代担当引领区域合作正确方向，凝聚携手开创亚太美好未来的共识与力量。 今年是中国第三次担任亚太经合组织东道主。“中方愿以此为契机，同各方携手构建亚太共同体，促进亚太地",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTItqoUnOW5WNBmSQq80tAl261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:19:46 GMT"
-        },
-        {
-          "title": "华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战",
-          "summary": "Anthropic正在冲刺一场可能创下史上最大规模IPO纪录的资本市场盛事，而推动这场上市的，不仅是华尔街的逐利本能，更是整个科技生态系统对AI未来的集体押注。 Anthropic本周披露计划以最高1.4万亿美元估值融资最多1000亿美元。公司已联合22家承销行展开路演，同时获得包括英伟达、微软、博通在内的七家科技巨头承诺在上市后立即合计注资260亿美元。 前美国银行股票资本市场全球负责人Crai",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785948",
-          "published": "Sat, 14 Nov 2026 11:47:50 GMT"
-        },
-        {
-          "title": "Anthropic CEO“直播荐股”，满屏都是免责声明",
-          "summary": "美国当地时间11月13日午间，Anthropic联合创始人兼CEO达里奥·阿莫迪与摩根大通CEO杰米·戴蒙（Jamie Dimon）在纽约举行了一场IPO主题对话。 对于正准备登陆公开市场的Anthropic而言，这场对话不仅是一次上市推介，也是外界观察其商业模式、竞争策略和长期发展规划的窗口。 阿莫迪把Anthropic的竞争优势归结为“人才和文化”。 在他看来，人才和文化决定技术，技术决定产品",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785946",
-          "published": "Sat, 14 Nov 2026 11:15:53 GMT"
-        },
-        {
-          "title": "宁德时代等来一个敢押全系的盟友",
-          "summary": "极狐准备把换电做到全系。 11月13日晚，极狐同时推出贝塔S3激光换电版和贝塔T1换电版。选择电池租赁，前者限时补贴价7.88万元，后者两款配置分别为5.20万元和6万元。 S3是极狐今年5月推出的首款换电车型，这次增加了一款带激光雷达的配置。累计销量已超过10万辆的T1，则首次提供换电版。 极狐加码的依据，来自S3上市近半年的表现。 北汽新能源董事长刘观桥在11月13日晚间对华尔街见闻表示，约七",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785945",
-          "published": "Sat, 14 Nov 2026 10:40:30 GMT"
-        },
-        {
-          "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
-          "summary": "英伟达CEO离职风波尚未平息，华尔街已将目光投向下周——英伟达季报与Anthropic上市将接连登场，AI交易的信心能否经受住这轮双重压力测试，答案即将揭晓。 英伟达CEO黄仁勋因婚外情丑闻于上周四突然辞职，引发市场对这家AI芯片巨头的深度担忧。尽管如此，英伟达股价本周跌幅约13%，远小于此前市场担忧的20%乃至更大跌幅，标普500指数更录得8月以来最佳单周表现。与此同时，Anthropic宣布其",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785944",
-          "published": "Sat, 14 Nov 2026 10:20:53 GMT"
-        },
-        {
-          "title": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！",
-          "summary": "英伟达董事长黄仁勋的骤然离场，不仅是一家芯片公司的高管更迭，更是整个AI融资生态系统面临的系统性冲击。在过去三年里，英伟达实际上已演变为AI行业的\"最后贷款人\"，以股权投资、担保承诺和回购协议构建起一台规模逾5000亿美元的循环融资机器。如今，这台机器的操盘手已经离场。 黄仁勋辞职消息宣布后，英伟达股价盘中一度暴跌逾13%，收盘跌约4%。与此同时，高盛、瑞银、William Blair等14家卖方",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785942",
-          "published": "Sat, 14 Nov 2026 09:44:04 GMT"
-        },
-        {
-          "title": "日产把筹码又加在了中国牌桌上",
-          "summary": "作者 | 周智宇 “日产最近的销量压力确实很大。”11月13日，在珠海举行的日产品牌日上，日产中国管理委员会主席马智欣开场不久，便主动谈起了销量。 两天前，日产刚把2026年中国市场零售销量预期从58万辆下调到37万至40万辆。到了珠海，东风与日产两家股东给出的决定，却是未来三年继续加大在华投入。当天，东风日产把一款插混SUV的预售起价定在了13万元以内，郑州日产则拿出了插混MPV和皮卡。销量预期",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785943",
-          "published": "Sat, 14 Nov 2026 09:39:19 GMT"
-        },
-        {
-          "title": "通胀就业双重暴击！12月到底加25还是50bp？",
-          "summary": "11月10日，美国劳工统计局（BLS）公布CPI数据显示，10月份美国整体CPI环比上涨0.4%（预期0.30%），核心CPI环比上涨0.30%（预期0.20%）。由于去年10月美国政府停摆导致同比数据缺失，但从环比趋势看，美国通胀并未出现市场此前期待的持续降温。 核心CPI三个月年化增速升至3.75%，创下两年多最大涨幅，六个月年化增速也达到2.69%，潜在价格压力仍然顽固。10月核心PCE环比",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785727",
-          "published": "Sat, 14 Nov 2026 09:19:54 GMT"
-        },
-        {
-          "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
-          "summary": "一周之内，英伟达创始人丑闻缠身后黯然离任，美国CPI连续第三个月超预期，PPI攀升至四年新高，美联储官员放风12月加息50个基点——所有利空同时引爆，美股却逆势收涨，标普500周涨2%，费城半导体指数创4月以来最佳单周表现。 答案只有一个： 空头已无牌可打。 这是一场典型的\"无票可卖\"式逼空。高盛Prime数据显示，对冲基金在中期选举当周大幅削减杠杆，净多头仓位降至五年最低。进入本周，空头已基本出",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785940",
-          "published": "Sat, 14 Nov 2026 08:34:01 GMT"
-        },
-        {
-          "title": "日产中国计划扩大出口规模 更多新能源车型将销往海外",
-          "summary": "日产汽车计划2026年内将中国合资公司生产的汽车出口至30多个国家，2027年出口国家数量有望翻倍 【财新网】 日产汽车正在将中国打造为其重要的出口基地。该公司计划在2026年内，将在华合资公司生产的汽车产品出口至30多个国家。2027年，出口国家数量有望进一步翻倍。在11月13日举行的日产NISSAN DAY活动上，日产中国管理委员会主席马智欣公布上述信息。 过去数年，日产汽车在华销量持续承压。",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-14/102504957.html",
-          "published": "Sat, 14 Nov 2026 13:55:56 GMT"
-        },
-        {
-          "title": "全球储能联盟倡议发布 推动储能产业全球合作",
-          "summary": "中国企业出海过程中，在各国遇到的问题存在差异，加之储能项目较为分散，亟需搭建一个覆盖全球的民间交流平台 【财新网】 随着全球能源转型深入，储能作为新型电力系统核心基础设施，在全球市场上的需求稳步增加，如何推进国际交流合作成为中国储能“出海”的下一个重点。 在此背景下，11月14日，在第31届联合国气候大会（COP31）中国角，水电水利规划设计总院、中关村储能产业技术联盟、南网储能（600995.S",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-14/102504953.html",
-          "published": "Sat, 14 Nov 2026 12:37:32 GMT"
-        },
-        {
-          "title": "吴清：加强对大型和新型科技企业IPO制度适配性和风险应对机制研究",
-          "summary": "支持新型消费、传统产业升级等不同领域优质企业上市发展；深入研究评估量化交易、股份减持等制度规则的优化，减少“羊群效应”“短期化”交易等带来的市场波动 【财新网】 证监会主席吴清在2026年11月14日参加首届中国资本市场学术年会开幕式时发表致辞称，新形势下推进资本市场改革发展稳定，但有很多重大理论和实践问题需要抓紧深化研究。 吴清指出，要进一步研究深化投融资综合改革，统筹发挥私募市场与公开市场、股",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-11-14/102504948.html",
-          "published": "Sat, 14 Nov 2026 11:30:46 GMT"
-        }
-      ]
-    },
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神",
-          "summary": "[!--begin:htmlVideoCode--]501905d1a93749c49a53508393f6e136,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：连日来，学习贯彻党的二十届五中全会精神中央宣讲团成员在贵州、浙江、河北宣讲，并与基层干部群众互动交流，推动全会精神走深走实。 中央宣讲团成员、中央党校（国家行政学院）分管",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIL8BQhCZVP2oqLsHEZZvK261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:28:25 GMT"
-        },
-        {
-          "title": "大雾橙色预警继续发布 京津冀等9省区市有浓雾或强浓雾",
-          "summary": "央视网消息 ：中央气象台11月14日18时继续发布大雾橙色预警： 预计，11月14日夜间至15日上午，北京大部、天津、河北大部、山东中北部和西部、河南大部、安徽北部和南部、江苏西部、黑龙江西南部、辽宁中部、湖北中部、湖南中部、江西北部、浙江东南部、福建南部、重庆西部、广西西部、云南南部等地的部分地区有大雾，其中，北京东南部、天津、河北中南部、辽宁中部、山东北部和西部、河南中北部、安徽南部、江西北部",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIEiddG1dAGW2wnuUnI9ng261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:24:06 GMT"
-        },
-        {
-          "title": "持之以恒推进全面从严治党 以高质量党建引领企业高质量发展——习近平总书记对国有企业党的建设工作作出重要指示引发热烈反响",
-          "summary": "[!--begin:htmlVideoCode--]54a3b9cf8de4429fbe086a0158f93634,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：习近平总书记近日对国有企业党的建设工作作出重要指示，强调要持之以恒推进全面从严治党，为做强做优做大国有企业和国有资本提供坚强保障。总书记的重要指示在国资国企引发热烈反响。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTIBJKmBSTNoo4gPRdZ8zCW261114.shtml",
-          "published": "Sat, 14 Nov 2026 12:04:46 GMT"
-        },
-        {
-          "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
-          "summary": "[!--begin:htmlVideoCode--]df210920e9bc452baf3ff64c9514d749,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 冰雪赛事火热进行，而对于广大的滑雪爱好者来说，“开板”是拥抱冬天的独特方式。随着气温下降，新雪季开启，多地雪场迎来八方雪友。 北大湖滑雪度假区位于吉林省吉林市，是亚洲单体规模最大的滑",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/14/ARTICOJjWzFt4CdYSK7NueBY261114.shtml",
-          "published": "Sat, 14 Nov 2026 07:44:45 GMT"
+          "link": "https://wallstreetcn.com/articles/3785932",
+          "published": "Sun, 15 Nov 2026 02:10:34 GMT"
         }
       ]
     },
@@ -419,35 +113,429 @@
       "summary": "",
       "items": [
         {
-          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约",
-          "summary": "据乌克兰国家通讯社14日报道，乌克兰总统泽连斯基当天对记者表示，美方曾提出让乌克兰放弃顿巴斯地区，以换取北约成员国的资格。（新华社）",
+          "title": "Kiri – The Modern Container Runtime",
+          "summary": "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 9 # Comments: 2",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3200120",
-          "published": "Sat, 14 Nov 2026 09:48:31 GMT"
+          "source": "Hacker News",
+          "link": "https://runkiri.com/",
+          "published": "Sun, 15 Nov 2026 04:40:41 +0000"
         },
         {
-          "title": "一周天下｜纽约布鲁克林建筑坍塌致8人死、西班牙举行全国大罢工多地爆发警民冲突",
-          "summary": "",
+          "title": "Show HN: Gawain – Require type hints on all Python variables",
+          "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 9 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/matheuzgomes/gawain",
+          "published": "Sun, 15 Nov 2026 04:39:25 +0000"
+        },
+        {
+          "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "published": "Sun, 15 Nov 2026 04:09:11 +0000"
+        },
+        {
+          "title": "Osint Case Studies",
+          "summary": "Article URL: https://osintsearch.org/blog/osint-case-studies Comments URL: https://news.ycombinator.com/item?id=50503731 Points: 9 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://osintsearch.org/blog/osint-case-studies",
+          "published": "Sun, 15 Nov 2026 03:33:41 +0000"
+        },
+        {
+          "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+          "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.ycombinator.com/item?id=50503588 Points: ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+          "published": "Sun, 15 Nov 2026 03:05:54 +0000"
+        },
+        {
+          "title": "My favourite modern NES games",
+          "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+          "published": "Sun, 15 Nov 2026 02:41:25 +0000"
+        },
+        {
+          "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+          "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 134 # Comments: 27",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+          "published": "Sun, 15 Nov 2026 02:00:54 +0000"
+        },
+        {
+          "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+          "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 17 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://bobbiec.github.io/jamaican-font.html",
+          "published": "Sun, 15 Nov 2026 00:56:45 +0000"
+        },
+        {
+          "title": "US loses measles-free status: Pan American Health Organization (2025)",
+          "summary": "Article URL: https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status Comments URL: https://news.ycombinator.com/item?id=50502768 Points: 54 # Commen",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status",
+          "published": "Sun, 15 Nov 2026 00:48:11 +0000"
+        },
+        {
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 355 # Comments: 182",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "published": "Sat, 14 Nov 2026 22:26:30 +0000"
+        },
+        {
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 152 # Comments: 57",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://retrocomputing.stackexchange.com/questions/17957",
+          "published": "Sat, 14 Nov 2026 22:22:49 +0000"
+        },
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 934 # Comments: 638",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.spacex.com/launches/starship-flight-15",
+          "published": "Sat, 14 Nov 2026 21:22:24 +0000"
+        },
+        {
+          "title": "欧洲开心坏了",
+          "summary": "本视频提及事件以及信息来源如下：\n《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布\n《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布\n《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布\n《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1pdsL67EKy",
+          "published": "Sun, 15 Nov 2026 03:50:00 GMT"
+        },
+        {
+          "title": "美国全国停飞5小时，竟是一个路由器惹的祸？",
+          "summary": "【文/观察者网 于文凯】 美国航空运输系统13日遭遇罕见的大规模故障，近5小时内几乎所有国内出发航班被迫停飞，数万名乘客滞留机场。事发一天后，美国政府初步将故障源头锁定在国防承包商L3Harris的一次例行维护工作上。 美国交通部长肖恩·达菲14日在新闻发布会上披露，承包商原本只是将一处设施的铜质通信线路更换为光纤，却因新安装的路由器运行异常，引发全国空中交通管制通信系统大面积故障。 根据航空追踪",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_15_908387_s.shtml",
+          "published": "Sat, 14 Nov 2026 23:31:00 GMT"
+        },
+        {
+          "title": "航行警告 渤海海峡黄海北部执行军事任务",
+          "summary": "央视网消息 ：据中国海事局网站消息，大连海事局发布航行警告，11月15日16时至29日16时，渤海海峡黄海北部部分海域执行军事任务，禁止驶入。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIl3cgAmUyUXC1X6t9LWnr261115.shtml",
+          "published": "Sun, 15 Nov 2026 01:25:57 GMT"
+        },
+        {
+          "title": "【8点见】网民反映“一河道河水变蓝”，海南儋州生态环境局通报",
+          "summary": "央视网消息： 每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·中美举行中美经贸磋商机制项下贸易理事会首次会议。 ·2026年版国家基本医保药品目录发布，新增107种药品。 ·今年1至10月全国铁路发送旅客41.3亿人次，创历史同期新高。 ·我国新增3处世界地质遗产地，分别为：重庆云阳中侏罗世恐龙化石群、四川鲜水河断裂、安徽大别山三叠纪超高压变质带。至此，我国共有13处入选。 ·我国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIyotm6qetHIY0h9kroSQU261114.shtml",
+          "published": "Sun, 15 Nov 2026 00:06:20 GMT"
+        },
+        {
+          "title": "以高质量党建引领企业高质量发展——习近平总书记重要指示为进一步加强国有企业党的建设指明了方向",
+          "summary": "习近平总书记近日对国有企业党的建设工作作出重要指示强调：“深入贯彻党的二十届五中全会部署，坚持和加强党对国有企业的全面领导，持之以恒推进全面从严治党，以高质量党建引领企业高质量发展。” 习近平总书记重要指示立意高远、精辟深邃，为进一步加强国有企业党的建设指明了方向。广大党员干部表示，新征程上，将全面贯彻习近平党建思想，深入学习贯彻党的二十届五中全会精神，以更高标准、更实举措抓好国有企业党的建设，不",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIwPSBvbD9KITQCnroARUh261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:10:13 GMT"
+        },
+        {
+          "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+          "summary": "英伟达创始人黄仁勋的离职，无疑是近期科技界最大的一场地震。在这场看似突如其来的人事巨震背后，却隐藏着一场精心策划的“猎杀行动”。 究竟是谁在幕后扣动了扳机？随着更多细节的浮出水面，两股力量逐渐显露在聚光灯下：修改机密备忘录的美国国务卿鲁比奥，以及向媒体频频“递刀子”的AI竞争对手Anthropic。 从政策层面看，争议核心在于AI芯片管控的路径之争。 芯片出口管制派系美国多年来寻求切断英伟达与海外",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785952",
+          "published": "Sun, 15 Nov 2026 02:42:34 GMT"
+        },
+        {
+          "title": "射击教练被控走私武器案二审开庭 激辩罪与非罪",
+          "summary": "辩护律师表示，涉案全部配件加在一起都不可能组装成一套枪支，并且田红以形式上的“违法”润滑了僵化体制之下独家供应商无法满足实际需求的局面 【财新网】 备受关注的国家级射击教练田红被控走私武器案，近日二审开庭。此前，田红及其子付义涵被认定走私入境气瓶等枪支散件2446件，一审分别获判有期徒刑10年、6年。（详见财新周刊：《 射击教练何以卷入走私武器案 》） 财新从庭审现场了解到，被告人田红表示，其没有",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://photos.caixin.com/2026-11-14/102504933.html",
-          "published": "Sat, 14 Nov 2026 11:28:42 GMT"
+          "link": "https://china.caixin.com/2026-11-15/102505000.html",
+          "published": "Sun, 15 Nov 2026 03:08:04 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "“一出一进”看懂APEC故事 自贸“新变”释放区域经济新活力",
+          "summary": "[!--begin:htmlVideoCode--]fe894a7f5f874fb98e2e495dc7bd1993,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 近年来，APEC经济体之间的区域经济一体化进程加速推进。就在本月初，中国与秘鲁两国间的自贸协定升级议定书正式生效，这两个相距1.7万公里的国家，进出口贸易迎来了新的利好。从一颗中国糖",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTImV2LTe6v9lDAK0wQbzPo261115.shtml",
+          "published": "Sun, 15 Nov 2026 04:17:30 GMT"
+        },
+        {
+          "title": "【全球CEO对话中国】打造流畅一体化出行 中国引领全球数字旅游发展",
+          "summary": "[!--begin:htmlVideoCode--]ccc2f1aa1e774074bda78044ad1415ee,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 从“看风景”到“品生活”，从“单向客源”到“双向奔赴”，当中国的免签政策让“说走就走”成为可能，中国市场在欧洲旅游业眼中正在发生怎样的变化？ 欧洲旅游协会总部位于比利时布鲁塞尔，拥有",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIzVOCPa5xk9uhu1Z4nJCC261115.shtml",
+          "published": "Sun, 15 Nov 2026 04:16:42 GMT"
+        },
+        {
+          "title": "那台CT机的故事",
+          "summary": "青海湟源县人民医院院史馆，摆放着一台老CT机。“这是县里第一台CT机。”院长黄炯抚摸着泛黄的机身感慨。 这台老CT机不仅造福了湟源百姓，更见证了一段跨越国界的友谊。 “这是大卫先生在2000年捐赠给县医院的。”那会儿，黄炯刚到县医院工作，“我从小在湟源长大，听说过很多大卫先生捐赠医疗设备的故事。” 美国人柏大卫，1931年出生，刚满周岁时随父母来到湟源，在这里长大成人。柏大卫说，湟源是他“唯一的故",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIP0x7UE8zYly46FHsIG6s261115.shtml",
+          "published": "Sun, 15 Nov 2026 03:30:19 GMT"
+        },
+        {
+          "title": "香港首个五年规划落地提速（香江在线）",
+          "summary": "香港北部都会区，工地一派繁忙。塔吊高耸，工程车辆穿梭，一座座建筑拔地而起。展板上，北部都会区（以下简称“北都”）规划图清晰铺展。蓝图与施工现场相互映照，让人直观感受到这片土地的发展脉动。 日前，外交部驻港公署和香港特区政府共同组织外国驻港总领事及代表访问北都，感受“一国两制”在香港的成功实践，探寻合作新机遇。俄罗斯驻港总领事阿纳托利感慨，北都各项规划落实速度之快令人印象深刻。 今年9月，《香港特别",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIqOHEHijQXaLgLeQoi2ZK261115.shtml",
+          "published": "Sun, 15 Nov 2026 03:28:51 GMT"
+        },
+        {
+          "title": "深圳筹备亚太经合组织领导人会议周扫描",
+          "summary": "原标题：新华鲜报·聚焦APEC｜当好东道主 喜迎APEC —— 深圳筹备亚太经合组织领导人会议周扫描 这些天，行走在深圳大街小巷，“当好东道主 喜迎APEC”等主题海报随处可见，精心打造的主题花艺景观次第铺展，公交车也换上专属涂装…… 11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。APEC“中国年”最后一次高官会、APEC工商咨询理事会会议、APEC工商领导",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIfvFq5PssPwwwYPMWtOfg261115.shtml",
+          "published": "Sun, 15 Nov 2026 03:27:22 GMT"
+        },
+        {
+          "title": "时政微观察丨三个关键词解码APEC“中国年”",
+          "summary": "亚太潮涌，同舟扬帆。全球目光聚焦中国鹏城。 11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。国家主席习近平将主持会议并发表讲话。 今年是中国时隔12年再次担任APEC东道主。“中方愿以此为契机，同各方携手构建亚太共同体，促进亚太地区增长和繁荣”。去年在韩国庆州出席亚太经合组织第三十二次领导人非正式会议东道主交接环节时，习近平主席向亚太各方发出郑重邀约。 作为区",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTI5jCBFlP4aEpVPfSmzhIT261115.shtml",
+          "published": "Sun, 15 Nov 2026 02:39:53 GMT"
+        },
+        {
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "summary": "在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APEC经济体领导人将出席峰会并发表演讲、致辞或参与专题研讨。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTI9hstbALxiVpZ2hNULifl261115.shtml",
+          "published": "Sun, 15 Nov 2026 02:36:02 GMT"
+        },
+        {
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "summary": "央视网消息 ：据“中国铁路”微信公众号消息，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%、1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑，“中国铁路物流”的品牌影响力、市场竞争力和客户满意度持续提升。 一是重点物资运输保障有力。 充分发挥全国铁路“一张网”、运输集中统一调度指挥的优势，加大晋、陕、蒙、新主产区煤炭外运力度，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIDKks8xGalrkktPrsl02L261115.shtml",
+          "published": "Sun, 15 Nov 2026 01:22:13 GMT"
+        },
+        {
+          "title": "签署中奥社保协定有何意义？人社部相关负责人详解",
+          "summary": "新华社北京11月14日电 题：为中奥友好战略伙伴关系注入民生新内涵——人力资源社会保障部就中奥社保协定答记者问 新华社记者 我国与奥地利共和国11月6日签署了《中华人民共和国政府和奥地利共和国政府社会保障协定》。中奥社保协定为何签署？对保障两国企业和就业人员的社会保险权益有何积极作用？人力资源社会保障部相关司局负责人就有关问题回答了记者提问。 问：签署中奥社保协定的背景是什么？ 答：社会保障是保障",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTICEnJMqEl146CjMcY4VOm261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:17:12 GMT"
+        },
+        {
+          "title": "公厕建成后闲置多年 当地回应：因预算和水源不足",
+          "summary": "近日，有湖南网友反映，邵阳市城步县南山风景名胜区公共厕所建成后闲置多年。该网友称，通过询问周边当地群众，得知该公厕已建成多年，自完工后便长期封闭，始终未对外开放投入使用，“从建设规格、装修标准来看，该公厕建设投入巨大，初步估算建设成本至少需要五六十万元。” 11月14日，湖南省南山牧场旅游投资开发有限责任公司在“问政湖南”上答复称，大坪公厕项目是南山国家公园体制试点区的基础设施项目。当时，南山国家",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIBGCe4kp7tJZpqT9xH2PY261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:06:57 GMT"
+        },
+        {
+          "title": "七年国谈亲历者：好药能进医保 早已不是光靠降价了",
+          "summary": "一年一度的国家基本医保目录调整结果揭晓。 同一份目录，有两拨人盯着，患者关注的是常吃的药在不在、往后一个月能少掏多少钱；药企盯的是熬了很多年研发出来的新药，能不能进得去。 今年目录共新增107 种药品，其中 1 类创新药达 51 个，数量再创历史新高。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需领域。 “国谈体系持续走向透明、高效、精准，早期更多是药企与支付方基于各自诉求开展协商，一方",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIusDecUGOLq2736ZoLxsS261115.shtml",
+          "published": "Sat, 14 Nov 2026 22:45:21 GMT"
+        },
+        {
+          "title": "未经同意读取用户手机相册 意大利对Meta罚款超8亿欧元",
+          "summary": "当地时间11月14日，意大利个人数据保护局宣布，对美国元宇宙平台公司（Meta）旗下的Meta爱尔兰公司处以8.05亿欧元（约合人民币59亿元）罚款，原因是该公司通过安卓设备上的脸书（Facebook）应用程序，在未取得专项同意、未充分告知用户的情况下，访问意大利用户手机中存储的照片、视频及相关元数据。 意大利个人数据保护局表示，涉事功能自2023年推出，将用户手机相册中的照片和视频作为推荐发布的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIbvFrrCXRkQ9px0K2gUAN261115.shtml",
+          "published": "Sat, 14 Nov 2026 22:26:04 GMT"
+        },
+        {
+          "title": "央行释放稳汇率信号",
+          "summary": "随着央行宣布上调金融机构外汇存款准备金率，短期内人民币汇率快速升值态势将暂告一段落。 今年以来，人民币汇率持续走强。其中，美元兑人民币汇率最强达到6.64附近，升值幅度达到4.91%，人民币汇率指数为103.77，年初以来升值5.9%。强势的汇率增强了私人部门结汇意愿，对冲了全球发达经济体货币政策收紧导致的国际资本流动性波动。 然而，我国结售汇顺差存在明显的季节性，每年年末到次年春节前都是结汇的高",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785956",
+          "published": "Sun, 15 Nov 2026 05:11:39 GMT"
+        },
+        {
+          "title": "本周市场的“意外”：美债收益率与科技股债同涨",
+          "summary": "美债收益率大幅跳升的同时，科技股与信用债同步反弹。这一\"异常共振\"打破了市场对高利率压制风险资产的传统预期，也令投资者对这一组合能否持续心存疑虑。 追风交易台消息，11月13日，野村证券策略师Naka Matsuzawa研报指出， 科技股的反弹更可能只是此前大幅下跌后的技术性修复 ，对AI投资回报能够覆盖当前利率水平的信心实际上并未重建。 分析认为，这一组合的可持续性，将是未来一周市场的核心议题。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785953",
+          "published": "Sun, 15 Nov 2026 03:41:47 GMT"
+        },
+        {
+          "title": "芯片股刚刚创下4月以来最大单周涨幅，对冲基金却又“逢高减持”",
+          "summary": "芯片股强劲反弹，对冲基金却选择加码做空。这一反常信号，正在成为市场能否持续走高的核心悬念。 费城半导体指数上周单周涨幅逾8%，创下4月以来最佳表现，标普500指数同期上涨2.5%。然而据高盛最新Prime Brokerage周报，对冲基金连续第二周净卖出美股，且本周的卖出以新建空头为主，与上周的多头平仓性质截然不同。换言之，机构投资者利用芯片股最强反弹周之一，大举押注个股下行。 在标普500单周回",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785954",
+          "published": "Sun, 15 Nov 2026 02:53:37 GMT"
+        },
+        {
+          "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+          "summary": "英伟达创始人黄仁勋的离职，无疑是近期科技界最大的一场地震。在这场看似突如其来的人事巨震背后，却隐藏着一场精心策划的“猎杀行动”。 究竟是谁在幕后扣动了扳机？随着更多细节的浮出水面，两股力量逐渐显露在聚光灯下：修改机密备忘录的美国国务卿鲁比奥，以及向媒体频频“递刀子”的AI竞争对手Anthropic。 从政策层面看，争议核心在于AI芯片管控的路径之争。 芯片出口管制派系美国多年来寻求切断英伟达与海外",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785952",
+          "published": "Sun, 15 Nov 2026 02:42:34 GMT"
+        },
+        {
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "summary": "APEC领导人非正式会议深圳举行，中美俄元首是否会晤备受关注；英伟达公布黄仁勋辞任后首份财报，临时CEO主持电话会，同日黄仁勋赴国会听证；Anthropic IPO获六倍超额认购，即将在纳斯达克挂牌；百度、京东、腾讯、阿里接力披露财报；中国10月经济数据集中披露。此外，关注沃什AI听证会、微软开发者大会。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960177",
+          "published": "Sun, 15 Nov 2026 02:18:35 GMT"
+        },
+        {
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785932",
+          "published": "Sun, 15 Nov 2026 02:10:34 GMT"
+        },
+        {
+          "title": "2027见闻历，财经人的桌面必备“神历”",
+          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "published": "Sun, 15 Nov 2026 02:06:35 GMT"
+        },
+        {
+          "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
+          "summary": "SpaceX首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收 ，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。 北京时间11月15日周日，星舰上级在完成14圈绕地飞行后重返大气层，被得克萨斯州 Starbase 基地发射塔上“Mechazilla”巨型机械臂稳稳夹住",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785950",
+          "published": "Sun, 15 Nov 2026 01:30:29 GMT"
+        },
+        {
+          "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
+          "summary": "11月14日，首届中国资本市场学术年会在上海举行，中国证监会主席吴清在开幕式上发表致辞。 因为是学术年会，所以吴清这次讲话并没有过多涉及A股短期市场走势，也没有直接释放具体的政策利好，而是“抛砖引玉”，围绕中国资本市场发展中的一些基础性问题展开讨论。 吴清提到，资本市场形势变化快，有不少“两难”“多难”问题需要冷静观察、加强跟踪分析，同时加快理论创新，拿出有效应对之策。 这段讲话值得关注的地方，不",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785951",
+          "published": "Sun, 15 Nov 2026 01:11:42 GMT"
+        },
+        {
+          "title": "金融机构外汇存款准备金率今起提高至6%",
+          "summary": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。（央视新闻）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3200152",
+          "published": "Sun, 15 Nov 2026 01:08:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "浙江武义：非遗斗牛庆丰收",
+          "summary": "浙江武义：非遗斗牛庆丰收 11月14日，浙江武义，一年一度的民间传统斗牛庆丰收活动在白姆乡白鹤殿雨雾中举行。当日为期两天的白姆乡白鹤殿斗牛鸣锣开赛。武义白姆乡白鹤殿斗牛有1000多年历史，被列入浙江省第二批非物质文化遗产名录。当天，来自金华、永康、丽水缙云和本县各地彪悍善斗的黄牯牛，通过抓阄捉对厮杀，善斗的黄牛在水田里圆目怒视、蹬腿顶角、奋力争斗，现场擂鼓鸣锣、泥浆四溅、喊声雷动，以此烘托热闹气氛",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/11/15/PHOAXPbmRG5PWRHQHIbONlTe261115.shtml",
+          "published": "Sun, 15 Nov 2026 02:02:46 GMT"
+        },
+        {
+          "title": "家校共育 不能变了味",
+          "summary": "[!--begin:htmlVideoCode--]69e686574bf24fbbbbea303cd1ef2b9b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 家校共育，本意是学校家庭同向发力，守护孩子成长。可现实当中，个别地方家校共育走偏变味，把学校该承担的任务摊派给家长，将本该自愿参与的家校活动变成硬性任务。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTINdO8kutOuHDXhYxV2TjP261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:40:07 GMT"
+        },
+        {
+          "title": "执行风云：万元同学债",
+          "summary": "[!--begin:htmlVideoCode--]4ff1f0bb05a8493e8ccdf4e8606ed428,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 男子给大学同学陈某借款一万多元，可陈某欠钱长期不还，法院判决生效后更是隐踪匿迹，躲避执行。得知被执行人陈某当晚可能回家，执行法官连夜赶往成都陈某住处。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIaoWuxtPmLXUlmo96buTh261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:28:47 GMT"
+        },
+        {
+          "title": "续航仅两三百公里还不如纯电汽车 电动飞机有戏吗？",
+          "summary": "一架客机，把机翼下挂的喷气发动机换成“电吹风”，一边五个，一共十个。恭喜你，你发明了电动客机！ 新华社 发 今天（11月14日），我国自主研制的10吨级电动商用飞机CE-25A在山东滨州完成首次有人驾驶智能飞行。 搭载2名飞行员、1名试飞工程师，一共飞了16分38秒、60.4公里，各项指标符合预期。 早在今年2月2日，这架由中国商飞联合宁德时代、上海交通大学等共同研制的、奇奇怪怪的纯电飞机，就进行",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIH3rXiRm20qIiQZPQ96dJ261115.shtml",
+          "published": "Sat, 14 Nov 2026 23:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "七年国谈亲历者：好药能进医保 早已不是光靠降价了",
+          "summary": "一年一度的国家基本医保目录调整结果揭晓。 同一份目录，有两拨人盯着，患者关注的是常吃的药在不在、往后一个月能少掏多少钱；药企盯的是熬了很多年研发出来的新药，能不能进得去。 今年目录共新增107 种药品，其中 1 类创新药达 51 个，数量再创历史新高。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需领域。 “国谈体系持续走向透明、高效、精准，早期更多是药企与支付方基于各自诉求开展协商，一方",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIusDecUGOLq2736ZoLxsS261115.shtml",
+          "published": "Sat, 14 Nov 2026 22:45:21 GMT"
+        },
+        {
+          "title": "百万元CAR-T终进医保 中国现全球最低价",
+          "summary": "价格将由原来129万元降至略低于30万元，后续如何让更多患者使用，给予企业合理利润回报，仍面临考验 【财新网】 历经五年追逐等待，CAR-T（嵌合抗原受体T细胞免疫疗法）终于在先进入商保创新药目录一年后，以此为踏板闯关基本医保成功。2018年医保谈判开启，在纳入PD-1、ADC、罕见病等高值药品后，这款疗法何时、以多少价格进入不仅是行业悬念，更成为医保支持创新药的一个风向标，从中窥见多年来创新药价",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-15/102504990.html",
+          "published": "Sun, 15 Nov 2026 00:10:35 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "民间救援队队员被指涉嫌盗猎 救援队称系个人行为",
+          "summary": "11月13日，有野生动物保护志愿者发帖称，在福建漳州市漳浦县前亭镇巡护时发现，漳州黎明救援队一队员涉嫌盗猎，家中的笼网和冰柜藏匿多只野生鸟类。 11月14日，红星新闻联系到发帖人、野生动物保护志愿者陈先生。陈先生表示，他和其他志愿者在长期巡护中发现，黎明救援队漳浦县前亭镇的一名队员涉嫌盗猎。11月13日，他联系当地警方前去搜查。“一开始挺顺利的，警方在他家中搜查到大概20多只活体鸟类。”陈先生说，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/15/ARTIILNv4uWy2kbnb2xFkOBG261115.shtml",
+          "published": "Sat, 14 Nov 2026 22:40:36 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 50,
-    "total_collected": 40,
-    "sources": 5,
+    "total_items": 60,
+    "total_collected": 49,
+    "sources": 7,
     "source_list": [
+      "B站科技热门",
+      "Hacker News",
       "The Verge",
       "华尔街见闻",
       "央视新闻",
-      "少数派",
+      "观察者网",
       "财新网"
     ],
-    "domains": 5
+    "domains": 6
   }
 }
