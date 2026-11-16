@@ -1,180 +1,260 @@
 {
-  "id": "2026-11-15-15",
-  "datetime": "2026-11-15 15:26:22",
-  "date": "2026-11-15",
-  "time": "15:26",
-  "period": "下午",
-  "summary": "本期采集 36 篇文章，来自 5 个信息源，覆盖 7 个领域，精选 52 条摘要",
+  "id": "2026-11-16-05",
+  "datetime": "2026-11-16 05:19:25",
+  "date": "2026-11-16",
+  "time": "05:19",
+  "period": "凌晨",
+  "summary": "本期采集 39 篇文章，来自 5 个信息源，覆盖 3 个领域，精选 50 条摘要",
   "domains": [
-    {
-      "name": "AI / 人工智能",
-      "summary": "",
-      "items": [
-        {
-          "title": "All AI-generated code should be Open Source",
-          "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-          "published": "Sun, 15 Nov 2026 14:46:58 +0000"
-        },
-        {
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 61 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "published": "Sun, 15 Nov 2026 12:14:06 +0000"
-        },
-        {
-          "title": "The Sony Aibo was a robot revolution dressed like a dog",
-          "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our c",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-          "published": "2026-11-15T08:57:30-05:00"
-        },
-        {
-          "title": "三年之期已到，恭迎世一上归位！【第18集】",
-          "summary": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
-          "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1uUsJ6BES6",
-          "published": "Sun, 15 Nov 2026 09:24:02 GMT"
-        },
-        {
-          "title": "汽车、芯片、算力……产业“森林”越种越密 昔日“经济洼地”蝶变跃升",
-          "summary": "[!--begin:htmlVideoCode--]89b83413fb34433994c6158d83c9d6be,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 作为APEC东道主城市，深圳有澎湃的科创活力，这种活力也不断辐射到周边城市。从深圳向东，深汕特别合作区正是一个值得细看的观察窗口。这里行政区划归属汕尾海丰，但开发建设、经济社会事务由",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIVYftNqta48Eqtm69Aagz261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:07:21 GMT"
-        },
-        {
-          "title": "带回“中国经验”寻求合作机遇 各经济体携手助推亚太合作迈上新台阶",
-          "summary": "[!--begin:htmlVideoCode--]9947d22227a0418e8899aa2861bd05cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 对于即将召开的2026年APEC工商领导人峰会，全球工商界参会嘉宾表示，期待峰会能够深化对话、推进合作、释放亚太区域增长新动能。 参会嘉宾表示，亚太区域内各经济体面临着不同的发展需求",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIQ65r7pmR96f2YAoXdigY261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:06:32 GMT"
-        },
-        {
-          "title": "【APEC面对面】相约深圳，解锁科技合作新看点 感知协同创新“加速度”",
-          "summary": "[!--begin:htmlVideoCode--]b9f903f3e12a4c63b7d4fa17954e4fe2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 从手机里的芯片到汽车里的智能应用，美国科技企业高通与中国伙伴的合作已走过三十多年。在人工智能和6G时代，双方还将碰撞出哪些新火花？相约深圳，科技合作有哪些新看点，协同创新如何跑出“加",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIruxhhqRALuKrs8ieqs4N261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:04:24 GMT"
-        },
-        {
-          "title": "最黑暗处最光明",
-          "summary": "【报 告导读 】 市场对美元紧缩预期上升，其前提是美国就业市场和经济增长持续处于高位。然而，从对美国经济增长和就业市场具有领先性的大型云厂商新增租赁承诺指标来看，在四季度时AI基建对美国就业与经济增长的拉动可能都会放缓。从过去一年的经验来看，强美元对于中国资产中非AI部分的压制明显，未来随着新兴经济体景气度的改善与美元压制的解除，中国资产中非AI领域将会出现更多的机会。 Summary 摘要 1 ",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785965",
-          "published": "Sun, 15 Nov 2026 11:11:06 GMT"
-        },
-        {
-          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
-          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785963",
-          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
-        },
-        {
-          "title": "周小川给资本市场支招：装个低通滤波器，让交易频率与基本面适配",
-          "summary": "据上海证券报报道，第十二届全国政协副主席、中国人民银行原行长、中国证监会原主席周小川11月14日在2026中国资本市场学术年会上表示，AI快速发展深刻改变资本市场人机分工，未来AI或将实现递推式自我改进（RSI），核心是设定好目标函数，锚定优化资源配置、管控风险（平衡股权与债券市场融资结构，强化股权资本损失吸收能力）、为投资者尤其是养老金提供合理回报三大目标，统筹协调政府、企业、居民等多方诉求，引",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785962",
-          "published": "Sun, 15 Nov 2026 07:55:49 GMT"
-        }
-      ]
-    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "All AI-generated code should be Open Source",
-          "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
+          "title": "Linux was created as a rejection of robust software architecture and tools",
+          "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 18 # Comments: 10",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-          "published": "Sun, 15 Nov 2026 14:46:58 +0000"
+          "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+          "published": "Mon, 16 Nov 2026 03:58:04 +0000"
         },
         {
-          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-          "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 17 # Comments: 7",
+          "title": "Qwen4-Max",
+          "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 238 # Comments: 80",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-          "published": "Sun, 15 Nov 2026 14:31:52 +0000"
+          "link": "https://qwen.ai/blog?id=qwen4-max",
+          "published": "Mon, 16 Nov 2026 02:14:44 +0000"
         },
         {
-          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-          "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 41 # Comments: 7",
+          "title": "Universal XSS in uBlock Origin from website-driven element picker",
+          "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 173 # Comments: 46",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://prog21.dadgum.com/116.html",
-          "published": "Sun, 15 Nov 2026 13:44:16 +0000"
+          "link": "https://iter.ca/post/ubo-uxss/",
+          "published": "Mon, 16 Nov 2026 02:04:48 +0000"
         },
         {
-          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-          "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 102 # Comments: 56",
+          "title": "Coles hit by a cybersecurity incident",
+          "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 80 # Comments: 59",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-          "published": "Sun, 15 Nov 2026 13:15:22 +0000"
+          "link": "https://www.colesgroup.com.au/updates/",
+          "published": "Mon, 16 Nov 2026 01:14:35 +0000"
         },
         {
-          "title": "A NES emulator written in Odin",
-          "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 31 # Comments: 0",
+          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+          "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 86 # Comments: 21",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://lucypero.com/lucynes.html",
-          "published": "Sun, 15 Nov 2026 12:51:47 +0000"
+          "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+          "published": "Mon, 16 Nov 2026 00:21:54 +0000"
         },
         {
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 61 # Comments: 0",
+          "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+          "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 13 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "published": "Sun, 15 Nov 2026 12:14:06 +0000"
+          "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "published": "Mon, 16 Nov 2026 00:03:12 +0000"
         },
         {
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-          "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 P",
+          "title": "What's Next for Nvidia?",
+          "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 147 # Comments: 186",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-          "published": "Sun, 15 Nov 2026 11:40:51 +0000"
+          "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+          "published": "Sun, 15 Nov 2026 23:55:55 +0000"
         },
         {
-          "title": "Why did some Apollo missions carry a grenade launcher?",
-          "summary": "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 122 # Comments: 75",
+          "title": "Mini.nvim Is Now on Tangled",
+          "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 47 # Comments: 13",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://space.stackexchange.com/questions/37775",
-          "published": "Sun, 15 Nov 2026 09:06:43 +0000"
+          "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+          "published": "Sun, 15 Nov 2026 23:55:41 +0000"
         },
         {
-          "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展",
-          "summary": "[!--begin:htmlVideoCode--]b769da85400f4d3b9b27c98c0059d9af,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：亚太经合组织是亚太地区层级最高、领域最广、影响力最大的经济合作机制。作为亚太大家庭一员，中国始终与区域伙伴共享机遇、协同发展。11月18日至19日，亚太经合组织第三十三次",
+          "title": "Preserving 30 years of Salon journalism",
+          "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 114 # Comments: 32",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIu7Rnd4dgZCodi1wUsq84261115.shtml",
-          "published": "Sun, 15 Nov 2026 11:57:31 GMT"
+          "source": "Hacker News",
+          "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+          "published": "Sun, 15 Nov 2026 23:00:11 +0000"
         },
         {
-          "title": "国际能源署署长：可获得、可负担 中国清洁能源发展助力全球能源转型",
-          "summary": "[!--begin:htmlVideoCode--]dabb65beecf946dfa77d5ad8c4deeed6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《联合国气候变化框架公约》第三十一次缔约方大会期间，能源转型成为各国代表关注的一大焦点。国际能源署署长法提赫·比罗尔表示，如何统筹能源安全与绿色转型是各国面临的共同课题，中国清洁能源",
+          "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+          "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 64 # Comments: 10",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIhATahAFI2wRmQdThZZAK261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:03:29 GMT"
+          "source": "Hacker News",
+          "link": "https://lastcomplication.com/",
+          "published": "Sun, 15 Nov 2026 22:48:52 +0000"
+        },
+        {
+          "title": "Old Bitly links are being hijacked",
+          "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 221 # Comments: 123",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+          "published": "Sun, 15 Nov 2026 22:11:43 +0000"
+        },
+        {
+          "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
+          "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据 新华社 报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于 最高戒备状态 。伊朗外交部发言人巴加埃随后在例行记者会上表示，伊朗打击在巴林的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785974",
+          "published": "Mon, 16 Nov 2026 00:15:57 GMT"
+        },
+        {
+          "title": "特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克",
+          "summary": "美国又一位科技大佬被盯上了。两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求其保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。欧美媒体提到，在赢得中期选举后，民主党承诺将对特朗普政府和与特朗普关系密切的知名商业高管展开全面调查，其中包括马斯克。《纽约时报》称，民主党人已开始制定一项针对特朗普政府的强硬监督议程。随着美国总统的商业伙伴和盟友在法庭上对",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785973",
+          "published": "Sun, 15 Nov 2026 23:54:30 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Tell HN: HN is being scraped for emails to scam",
+          "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or thei",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50513451",
+          "published": "Mon, 16 Nov 2026 02:53:30 +0000"
+        },
+        {
+          "title": "Qwen4-Max",
+          "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 238 # Comments: 80",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://qwen.ai/blog?id=qwen4-max",
+          "published": "Mon, 16 Nov 2026 02:14:44 +0000"
+        },
+        {
+          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+          "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 86 # Comments: 21",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+          "published": "Mon, 16 Nov 2026 00:21:54 +0000"
+        },
+        {
+          "title": "Apple launches new app to study how people use AI for health",
+          "summary": "Apple's new app for a study will answer everyday medical questions",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "published": "Mon, 16 Nov 2026 01:30:00 +0000"
+        },
+        {
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000"
+        },
+        {
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "published": "Sun, 15 Nov 2026 21:56:35 +0000"
+        },
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "published": "2026-11-15T20:26:56-05:00"
+        },
+        {
+          "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
+          "summary": "全球制造、公用事业与矿业企业自今年6月以来市值合计蒸发4.2万亿美元， 这场抛售几乎抹去了此前12个月内同类企业所积累的9.4万亿美元涨幅的近半数， 曾风靡一时的AI“卖铲”交易正在急速逆转。 据英国《金融时报》分析，在媒体报道中与数据中心建设关联度越高的企业，遭受的冲击越为惨烈。投资者对AI热潮的信心正在动摇，从适配超大规模数据中心的燃气发电机组制造商，到连接AI服务器机架所需的高端光纤企业，此",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785978",
+          "published": "Mon, 16 Nov 2026 04:10:55 GMT"
+        },
+        {
+          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
+          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
+          "published": "Mon, 16 Nov 2026 03:29:34 GMT"
+        },
+        {
+          "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
+          "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSC",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785994",
+          "published": "Mon, 16 Nov 2026 03:21:57 GMT"
+        },
+        {
+          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+          "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785982",
+          "published": "Mon, 16 Nov 2026 01:20:08 GMT"
+        },
+        {
+          "title": "金铜为何同跌？",
+          "summary": "上周黄金与铜价同步承压。国际金价跌破4000美元/盎司，LME铜价降至13610美元/吨，处于近四个月以来的低位 。两类资产同时回落，表面上都受到美元走强和美债收益率上升影响，但背后对应的宏观含义并不完全相同： 黄金更多反映通胀和利率预期变化；铜价除受到金融条件影响外，还叠加了AI需求预期降温、美国铜关税溢价回落以及高价对现实需求的抑制。 具体来看，黄金近期的调整反映利率预期或重新成为主导，我们可",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785981",
+          "published": "Mon, 16 Nov 2026 01:17:18 GMT"
+        },
+        {
+          "title": "黄仁勋离职 印度人跳起了宝莱坞",
+          "summary": "过去两年华尔街论证一件事：AI会杀死印度。 今年2月，Anthropic的Claude Code接连发布新功能，印度的Nifty IT指数一个月暴跌两成。华尔街甚至写出一份危机假想报告：2028年印度将向IMF求援；投行扎堆下调印度展望，外资十个月净撤逾300亿美元。背后的逻辑是芯片涨、印度跌，AI越强、外包死。 但这个叙事只有一个bug——它假设AI永远只涨不跌。 11月，bug被触发了。美国民",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785972",
+          "published": "Mon, 16 Nov 2026 00:27:57 GMT"
+        },
+        {
+          "title": "AI设备商的利润，究竟是靠技术赚来的，还是靠缺货赚来的？",
+          "summary": "AI基础设施设备商仍在享受历史罕见的繁荣。10月底，数据中心电力与散热设备龙头Vertiv交出漂亮的三季报：收入同比增长61%，有机订单增长超过100%，调整后营业利润率达到25.2%。Eaton、GE Vernova等企业的订单同样强劲。过去几年，云厂商不惜代价争抢算力建设窗口，电力、制冷和配套设备的交付能力成为稀缺资源，制造商得以同时享受收入增长、产品溢价与规模效应。 然而，11月的几件事情让",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785883",
+          "published": "Mon, 16 Nov 2026 00:23:05 GMT"
+        },
+        {
+          "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
+          "summary": "黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。 11月15日，据英国《金融时报》报道，黄仁勋已与亲信讨论重返CEO职位的可能性，其盟友正在硅谷组建\"战情室\"，游说英伟达董事会将其复职，并计划争取白宫支持。与此同时，美国财政部长贝森特周日在福克斯新闻节目上明确表态，英伟达需要\"大刀阔斧的领导层变革\"",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785975",
+          "published": "Mon, 16 Nov 2026 00:17:14 GMT"
+        },
+        {
+          "title": "存储“调整过度”？",
+          "summary": "高盛承认，“市场某些板块的盈利明显过高”，并且“确定中期盈利增长最终稳定在何处的过程……已被证明是痛苦的”。但关键在于：在某些板块，高盛认为估值调整已经过度。韩国股市就是一个典型的例子，其股价目前已反映了盈利下滑的预期： “某些领域的估值现在要求对2027年的盈利进行大幅下调，这意味着任何对人工智能基本面信心的重新燃起都可能推动内存股价格翻番。” 高盛韩国研究团队的图表显示： 以韩国综合股价指数（",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960183",
+          "published": "Mon, 16 Nov 2026 00:03:21 GMT"
+        },
+        {
+          "title": "11月16日会员早报：SpaceX首次用“筷子”从轨道夹回星舰二级 特斯拉首次向个人开售Cybercab",
+          "summary": "1、【SpaceX首次用“筷子”从轨道夹回星舰二级】马斯克旗下的火箭与人工智能公司SpaceX，第一次把巨型火箭“星舰”（Starship）的第二级从轨道上完整带回，并用发射塔上一对被称为“筷子”的机械臂在半空中夹住了它。至此，SpaceX已经分别接住过星舰的上下两级，只是还没有在同一次飞行中做到。这让它离航天业的“圣杯”——一枚完全可复用的火箭——只差最后一步。 2、【特斯拉首次向个人开售Cyb",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785970",
+          "published": "Sun, 15 Nov 2026 23:49:10 GMT"
         }
       ]
     },
@@ -183,299 +263,179 @@
       "summary": "",
       "items": [
         {
-          "title": "习近平：携手共建亚太命运共同体",
-          "summary": "携手共建亚太命运共同体 ※ 习近平 一 亚太各经济体利益交融，命运与共，一荣俱荣，一损俱损。在这个动态平衡的链条中，每个经济体的发展都会对其他经济体产生连锁反应。我们要牢固树立亚太命运共同体意识，以自身发展带动他人发展，以协调联动最大限度发挥各自优势，传导正能量，形成各经济体良性互动、协调发展的格局。 （2013年10月7日在印度尼西亚巴厘岛举行的亚太经合组织工商领导人峰会上的演讲） 2014年1",
+          "title": "“要把非洲产品卖到中国总共分几步？三步……”",
+          "summary": "卢旺达的咖啡与辣椒、南非的鸵鸟皮手袋、索马里的畜牧资源、赞比亚的工艺品……在刚刚落幕的第九届中国国际进口博览会上，来自非洲大陆的各色商品吸引了众多目光，也为中非经贸合作打开了更多想象空间。 而今年5月1日起，中国对53个非洲建交国全面实施零关税政策，更为非洲产品进入中国市场推开了一扇新的机遇之门。 不过，关税减免只是一个新的起点。 从展台走向市场，从初级产品出口迈向品牌化、产业化发展，非洲好物如何",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIxdiHyBpf7YRcuYsx7bY3261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:37:49 GMT"
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+          "published": "Mon, 16 Nov 2026 03:32:00 GMT"
         },
         {
-          "title": "同舟共济：开放的深圳与亚太共赴新程",
-          "summary": "南海之滨，潮涌鹏城。11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。这是中国第三次担任APEC东道主，也是深圳这座“奇迹之城”在世界舞台上的又一次高光时刻。本次会议以“建设亚太共同体，促进共同繁荣”为主题，将“开放、创新、合作”作为三大优先领域。盛会即将启幕之际，人民网特别策划推出“亚太经济合作看深圳”系列稿件，分别从开放、创新、合作三个维度，透视这座未来之城",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIo9kA5XKQs6CnN0elRF6D261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:32:22 GMT"
-        },
-        {
-          "title": "一见·当APEC“中国年”遇见“十五五”开局之年",
-          "summary": "南海之滨，湾区潮涌。习近平主席将出席亚太经合组织第三十三次领导人非正式会议及相关活动。 2025年11月，韩国庆州。习近平主席在亚太经合组织第三十二次领导人非正式会议东道主交接环节宣布，中国将于2026年11月在广东省深圳市举办APEC第三十三次领导人非正式会议。 2026年，APEC合作进入“中国时间”；这一年，也是“十五五”开局之年。 当APEC“中国年”与“十五五”开局之年相遇，“不断以中国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIfHsZ8Zd0ErCCOaCTk2ob261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:31:05 GMT"
-        },
-        {
-          "title": "【数说APEC】中国生态治理经验为亚太增“绿”",
-          "summary": "[!--begin:htmlVideoCode--]8b0696ae9beb492c92e7c200df935fd7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：最新数据显示，中国近十年一直是全球森林面积年均净增长最多的国家。来自中国的生态治理经验，如今也在为亚太地区增“绿”。 如今，到曼谷邦加巢骑行，成为不少外国游客喜爱的体验。",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIhTmFSXaKIpS5C3K0ltJ4261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:04:40 GMT"
-        },
-        {
-          "title": "2026年APEC工商领导人峰会准备就绪",
-          "summary": "[!--begin:htmlVideoCode--]4e3d930ce7044eccb8278ed8293c0145,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从11月15日举行的2026年APEC工商界活动专题新闻发布会上了解到，2026年APEC工商领导人峰会将于11月17日—18日在深圳举行，目前各项筹备工作已就绪。 ",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIlnFYuscSsMA42uxa2mFx261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:04:32 GMT"
-        },
-        {
-          "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展",
-          "summary": "[!--begin:htmlVideoCode--]b769da85400f4d3b9b27c98c0059d9af,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：亚太经合组织是亚太地区层级最高、领域最广、影响力最大的经济合作机制。作为亚太大家庭一员，中国始终与区域伙伴共享机遇、协同发展。11月18日至19日，亚太经合组织第三十三次",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIu7Rnd4dgZCodi1wUsq84261115.shtml",
-          "published": "Sun, 15 Nov 2026 11:57:31 GMT"
-        },
-        {
-          "title": "汽车、芯片、算力……产业“森林”越种越密 昔日“经济洼地”蝶变跃升",
-          "summary": "[!--begin:htmlVideoCode--]89b83413fb34433994c6158d83c9d6be,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 作为APEC东道主城市，深圳有澎湃的科创活力，这种活力也不断辐射到周边城市。从深圳向东，深汕特别合作区正是一个值得细看的观察窗口。这里行政区划归属汕尾海丰，但开发建设、经济社会事务由",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIVYftNqta48Eqtm69Aagz261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:07:21 GMT"
-        },
-        {
-          "title": "用语言“架桥”迎接APEC盛会 志愿者向世界递出一张有“温度”的名片",
-          "summary": "[!--begin:htmlVideoCode--]0a84b158b20b4d12b6c544007052a51f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 迎接APEC盛会，深圳420万注册志愿者投身城市服务保障。其中，一支4000多人的专项外籍志愿者队伍格外亮眼。他们来自不同国家，掌握多语种，在口岸、枢纽、商圈、邮轮母港一线，用语言“",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIZbIZxXoYxbVZLGVIggZt261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:06:50 GMT"
-        },
-        {
-          "title": "带回“中国经验”寻求合作机遇 各经济体携手助推亚太合作迈上新台阶",
-          "summary": "[!--begin:htmlVideoCode--]9947d22227a0418e8899aa2861bd05cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 对于即将召开的2026年APEC工商领导人峰会，全球工商界参会嘉宾表示，期待峰会能够深化对话、推进合作、释放亚太区域增长新动能。 参会嘉宾表示，亚太区域内各经济体面临着不同的发展需求",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIQ65r7pmR96f2YAoXdigY261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:06:32 GMT"
-        },
-        {
-          "title": "国际能源署署长：可获得、可负担 中国清洁能源发展助力全球能源转型",
-          "summary": "[!--begin:htmlVideoCode--]dabb65beecf946dfa77d5ad8c4deeed6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《联合国气候变化框架公约》第三十一次缔约方大会期间，能源转型成为各国代表关注的一大焦点。国际能源署署长法提赫·比罗尔表示，如何统筹能源安全与绿色转型是各国面临的共同课题，中国清洁能源",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIhATahAFI2wRmQdThZZAK261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:03:29 GMT"
-        },
-        {
-          "title": "从“共同守护”到“共享保护” 亚太生态合作在山海间传递拓展新空间",
-          "summary": "[!--begin:htmlVideoCode--]2470b82c68614fdebb4d0cde3c6a46bf,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 亚太经合组织第三十三次领导人非正式会议即将在深圳举办，APEC“中国年”迎来重要时刻。回望这一年，在21个成员经济体的交流与讨论中，哪些共同关切正在浮现？来看一件关乎未来的议题——生",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTILRJYMFWKHavsEPGt7Ghm261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:02:51 GMT"
-        },
-        {
-          "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
-          "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全",
+          "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
+          "summary": "全球制造、公用事业与矿业企业自今年6月以来市值合计蒸发4.2万亿美元， 这场抛售几乎抹去了此前12个月内同类企业所积累的9.4万亿美元涨幅的近半数， 曾风靡一时的AI“卖铲”交易正在急速逆转。 据英国《金融时报》分析，在媒体报道中与数据中心建设关联度越高的企业，遭受的冲击越为惨烈。投资者对AI热潮的信心正在动摇，从适配超大规模数据中心的燃气发电机组制造商，到连接AI服务器机架所需的高端光纤企业，此",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785968",
-          "published": "Sun, 15 Nov 2026 13:08:47 GMT"
+          "link": "https://wallstreetcn.com/articles/3785978",
+          "published": "Mon, 16 Nov 2026 04:10:55 GMT"
         },
         {
-          "title": "如果调查证明没有违法，黄仁勋应该重任英伟达CEO？",
-          "summary": "知名投资人David Friedberg认为，若黄仁勋未违反法律，即便存在行为准则违规或未向董事会履行披露义务，股东仍可选择忽略这些问题并让其回归CEO职位。",
+          "title": "如何定价“政府债取消免税”",
+          "summary": "11月11日，央行发布三季度货币政策执行报告，设专栏《国际利率水平比较》，其中明确指出“国债免征所得税使纳税投资者愿意接受低于应税债券的收益率”，“比较利率时需还原税收因素的影响”。 这一表态，让政府债利息所得税免税取消的预期再度升温。政金债、二级资本债、永续债、信用债随即出现不同程度的调整。消息发布后，10年国债中债估值单日上行0.7BP，政金债调整幅度更为明显——11月11日至13日，10年国",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960182",
-          "published": "Sun, 15 Nov 2026 11:34:41 GMT"
+          "link": "https://wallstreetcn.com/articles/3785995",
+          "published": "Mon, 16 Nov 2026 04:08:41 GMT"
         },
         {
-          "title": "最黑暗处最光明",
-          "summary": "【报 告导读 】 市场对美元紧缩预期上升，其前提是美国就业市场和经济增长持续处于高位。然而，从对美国经济增长和就业市场具有领先性的大型云厂商新增租赁承诺指标来看，在四季度时AI基建对美国就业与经济增长的拉动可能都会放缓。从过去一年的经验来看，强美元对于中国资产中非AI部分的压制明显，未来随着新兴经济体景气度的改善与美元压制的解除，中国资产中非AI领域将会出现更多的机会。 Summary 摘要 1 ",
+          "title": "堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做",
+          "summary": "堪萨斯城联储主席施密德（Jeff Schmid）上周日（11月15日）表示，当前通胀水平令人不安，美联储仍有工作要做，但他并未明确呼吁进一步加息。这是继芝加哥联储古尔斯比、纽约联储威廉姆斯及美联储主席沃什（Kevin Warsh）相继发声后，又一位联储官员就通胀问题公开表态。 据彭博、路透和CNBC报道，施密德在夏威夷一场信贷联盟会议上发表书面讲话称，美联储偏爱的物价指标9月同比上涨 3.6% ，",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785965",
-          "published": "Sun, 15 Nov 2026 11:11:06 GMT"
+          "link": "https://wallstreetcn.com/articles/3785996",
+          "published": "Mon, 16 Nov 2026 03:35:41 GMT"
         },
         {
-          "title": "过去1年10亿美元以上爆仓就发生3次！比特币堪称“财富毁灭机”",
-          "summary": "比特币市场的巨额爆仓正从意外事件变成日常现象。 周六比特币在亚洲交易时段一度跌至66586美元，为8月以来最低；周日进一步下探62022美元，创7月14日以来新低，随后回升至约64800美元。 自10月21日以来，比特币累计跌幅已超过20%，并走向连续第六周下跌。 （周日比特币价格走势） 截至周日17时，据CoinGlass数据统计，过去24小时超31万人爆仓，爆仓总金额为19.71亿美元。最大单",
+          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
+          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785964",
-          "published": "Sun, 15 Nov 2026 09:25:31 GMT"
+          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
+          "published": "Mon, 16 Nov 2026 03:29:34 GMT"
         },
         {
-          "title": "金饰克价跌了近100元！有人抢着买：有地方小克重金条卖空了",
-          "summary": "本周国际金价震荡走低，伦敦现货黄金价格累计下跌4.9%，创下今年3月底以来最大单周跌幅。国际金价持续走弱，带动国内黄金零售价回调。 据扬子晚报报道，11月15日，国内头部品牌金饰、非品牌金饰价格迎来连续第五天下调，南京各大商场金店同步更新挂牌价，不少消费者趁着金价回落进店咨询选购。 据央视财经报道，近两天，国内主要黄金品牌的足金挂牌价连续下调，跌破每克1200元关口。当天，周大福、老凤祥、周生生的",
+          "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
+          "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSC",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785959",
-          "published": "Sun, 15 Nov 2026 08:59:55 GMT"
+          "link": "https://wallstreetcn.com/articles/3785994",
+          "published": "Mon, 16 Nov 2026 03:21:57 GMT"
         },
         {
-          "title": "投资中怎样避免接飞刀？",
-          "summary": "近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断",
+          "title": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%",
+          "summary": "1—10月，我国高技术产业投资稳步提升，知识产权产品投资快速增长。 11月16日国家统计局发布数据，全国固定资产投资（不含农户）364824亿元，同比下降8.1%。其中，知识产权产品投资同比增长9.2%。 分领域看，基础设施投资同比下降5.1%，制造业投资下降2.9%，房地产开发投资下降21.6%。 高技术产业投资同比增长4.0%，其中信息服务业，航空、航天器及设备制造业，电子及通信设备制造业投资",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785961",
-          "published": "Sun, 15 Nov 2026 08:53:13 GMT"
+          "link": "https://wallstreetcn.com/articles/3785990",
+          "published": "Mon, 16 Nov 2026 02:18:14 GMT"
         },
         {
-          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
-          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
+          "title": "国家统计局：1—10月份，全国房地产开发投资57215亿元，同比下降21.6%",
+          "summary": "1—10月份，新建商品房销售面积61358万平方米，同比下降13.7%；其中住宅销售面积下降14.2%。新建商品房销售额58550亿元，下降14.3%；其中住宅销售额下降14.1%。根据住房城乡建设部数据，1—10月份，二手房交易网签面积67971万平方米，同比增长11.4%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785963",
-          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
+          "link": "https://wallstreetcn.com/articles/3785989",
+          "published": "Mon, 16 Nov 2026 02:01:30 GMT"
         },
         {
-          "title": "马斯克再创历史，人类首次用“筷子”夹住星舰飞船",
-          "summary": "北京时间11月15日周日，SpaceX成功回收星舰上级，首次实现巨型机械臂“夹住”星舰飞船。此前11月6日巴伦投资年会上，顶级投资人罗恩·巴伦谈马斯克的研发逻辑：项目若不常失败，说明创新不够。SpaceX以“牺牲硬件换取信息”，快速试错让系统更可靠，助其甩开对手。",
+          "title": "中国10月社会消费品零售总额同比 0.4%，前值 1.1%",
+          "summary": "中国10月社会消费品零售总额同比 0.4%，前值 1.1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960181",
-          "published": "Sun, 15 Nov 2026 08:19:09 GMT"
+          "link": "https://wallstreetcn.com/articles/3785988",
+          "published": "Mon, 16 Nov 2026 02:00:39 GMT"
         },
         {
-          "title": "周小川给资本市场支招：装个低通滤波器，让交易频率与基本面适配",
-          "summary": "据上海证券报报道，第十二届全国政协副主席、中国人民银行原行长、中国证监会原主席周小川11月14日在2026中国资本市场学术年会上表示，AI快速发展深刻改变资本市场人机分工，未来AI或将实现递推式自我改进（RSI），核心是设定好目标函数，锚定优化资源配置、管控风险（平衡股权与债券市场融资结构，强化股权资本损失吸收能力）、为投资者尤其是养老金提供合理回报三大目标，统筹协调政府、企业、居民等多方诉求，引",
+          "title": "中国10月规模以上工业增加值同比 4.8%，前值 5.5%",
+          "summary": "中国10月规模以上工业增加值同比 4.8%，前值 5.5%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785962",
-          "published": "Sun, 15 Nov 2026 07:55:49 GMT"
-        }
-      ]
-    },
-    {
-      "name": "国内军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "同舟共济：开放的深圳与亚太共赴新程",
-          "summary": "南海之滨，潮涌鹏城。11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行。这是中国第三次担任APEC东道主，也是深圳这座“奇迹之城”在世界舞台上的又一次高光时刻。本次会议以“建设亚太共同体，促进共同繁荣”为主题，将“开放、创新、合作”作为三大优先领域。盛会即将启幕之际，人民网特别策划推出“亚太经济合作看深圳”系列稿件，分别从开放、创新、合作三个维度，透视这座未来之城",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIo9kA5XKQs6CnN0elRF6D261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:32:22 GMT"
+          "link": "https://wallstreetcn.com/articles/3785987",
+          "published": "Mon, 16 Nov 2026 02:00:24 GMT"
         },
         {
-          "title": "一见·当APEC“中国年”遇见“十五五”开局之年",
-          "summary": "南海之滨，湾区潮涌。习近平主席将出席亚太经合组织第三十三次领导人非正式会议及相关活动。 2025年11月，韩国庆州。习近平主席在亚太经合组织第三十二次领导人非正式会议东道主交接环节宣布，中国将于2026年11月在广东省深圳市举办APEC第三十三次领导人非正式会议。 2026年，APEC合作进入“中国时间”；这一年，也是“十五五”开局之年。 当APEC“中国年”与“十五五”开局之年相遇，“不断以中国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIfHsZ8Zd0ErCCOaCTk2ob261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:31:05 GMT"
-        }
-      ]
-    },
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神",
-          "summary": "[!--begin:htmlVideoCode--]d82b20db74ea4901860704c3da756f52,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：连日来，学习贯彻党的二十届五中全会精神中央宣讲团成员在云南、辽宁、黑龙江宣讲，并与基层干部群众互动交流，推动全会精神走深走实。 中央宣讲团成员、中央纪委副书记、国家监委副",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIApuZRUql4pqwOW3y0xtb261115.shtml",
-          "published": "Sun, 15 Nov 2026 12:04:17 GMT"
-        },
-        {
-          "title": "用语言“架桥”迎接APEC盛会 志愿者向世界递出一张有“温度”的名片",
-          "summary": "[!--begin:htmlVideoCode--]0a84b158b20b4d12b6c544007052a51f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 迎接APEC盛会，深圳420万注册志愿者投身城市服务保障。其中，一支4000多人的专项外籍志愿者队伍格外亮眼。他们来自不同国家，掌握多语种，在口岸、枢纽、商圈、邮轮母港一线，用语言“",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIZbIZxXoYxbVZLGVIggZt261115.shtml",
-          "published": "Sun, 15 Nov 2026 10:06:50 GMT"
-        },
-        {
-          "title": "APEC互联互通落到普通人的日常 让生活更便利、人与人越走越近",
-          "summary": "[!--begin:htmlVideoCode--]e3c33f2d379a4d069219e30fb5a46140,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 互联互通是2026年APEC合作的重要内容，作为东道主，中方推动各方共同制定APEC互联互通蓝图升级版，进一步做实做细“硬联通”“软联通”“心联通”。从规则衔接到人员交流，互联互通如",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIZzLtzCVfzYNyXdgT9M5t261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:03:44 GMT"
-        },
-        {
-          "title": "A级景区“不香了”？答好“重构”文旅服务这道“必答题”",
-          "summary": "[!--begin:htmlVideoCode--]a4b63990bf7647d69de4f6e37744f95d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 不久前，多地文旅主管部门陆续公布A级旅游景区复核结果，一批景区被取消等级、降级或限期整改。 前阶段被清退的景区均存在长期不符合A级旅游景区运营标准的核心问题。其中，安徽金寨县大别山玉",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIVlsyMRQbHLmx5hOdve93261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:00:52 GMT"
-        },
-        {
-          "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
-          "summary": "据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。 卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。（新华社）",
+          "title": "创业板指跌超2%，沪指跌逾1%",
+          "summary": "创业板指跌超2%，沪指跌逾1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/livenews/3200196",
-          "published": "Sun, 15 Nov 2026 11:56:21 GMT"
-        }
-      ]
-    },
-    {
-      "name": "心理学",
-      "summary": "",
-      "items": [
-        {
-          "title": "不仅看星辰大海，还为深空旅行积攒“生命密码”！ | 中国空间站周记再“上”新",
-          "summary": "[!--begin:htmlVideoCode--]22d70d7645c941d0bec5f90e5ad4a9cd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 神二十三乘组三名航天员朱杨柱、张志远、黎家盈的“太空出差之旅”已进入第6个月，3名航天员的在轨工作依旧充实忙碌。上周，空间站里有哪些新进展？ 空间科学实（试）验 在空间生命科学与人体",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/15/ARTIZNwdJkdxqVnhIFcbJ8wB261115.shtml",
-          "published": "Sun, 15 Nov 2026 09:03:14 GMT"
+          "link": "https://wallstreetcn.com/articles/3785986",
+          "published": "Mon, 16 Nov 2026 01:39:43 GMT"
         },
         {
-          "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
-          "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设",
+          "title": "国家统计局：10月一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降",
+          "summary": "一二三线城市商品住宅销售价格同比降幅继续收窄 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785963",
-          "published": "Sun, 15 Nov 2026 08:33:47 GMT"
-        }
-      ]
-    },
-    {
-      "name": "哲学",
-      "summary": "",
-      "items": [
-        {
-          "title": "过去1年10亿美元以上爆仓就发生3次！比特币堪称“财富毁灭机”",
-          "summary": "比特币市场的巨额爆仓正从意外事件变成日常现象。 周六比特币在亚洲交易时段一度跌至66586美元，为8月以来最低；周日进一步下探62022美元，创7月14日以来新低，随后回升至约64800美元。 自10月21日以来，比特币累计跌幅已超过20%，并走向连续第六周下跌。 （周日比特币价格走势） 截至周日17时，据CoinGlass数据统计，过去24小时超31万人爆仓，爆仓总金额为19.71亿美元。最大单",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785964",
-          "published": "Sun, 15 Nov 2026 09:25:31 GMT"
+          "link": "https://wallstreetcn.com/articles/3785985",
+          "published": "Mon, 16 Nov 2026 01:30:52 GMT"
         },
         {
-          "title": "金饰克价跌了近100元！有人抢着买：有地方小克重金条卖空了",
-          "summary": "本周国际金价震荡走低，伦敦现货黄金价格累计下跌4.9%，创下今年3月底以来最大单周跌幅。国际金价持续走弱，带动国内黄金零售价回调。 据扬子晚报报道，11月15日，国内头部品牌金饰、非品牌金饰价格迎来连续第五天下调，南京各大商场金店同步更新挂牌价，不少消费者趁着金价回落进店咨询选购。 据央视财经报道，近两天，国内主要黄金品牌的足金挂牌价连续下调，跌破每克1200元关口。当天，周大福、老凤祥、周生生的",
+          "title": "银行理财利率高达近10%，散户抛弃越南股市",
+          "summary": "越南散户正在用脚投票——卖出股票，转而追逐接近10%的银行存款利率。 据彭博报道，越南各银行近几个月持续上调存款利率以争夺资金，吸引了该国约1400万散户投资者中的大批人转向这一长期被视为\"过时\"的理财方式。与此同时，规模约3920亿美元的越南股市2026年累计下跌约3%，有望录得四年来首次年度亏损。 外资持续净卖出与散户资金加速撤离，令越南基准股指市盈率较过去五年均值低约24%。尽管估值已明显回",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785959",
-          "published": "Sun, 15 Nov 2026 08:59:55 GMT"
+          "link": "https://wallstreetcn.com/articles/3785979",
+          "published": "Mon, 16 Nov 2026 01:20:12 GMT"
         },
         {
-          "title": "投资中怎样避免接飞刀？",
-          "summary": "近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断",
+          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+          "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785961",
-          "published": "Sun, 15 Nov 2026 08:53:13 GMT"
+          "link": "https://wallstreetcn.com/articles/3785982",
+          "published": "Mon, 16 Nov 2026 01:20:08 GMT"
+        },
+        {
+          "title": "金铜为何同跌？",
+          "summary": "上周黄金与铜价同步承压。国际金价跌破4000美元/盎司，LME铜价降至13610美元/吨，处于近四个月以来的低位 。两类资产同时回落，表面上都受到美元走强和美债收益率上升影响，但背后对应的宏观含义并不完全相同： 黄金更多反映通胀和利率预期变化；铜价除受到金融条件影响外，还叠加了AI需求预期降温、美国铜关税溢价回落以及高价对现实需求的抑制。 具体来看，黄金近期的调整反映利率预期或重新成为主导，我们可",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785981",
+          "published": "Mon, 16 Nov 2026 01:17:18 GMT"
+        },
+        {
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "summary": "外交部发言人宣布： 11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785984",
+          "published": "Mon, 16 Nov 2026 01:04:42 GMT"
+        },
+        {
+          "title": "黄仁勋离职 印度人跳起了宝莱坞",
+          "summary": "过去两年华尔街论证一件事：AI会杀死印度。 今年2月，Anthropic的Claude Code接连发布新功能，印度的Nifty IT指数一个月暴跌两成。华尔街甚至写出一份危机假想报告：2028年印度将向IMF求援；投行扎堆下调印度展望，外资十个月净撤逾300亿美元。背后的逻辑是芯片涨、印度跌，AI越强、外包死。 但这个叙事只有一个bug——它假设AI永远只涨不跌。 11月，bug被触发了。美国民",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785972",
+          "published": "Mon, 16 Nov 2026 00:27:57 GMT"
+        },
+        {
+          "title": "AI设备商的利润，究竟是靠技术赚来的，还是靠缺货赚来的？",
+          "summary": "AI基础设施设备商仍在享受历史罕见的繁荣。10月底，数据中心电力与散热设备龙头Vertiv交出漂亮的三季报：收入同比增长61%，有机订单增长超过100%，调整后营业利润率达到25.2%。Eaton、GE Vernova等企业的订单同样强劲。过去几年，云厂商不惜代价争抢算力建设窗口，电力、制冷和配套设备的交付能力成为稀缺资源，制造商得以同时享受收入增长、产品溢价与规模效应。 然而，11月的几件事情让",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785883",
+          "published": "Mon, 16 Nov 2026 00:23:05 GMT"
+        },
+        {
+          "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
+          "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据 新华社 报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于 最高戒备状态 。伊朗外交部发言人巴加埃随后在例行记者会上表示，伊朗打击在巴林的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785974",
+          "published": "Mon, 16 Nov 2026 00:15:57 GMT"
+        },
+        {
+          "title": "存储“调整过度”？",
+          "summary": "高盛承认，“市场某些板块的盈利明显过高”，并且“确定中期盈利增长最终稳定在何处的过程……已被证明是痛苦的”。但关键在于：在某些板块，高盛认为估值调整已经过度。韩国股市就是一个典型的例子，其股价目前已反映了盈利下滑的预期： “某些领域的估值现在要求对2027年的盈利进行大幅下调，这意味着任何对人工智能基本面信心的重新燃起都可能推动内存股价格翻番。” 高盛韩国研究团队的图表显示： 以韩国综合股价指数（",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960183",
+          "published": "Mon, 16 Nov 2026 00:03:21 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 52,
-    "total_collected": 36,
+    "total_items": 50,
+    "total_collected": 39,
     "sources": 5,
     "source_list": [
-      "B站科技热门",
       "Hacker News",
+      "TechCrunch",
       "The Verge",
       "华尔街见闻",
-      "央视新闻"
+      "观察者网"
     ],
-    "domains": 7
+    "domains": 3
   }
 }
