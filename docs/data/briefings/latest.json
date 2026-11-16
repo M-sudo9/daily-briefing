@@ -1,260 +1,284 @@
 {
-  "id": "2026-11-16-05",
-  "datetime": "2026-11-16 05:19:25",
+  "id": "2026-11-16-18",
+  "datetime": "2026-11-16 18:03:25",
   "date": "2026-11-16",
-  "time": "05:19",
-  "period": "凌晨",
-  "summary": "本期采集 39 篇文章，来自 5 个信息源，覆盖 3 个领域，精选 50 条摘要",
+  "time": "18:03",
+  "period": "晚间",
+  "summary": "本期采集 39 篇文章，来自 4 个信息源，覆盖 4 个领域，精选 44 条摘要",
   "domains": [
-    {
-      "name": "国际军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "Linux was created as a rejection of robust software architecture and tools",
-          "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 18 # Comments: 10",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
-          "published": "Mon, 16 Nov 2026 03:58:04 +0000"
-        },
-        {
-          "title": "Qwen4-Max",
-          "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 238 # Comments: 80",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://qwen.ai/blog?id=qwen4-max",
-          "published": "Mon, 16 Nov 2026 02:14:44 +0000"
-        },
-        {
-          "title": "Universal XSS in uBlock Origin from website-driven element picker",
-          "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 173 # Comments: 46",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://iter.ca/post/ubo-uxss/",
-          "published": "Mon, 16 Nov 2026 02:04:48 +0000"
-        },
-        {
-          "title": "Coles hit by a cybersecurity incident",
-          "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 80 # Comments: 59",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.colesgroup.com.au/updates/",
-          "published": "Mon, 16 Nov 2026 01:14:35 +0000"
-        },
-        {
-          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-          "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 86 # Comments: 21",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-          "published": "Mon, 16 Nov 2026 00:21:54 +0000"
-        },
-        {
-          "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-          "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 13 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-          "published": "Mon, 16 Nov 2026 00:03:12 +0000"
-        },
-        {
-          "title": "What's Next for Nvidia?",
-          "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 147 # Comments: 186",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-          "published": "Sun, 15 Nov 2026 23:55:55 +0000"
-        },
-        {
-          "title": "Mini.nvim Is Now on Tangled",
-          "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 47 # Comments: 13",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-          "published": "Sun, 15 Nov 2026 23:55:41 +0000"
-        },
-        {
-          "title": "Preserving 30 years of Salon journalism",
-          "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 114 # Comments: 32",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-          "published": "Sun, 15 Nov 2026 23:00:11 +0000"
-        },
-        {
-          "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-          "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 64 # Comments: 10",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://lastcomplication.com/",
-          "published": "Sun, 15 Nov 2026 22:48:52 +0000"
-        },
-        {
-          "title": "Old Bitly links are being hijacked",
-          "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 221 # Comments: 123",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-          "published": "Sun, 15 Nov 2026 22:11:43 +0000"
-        },
-        {
-          "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
-          "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据 新华社 报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于 最高戒备状态 。伊朗外交部发言人巴加埃随后在例行记者会上表示，伊朗打击在巴林的",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785974",
-          "published": "Mon, 16 Nov 2026 00:15:57 GMT"
-        },
-        {
-          "title": "特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克",
-          "summary": "美国又一位科技大佬被盯上了。两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求其保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。欧美媒体提到，在赢得中期选举后，民主党承诺将对特朗普政府和与特朗普关系密切的知名商业高管展开全面调查，其中包括马斯克。《纽约时报》称，民主党人已开始制定一项针对特朗普政府的强硬监督议程。随着美国总统的商业伙伴和盟友在法庭上对",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785973",
-          "published": "Sun, 15 Nov 2026 23:54:30 GMT"
-        }
-      ]
-    },
     {
       "name": "AI / 人工智能",
       "summary": "",
       "items": [
         {
-          "title": "Tell HN: HN is being scraped for emails to scam",
-          "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or thei",
+          "title": "Grazing sheep in fields with solar arrays",
+          "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 30 # Comme",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://news.ycombinator.com/item?id=50513451",
-          "published": "Mon, 16 Nov 2026 02:53:30 +0000"
+          "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+          "published": "Mon, 16 Nov 2026 17:27:46 +0000"
         },
         {
-          "title": "Qwen4-Max",
-          "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 238 # Comments: 80",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://qwen.ai/blog?id=qwen4-max",
-          "published": "Mon, 16 Nov 2026 02:14:44 +0000"
-        },
-        {
-          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-          "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 86 # Comments: 21",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-          "published": "Mon, 16 Nov 2026 00:21:54 +0000"
-        },
-        {
-          "title": "Apple launches new app to study how people use AI for health",
-          "summary": "Apple's new app for a study will answer everyday medical questions",
+          "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+          "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-          "published": "Mon, 16 Nov 2026 01:30:00 +0000"
+          "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+          "published": "Mon, 16 Nov 2026 17:36:43 +0000"
         },
         {
-          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+          "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-          "published": "Sun, 15 Nov 2026 23:30:00 +0000"
+          "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+          "published": "Mon, 16 Nov 2026 17:10:00 +0000"
         },
         {
-          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-          "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+          "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
           "importance": "medium",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-          "published": "Sun, 15 Nov 2026 21:56:35 +0000"
+          "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+          "published": "Mon, 16 Nov 2026 17:02:43 +0000"
         },
         {
-          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-          "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t",
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+          "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Audible turns to AI to help users discover audiobooks",
+          "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+          "published": "Mon, 16 Nov 2026 15:52:19 +0000"
+        },
+        {
+          "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+          "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "published": "Mon, 16 Nov 2026 15:02:34 +0000"
+        },
+        {
+          "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+          "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+          "published": "Mon, 16 Nov 2026 14:48:13 +0000"
+        },
+        {
+          "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+          "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+          "published": "Mon, 16 Nov 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+          "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+          "published": "Mon, 16 Nov 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+          "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "published": "Mon, 16 Nov 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+          "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine , Ghost of Yotei , Saros , and hundreds more. We’ll ",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-          "published": "2026-11-15T20:26:56-05:00"
+          "link": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+          "published": "2026-11-16T11:48:01-05:00"
         },
         {
-          "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
-          "summary": "全球制造、公用事业与矿业企业自今年6月以来市值合计蒸发4.2万亿美元， 这场抛售几乎抹去了此前12个月内同类企业所积累的9.4万亿美元涨幅的近半数， 曾风靡一时的AI“卖铲”交易正在急速逆转。 据英国《金融时报》分析，在媒体报道中与数据中心建设关联度越高的企业，遭受的冲击越为惨烈。投资者对AI热潮的信心正在动摇，从适配超大规模数据中心的燃气发电机组制造商，到连接AI服务器机架所需的高端光纤企业，此",
+          "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+          "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an af",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785978",
-          "published": "Mon, 16 Nov 2026 04:10:55 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+          "published": "2026-11-16T11:39:36-05:00"
         },
         {
-          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
-          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
+          "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+          "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recen",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
-          "published": "Mon, 16 Nov 2026 03:29:34 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+          "published": "2026-11-16T11:00:00-05:00"
         },
         {
-          "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
-          "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSC",
+          "title": "Robert Pattinson is Amazon’s first James Bond",
+          "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Kni",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785994",
-          "published": "Mon, 16 Nov 2026 03:21:57 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+          "published": "2026-11-16T10:19:34-05:00"
         },
         {
-          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
-          "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄",
+          "title": "Apple TV is getting video podcasts you can watch for free",
+          "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta ",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785982",
-          "published": "Mon, 16 Nov 2026 01:20:08 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
+          "published": "2026-11-16T09:45:56-05:00"
         },
         {
-          "title": "金铜为何同跌？",
-          "summary": "上周黄金与铜价同步承压。国际金价跌破4000美元/盎司，LME铜价降至13610美元/吨，处于近四个月以来的低位 。两类资产同时回落，表面上都受到美元走强和美债收益率上升影响，但背后对应的宏观含义并不完全相同： 黄金更多反映通胀和利率预期变化；铜价除受到金融条件影响外，还叠加了AI需求预期降温、美国铜关税溢价回落以及高价对现实需求的抑制。 具体来看，黄金近期的调整反映利率预期或重新成为主导，我们可",
+          "title": "America’s air traffic control system couldn’t handle a single bad router",
+          "summary": "Flight statuses change from delayed to canceled at the San Diego International Airport after the FAA issued an emergency nationwide ground stop on November 13th, 2026. | Photo: Luke Johnson / The San ",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785981",
-          "published": "Mon, 16 Nov 2026 01:17:18 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+          "published": "2026-11-16T09:43:48-05:00"
         },
         {
-          "title": "黄仁勋离职 印度人跳起了宝莱坞",
-          "summary": "过去两年华尔街论证一件事：AI会杀死印度。 今年2月，Anthropic的Claude Code接连发布新功能，印度的Nifty IT指数一个月暴跌两成。华尔街甚至写出一份危机假想报告：2028年印度将向IMF求援；投行扎堆下调印度展望，外资十个月净撤逾300亿美元。背后的逻辑是芯片涨、印度跌，AI越强、外包死。 但这个叙事只有一个bug——它假设AI永远只涨不跌。 11月，bug被触发了。美国民",
+          "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+          "summary": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785972",
-          "published": "Mon, 16 Nov 2026 00:27:57 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+          "published": "2026-11-16T09:00:00-05:00"
         },
         {
-          "title": "AI设备商的利润，究竟是靠技术赚来的，还是靠缺货赚来的？",
-          "summary": "AI基础设施设备商仍在享受历史罕见的繁荣。10月底，数据中心电力与散热设备龙头Vertiv交出漂亮的三季报：收入同比增长61%，有机订单增长超过100%，调整后营业利润率达到25.2%。Eaton、GE Vernova等企业的订单同样强劲。过去几年，云厂商不惜代价争抢算力建设窗口，电力、制冷和配套设备的交付能力成为稀缺资源，制造商得以同时享受收入增长、产品溢价与规模效应。 然而，11月的几件事情让",
+          "title": "Google Maps can now create trip itineraries for you",
+          "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to ",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785883",
-          "published": "Mon, 16 Nov 2026 00:23:05 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+          "published": "2026-11-16T09:00:00-05:00"
         },
         {
-          "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
-          "summary": "黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。 11月15日，据英国《金融时报》报道，黄仁勋已与亲信讨论重返CEO职位的可能性，其盟友正在硅谷组建\"战情室\"，游说英伟达董事会将其复职，并计划争取白宫支持。与此同时，美国财政部长贝森特周日在福克斯新闻节目上明确表态，英伟达需要\"大刀阔斧的领导层变革\"",
+          "title": "The Nvidia scandal isn’t slowing down",
+          "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon wh",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785975",
-          "published": "Mon, 16 Nov 2026 00:17:14 GMT"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+          "published": "2026-11-16T08:00:00-05:00"
         },
         {
-          "title": "存储“调整过度”？",
-          "summary": "高盛承认，“市场某些板块的盈利明显过高”，并且“确定中期盈利增长最终稳定在何处的过程……已被证明是痛苦的”。但关键在于：在某些板块，高盛认为估值调整已经过度。韩国股市就是一个典型的例子，其股价目前已反映了盈利下滑的预期： “某些领域的估值现在要求对2027年的盈利进行大幅下调，这意味着任何对人工智能基本面信心的重新燃起都可能推动内存股价格翻番。” 高盛韩国研究团队的图表显示： 以韩国综合股价指数（",
+          "title": "管理万亿美元资产 印尼主权基金Danantara如何布局中国？",
+          "summary": "首席投资官潘杜表示，Danantara正在组建中国团队，关注能源转型、电动汽车、电池及人工智能 Danantara于2025年2月成立，直接向印尼总统负责。图：视觉中国 【财新网】 成立不到两年，总计近万亿美元资产的印尼国家投资机构Danantara正加快部署投资项目，并将中国纳入下一阶段布局。 Danantara的首席投资官潘杜·夏赫里尔（Pandu Sjahrir）近日在新加坡接受财新专访时表",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960183",
-          "published": "Mon, 16 Nov 2026 00:03:21 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505480.html",
+          "published": "Mon, 16 Nov 2026 12:22:59 GMT"
         },
         {
-          "title": "11月16日会员早报：SpaceX首次用“筷子”从轨道夹回星舰二级 特斯拉首次向个人开售Cybercab",
-          "summary": "1、【SpaceX首次用“筷子”从轨道夹回星舰二级】马斯克旗下的火箭与人工智能公司SpaceX，第一次把巨型火箭“星舰”（Starship）的第二级从轨道上完整带回，并用发射塔上一对被称为“筷子”的机械臂在半空中夹住了它。至此，SpaceX已经分别接住过星舰的上下两级，只是还没有在同一次飞行中做到。这让它离航天业的“圣杯”——一枚完全可复用的火箭——只差最后一步。 2、【特斯拉首次向个人开售Cyb",
+          "title": "机器人跳起BIGBANG舞蹈 中韩企业探索机器人全球巡演",
+          "summary": "“IP的下一站是跟AI以及具身机器人结合，这将形成一个庞大的市场” 三台身穿韩流巨星BIGBANG风格舞台服装的人形机器人。 【财新网】 维多利亚港畔，三台身穿韩流巨星BIGBANG风格舞台服装的人形机器人，与数台身穿白色太空风格服装的机器人舞伴排成一列，随着BIGBANG的《BANG BANG BANG》《Fantastic Baby》等音乐，做出挥手、转身、踏步等形似真人的舞蹈动作。这是韩国娱",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785970",
-          "published": "Sun, 15 Nov 2026 23:49:10 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-16/102505462.html",
+          "published": "Mon, 16 Nov 2026 11:39:59 GMT"
+        },
+        {
+          "title": "图集｜机器人时装秀开上海港城 人形机器人重现经典舞步",
+          "summary": "2026年11月16日，香港尖沙咀，模仿韩国男子组合BIGBANG的机器人随着歌曲《BANG BANG BANG》重现经典舞步。图：财新 文思敏 【财新网】 2026年11月16日，权志龙（G-DRAGON）所属公司Galaxy Corporation在香港尖沙咀举行“MACH 33：Physical AI Fashion Show Hong Kong”机器人时装秀。此次活动由中国机器人企业宇树科",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-11-16/102505444.html",
+          "published": "Mon, 16 Nov 2026 11:25:54 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Grazing sheep in fields with solar arrays",
+          "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 30 # Comme",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+          "published": "Mon, 16 Nov 2026 17:27:46 +0000"
+        },
+        {
+          "title": "Jiff 1.0: A datetime library for Rust",
+          "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 33 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://burntsushi.net/jiff/",
+          "published": "Mon, 16 Nov 2026 16:53:39 +0000"
+        },
+        {
+          "title": "Psychic: Like fzf but learns from your actions",
+          "summary": "Article URL: https://klauria.tech/psychic/ Comments URL: https://news.ycombinator.com/item?id=50518690 Points: 3 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://klauria.tech/psychic/",
+          "published": "Mon, 16 Nov 2026 15:33:34 +0000"
+        },
+        {
+          "title": "Nvidia was in trouble before the Jensen Huang mess",
+          "summary": "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 133 # Comments: 109",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+          "published": "Mon, 16 Nov 2026 15:24:09 +0000"
+        },
+        {
+          "title": "A 512 KiB binary message teaching chess without a shared language",
+          "summary": "Article URL: https://artemlegotin.com/golden-board/ Comments URL: https://news.ycombinator.com/item?id=50518068 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://artemlegotin.com/golden-board/",
+          "published": "Mon, 16 Nov 2026 14:38:54 +0000"
+        },
+        {
+          "title": "The Active Directory Era Is Finally Over",
+          "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 51 # Comments: 23",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://infisical.com/blog/active-directory-machine-identity",
+          "published": "Mon, 16 Nov 2026 14:15:31 +0000"
+        },
+        {
+          "title": "What is w2rt6byl5nf1opmc-a.com?",
+          "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 281 # Comments: 123",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jack.cab/blog/siterate",
+          "published": "Mon, 16 Nov 2026 13:51:38 +0000"
+        },
+        {
+          "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+          "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-s",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+          "published": "Mon, 16 Nov 2026 13:39:07 +0000"
+        },
+        {
+          "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+          "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 228 # Comments: 90",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+          "published": "Mon, 16 Nov 2026 11:39:31 +0000"
+        },
+        {
+          "title": "Coffeehouses and the Rise of Science [pdf]",
+          "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf Comments URL: https://news.ycombinator.com/item?id=50516245 Points: 150 # Comments: 87",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+          "published": "Mon, 16 Nov 2026 11:03:16 +0000"
         }
       ]
     },
@@ -263,179 +287,112 @@
       "summary": "",
       "items": [
         {
-          "title": "“要把非洲产品卖到中国总共分几步？三步……”",
-          "summary": "卢旺达的咖啡与辣椒、南非的鸵鸟皮手袋、索马里的畜牧资源、赞比亚的工艺品……在刚刚落幕的第九届中国国际进口博览会上，来自非洲大陆的各色商品吸引了众多目光，也为中非经贸合作打开了更多想象空间。 而今年5月1日起，中国对53个非洲建交国全面实施零关税政策，更为非洲产品进入中国市场推开了一扇新的机遇之门。 不过，关税减免只是一个新的起点。 从展台走向市场，从初级产品出口迈向品牌化、产业化发展，非洲好物如何",
+          "title": "贸易谈判代表李成钢：今年APEC要为推动亚太自贸区打造务实的行动框架",
+          "summary": "李成钢介绍，今年各方积极拓展新兴领域的工作，开展丰富的政策对话、信息分享和能力建设，致力于提升APEC经济体参与高水平经贸安排的能力 【财新网】 “今年，中方倡议制定亚太自贸区有关成果文件，旨在为下一阶段亚太自贸区工作打造系统务实的行动框架，推动各方加强宏观政策和经贸规则协调。”11月16日下午，中华人民共和国国际贸易谈判代表兼商务部副部长李成钢在深圳出席吹风会时介绍，“各方正抓紧就单独声明开展磋",
           "importance": "medium",
-          "source": "观察者网",
-          "link": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-          "published": "Mon, 16 Nov 2026 03:32:00 GMT"
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-16/102505498.html",
+          "published": "Mon, 16 Nov 2026 13:12:13 GMT"
         },
         {
-          "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
-          "summary": "全球制造、公用事业与矿业企业自今年6月以来市值合计蒸发4.2万亿美元， 这场抛售几乎抹去了此前12个月内同类企业所积累的9.4万亿美元涨幅的近半数， 曾风靡一时的AI“卖铲”交易正在急速逆转。 据英国《金融时报》分析，在媒体报道中与数据中心建设关联度越高的企业，遭受的冲击越为惨烈。投资者对AI热潮的信心正在动摇，从适配超大规模数据中心的燃气发电机组制造商，到连接AI服务器机架所需的高端光纤企业，此",
+          "title": "渣打银行谈转型金融实践：如何筛选项目并设计融资工具？",
+          "summary": "可靠的数据与信息披露、清晰的框架以及可信的转型计划，是开展转型融资的重要基础 【财新网】 近些年，绿色金融发展迅速，但传统绿色金融聚焦风电、光伏等“纯绿”项目，钢铁、建材、航运等高碳行业的低碳转型活动很难被纳入绿色目录，而这些高碳行业减排对全球“净零”至关重要——这正是转型金融要解决的核心问题。 “在绿色金融方面，如太阳能、风电，现在已在一定程度上实现了标准互操作性，而转型金融尚属新兴领域，对于难",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785978",
-          "published": "Mon, 16 Nov 2026 04:10:55 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505494.html",
+          "published": "Mon, 16 Nov 2026 13:06:02 GMT"
         },
         {
-          "title": "如何定价“政府债取消免税”",
-          "summary": "11月11日，央行发布三季度货币政策执行报告，设专栏《国际利率水平比较》，其中明确指出“国债免征所得税使纳税投资者愿意接受低于应税债券的收益率”，“比较利率时需还原税收因素的影响”。 这一表态，让政府债利息所得税免税取消的预期再度升温。政金债、二级资本债、永续债、信用债随即出现不同程度的调整。消息发布后，10年国债中债估值单日上行0.7BP，政金债调整幅度更为明显——11月11日至13日，10年国",
+          "title": "英特尔和CEO陈立武遭集体诉讼 股价暴跌引披露质疑",
+          "summary": "法院尚未对相关指控作出认定，英特尔接下来仍需应对客户端市场需求变化和数据中心CPU供货压力 【财新网】 英特尔和公司CEO陈立武遭投资者集体诉讼。当地时间11月13日，密歇根州南菲尔德市消防与警察退休基金向美国加州北区联邦地区法院提起证券集体诉讼，将英特尔、陈立武及CFO David Zinsner列为被告。原告认为，英特尔在2026年7月23日至10月29日期间对PC市场需求、渠道库存、数据中心",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785995",
-          "published": "Mon, 16 Nov 2026 04:08:41 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-16/102505490.html",
+          "published": "Mon, 16 Nov 2026 13:05:55 GMT"
         },
         {
-          "title": "堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做",
-          "summary": "堪萨斯城联储主席施密德（Jeff Schmid）上周日（11月15日）表示，当前通胀水平令人不安，美联储仍有工作要做，但他并未明确呼吁进一步加息。这是继芝加哥联储古尔斯比、纽约联储威廉姆斯及美联储主席沃什（Kevin Warsh）相继发声后，又一位联储官员就通胀问题公开表态。 据彭博、路透和CNBC报道，施密德在夏威夷一场信贷联盟会议上发表书面讲话称，美联储偏爱的物价指标9月同比上涨 3.6% ，",
+          "title": "阿里文娱板块CEO樊路远卸任 已离职创业",
+          "summary": "财新向接近大麦娱乐人士确认，樊路远已离职创业，在阿里集团内已无其他职位 【财新网】 樊路远离开阿里创业。11月16日港股盘后， 大麦娱乐 （01060.HK）发布公告称，樊路远因专注发展个人事业，辞任公司执行董事、董事会主席及首席执行官（CEO）。樊路远辞任后，徐宏获任大麦娱乐非执行董事及董事会主席，沈严获任执行董事、并与李捷同任联席总裁，即日起生效。大麦娱乐暂未任命新的CEO。 此外，财新向接近",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785996",
-          "published": "Mon, 16 Nov 2026 03:35:41 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-16/102505486.html",
+          "published": "Mon, 16 Nov 2026 12:34:04 GMT"
         },
         {
-          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
-          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
+          "title": "管理万亿美元资产 印尼主权基金Danantara如何布局中国？",
+          "summary": "首席投资官潘杜表示，Danantara正在组建中国团队，关注能源转型、电动汽车、电池及人工智能 Danantara于2025年2月成立，直接向印尼总统负责。图：视觉中国 【财新网】 成立不到两年，总计近万亿美元资产的印尼国家投资机构Danantara正加快部署投资项目，并将中国纳入下一阶段布局。 Danantara的首席投资官潘杜·夏赫里尔（Pandu Sjahrir）近日在新加坡接受财新专访时表",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
-          "published": "Mon, 16 Nov 2026 03:29:34 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505480.html",
+          "published": "Mon, 16 Nov 2026 12:22:59 GMT"
         },
         {
-          "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
-          "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSC",
+          "title": "打造养老社区“天花板”？平安收购北京市中心顶流五星酒店",
+          "summary": "励骏酒店是平安在北京核心区域争夺高净值养老客户的重要布局；但高昂的成本能否转化为稀缺的养老服务资源、带动保险业务增长，仍有待时间检验 【财新网】 中国平安正在加码布局城市核心区养老社区。 近日，平安人寿计划将北京励骏酒店转型为高端养老社区的消息，在保险业和康养市场引发热议。北京市东城区住建委在回复提案时披露，已引入平安人寿实施励骏酒店项目，打造高端康养服务设施。平安人寿随后回应称，公司将持续深化“",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785994",
-          "published": "Mon, 16 Nov 2026 03:21:57 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505473.html",
+          "published": "Mon, 16 Nov 2026 12:08:02 GMT"
         },
         {
-          "title": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%",
-          "summary": "1—10月，我国高技术产业投资稳步提升，知识产权产品投资快速增长。 11月16日国家统计局发布数据，全国固定资产投资（不含农户）364824亿元，同比下降8.1%。其中，知识产权产品投资同比增长9.2%。 分领域看，基础设施投资同比下降5.1%，制造业投资下降2.9%，房地产开发投资下降21.6%。 高技术产业投资同比增长4.0%，其中信息服务业，航空、航天器及设备制造业，电子及通信设备制造业投资",
+          "title": "机器人跳起BIGBANG舞蹈 中韩企业探索机器人全球巡演",
+          "summary": "“IP的下一站是跟AI以及具身机器人结合，这将形成一个庞大的市场” 三台身穿韩流巨星BIGBANG风格舞台服装的人形机器人。 【财新网】 维多利亚港畔，三台身穿韩流巨星BIGBANG风格舞台服装的人形机器人，与数台身穿白色太空风格服装的机器人舞伴排成一列，随着BIGBANG的《BANG BANG BANG》《Fantastic Baby》等音乐，做出挥手、转身、踏步等形似真人的舞蹈动作。这是韩国娱",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785990",
-          "published": "Mon, 16 Nov 2026 02:18:14 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-16/102505462.html",
+          "published": "Mon, 16 Nov 2026 11:39:59 GMT"
         },
         {
-          "title": "国家统计局：1—10月份，全国房地产开发投资57215亿元，同比下降21.6%",
-          "summary": "1—10月份，新建商品房销售面积61358万平方米，同比下降13.7%；其中住宅销售面积下降14.2%。新建商品房销售额58550亿元，下降14.3%；其中住宅销售额下降14.1%。根据住房城乡建设部数据，1—10月份，二手房交易网签面积67971万平方米，同比增长11.4%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用",
+          "title": "图集｜机器人时装秀开上海港城 人形机器人重现经典舞步",
+          "summary": "2026年11月16日，香港尖沙咀，模仿韩国男子组合BIGBANG的机器人随着歌曲《BANG BANG BANG》重现经典舞步。图：财新 文思敏 【财新网】 2026年11月16日，权志龙（G-DRAGON）所属公司Galaxy Corporation在香港尖沙咀举行“MACH 33：Physical AI Fashion Show Hong Kong”机器人时装秀。此次活动由中国机器人企业宇树科",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785989",
-          "published": "Mon, 16 Nov 2026 02:01:30 GMT"
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-11-16/102505444.html",
+          "published": "Mon, 16 Nov 2026 11:25:54 GMT"
         },
         {
-          "title": "中国10月社会消费品零售总额同比 0.4%，前值 1.1%",
-          "summary": "中国10月社会消费品零售总额同比 0.4%，前值 1.1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "title": "香港中资券商开始关停内地投资者零结余账户",
+          "summary": "除了关停零结余账户，2026年9月以来，香港中资券商已陆续收紧内地存量投资者的账户服务 【财新网】 据财新取得的一份中信建投（国际）发给用户的《关于提供境外身份证件的通知》（下称《通知》），若有关用户不能在2026年11月20日前提供中国内地以外的合法境外身份证明文件，其账户服务将会被终止。 根据《通知》，用户要保留账户服务，可透过提供四类身份证明文件实现：香港永久性居民身份证、香港居民身份证(非",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785988",
-          "published": "Mon, 16 Nov 2026 02:00:39 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505438.html",
+          "published": "Mon, 16 Nov 2026 11:15:19 GMT"
         },
         {
-          "title": "中国10月规模以上工业增加值同比 4.8%，前值 5.5%",
-          "summary": "中国10月规模以上工业增加值同比 4.8%，前值 5.5%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "title": "新加坡工商联合会：中国市场不仅是销售目的地 更是拓展东盟市场的平台",
+          "summary": "中国本土企业竞争力增强，需求疲弱与价格压力挤压成外资企业主要挑战 【财新网】 “要把中国作为实现更广泛增长的平台，而不只是着眼于中国市场本身，还要考虑如何融入当地的生态系统和供应链，与这些企业在中国以外的市场开展合作。”近日，新加坡工商联合总会执行总裁郭柄汛在接受财新专访时介绍，新加坡企业可以成为中国企业进入东盟市场的合作伙伴，帮助后者拓展区域市场。 第九届中国国际进口博览会于11月5日至10日在",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785987",
-          "published": "Mon, 16 Nov 2026 02:00:24 GMT"
-        },
+          "source": "财新网",
+          "link": "https://companies.caixin.com/2026-11-16/102505425.html",
+          "published": "Mon, 16 Nov 2026 10:42:41 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
         {
-          "title": "创业板指跌超2%，沪指跌逾1%",
-          "summary": "创业板指跌超2%，沪指跌逾1%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "title": "管理万亿美元资产 印尼主权基金Danantara如何布局中国？",
+          "summary": "首席投资官潘杜表示，Danantara正在组建中国团队，关注能源转型、电动汽车、电池及人工智能 Danantara于2025年2月成立，直接向印尼总统负责。图：视觉中国 【财新网】 成立不到两年，总计近万亿美元资产的印尼国家投资机构Danantara正加快部署投资项目，并将中国纳入下一阶段布局。 Danantara的首席投资官潘杜·夏赫里尔（Pandu Sjahrir）近日在新加坡接受财新专访时表",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785986",
-          "published": "Mon, 16 Nov 2026 01:39:43 GMT"
-        },
-        {
-          "title": "国家统计局：10月一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降",
-          "summary": "一二三线城市商品住宅销售价格同比降幅继续收窄 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785985",
-          "published": "Mon, 16 Nov 2026 01:30:52 GMT"
-        },
-        {
-          "title": "银行理财利率高达近10%，散户抛弃越南股市",
-          "summary": "越南散户正在用脚投票——卖出股票，转而追逐接近10%的银行存款利率。 据彭博报道，越南各银行近几个月持续上调存款利率以争夺资金，吸引了该国约1400万散户投资者中的大批人转向这一长期被视为\"过时\"的理财方式。与此同时，规模约3920亿美元的越南股市2026年累计下跌约3%，有望录得四年来首次年度亏损。 外资持续净卖出与散户资金加速撤离，令越南基准股指市盈率较过去五年均值低约24%。尽管估值已明显回",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785979",
-          "published": "Mon, 16 Nov 2026 01:20:12 GMT"
-        },
-        {
-          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
-          "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785982",
-          "published": "Mon, 16 Nov 2026 01:20:08 GMT"
-        },
-        {
-          "title": "金铜为何同跌？",
-          "summary": "上周黄金与铜价同步承压。国际金价跌破4000美元/盎司，LME铜价降至13610美元/吨，处于近四个月以来的低位 。两类资产同时回落，表面上都受到美元走强和美债收益率上升影响，但背后对应的宏观含义并不完全相同： 黄金更多反映通胀和利率预期变化；铜价除受到金融条件影响外，还叠加了AI需求预期降温、美国铜关税溢价回落以及高价对现实需求的抑制。 具体来看，黄金近期的调整反映利率预期或重新成为主导，我们可",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785981",
-          "published": "Mon, 16 Nov 2026 01:17:18 GMT"
-        },
-        {
-          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-          "summary": "外交部发言人宣布： 11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785984",
-          "published": "Mon, 16 Nov 2026 01:04:42 GMT"
-        },
-        {
-          "title": "黄仁勋离职 印度人跳起了宝莱坞",
-          "summary": "过去两年华尔街论证一件事：AI会杀死印度。 今年2月，Anthropic的Claude Code接连发布新功能，印度的Nifty IT指数一个月暴跌两成。华尔街甚至写出一份危机假想报告：2028年印度将向IMF求援；投行扎堆下调印度展望，外资十个月净撤逾300亿美元。背后的逻辑是芯片涨、印度跌，AI越强、外包死。 但这个叙事只有一个bug——它假设AI永远只涨不跌。 11月，bug被触发了。美国民",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785972",
-          "published": "Mon, 16 Nov 2026 00:27:57 GMT"
-        },
-        {
-          "title": "AI设备商的利润，究竟是靠技术赚来的，还是靠缺货赚来的？",
-          "summary": "AI基础设施设备商仍在享受历史罕见的繁荣。10月底，数据中心电力与散热设备龙头Vertiv交出漂亮的三季报：收入同比增长61%，有机订单增长超过100%，调整后营业利润率达到25.2%。Eaton、GE Vernova等企业的订单同样强劲。过去几年，云厂商不惜代价争抢算力建设窗口，电力、制冷和配套设备的交付能力成为稀缺资源，制造商得以同时享受收入增长、产品溢价与规模效应。 然而，11月的几件事情让",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785883",
-          "published": "Mon, 16 Nov 2026 00:23:05 GMT"
-        },
-        {
-          "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
-          "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据 新华社 报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于 最高戒备状态 。伊朗外交部发言人巴加埃随后在例行记者会上表示，伊朗打击在巴林的",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785974",
-          "published": "Mon, 16 Nov 2026 00:15:57 GMT"
-        },
-        {
-          "title": "存储“调整过度”？",
-          "summary": "高盛承认，“市场某些板块的盈利明显过高”，并且“确定中期盈利增长最终稳定在何处的过程……已被证明是痛苦的”。但关键在于：在某些板块，高盛认为估值调整已经过度。韩国股市就是一个典型的例子，其股价目前已反映了盈利下滑的预期： “某些领域的估值现在要求对2027年的盈利进行大幅下调，这意味着任何对人工智能基本面信心的重新燃起都可能推动内存股价格翻番。” 高盛韩国研究团队的图表显示： 以韩国综合股价指数（",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960183",
-          "published": "Mon, 16 Nov 2026 00:03:21 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-16/102505480.html",
+          "published": "Mon, 16 Nov 2026 12:22:59 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 50,
+    "total_items": 44,
     "total_collected": 39,
-    "sources": 5,
+    "sources": 4,
     "source_list": [
       "Hacker News",
       "TechCrunch",
       "The Verge",
-      "华尔街见闻",
-      "观察者网"
+      "财新网"
     ],
-    "domains": 3
+    "domains": 4
   }
 }
