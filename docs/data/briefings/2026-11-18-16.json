@@ -1,0 +1,1284 @@
+{
+  "id": "2026-11-18-16",
+  "datetime": "2026-11-18 16:59:52",
+  "date": "2026-11-18",
+  "time": "16:59",
+  "period": "下午",
+  "summary": "本期采集 111 篇文章，来自 8 个信息源，覆盖 7 个领域，精选 152 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+          "summary": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://rshekhar.com/voyager/",
+          "published": "Wed, 18 Nov 2026 16:18:51 +0000"
+        },
+        {
+          "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+          "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 31 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "published": "Wed, 18 Nov 2026 16:08:24 +0000"
+        },
+        {
+          "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+          "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "published": "Wed, 18 Nov 2026 15:49:34 +0000"
+        },
+        {
+          "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+          "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 50 # Comments: 17",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+          "published": "Wed, 18 Nov 2026 15:35:44 +0000"
+        },
+        {
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm Comments URL: https://news.ycombinator.com/item?id=50546465 Points: 111 # Comments: 79",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "published": "Wed, 18 Nov 2026 14:03:37 +0000"
+        },
+        {
+          "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+          "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+          "published": "Wed, 18 Nov 2026 16:59:00 +0000"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+          "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+          "published": "Wed, 18 Nov 2026 16:14:09 +0000"
+        },
+        {
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+          "published": "Wed, 18 Nov 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+          "published": "Wed, 18 Nov 2026 12:00:00 +0000"
+        },
+        {
+          "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000"
+        },
+        {
+          "title": "China dominates battery graphite, but this startup could break the monopoly",
+          "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+          "published": "Wed, 18 Nov 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+          "summary": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+          "published": "2026-11-18T11:00:00-05:00"
+        },
+        {
+          "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+          "summary": "The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick. But with its new GC Bluetooth Gamepad , 8BitDo has done a ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+          "published": "2026-11-18T11:00:00-05:00"
+        },
+        {
+          "title": "Remember the frontier AI pause? Chip companies don’t either",
+          "summary": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its larges",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "published": "2026-11-18T10:44:02-05:00"
+        },
+        {
+          "title": "The Verge’s 2026 holiday gift guide for travelers",
+          "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make f",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+          "published": "2026-11-18T10:00:00-05:00"
+        },
+        {
+          "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+          "summary": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR . Internal documents revealed as p",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+          "published": "2026-11-18T09:59:05-05:00"
+        },
+        {
+          "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+          "summary": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
+          "published": "2026-11-18T09:56:43-05:00"
+        },
+        {
+          "title": "Will Wright’s next game uses AI to map your memories",
+          "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims , is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems . Like Wrigh",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+          "published": "2026-11-18T09:00:00-05:00"
+        },
+        {
+          "title": "Nvidia isn’t selling any more AI chips to China",
+          "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO Colette",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+          "published": "2026-11-18T08:01:05-05:00"
+        },
+        {
+          "title": "RTX Spark N1X装进小主机！华硕ProArt GR1X新品首发实测~",
+          "summary": "又来了一台AI小主机，不过这次搭载的是英伟达的RTX Spark N1X！\n华硕 ProArt GR1X 新品上桌，先让它干点真活：跑本地大模型、生成图片和视频，再让Agent整理资料、做文档。AI之外，剪视频和玩游戏当然也得试试。\n现在这款64G 内存是否够用？Windows on Arm用起来又有哪些门槛？从实际应用、功耗测试到最后拆机，这期把新鲜感和使用中的取舍放在一起看。它更适合当你的AI",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV186sS6xEiZ",
+          "published": "Wed, 18 Nov 2026 14:00:00 GMT"
+        },
+        {
+          "title": "生态环境部：2030年基本建成生态环境智慧执法体系",
+          "summary": "[!--begin:htmlVideoCode--]af53079417014879a903a6e73c48b3a7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：生态环境部近日印发《关于推进生态环境智慧执法体系建设 强化非现场执法监管的意见》，明确到2030年基本建成数智驱动、研判精准、行动高效、依法规范的生态环境智慧执法体系，推动执法方式向",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTItRwtOyJOlVysKwkpi9es261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:28:24 GMT"
+        },
+        {
+          "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
+          "summary": "11月17日，新西兰中国友好协会总会会长欧百利在深圳接受人民网采访时表示，中国第三次主办的APEC会议选址深圳恰到好处，因为深圳展现了中国现代化的一面。他指出，中国在21个APEC经济体中发挥着十分关键的作用，新西兰是多边体系的坚定支持者，与中国同样重视促进各经济体之间的贸易和投资往来。 欧百利表示，中国在人工智能产业中发挥着十分重要的作用，全球人工智能领域的一些主要企业都扎根中国。同时，人工智能",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIzmur9u4BYy27QYBGe16H261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:00:21 GMT"
+        },
+        {
+          "title": "时政Vlog丨APEC欢迎宴会外宾休息室 IMF总裁：AI时代到来之快令人惊叹",
+          "summary": "[!--begin:htmlVideoCode--]22985f0ff19e4257b0b890ec15c846d4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。国际货币基金组织总裁格奥尔基耶娃对中国经济发展产生浓厚兴趣，并赞叹AI时",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIJrQ4A09RyoKMZWvq6Khx261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:52:01 GMT"
+        },
+        {
+          "title": "习近平会见韩国总统李在明",
+          "summary": "[!--begin:htmlVideoCode--]21fea379b1b94cc59b5fa26d437261b7,0,1,16:9,news[!--end:htmlVideoCode--] 11月18日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的韩国总统李在明。 习近平指出，中韩是友好近邻和战略合作伙伴。两国国情不同，但为人民谋福祉的目标是相通的。明年是中韩建交35周年",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIUIAfLqZEh6DvIPR2ZnoJ261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:50:15 GMT"
+        },
+        {
+          "title": "一份议程单写满合作务实篇章 亚太地区始终是全球最具活力的增长热土",
+          "summary": "[!--begin:htmlVideoCode--]9a670f14a8e84f71a503b5fc674c79b7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年亚太经合组织工商领导人峰会11月17日起开始举行。来自APEC21个经济体和英国、法国等13个域外经济体的嘉宾展开一系列对话交流和专题研讨。安排紧凑、满满当当的议程折射出亚",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTId1G7j7yyvlTYfxKBjPLi261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:13:32 GMT"
+        },
+        {
+          "title": "线上秒级验证 数据跨境合作“中国方案”从深圳走向亚太",
+          "summary": "[!--begin:htmlVideoCode--]e9d1b4f1614248a3887c8d6444cf678c,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年APEC中国年聚焦“开放、创新、合作”。在人工智能发展浪潮中，数字经济合作如何从倡议走向实践？记者在深圳前海看到，一套创新的数据共享和跨境验证机制，从双边试点正逐步向更广阔",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIOsYOace3z0XHseHShOlE261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:13:13 GMT"
+        },
+        {
+          "title": "【APEC时间】工商界人士在多维度、多视角探讨中挖掘区域合作新空间",
+          "summary": "[!--begin:htmlVideoCode--]ac90c325727344288ee2cd25927f47a6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 这次峰会围绕互联互通、人工智能、数字经济合作新路径等核心议题开展专题研讨，多维度、多视角挖掘区域合作新空间。如今，互联互通蓝图如何升级，开放合作之路怎么走？ 多位工商界人士表示，20",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTI0VQq7Y7if1GWTMGjFGBF261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:00:02 GMT"
+        },
+        {
+          "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
+          "summary": "AI热潮推动华尔街投行今年迎来丰收年，但这场资本盛宴可能难以延续。 11月18日，彭博专栏作家保罗·J·戴维斯撰文指出， 高盛和摩根士丹利等大型投行已与AI驱动的市场繁荣深度绑定，其股价走势与纳斯达克100指数高度同步。一旦科技股出现调整，投行的交易收入和奖金池都可能受到冲击。即便AI股票没有大幅下跌，华尔街也很难在2027年复制今年近乎完美的市场环境。 今年的IPO热潮尤为突出。据彭博数据，An",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786215",
+          "published": "Wed, 18 Nov 2026 16:04:32 GMT"
+        },
+        {
+          "title": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利",
+          "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786221",
+          "published": "Wed, 18 Nov 2026 16:04:16 GMT"
+        },
+        {
+          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
+          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
+          "published": "Wed, 18 Nov 2026 14:35:05 GMT"
+        },
+        {
+          "title": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上",
+          "summary": "腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，Workbuddy日活突破1000万、年化收入超5亿美元，管理层定调——\"AI让现有业务用更少的人，多出来的人去建新业务。\" 周二晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米切尔参与本次电话会。 整场电话会的核心信号只有一个：腾讯的AI商业化，已经从概念阶段",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786214",
+          "published": "Wed, 18 Nov 2026 13:14:04 GMT"
+        },
+        {
+          "title": "SpaceX 400亿美元芯片融资将不纳入资产负债表。（Semafor）",
+          "summary": "SpaceX 400亿美元芯片融资将不纳入资产负债表。（Semafor）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3201961",
+          "published": "Wed, 18 Nov 2026 12:57:35 GMT"
+        },
+        {
+          "title": "从跨境结算到智能体支付，蚂蚁国际加码支付基础设施",
+          "summary": "11月18日，新加坡金融科技节首日，蚂蚁国际CEO杨鹏在一场讨论未来金融体系的圆桌上表示，账户直连账户的支付将冲击现有支付模式，在通证化、区块链和AI之下，支付链条中各类机构的分工可能发生变化。 蚂蚁国际正在沿着这一方向推进业务：通过区块链平台处理资金结算，连接银行账户与电子钱包，并为AI智能体建立支付与身份认证机制。 在杨鹏看来，当Web3货币成为主流，商户或许可以自行处理交易，对收单机构和支付",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786208",
+          "published": "Wed, 18 Nov 2026 12:46:55 GMT"
+        },
+        {
+          "title": "英伟达财报提振，美股盘前科技股上涨，SK海力士涨超4%，黄金跌破3800美元，油价下跌",
+          "summary": "英伟达发布好于预期的业绩指引，但市场对人工智能投资前景的疑虑并未消散，全球股市方向不明。与此同时，美联储官员释放持续加息信号，黄金跌至逾一年新低。 美股大型科技股盘前多数上涨，SK海力士涨超4%，美光科技、英伟达涨超3%，特斯拉涨超1%。英伟达预计下一财年营收增速将达75%，高于此前70%的预测，第四财季销售额指引为1300亿美元（上下浮动3%），超出分析师平均预期的1253亿美元。 然而，由美联",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786169",
+          "published": "Wed, 18 Nov 2026 12:46:27 GMT"
+        },
+        {
+          "title": "商汤营收增长23%，算力服务与智能体应用双线推进",
+          "summary": "生成式AI已贡献商汤近八成收入，持续付费的客户正在成为公司减亏的重要支撑。 8月26日，商汤集团发布2026年中期业绩，上半年营收29.11亿元，同比增长23.4%；经调整净亏损3.86亿元，同比收窄67.3%。 其中，生成式AI收入23.27亿元，同比增长28.2%，占总收入的79.9%。以计算机视觉起家的商汤，收入结构已明显转向大模型、算力服务及相关应用。 按国际财务报告准则计算，商汤上半年录",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786206",
+          "published": "Wed, 18 Nov 2026 12:31:45 GMT"
+        },
+        {
+          "title": "美联储为AI泡沫破裂做准备：生产力革命，还是宏观风险重估？",
+          "summary": "11月17日，沃什在旧金山联储公开会议上表示，美联储工作组已开始就AI快速普及对美国经济的潜在影响制定应急预案，涵盖生产力繁荣、大规模失业、技术泡沫破裂三条截然不同路径。 这三条路径为：1）AI推动生产力大幅提升、经济与劳动者共享红利的繁荣路径；2）经济增长被大规模岗位流失所抵消的失业路径；3）技术发展未能兑现预期、进而引发股市下挫与经济放缓的泡沫破裂路径。 沃什特别强调第三种情景：大规模资本投资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786190",
+          "published": "Wed, 18 Nov 2026 12:04:44 GMT"
+        },
+        {
+          "title": "哈维·琼斯：成就黄仁勋，赶走黄仁勋",
+          "summary": "前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他就进入了董事会。33 年后，他成为英伟达历史上第一位董事会主席，负责主持新 CEO 遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786204",
+          "published": "Wed, 18 Nov 2026 11:46:30 GMT"
+        },
+        {
+          "title": "“带着500亿美元再创业”？“投奔马斯克”？黄仁勋下一站会在哪",
+          "summary": "黄仁勋离开英伟达之后，下一站会在哪里？重新执掌英伟达、加入马斯克旗下企业，还是筹集数百亿美元另起炉灶？围绕这位AI行业最具影响力的企业家之一，硅谷已经出现了各种猜测。 在Prof G Markets最新一期节目中，Semafor商业记者Rohan Goswami与DB Live创始人Deirdre Bosa就黄仁勋的未来展开讨论。 两人对其能否重返英伟达存在明显分歧，但Rohan给出了一个更大胆的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786201",
+          "published": "Wed, 18 Nov 2026 11:19:58 GMT"
+        },
+        {
+          "title": "柏川数据完成5000万元Pre-A轮融资，星海图为投资方兼客户",
+          "summary": "11月18日，苏州柏川数据科技有限公司（以下简称“柏川数据”）宣布完成5000万元Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。另一家具身智能产业方目前暂未披露。 其中，星海图同时具有柏川数据客户与投资方的双重身份。 柏川数据披露，本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。本轮融资估值及各投资方",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786203",
+          "published": "Wed, 18 Nov 2026 11:15:16 GMT"
+        },
+        {
+          "title": "腾讯WorkBuddy和豆包办公日活破千万和800万 办公智能体竞争加剧",
+          "summary": "腾讯的AI办公智能体用户领先，豆包工作的商业化能力强于WorkBuddy 【财新网】 国内AI智能体产品竞争激烈。11月18日晚间，腾讯和字节跳动先后披露旗下AI智能体WorkBuddy与豆包工作的用户数据。腾讯（00700.HK）在三季度财报中称，WorkBuddy用户“日超千万”。随后，字节跳动宣布，豆包工作日活跃用户数（DAU）突破800万。 随着移动互联网渗透率见顶，用户增长放缓，互联网巨",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-18/102506386.html",
+          "published": "Wed, 18 Nov 2026 14:45:12 GMT"
+        },
+        {
+          "title": "李在明：国际社会应保障关键矿产和能源的稳定供需",
+          "summary": "李在明说，“最紧迫的任务是通过扩大APEC区域内的贸易和投资，为企业开拓新的增长机会” 【财新网】 “即使在贸易壁垒不断加高的形势下，也不能停止开放。必须将人工智能革命的成果扩展为惠及所有人的创新，并应为构建稳定的产业基础和供应链进一步加强合作。”11月18日下午，韩国总统李在明在深圳出席2026年亚太经合组织（APEC）工商领导人峰会时如此强调。 11月17日至11月18日，由中国贸促会主办的2",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-18/102506371.html",
+          "published": "Wed, 18 Nov 2026 12:39:30 GMT"
+        },
+        {
+          "title": "中国碳市场获欧盟“碳关税”认可 但免费配额不计入抵扣",
+          "summary": "对于中国碳市场而言，企业“真金白银”购买配额支付的碳成本，才可能纳入欧盟碳关税抵扣核算 【财新网】 欧盟碳边境调节机制（CBAM，俗称“碳关税”）正式进入实施阶段后，第三国企业已承担的碳成本如何抵扣欧盟碳边境费用，迎来更具体的核算规则。 当地时间11月16日，欧盟委员会正式公布《实施条例（EU）2026/2498》（Implementing Regulation 2026/2498），明确第三国已",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-18/102506358.html",
+          "published": "Wed, 18 Nov 2026 12:09:36 GMT"
+        },
+        {
+          "title": "证监会盘中辟谣“基金公司上报AI敞口” 午后科技股翻红领涨",
+          "summary": "通信、算力板块领涨，多只AI重仓基金此前发布清盘预警 【财新网】 11月18日中午，证监会针对互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息辟谣称，该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 午后A股三大指数拉升",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-18/102506305.html",
+          "published": "Wed, 18 Nov 2026 10:31:27 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+          "summary": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://rshekhar.com/voyager/",
+          "published": "Wed, 18 Nov 2026 16:18:51 +0000"
+        },
+        {
+          "title": "SuperEMeans: Making e-means 3× faster",
+          "summary": "Article URL: https://www.lkuffo.com/superemeans/ Comments URL: https://news.ycombinator.com/item?id=50548038 Points: 3 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.lkuffo.com/superemeans/",
+          "published": "Wed, 18 Nov 2026 16:09:50 +0000"
+        },
+        {
+          "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+          "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 31 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "published": "Wed, 18 Nov 2026 16:08:24 +0000"
+        },
+        {
+          "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+          "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 14 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.terra.security/blog/kvm-guest-to-host-escape",
+          "published": "Wed, 18 Nov 2026 16:06:21 +0000"
+        },
+        {
+          "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+          "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 10 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://exitpath-ruddy.vercel.app/",
+          "published": "Wed, 18 Nov 2026 16:04:43 +0000"
+        },
+        {
+          "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+          "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "published": "Wed, 18 Nov 2026 15:49:34 +0000"
+        },
+        {
+          "title": "Deutsche Bank",
+          "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 148 # Comments: 46",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.inside-db.com/",
+          "published": "Wed, 18 Nov 2026 15:38:33 +0000"
+        },
+        {
+          "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+          "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 50 # Comments: 17",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+          "published": "Wed, 18 Nov 2026 15:35:44 +0000"
+        },
+        {
+          "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+          "summary": "Article URL: https://nginx2root.com/ Comments URL: https://news.ycombinator.com/item?id=50547423 Points: 24 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://nginx2root.com/",
+          "published": "Wed, 18 Nov 2026 15:24:17 +0000"
+        },
+        {
+          "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+          "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 221 # Comments: 62",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "published": "Wed, 18 Nov 2026 15:19:55 +0000"
+        },
+        {
+          "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+          "summary": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 91 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+          "published": "Wed, 18 Nov 2026 15:18:30 +0000"
+        },
+        {
+          "title": "The x86 CPU: From 4004 to 486",
+          "summary": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 36 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+          "published": "Wed, 18 Nov 2026 14:47:53 +0000"
+        },
+        {
+          "title": "A Primer on Fourier Series",
+          "summary": "Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 28 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://arxiv.org/abs/2510.18203",
+          "published": "Wed, 18 Nov 2026 14:44:33 +0000"
+        },
+        {
+          "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+          "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 104 # Comments: 74",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+          "published": "Wed, 18 Nov 2026 14:43:52 +0000"
+        },
+        {
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm Comments URL: https://news.ycombinator.com/item?id=50546465 Points: 111 # Comments: 79",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "published": "Wed, 18 Nov 2026 14:03:37 +0000"
+        },
+        {
+          "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+          "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 314 # Comments: 87",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "published": "Wed, 18 Nov 2026 13:18:02 +0000"
+        },
+        {
+          "title": "Evidence (YC S21) Is Hiring",
+          "summary": "Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+          "published": "Wed, 18 Nov 2026 12:00:16 +0000"
+        },
+        {
+          "title": "Show HN: Type Fighter 2",
+          "summary": "Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://ne",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://typefighter2.com/",
+          "published": "Wed, 18 Nov 2026 11:11:53 +0000"
+        },
+        {
+          "title": "Energy-Based Reasoners: 385x more efficient inference",
+          "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 241 # Comments: 36",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://energy-based-reasoners.github.io/",
+          "published": "Wed, 18 Nov 2026 09:29:32 +0000"
+        },
+        {
+          "title": "习近平会见俄罗斯总统普京",
+          "summary": "[!--begin:htmlVideoCode--]82409c51a8c248979dc38b0dc724a732,0,1,16:9,news[!--end:htmlVideoCode--] 11月18日，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的俄罗斯总统普京。 习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年。中俄关系既“风雨不",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTISYcfBwjOTolmeJoICz9P261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:47:29 GMT"
+        },
+        {
+          "title": "大国外交进行时丨普京：APEC为建设性交流提供广阔空间 期待俄中美领导人三边会晤",
+          "summary": "[!--begin:htmlVideoCode--]458a22091a2f401abe2cb2e0cb1a12b8,6,1,9:16,newPlayer[!--end:htmlVideoCode--] 为期两天的亚太经合组织工商领导人峰会在深圳举行。俄罗斯总统普京18日在峰会上发表致辞。 普京说：“举办本届APEC峰会的深圳这座城市确实令人印象深刻。它是最现代化、最具活力的大城市之一，有机融合了",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIBmvTw3lPvu4Rzqh6FUDP261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:03:15 GMT"
+        },
+        {
+          "title": "湖北云梦再出土珍贵秦简 揭开秦代民众生活细节",
+          "summary": "11月18日上午，国家文物局召开“考古中国”重大项目重要进展工作会，发布4项考古最新进展。在此次发布的成果中，湖北云梦老虎墩墓地出土的一批秦简备受瞩目。 今年4月，经国家文物局批准，湖北省文物考古研究院对云梦老虎墩墓地开展发掘，该遗址距离睡虎地遗址仅三公里左右。迄今已清理秦汉墓葬113座，其中3座墓葬中发现秦汉简牍遗存，多数简牍保存完整，信息留存度高。 △老虎墩墓葬分布图 经研究，这批简牍内容覆盖",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIK8ZvGRVwknNzTY7FsorO261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:50:06 GMT"
+        },
+        {
+          "title": "习近平会见普京 俄方表示愿同中方加强“背靠背”战略协作",
+          "summary": "俄方愿同中方促进亚太地区发展合作，共同推进世界多极化进程，推动构建更加公正合理的全球治理体系，为维护国际关系稳定发挥重要作用 【财新网】 11月18日，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的俄罗斯总统普京。 据新华社消息，习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年。中俄关系既“风雨不动安如山”，又“风物长宜放眼量”，为变乱交",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-18/102506366.html",
+          "published": "Wed, 18 Nov 2026 12:30:40 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "习近平和彭丽媛为APEC与会来宾举行欢迎宴会",
+          "summary": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 香蜜湖畔，灯火璀璨，国际交流中心奏响亚太经合组织各成员经济体乐曲。 各成员经济体领导人、代表及配偶，出席会议的国际组织负责人相继抵达，沿红毯前行。 习近平和彭丽媛热情迎接，同他们亲切握手并合影留念。 在悠扬的迎宾曲中，习近平和彭丽媛同来宾们共同步入宴会厅。 习近平发表致辞，",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_18_908973_s.shtml",
+          "published": "Wed, 18 Nov 2026 13:31:00 GMT"
+        },
+        {
+          "title": "八省（市）将开展6G创新发展部省协同试点",
+          "summary": "[!--begin:htmlVideoCode--]8390523e952145e19b1aaf809d717a08,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：记者从工业和信息化部了解到，日前国家确定北京市、河北省、上海市、江苏省等8个省（市）开展6G创新发展部省协同试点工作，进一步凝聚优势资源、协同创新，推动形成全国6G创新“一盘棋”格局",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIv8bwQQRiLCFI5TZTszPJ261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:35:03 GMT"
+        },
+        {
+          "title": "我国铁路运输市场保持旺盛需求",
+          "summary": "[!--begin:htmlVideoCode--]a4174c3aa2c14c34a29cd0521b0bb046,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：今年以来，我国铁路客运市场需求持续走高。前10个月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%，旅客发送总量、单日旅客发送量、单日客运能力投放等多项指标均创历史新高。 货运",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIyyP2MFOlNeDD4n5JTUbz261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:29:58 GMT"
+        },
+        {
+          "title": "大国外交进行时丨澳大利亚总理阿尔巴尼斯：见证深圳成长故事 中国发展红利惠及亚太地区",
+          "summary": "[!--begin:htmlVideoCode--]65cbcff76e5f4ad99fdb5cddb7ebf3de,6,0,9:16,newPlayer[!--end:htmlVideoCode--] 为期两天的亚太经合组织工商领导人峰会在深圳举行。澳大利亚总理阿尔巴尼斯18日在峰会上发表致辞。 阿尔巴尼斯说：我第一次来到深圳是在1998年。深圳这个非凡的成功故事，展现了整个地区这些年在经济上的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIvqkzA7J2dPIgy9Zj5O9K261118.shtml",
+          "published": "Wed, 18 Nov 2026 15:58:07 GMT"
+        },
+        {
+          "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "summary": "[!--begin:htmlVideoCode--]ffadc371c0b74755bfed17760589c681,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIEmI15NFxvqmbRe92ZL2S261118.shtml",
+          "published": "Wed, 18 Nov 2026 15:24:08 GMT"
+        },
+        {
+          "title": "独家视频丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "summary": "[!--begin:htmlVideoCode--]1a5977bb0a884cb8a05ed941afee55d0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 宴会开始前，习近平主席夫妇同各经济体领导人、代表及配偶集体合影。 总监",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIsuICbAaAqPX2NCjMxqrM261118.shtml",
+          "published": "Wed, 18 Nov 2026 14:05:46 GMT"
+        },
+        {
+          "title": "大国外交最前线丨现场见证！深圳APEC的首张“全家福”",
+          "summary": "[!--begin:htmlVideoCode--]7755bd1ae7754be4b63177becf73eae3,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 南海之滨灯火璀璨。18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 伴随着各经济体的特色乐曲，贵宾们陆续抵达。宴会开始前，习近",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIAlgmtLeneyn4Rasug1yr261118.shtml",
+          "published": "Wed, 18 Nov 2026 14:05:16 GMT"
+        },
+        {
+          "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "summary": "新华社深圳11月18日电（记者董雪、梁希之）11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 香蜜湖畔，灯火璀璨，国际交流中心奏响亚太经合组织各成员经济体乐曲。 各成员经济体领导人、代表及配偶，出席会议的国际组织负责人相继抵达，沿红毯前行。 习近平和彭丽媛热情迎接，同他们亲切握手并合影留念。 在悠扬的迎宾曲中，习近平和彭丽",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIR8PDzCv0KcjqtLpe8UtO261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:31:00 GMT"
+        },
+        {
+          "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
+          "summary": "11月17日，新西兰中国友好协会总会会长欧百利在深圳接受人民网采访时表示，中国第三次主办的APEC会议选址深圳恰到好处，因为深圳展现了中国现代化的一面。他指出，中国在21个APEC经济体中发挥着十分关键的作用，新西兰是多边体系的坚定支持者，与中国同样重视促进各经济体之间的贸易和投资往来。 欧百利表示，中国在人工智能产业中发挥着十分重要的作用，全球人工智能领域的一些主要企业都扎根中国。同时，人工智能",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIzmur9u4BYy27QYBGe16H261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:00:21 GMT"
+        },
+        {
+          "title": "从“旧厂房”中寻到天津城市更新“新路子”",
+          "summary": "实施城市更新行动，是建设宜居、韧性、智慧城市的重要举措。作为一座拥有大量工业遗存的城市，天津没有忽视它们的改造，而是推动老旧厂区从工业“锈带”焕新为生活“秀带”，城市载体功能明显增强，焕发出经济发展与人居环境改善的生机与活力。 闲置老厂区旧貌换新颜 天津市河东区津塘路与月牙河南路交口，新中国机床行业“十八罗汉”之一的天津第一机床总厂旧址上，津一·PARK都市产业公园里，游客熙熙攘攘，车辆停得满满当",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIJUEb6K0ZMYUcom7ZIapN261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:00:09 GMT"
+        },
+        {
+          "title": "从新产品到新场景，首发经济不止于开店",
+          "summary": "花青、藤黄、胭脂、石绿……走进位于天津南开大悦城的鸵鸟墨色文创空间，近400款彩墨铺陈出的一面弧形“墨色主题墙”映入眼帘，名字与色彩都透着浓浓的东方美意。顾客的笔尖落下，墨色在宣纸上缓缓晕开。 “鸵鸟墨水是天津老品牌，小时候写作业用的就是它的蓝黑墨水，没想到现在变得这么时尚。”顾客赵女士放下手中的笔，忍不住感慨。 鸵鸟墨色文创空间是由中华老字号鸵鸟墨水打造的全国首店，将中国色、文房器具等与文创设计",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIosyhivedv9j6n54qCDq3261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:57:34 GMT"
+        },
+        {
+          "title": "大潮起珠江，大道向未来",
+          "summary": "风过伶仃洋，大潮起珠江。祖国南疆，这片山海相汇的热土，于时代风云吐纳间，铺展开一幅波澜壮阔的新画卷。 党的二十届五中全会闭幕后，习近平总书记首次国内考察，前往改革开放的前沿广东，要求“把全会作出的各项决策部署不折不扣落到实处”，号召“奋力开创粤港澳大湾区高质量发展新局面”。 新时代以来，习近平总书记历次考察广东，都正值党和国家事业前进的重要节点。 从党的十八大后首次出京调研，到2018年改革开放4",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIkkmJtoIqOUilwImbgZ0J261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:57:28 GMT"
+        },
+        {
+          "title": "时政Vlog丨APEC欢迎宴会外宾休息室 IMF总裁：AI时代到来之快令人惊叹",
+          "summary": "[!--begin:htmlVideoCode--]22985f0ff19e4257b0b890ec15c846d4,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。国际货币基金组织总裁格奥尔基耶娃对中国经济发展产生浓厚兴趣，并赞叹AI时",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIJrQ4A09RyoKMZWvq6Khx261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:52:01 GMT"
+        },
+        {
+          "title": "大国外交进行时丨马来西亚总理安瓦尔：习近平主席指明方向 期待亚太经贸合作焕发新的生机",
+          "summary": "[!--begin:htmlVideoCode--]30b05ebc72ff4ddb8859fdf81ff4296f,6,1,9:16,newPlayer[!--end:htmlVideoCode--] 为期两天的亚太经合组织工商领导人峰会在深圳举行。马来西亚总理安瓦尔18日在峰会上发表致辞。 安瓦尔说：习近平主席刚才阐述了总体的方向，指出各家企业的首席执行官、各国政府以及工商界要携起手来，深化双",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIXE5c2kYk88QGPm36x1Nq261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:28:57 GMT"
+        },
+        {
+          "title": "携手建设亚太共同体 促进亚太共同繁荣——习近平主席在2026年亚太经合组织工商领导人峰会开幕式上的主旨演讲在与会人士中引发热烈反响",
+          "summary": "[!--begin:htmlVideoCode--]2007e46b0e3e48cab90e9ecaf5e60cec,0,1,16:9,news[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：习近平主席11月18日在2026年亚太经合组织工商领导人峰会开幕式上发表的主旨演讲，在与会人士中引发热烈反响。 与会人士表示，习近平主席的主旨演讲，指明了促进亚太共同繁荣的前进方向",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIbDIfRBgW33HilkNrYSd8261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:16:49 GMT"
+        },
+        {
+          "title": "八省（市）将开展6G创新发展部省协同试点",
+          "summary": "[!--begin:htmlVideoCode--]90c5f8f20644404d974b66735efb60f5,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从工业和信息化部了解到，日前，国家确定北京市、河北省、上海市、江苏省等八个省（市）开展6G创新发展部省协同试点工作，进一步凝聚优势资源、协同创新，推动形成全国6G创新",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIm7uiKpC0WRyahv2pz9PL261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:15:37 GMT"
+        },
+        {
+          "title": "我国铁路运输市场保持旺盛需求",
+          "summary": "[!--begin:htmlVideoCode--]4d7278b3ea9946c7bfa1cefa5f94dc11,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年以来，我国铁路客运市场需求持续走高。前10个月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%，旅客发送总量、单日旅客发送量、单日客运能力投放等多项指标均创历史",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIsqUyQVUEyfsYLc4RLqsa261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:11:19 GMT"
+        },
+        {
+          "title": "聚焦APEC丨2026年APEC工商领导人峰会发布深圳倡议",
+          "summary": "新华社深圳11月18日电（记者潘洁、黄垚）《2026年亚太经合组织工商领导人峰会深圳倡议》18日对外发布，呼吁深化开放型区域经济、以技术创新驱动包容增长、畅通区域一体化动脉、携手实现共同繁荣。这是APEC工商领导人峰会创办30年来首次以倡议形式发布成果文件。 倡议指出，在开放包容、创新增长、互联互通、合作共赢四大优先领域引领下，亚太工商界愿与所有经济体一道，全面落实《2040年亚太经合组织布特拉加",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIGTaRftvDWem1dHIDboIn261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:03:53 GMT"
+        },
+        {
+          "title": "习近平会见俄罗斯总统普京",
+          "summary": "[!--begin:htmlVideoCode--]82409c51a8c248979dc38b0dc724a732,0,1,16:9,news[!--end:htmlVideoCode--] 11月18日，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的俄罗斯总统普京。 习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年。中俄关系既“风雨不",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTISYcfBwjOTolmeJoICz9P261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:47:29 GMT"
+        },
+        {
+          "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "summary": "新华社深圳11月18日电（记者董雪、梁希之）11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 宴会开始前，习近平主席夫妇同各经济体领导人、代表及配偶集体合影。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIt4pOjTmKDrNwRJTAKNDD261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:27:34 GMT"
+        },
+        {
+          "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+          "summary": "[!--begin:htmlVideoCode--]6fe9657b30864cb3814e45e6afe2a7f4,0,1,16:9,news[!--end:htmlVideoCode--] 11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。 习近平指出，当前，国际形势变乱交织，世界",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIyLqOhbcJGUzS5VmeBRH0261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:21:59 GMT"
+        },
+        {
+          "title": "中国与亚太同行初心始终不改 在APEC舞台上作用与贡献日益凸显",
+          "summary": "[!--begin:htmlVideoCode--]0a2e86972ac943d2a5b64529f3cf73ad,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 亚太经合组织第三十三次领导人非正式会议11月18日—19日在广东深圳举行。对于此次会议，各方有何期待？ “十五五”开局之年最重要的主场外交活动 亚太经合组织第三十三次领导人非正式会议",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIJhgOCrgmkJCW3J0nto7t261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:14:29 GMT"
+        },
+        {
+          "title": "一份议程单写满合作务实篇章 亚太地区始终是全球最具活力的增长热土",
+          "summary": "[!--begin:htmlVideoCode--]9a670f14a8e84f71a503b5fc674c79b7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年亚太经合组织工商领导人峰会11月17日起开始举行。来自APEC21个经济体和英国、法国等13个域外经济体的嘉宾展开一系列对话交流和专题研讨。安排紧凑、满满当当的议程折射出亚",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTId1G7j7yyvlTYfxKBjPLi261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:13:32 GMT"
+        },
+        {
+          "title": "线上秒级验证 数据跨境合作“中国方案”从深圳走向亚太",
+          "summary": "[!--begin:htmlVideoCode--]e9d1b4f1614248a3887c8d6444cf678c,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年APEC中国年聚焦“开放、创新、合作”。在人工智能发展浪潮中，数字经济合作如何从倡议走向实践？记者在深圳前海看到，一套创新的数据共享和跨境验证机制，从双边试点正逐步向更广阔",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIOsYOace3z0XHseHShOlE261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:13:13 GMT"
+        },
+        {
+          "title": "大国外交进行时丨普京：APEC为建设性交流提供广阔空间 期待俄中美领导人三边会晤",
+          "summary": "[!--begin:htmlVideoCode--]458a22091a2f401abe2cb2e0cb1a12b8,6,1,9:16,newPlayer[!--end:htmlVideoCode--] 为期两天的亚太经合组织工商领导人峰会在深圳举行。俄罗斯总统普京18日在峰会上发表致辞。 普京说：“举办本届APEC峰会的深圳这座城市确实令人印象深刻。它是最现代化、最具活力的大城市之一，有机融合了",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIBmvTw3lPvu4Rzqh6FUDP261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:03:15 GMT"
+        },
+        {
+          "title": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
+          "summary": "11月18日上午，国家主席习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。他指出，亚太经合组织伴随经济全球化浪潮而生，推动亚太地区引领时代风气之先。中国愿同各方一道，坚定信心、勇毅前行，携手建设亚太共同体，促进亚太共同繁荣。 总监制丨王涵 监制丨李浙 主编丨王兴栋 黄绪甜 视觉丨孟祥龙 毕野 编辑丨张琪",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIxU3Q1XX2tetdZxD61v6S261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:41:16 GMT"
+        },
+        {
+          "title": "创新产品“走出去”、高端要素“引进来” 携手亚太合作伙伴共拓增长空间",
+          "summary": "[!--begin:htmlVideoCode--]9033dd3ad03b4ab8be263785782e9227,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从深圳海关获悉，2026年前10个月，深圳对APEC其他成员经济体进出口增长超四成。深圳与亚太经济体经贸往来紧密，区域产业互补优势持续凸显。 据海关统计，前10个月，深圳对APE",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTITrC6q0kYPlUq9zoRJ2Sm261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:32:06 GMT"
+        },
+        {
+          "title": "越是面对逆风，越要拥抱开放！在区域合作中寻找新机遇、新伙伴",
+          "summary": "[!--begin:htmlVideoCode--]37395ae303c04f33b1193941ac3e5930,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： “开放、创新、合作”是2026APEC“中国年”所确立的三大优先领域，APEC工商领导人峰会正在举行，与会嘉宾如何看待这些优先合作领域？ 这里是粤港澳大湾区首个5G绿色低碳智慧港口—",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIciw4h4Lo9zB0jN646bnv261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:31:43 GMT"
+        },
+        {
+          "title": "【APEC面对面】“要筑桥，不要筑墙” 亚太各方用一座座“桥”连接彼此",
+          "summary": "[!--begin:htmlVideoCode--]5f9706d338fd411badba8c74a7e25775,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在全球经贸格局发生变化、保护主义和单边主义抬头的背景下，中国与东盟的经贸合作持续深化，也在不断拓展合作空间。马来西亚中国商务理事会主席卢成全认为，面对不确定性，亚太经济体更需要加强沟",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIiib2iBLilYlgKqJVSLSK261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:31:17 GMT"
+        },
+        {
+          "title": "中国银行股份有限公司原党委委员、副行长林景臻受贿案一审宣判",
+          "summary": "央视网消息 ：据最高人民法院微信公众号消息，2026年11月18日，浙江省杭州市中级人民法院一审公开宣判中国银行股份有限公司原党委委员、副行长林景臻受贿案，对被告人林景臻以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；对林景臻犯罪所得财物及孳息依法予以追缴，上缴国库。 经审理查明：2015年至2025年，被告人林景臻利用担任中国银行（香港）有限公司副总裁、中国银行股份有限公司党委委员、副行长职",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIrBHbGw3r81nhTwCTolzX261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:16:16 GMT"
+        },
+        {
+          "title": "【APEC时间】工商界人士在多维度、多视角探讨中挖掘区域合作新空间",
+          "summary": "[!--begin:htmlVideoCode--]ac90c325727344288ee2cd25927f47a6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 这次峰会围绕互联互通、人工智能、数字经济合作新路径等核心议题开展专题研讨，多维度、多视角挖掘区域合作新空间。如今，互联互通蓝图如何升级，开放合作之路怎么走？ 多位工商界人士表示，20",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTI0VQq7Y7if1GWTMGjFGBF261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:00:02 GMT"
+        },
+        {
+          "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
+          "summary": "AI热潮推动华尔街投行今年迎来丰收年，但这场资本盛宴可能难以延续。 11月18日，彭博专栏作家保罗·J·戴维斯撰文指出， 高盛和摩根士丹利等大型投行已与AI驱动的市场繁荣深度绑定，其股价走势与纳斯达克100指数高度同步。一旦科技股出现调整，投行的交易收入和奖金池都可能受到冲击。即便AI股票没有大幅下跌，华尔街也很难在2027年复制今年近乎完美的市场环境。 今年的IPO热潮尤为突出。据彭博数据，An",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786215",
+          "published": "Wed, 18 Nov 2026 16:04:32 GMT"
+        },
+        {
+          "title": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利",
+          "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786221",
+          "published": "Wed, 18 Nov 2026 16:04:16 GMT"
+        },
+        {
+          "title": "报道：Anthropic正考虑扩大IPO规模，散户的认购需求接近1000亿美元",
+          "summary": "报道：Anthropic正考虑扩大IPO规模，散户的认购需求接近1000亿美元。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786222",
+          "published": "Wed, 18 Nov 2026 15:19:13 GMT"
+        },
+        {
+          "title": "高利率下美国成屋签约销售跌至新纪录低点",
+          "summary": "10月，美国现有住房的成屋签约销售跌至新的历史低点，高企的抵押贷款利率挤压了住房需求。\n周三公布的数据显示，美国全国房地产经纪人协会（NAR）的成屋签约销售指数上月下跌4.7%，至63，为2001年有记录以来的最低读数。与去年同期相比，成屋签约销售暴跌约17%。\n这些数据是最新一系列报告显示美国房地产市场正承受高借贷成本和高房价双重压力的最新证据。衡量合同完成情况的现有房屋销量已跌至2010年以来",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786220",
+          "published": "Wed, 18 Nov 2026 15:02:37 GMT"
+        },
+        {
+          "title": "高鑫零售上半财年营收降9.9%，大润发持续扩大生鲜联采",
+          "summary": "高鑫零售的经营调整仍在持续，但传统大卖场的销售压力尚未缓解。 11月18日，大润发母公司高鑫零售（06808.HK）公布2027财年中期业绩。截至2026年9月30日的六个月内，公司实现营收274.87亿元，同比下降9.9%；期内净亏损5.17亿元，较上年同期的1.27亿元进一步扩大。 其中，集团货品销售同店同比下降9.5%，较去年同期降幅收窄，但仍面临压力。 报告期内，集团毛利69.12亿元，同",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786219",
+          "published": "Wed, 18 Nov 2026 14:35:07 GMT"
+        },
+        {
+          "title": "付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】",
+          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间 交易桌前看天下，付鹏说来评财经。本期视频录制2026年11月16日 今天继续和大家聊一聊铜。两三周前我在日记中专门讨论过铜的库存问题，以及COMEX一侧可能出现的情况。那篇日记之后，铜价随即破位，到目前为止的回撤幅度已经达到10%左右，并不算小。之所以现在再谈一次，是因为还有一个重要的因子尚未完",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout",
+          "published": "Wed, 18 Nov 2026 14:35:05 GMT"
+        },
+        {
+          "title": "3000亿元注资特别国债完成招标，二期票面利率1.40%",
+          "summary": "11月18日，财政部完成1500亿元中央金融机构注资特别国债（二期）招标，期限7年，票面利率1.40%。 加上10月8日招标发行的5年期、票面利率1.37%的一期，全年3000亿元中央金融机构注资特别国债完成招标。 本期国债将于11月19日起计息，11月23日起上市交易，2033年11月19日偿还本金并支付最后一次利息。 招标结果显示，本期债券加权中标收益率为1.40%，边际中标收益率为1.43%",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786218",
+          "published": "Wed, 18 Nov 2026 14:24:53 GMT"
+        },
+        {
+          "title": "大圆柱电池加码120毫米，争夺大电量车型",
+          "summary": "作者 | 周智宇 远景动力11月18日官宣其46120电芯累计交付突破1000万颗。相较于最早推出的4680大圆柱电池，电池厂正在通过增加电芯高度、提高单颗电量，加码大电量车型市场竞争。 远景这款直径46毫米、高120毫米的电芯，将率先配套宝马纯电SUV iX5。中大型纯电SUV需要更大电量支撑长续航，车企又不希望电芯数量、连接部件和装配负担随之大幅增加。相比95毫米，120毫米用更高的单颗电量，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786216",
+          "published": "Wed, 18 Nov 2026 14:24:12 GMT"
+        },
+        {
+          "title": "高利率持续施压，全球信用市场迎来压力测试：违约潮或进一步扩大",
+          "summary": "全球信用市场正经历全面重新定价，违约与债务重组风险持续上升。高利率进一步加重低评级借款人的偿债压力，信用市场紧张局势仍在加剧。 11月18日，据彭博报道，在彭博伦敦全球信用论坛上， 多家大型资产管理机构的高管警告，市场正在进入新一轮信用风险释放阶段。 从最低评级公司债利差走阔、对冲基金遭受重创，到CoreWeave债券跌至通常预示信用困境的价位，再到法国借贷成本升至逾二十年高位，市场紧张信号不断增",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786213",
+          "published": "Wed, 18 Nov 2026 13:26:09 GMT"
+        },
+        {
+          "title": "博理科技获超5亿元融资，3D打印机器人零部件批量供货",
+          "summary": "11月18日，苏州博理新材料科技有限公司（以下简称“博理科技”）宣布连续完成B2轮与B+轮股权融资，合计金额超5亿元。 公司披露，B2轮由基石资本与金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，上市公司长盈精密参投，估值未披露。 募资将用于高分子材料研发、装备扩产、具身智能应用开发、全球化交付网络建设与总部基地建设。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786210",
+          "published": "Wed, 18 Nov 2026 13:01:41 GMT"
+        },
+        {
+          "title": "从跨境结算到智能体支付，蚂蚁国际加码支付基础设施",
+          "summary": "11月18日，新加坡金融科技节首日，蚂蚁国际CEO杨鹏在一场讨论未来金融体系的圆桌上表示，账户直连账户的支付将冲击现有支付模式，在通证化、区块链和AI之下，支付链条中各类机构的分工可能发生变化。 蚂蚁国际正在沿着这一方向推进业务：通过区块链平台处理资金结算，连接银行账户与电子钱包，并为AI智能体建立支付与身份认证机制。 在杨鹏看来，当Web3货币成为主流，商户或许可以自行处理交易，对收单机构和支付",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786208",
+          "published": "Wed, 18 Nov 2026 12:46:55 GMT"
+        },
+        {
+          "title": "英伟达财报提振，美股盘前科技股上涨，SK海力士涨超4%，黄金跌破3800美元，油价下跌",
+          "summary": "英伟达发布好于预期的业绩指引，但市场对人工智能投资前景的疑虑并未消散，全球股市方向不明。与此同时，美联储官员释放持续加息信号，黄金跌至逾一年新低。 美股大型科技股盘前多数上涨，SK海力士涨超4%，美光科技、英伟达涨超3%，特斯拉涨超1%。英伟达预计下一财年营收增速将达75%，高于此前70%的预测，第四财季销售额指引为1300亿美元（上下浮动3%），超出分析师平均预期的1253亿美元。 然而，由美联",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786169",
+          "published": "Wed, 18 Nov 2026 12:46:27 GMT"
+        },
+        {
+          "title": "美联储理事沃勒：如果不想释放1月加息的信号，就应该在12月加息50个基点",
+          "summary": "美联储理事沃勒：通胀正朝错误方向发展。 担心通胀正在“扩散”。 美联储在加息方面需要更加积极。 如果不想释放1月加息的信号，就应该在12月加息50个基点。 人们开始认为3%的通胀率可能是常态。 更新中...... 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786207",
+          "published": "Wed, 18 Nov 2026 12:41:50 GMT"
+        },
+        {
+          "title": "商汤营收增长23%，算力服务与智能体应用双线推进",
+          "summary": "生成式AI已贡献商汤近八成收入，持续付费的客户正在成为公司减亏的重要支撑。 8月26日，商汤集团发布2026年中期业绩，上半年营收29.11亿元，同比增长23.4%；经调整净亏损3.86亿元，同比收窄67.3%。 其中，生成式AI收入23.27亿元，同比增长28.2%，占总收入的79.9%。以计算机视觉起家的商汤，收入结构已明显转向大模型、算力服务及相关应用。 按国际财务报告准则计算，商汤上半年录",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786206",
+          "published": "Wed, 18 Nov 2026 12:31:45 GMT"
+        },
+        {
+          "title": "通胀就业双重暴击！12月到底加25还是50bp？",
+          "summary": "11月10日，美国劳工统计局（BLS）公布CPI数据显示，10月份美国整体CPI环比上涨0.4%（预期0.30%），核心CPI环比上涨0.30%（预期0.20%）。由于去年10月美国政府停摆导致同比数据缺失，但从环比趋势看，美国通胀并未出现市场此前期待的持续降温。 核心CPI三个月年化增速升至3.75%，创下两年多最大涨幅，六个月年化增速也达到2.69%，潜在价格压力仍然顽固。10月核心PCE环比",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3785727",
+          "published": "Wed, 18 Nov 2026 12:06:52 GMT"
+        },
+        {
+          "title": "美联储为AI泡沫破裂做准备：生产力革命，还是宏观风险重估？",
+          "summary": "11月17日，沃什在旧金山联储公开会议上表示，美联储工作组已开始就AI快速普及对美国经济的潜在影响制定应急预案，涵盖生产力繁荣、大规模失业、技术泡沫破裂三条截然不同路径。 这三条路径为：1）AI推动生产力大幅提升、经济与劳动者共享红利的繁荣路径；2）经济增长被大规模岗位流失所抵消的失业路径；3）技术发展未能兑现预期、进而引发股市下挫与经济放缓的泡沫破裂路径。 沃什特别强调第三种情景：大规模资本投资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786190",
+          "published": "Wed, 18 Nov 2026 12:04:44 GMT"
+        },
+        {
+          "title": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会",
+          "summary": "欧洲央行即将迎来成立逾25年来最大规模的一次高层人事调整。德国已确定支持西班牙前央行行长巴勃罗·埃尔南德斯·德科斯竞逐欧洲央行行长，同时提名普林斯顿大学经济学教授马库斯·布伦纳迈尔进入执行委员会，为新一轮权力交接提供关键支持。 11月18日，据彭博报道，德国总理弗里德里希·默茨领导的执政联盟周三就欧洲央行人事安排达成一致。 根据协议，布伦纳迈尔将接替即将离任的伊莎贝尔·施纳贝尔，进入欧洲央行执行委",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786205",
+          "published": "Wed, 18 Nov 2026 11:57:24 GMT"
+        },
+        {
+          "title": "哈维·琼斯：成就黄仁勋，赶走黄仁勋",
+          "summary": "前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他就进入了董事会。33 年后，他成为英伟达历史上第一位董事会主席，负责主持新 CEO 遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786204",
+          "published": "Wed, 18 Nov 2026 11:46:30 GMT"
+        },
+        {
+          "title": "让品牌不止被看见，更能被365天持续记住——“2027见闻历企业定制”开启！",
+          "summary": "一份有内容、有质感的年度好礼 时间是最好的见证者，也是最好的投资。 在充满不确定性的时代，企业送给客户、合作伙伴最好的礼物， 不仅是一份心意，更是一份确定性的陪伴与信心 。 《2027见闻历》由华尔街见闻连续 九年 打造，将全球重要财经事件、投资大师箴言、金融历史上的重要瞬间与每日宜忌融入365天的日常。 从市场的风云变幻，到投资大师的深刻思考；从影响时代的财经大事，到值得铭记的历史时刻，每一页都",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786195",
+          "published": "Wed, 18 Nov 2026 11:22:00 GMT"
+        },
+        {
+          "title": "柏川数据完成5000万元Pre-A轮融资，星海图为投资方兼客户",
+          "summary": "11月18日，苏州柏川数据科技有限公司（以下简称“柏川数据”）宣布完成5000万元Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。另一家具身智能产业方目前暂未披露。 其中，星海图同时具有柏川数据客户与投资方的双重身份。 柏川数据披露，本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。本轮融资估值及各投资方",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786203",
+          "published": "Wed, 18 Nov 2026 11:15:16 GMT"
+        },
+        {
+          "title": "红旗谋划在欧洲“借厂造车”",
+          "summary": "作者 | 周智宇 红旗想在欧洲生产汽车，先把目光投向了当地车企的工厂。 中国第一汽车集团进出口有限公司总经理肖肖在11月17日表示，红旗正在评估多家欧洲生产伙伴，倾向使用现有工厂。Stellantis是其中一个选项，肖肖还提到了与一汽长期合作的大众。 大众中国发言人随后回应，双方没有就欧洲生产汽车进行谈判。红旗尚未公布具体厂址和投产时间。今年早些时候，已有消息称，红旗正与Stellantis洽谈西",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786202",
+          "published": "Wed, 18 Nov 2026 11:00:01 GMT"
+        },
+        {
+          "title": "瑞银宋宇预计2027年中国GDP增4.6%左右 结构上存在此消彼长的跷跷板",
+          "summary": "稳是核心目标；结构上，出口与内需、高科技行业与非高科技行业之间都存在“跷跷板”关系，且有多种加速机制导致分化自我加强 【财新网】 2026年行将结束，2027年中国经济图景如何？瑞银证券首席中国经济学家宋宇将其描述为一个“中间稳定的跷跷板”。 11月18日，宋宇在2027年中国宏观经济展望媒体会上表示，“稳”是2027年经济、市场和地缘经济政治的核心目标。这其中包含两层含义：一方面是托底，经济增速",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://economy.caixin.com/2026-11-18/102506394.html",
+          "published": "Wed, 18 Nov 2026 15:04:36 GMT"
+        },
+        {
+          "title": "珠海筹划新一轮国资整合重组 欲助华发集团应对流动性压力",
+          "summary": "11月13日和16日，珠海国资委分别将珠海水控集团与格力集团的股权增资注入珠海资本集团 珠海华发集团有限公司承受流动性压力，属地政府筹划推进新一轮国资整合重组，为华发集团“救急”。 【财新网】 珠海华发集团有限公司（下称“华发集团”）承受流动性压力，属地政府筹划推进新一轮国资整合重组，为华发集团“救急”。 11月16日，珠海水务环境控股集团（下称“珠海水控集团”）发布公告称，珠海国资委将其所持有的",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-18/102506391.html",
+          "published": "Wed, 18 Nov 2026 15:03:59 GMT"
+        },
+        {
+          "title": "中信证券再获200亿科创债批文 科创债双市场累计获批500亿",
+          "summary": "科创债市场快速扩容，但硬科技成色待提升 【财新网】 11月18日，中信证券发布公告，公司日前收到中国证监会批复，同意公司向专业投资者公开发行面值总额不超过200亿元科技创新公司债券。批复自同意注册之日起24个月内有效，公司在注册有效期内可以分期发行。 根据中信证券10月15日公布的债券募集说明书，此次发行的公司债券期限为不超过20年（含20年），可以为单一期限品种，也可以为多种期限的混合品种。按1",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-18/102506380.html",
+          "published": "Wed, 18 Nov 2026 13:43:19 GMT"
+        },
+        {
+          "title": "李在明：国际社会应保障关键矿产和能源的稳定供需",
+          "summary": "李在明说，“最紧迫的任务是通过扩大APEC区域内的贸易和投资，为企业开拓新的增长机会” 【财新网】 “即使在贸易壁垒不断加高的形势下，也不能停止开放。必须将人工智能革命的成果扩展为惠及所有人的创新，并应为构建稳定的产业基础和供应链进一步加强合作。”11月18日下午，韩国总统李在明在深圳出席2026年亚太经合组织（APEC）工商领导人峰会时如此强调。 11月17日至11月18日，由中国贸促会主办的2",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-18/102506371.html",
+          "published": "Wed, 18 Nov 2026 12:39:30 GMT"
+        },
+        {
+          "title": "卡尼：作为“太平洋国家” 加拿大致力于与亚太深化合作",
+          "summary": "卡尼说，“加拿大正在经历自身的转型。在这个愈发危险且分裂的世界中，我们正在将全球的不确定性，转化为国家的机遇” 【财新网】 11月18日下午，加拿大总理卡尼在深圳出席2026年亚太经合组织（APEC）工商领导人峰会时表示，加拿大的目标是拥有“更大的主权”，即“按照自己意愿生活的能力”（the ability to live as we choose），而这种主权则建立在其自身的实力和多元化的伙伴关",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-18/102506363.html",
+          "published": "Wed, 18 Nov 2026 12:29:10 GMT"
+        },
+        {
+          "title": "中国碳市场获欧盟“碳关税”认可 但免费配额不计入抵扣",
+          "summary": "对于中国碳市场而言，企业“真金白银”购买配额支付的碳成本，才可能纳入欧盟碳关税抵扣核算 【财新网】 欧盟碳边境调节机制（CBAM，俗称“碳关税”）正式进入实施阶段后，第三国企业已承担的碳成本如何抵扣欧盟碳边境费用，迎来更具体的核算规则。 当地时间11月16日，欧盟委员会正式公布《实施条例（EU）2026/2498》（Implementing Regulation 2026/2498），明确第三国已",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-18/102506358.html",
+          "published": "Wed, 18 Nov 2026 12:09:36 GMT"
+        },
+        {
+          "title": "专访美中贸易全国委员会会长谭森：担忧对华政策压力延续",
+          "summary": "美国中期选举结束，当下针对中国的限制措施，源头除了国会，还包括联邦政府机构，后续压力依然可能来自共和党 【财新网】 11月17日晚，美中贸易全国委员会会长谭森（Sean Stein）在深圳参加亚太经合组织工商领导人峰会期间接受财新专访。在中美两国元首会面前夕，谭森认为，中美两国合作潜力巨大，但眼下阻碍重重，迫切需要把重心从风险防御转回经济增长、协同合作。 此时，刚刚辞任的黄仁勋正面临英伟达董事会、",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-18/102506345.html",
+          "published": "Wed, 18 Nov 2026 11:29:43 GMT"
+        },
+        {
+          "title": "证监会盘中辟谣“基金公司上报AI敞口” 午后科技股翻红领涨",
+          "summary": "通信、算力板块领涨，多只AI重仓基金此前发布清盘预警 【财新网】 11月18日中午，证监会针对互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息辟谣称，该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 午后A股三大指数拉升",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-18/102506305.html",
+          "published": "Wed, 18 Nov 2026 10:31:27 GMT"
+        },
+        {
+          "title": "“劳动三分法”的是与非",
+          "summary": "修改《办法》应全面回归劳动法与民法的二元框架，把落脚点放回当事人合意 《新就业形态劳动者权益保障办法（征求意见稿）》（简称《办法》），是中国首部专门针对新就业形态劳动者权益保障的部门规章。有学者赞其“发展出适应时代需求的劳动三分法”，也有意见肯定其“将政策经验上升为规章”。“劳动三分法”指将新业态用工定位于在劳动法与民法体系之外的立法。《办法》确实是按照这种思路来定位。笔者却认为应该给予负面的评价",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-18/102506298.html",
+          "published": "Wed, 18 Nov 2026 10:08:23 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“考古中国”重大项目取得新成果",
+          "summary": "[!--begin:htmlVideoCode--]d49924b9e627498f9c2b2c52596d8684,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：11月18日，国家文物局发布四川、浙江、江西、湖北四省“考古中国”重大项目新进展，为长江文明溯源再添实证。 四川遂宁 桃花河遗址：展现早期人类社会组织能力 此次发布的考古成果中，四川",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIhkk86OUlskKnEVysYqcm261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:33:26 GMT"
+        },
+        {
+          "title": "应对寒潮降温天气 各地积极保障供暖",
+          "summary": "[!--begin:htmlVideoCode--]106b0e951e8b48c99755bdb9f0df3a0d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：受冷空气影响，各地持续推进供热、供暖，保障民众温暖过冬。 山西：大风降温来袭 供热供气部门积极应对 从11月17日下午开始，山西忻州、大同、朔州三地迎来降雪。截至11月18日下午2点",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIQxfCqwqFvvZUUsqCS00k261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:31:01 GMT"
+        },
+        {
+          "title": "生态环境部：2030年基本建成生态环境智慧执法体系",
+          "summary": "[!--begin:htmlVideoCode--]af53079417014879a903a6e73c48b3a7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：生态环境部近日印发《关于推进生态环境智慧执法体系建设 强化非现场执法监管的意见》，明确到2030年基本建成数智驱动、研判精准、行动高效、依法规范的生态环境智慧执法体系，推动执法方式向",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTItRwtOyJOlVysKwkpi9es261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:28:24 GMT"
+        },
+        {
+          "title": "中国科学家在COP31提出航运业负排放新路径",
+          "summary": "新华社土耳其安塔利亚11月18日电（记者张晓茹　王腾飞）航运业减排是全球绿色转型的难点之一。中国科学家在《联合国气候变化框架公约》第三十一次缔约方大会（COP31）期间提出，以船载微藻协同利用船舶发动机尾气中的二氧化碳和生活污水，推动船舶由碳排放源向移动碳汇转变。 “凝聚国际共识，携手推进海洋负排放”专题边会日前在COP31蓝区海洋角举行，由海洋负排放国际大科学计划和厦门大学共同主办，美国伍兹霍尔",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTI7f6FaOIYZHQuB6shY8id261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:19:40 GMT"
+        },
+        {
+          "title": "寒潮蓝色预警：黑龙江吉林浙江福建等部分地区降温8至10℃",
+          "summary": "央视网消息 ：中央气象台11月18日18时继续发布寒潮蓝色预警： 受强冷空气影响，预计，2026年11月18日20时至20日08时，黑龙江大部、吉林中东部、江苏南部、浙江、江西东部、福建大部、广西南部等地将降温6～8℃，其中，黑龙江东南部、吉林东部、浙江南部、福建北部等地的部分地区将降温8～10℃。11月20日早晨，最低气温0°C线将南压至河南北部至苏皖北部一带。 防御指南： 1.政府及有关部门按",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIgcd3SfpYfyYhgEIAT6Aa261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:01:02 GMT"
+        },
+        {
+          "title": "时政Vlog丨普京到访深圳北理莫斯科大学",
+          "summary": "[!--begin:htmlVideoCode--]7a378ddf285e4ac6a243afc14e31228c,6,1,9:16,newPlayer[!--end:htmlVideoCode--] 11月18日，俄罗斯总统普京抵达深圳，出席亚太经合组织第三十三次领导人非正式会议。当天下午，普京到访深圳北理莫斯科大学并向师生发表演讲。 跟随ToSun记者团的镜头一起去现场看一看！ 总监制丨申勇",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIB6AXmA7O0fArwiUc2TeI261118.shtml",
+          "published": "Wed, 18 Nov 2026 10:03:32 GMT"
+        },
+        {
+          "title": "中国银行股份有限公司原党委委员、副行长林景臻受贿案一审宣判",
+          "summary": "央视网消息 ：据最高人民法院微信公众号消息，2026年11月18日，浙江省杭州市中级人民法院一审公开宣判中国银行股份有限公司原党委委员、副行长林景臻受贿案，对被告人林景臻以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；对林景臻犯罪所得财物及孳息依法予以追缴，上缴国库。 经审理查明：2015年至2025年，被告人林景臻利用担任中国银行（香港）有限公司副总裁、中国银行股份有限公司党委委员、副行长职",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIrBHbGw3r81nhTwCTolzX261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:16:16 GMT"
+        },
+        {
+          "title": "3000亿元注资特别国债完成招标，二期票面利率1.40%",
+          "summary": "11月18日，财政部完成1500亿元中央金融机构注资特别国债（二期）招标，期限7年，票面利率1.40%。 加上10月8日招标发行的5年期、票面利率1.37%的一期，全年3000亿元中央金融机构注资特别国债完成招标。 本期国债将于11月19日起计息，11月23日起上市交易，2033年11月19日偿还本金并支付最后一次利息。 招标结果显示，本期债券加权中标收益率为1.40%，边际中标收益率为1.43%",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786218",
+          "published": "Wed, 18 Nov 2026 14:24:53 GMT"
+        },
+        {
+          "title": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会",
+          "summary": "欧洲央行即将迎来成立逾25年来最大规模的一次高层人事调整。德国已确定支持西班牙前央行行长巴勃罗·埃尔南德斯·德科斯竞逐欧洲央行行长，同时提名普林斯顿大学经济学教授马库斯·布伦纳迈尔进入执行委员会，为新一轮权力交接提供关键支持。 11月18日，据彭博报道，德国总理弗里德里希·默茨领导的执政联盟周三就欧洲央行人事安排达成一致。 根据协议，布伦纳迈尔将接替即将离任的伊莎贝尔·施纳贝尔，进入欧洲央行执行委",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786205",
+          "published": "Wed, 18 Nov 2026 11:57:24 GMT"
+        },
+        {
+          "title": "哈维·琼斯：成就黄仁勋，赶走黄仁勋",
+          "summary": "前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他就进入了董事会。33 年后，他成为英伟达历史上第一位董事会主席，负责主持新 CEO 遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786204",
+          "published": "Wed, 18 Nov 2026 11:46:30 GMT"
+        },
+        {
+          "title": "中信证券再获200亿科创债批文 科创债双市场累计获批500亿",
+          "summary": "科创债市场快速扩容，但硬科技成色待提升 【财新网】 11月18日，中信证券发布公告，公司日前收到中国证监会批复，同意公司向专业投资者公开发行面值总额不超过200亿元科技创新公司债券。批复自同意注册之日起24个月内有效，公司在注册有效期内可以分期发行。 根据中信证券10月15日公布的债券募集说明书，此次发行的公司债券期限为不超过20年（含20年），可以为单一期限品种，也可以为多种期限的混合品种。按1",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-18/102506380.html",
+          "published": "Wed, 18 Nov 2026 13:43:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“考古中国”重大项目取得新成果",
+          "summary": "[!--begin:htmlVideoCode--]d49924b9e627498f9c2b2c52596d8684,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：11月18日，国家文物局发布四川、浙江、江西、湖北四省“考古中国”重大项目新进展，为长江文明溯源再添实证。 四川遂宁 桃花河遗址：展现早期人类社会组织能力 此次发布的考古成果中，四川",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIhkk86OUlskKnEVysYqcm261119.shtml",
+          "published": "Wed, 18 Nov 2026 16:33:26 GMT"
+        },
+        {
+          "title": "古典诗意搭起共情的桥梁",
+          "summary": "“海上生明月，天涯共此时。”盛唐名相张九龄的诗句，之所以跨越千年依然打动人心，在于跳出个体情绪的局限，道出人类共同的生命体验。无论身处何种地域、何种境遇，人与人之间对温情、相知与联结的向往，始终相通相融。这种朴素又宏大的人文底色，是中华古典诗词最珍贵的价值，也是微纪录片《天涯共此诗》立足的文化根基。 作品聚焦海外学子、国际友人与中华诗词故事，与观众一起“精读”20首涵盖不同时代、不同题材、不同精神",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIO9BPFTCCjSLtb94hKed7261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "title": "从新产品到新场景，首发经济不止于开店",
+          "summary": "花青、藤黄、胭脂、石绿……走进位于天津南开大悦城的鸵鸟墨色文创空间，近400款彩墨铺陈出的一面弧形“墨色主题墙”映入眼帘，名字与色彩都透着浓浓的东方美意。顾客的笔尖落下，墨色在宣纸上缓缓晕开。 “鸵鸟墨水是天津老品牌，小时候写作业用的就是它的蓝黑墨水，没想到现在变得这么时尚。”顾客赵女士放下手中的笔，忍不住感慨。 鸵鸟墨色文创空间是由中华老字号鸵鸟墨水打造的全国首店，将中国色、文房器具等与文创设计",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIosyhivedv9j6n54qCDq3261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:57:34 GMT"
+        },
+        {
+          "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
+          "summary": "AI热潮推动华尔街投行今年迎来丰收年，但这场资本盛宴可能难以延续。 11月18日，彭博专栏作家保罗·J·戴维斯撰文指出， 高盛和摩根士丹利等大型投行已与AI驱动的市场繁荣深度绑定，其股价走势与纳斯达克100指数高度同步。一旦科技股出现调整，投行的交易收入和奖金池都可能受到冲击。即便AI股票没有大幅下跌，华尔街也很难在2027年复制今年近乎完美的市场环境。 今年的IPO热潮尤为突出。据彭博数据，An",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786215",
+          "published": "Wed, 18 Nov 2026 16:04:32 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "大国外交最前线丨现场见证！深圳APEC的首张“全家福”",
+          "summary": "[!--begin:htmlVideoCode--]7755bd1ae7754be4b63177becf73eae3,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 南海之滨灯火璀璨。18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 伴随着各经济体的特色乐曲，贵宾们陆续抵达。宴会开始前，习近",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIAlgmtLeneyn4Rasug1yr261118.shtml",
+          "published": "Wed, 18 Nov 2026 14:05:16 GMT"
+        },
+        {
+          "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文）",
+          "summary": "新华社深圳11月18日电 在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞 （2026年11月18日，深圳） 中华人民共和国主席　习近平 各位同事， 各位来宾， 女士们，先生们，朋友们： 大家晚上好！ 今晚，南海之滨灯火璀璨，鹏城深圳秋意盎然。在亚太经合组织第三十三次领导人非正式会议即将召开之际，我谨代表中国政府和中国人民，对各位嘉宾的到来表示热烈欢迎。 我曾讲过，看千年的中国去西安，看",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIrsW7RAq0j0XWYl220U7e261118.shtml",
+          "published": "Wed, 18 Nov 2026 11:52:57 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "古典诗意搭起共情的桥梁",
+          "summary": "“海上生明月，天涯共此时。”盛唐名相张九龄的诗句，之所以跨越千年依然打动人心，在于跳出个体情绪的局限，道出人类共同的生命体验。无论身处何种地域、何种境遇，人与人之间对温情、相知与联结的向往，始终相通相融。这种朴素又宏大的人文底色，是中华古典诗词最珍贵的价值，也是微纪录片《天涯共此诗》立足的文化根基。 作品聚焦海外学子、国际友人与中华诗词故事，与观众一起“精读”20首涵盖不同时代、不同题材、不同精神",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIO9BPFTCCjSLtb94hKed7261118.shtml",
+          "published": "Wed, 18 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "title": "从新产品到新场景，首发经济不止于开店",
+          "summary": "花青、藤黄、胭脂、石绿……走进位于天津南开大悦城的鸵鸟墨色文创空间，近400款彩墨铺陈出的一面弧形“墨色主题墙”映入眼帘，名字与色彩都透着浓浓的东方美意。顾客的笔尖落下，墨色在宣纸上缓缓晕开。 “鸵鸟墨水是天津老品牌，小时候写作业用的就是它的蓝黑墨水，没想到现在变得这么时尚。”顾客赵女士放下手中的笔，忍不住感慨。 鸵鸟墨色文创空间是由中华老字号鸵鸟墨水打造的全国首店，将中国色、文房器具等与文创设计",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIosyhivedv9j6n54qCDq3261118.shtml",
+          "published": "Wed, 18 Nov 2026 12:57:34 GMT"
+        },
+        {
+          "title": "湖北云梦再出土珍贵秦简 揭开秦代民众生活细节",
+          "summary": "11月18日上午，国家文物局召开“考古中国”重大项目重要进展工作会，发布4项考古最新进展。在此次发布的成果中，湖北云梦老虎墩墓地出土的一批秦简备受瞩目。 今年4月，经国家文物局批准，湖北省文物考古研究院对云梦老虎墩墓地开展发掘，该遗址距离睡虎地遗址仅三公里左右。迄今已清理秦汉墓葬113座，其中3座墓葬中发现秦汉简牍遗存，多数简牍保存完整，信息留存度高。 △老虎墩墓葬分布图 经研究，这批简牍内容覆盖",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIK8ZvGRVwknNzTY7FsorO261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:50:06 GMT"
+        },
+        {
+          "title": "中国银行股份有限公司原党委委员、副行长林景臻受贿案一审宣判",
+          "summary": "央视网消息 ：据最高人民法院微信公众号消息，2026年11月18日，浙江省杭州市中级人民法院一审公开宣判中国银行股份有限公司原党委委员、副行长林景臻受贿案，对被告人林景臻以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；对林景臻犯罪所得财物及孳息依法予以追缴，上缴国库。 经审理查明：2015年至2025年，被告人林景臻利用担任中国银行（香港）有限公司副总裁、中国银行股份有限公司党委委员、副行长职",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/18/ARTIrBHbGw3r81nhTwCTolzX261118.shtml",
+          "published": "Wed, 18 Nov 2026 09:16:16 GMT"
+        },
+        {
+          "title": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利",
+          "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786221",
+          "published": "Wed, 18 Nov 2026 16:04:16 GMT"
+        },
+        {
+          "title": "中行仍在坚守的村镇生意",
+          "summary": "国有大行的村镇银行改革接近尾声，中国银行成了一个特殊的存在。 11月11日，河北金融监管局发布批复，同意中行旗下中银富登村镇银行股份有限公司募集20亿股股份。这家投管行，持有并管理着国内规模最大的村行体系。 其他大行正陆续退出村镇银行独立法人经营。 建行早在2018年便签约转让所持27家村行股权，农行、交行已完成旗下村行改制，工行最后一家村行也已获批收购改制。 中行则一面将京沪部分村行业务收归自身",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786209",
+          "published": "Wed, 18 Nov 2026 12:50:02 GMT"
+        },
+        {
+          "title": "商汤营收增长23%，算力服务与智能体应用双线推进",
+          "summary": "生成式AI已贡献商汤近八成收入，持续付费的客户正在成为公司减亏的重要支撑。 8月26日，商汤集团发布2026年中期业绩，上半年营收29.11亿元，同比增长23.4%；经调整净亏损3.86亿元，同比收窄67.3%。 其中，生成式AI收入23.27亿元，同比增长28.2%，占总收入的79.9%。以计算机视觉起家的商汤，收入结构已明显转向大模型、算力服务及相关应用。 按国际财务报告准则计算，商汤上半年录",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786206",
+          "published": "Wed, 18 Nov 2026 12:31:45 GMT"
+        },
+        {
+          "title": "让品牌不止被看见，更能被365天持续记住——“2027见闻历企业定制”开启！",
+          "summary": "一份有内容、有质感的年度好礼 时间是最好的见证者，也是最好的投资。 在充满不确定性的时代，企业送给客户、合作伙伴最好的礼物， 不仅是一份心意，更是一份确定性的陪伴与信心 。 《2027见闻历》由华尔街见闻连续 九年 打造，将全球重要财经事件、投资大师箴言、金融历史上的重要瞬间与每日宜忌融入365天的日常。 从市场的风云变幻，到投资大师的深刻思考；从影响时代的财经大事，到值得铭记的历史时刻，每一页都",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786195",
+          "published": "Wed, 18 Nov 2026 11:22:00 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 152,
+    "total_collected": 111,
+    "sources": 8,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "观察者网",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
