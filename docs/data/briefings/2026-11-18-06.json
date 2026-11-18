@@ -1,0 +1,493 @@
+{
+  "id": "2026-11-18-06",
+  "datetime": "2026-11-18 06:24:34",
+  "date": "2026-11-18",
+  "time": "06:24",
+  "period": "上午",
+  "summary": "本期采集 39 篇文章，来自 5 个信息源，覆盖 5 个领域，精选 55 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+          "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119210",
+          "published": "Wed, 18 Nov 2026 08:46:03 +0800"
+        },
+        {
+          "title": "Why is Gemini 4 Carbon taking so long?",
+          "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 31 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+          "published": "Wed, 18 Nov 2026 04:14:04 +0000"
+        },
+        {
+          "title": "Claude was trained on protein sequences at scale",
+          "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 9 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+          "published": "Wed, 18 Nov 2026 03:47:43 +0000"
+        },
+        {
+          "title": "Cerebras Disaggregated Inference",
+          "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 61 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+          "published": "Wed, 18 Nov 2026 00:56:23 +0000"
+        },
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 272 # Comments: 195",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://revscope.co/blog/search-seo-geo-2026/",
+          "published": "Wed, 18 Nov 2026 00:17:58 +0000"
+        },
+        {
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+          "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+          "published": "Tue, 17 Nov 2026 23:04:35 +0000"
+        },
+        {
+          "title": "Satya Nadella says he’s AGI-pilled now",
+          "summary": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+          "published": "2026-11-17T18:41:18-05:00"
+        },
+        {
+          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+          "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon fou",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+          "published": "2026-11-17T17:38:41-05:00"
+        },
+        {
+          "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+          "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+          "published": "2026-11-17T17:32:50-05:00"
+        },
+        {
+          "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+          "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+          "published": "2026-11-17T17:25:41-05:00"
+        },
+        {
+          "title": "AI抛售潮里，SpaceX凭什么扛住了？",
+          "summary": "在近期剧烈波动的AI抛售潮中，SpaceX展现出了惊人的抗跌韧性。摩根士丹利认为，SpaceX正在与传统的“AI交易”脱钩 （Decorrelate） ，成为投资者投资组合中更具持久性的避风港，维持其“增持”评级，目标价高达300美元。 据追风交易台消息，摩根士丹利在11月17日的研报中称，SpaceX的核心吸引力在于三大催化剂： 星链（Starlink）业务展现出的“类债券”稳定收益特征、旗下T",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786164",
+          "published": "Wed, 18 Nov 2026 05:43:36 GMT"
+        },
+        {
+          "title": "证监会：“监管要求基金公司上报全部产品AI敞口”不实",
+          "summary": "中国证监会新闻发言人答记者问 问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 来源： 证监会发布 风险提示及免责条款 市场有风",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786163",
+          "published": "Wed, 18 Nov 2026 05:30:17 GMT"
+        },
+        {
+          "title": "微博三季度广告行业分化，AI和视频还填不上收入缺口",
+          "summary": "今年前三季度，微博的营收几乎原地踏步，净利润却少了七成多。 11月17日，微博披露截至9月30日的三季度业绩：总营收4.102亿美元，同比下降7%。 按去年同期汇率计算，降幅为13%。归属微博的净利润2450万美元，同比降88.9%。 拉长到前三季度，累计营收12.854亿美元，与去年同期12.840亿几乎持平。 按财报数据计算，前两个季度收入同比增长约4%，下滑集中出现在三季度。 前三季度归属净",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786162",
+          "published": "Wed, 18 Nov 2026 05:01:15 GMT"
+        },
+        {
+          "title": "中国证监会：“监管要求基金公司上报全部产品AI敞口”信息不属实",
+          "summary": "中国证监会新闻发言人答记者问。问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3201701",
+          "published": "Wed, 18 Nov 2026 04:28:06 GMT"
+        },
+        {
+          "title": "BIS新规：如何影响全球算力格局？",
+          "summary": "BIS新规之下，全球算力将被切割成三个互不连通的市场。 在BIS《出口管理条例》中新增第744.24条：第三国数据中心只要向总部位于D:5 国家组（含中国）或中国澳门的企业提供超过1200万聚合总处理性能的算力，芯片的出口、再出口与境内转移都需事先获许可。 新规真正的杀伤力不在算力总量，而在算力的「合法性溢价」 。它把全球算力从一个大市场切成三个互不连通的价格体系。2027年是全球算力分水岭，但决",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786156",
+          "published": "Wed, 18 Nov 2026 03:42:21 GMT"
+        },
+        {
+          "title": "英伟达代理CEO Kress安抚市场：客户没有流失，员工也不会出走",
+          "summary": "英伟达交出一份超预期的季度成绩单，代理CEO Colette Kress随即出面稳定军心。 在黄仁勋因丑闻突然辞职后的首份财报发布当晚，Kress接受CNBC《Mad Money》节目专访， 明确表示客户需求未受影响，员工队伍同样稳固。盘后英伟达股价上涨逾3%。 这份财报在一定程度上缓解了市场对英伟达领导层更迭后前景的担忧。但公司股价本月已累计下跌24%，并在上周五结束了自2012年以来最长的六连",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786150",
+          "published": "Wed, 18 Nov 2026 02:29:50 GMT"
+        },
+        {
+          "title": "A股三大股指早盘集体转跌，AI硬件侧局部回暖，创新药、贵金属调整，恒指、恒科指齐跌，京东大跌8%",
+          "summary": "英伟达披露第三季度业绩，大幅超出市场预期，盘后股价涨超4%，提振市场信心。亚太股市周三开盘上涨，韩国KOSPI指数涨幅扩大至3%，SK海力士涨超6%，三星电子涨超4%。A股AI硬件股跟随反弹走高。 11月18日，A股早盘高开，三大股指盘初集体回落，纷纷转跌，得益于英伟达最新公布的业绩强于预期，AI硬件测反弹，光模块、电路板、覆铜板等概念股集体回暖，工业富联、沪电股份、天孚通信等早盘拉升。白色家电、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786152",
+          "published": "Wed, 18 Nov 2026 02:14:52 GMT"
+        },
+        {
+          "title": "IPO火爆！Anthropic的早期VC们回报超过10倍",
+          "summary": "Anthropic或将以1.4万亿美元估值完成IPO定价，这场AI独角兽的上市盛宴，让一批押注早、押注重的风险投资机构收获颇丰。 11月17日，据知情人士向The Information透露，美国Spark Capital、Factorial Funds、Sound Ventures和Menlo Ventures等早期VC机构，将在本次IPO中实现超过10倍的理论回报。其中Menlo Ventur",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786149",
+          "published": "Wed, 18 Nov 2026 01:45:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Why Fibonacci?",
+          "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 6 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.evilgeniuslabs.org/why-fibonacci",
+          "published": "Wed, 18 Nov 2026 05:35:02 +0000"
+        },
+        {
+          "title": "Optimjack from the Outside: The Hijacked Script Was on Our Radar",
+          "summary": "Article URL: https://blog.fortirix.com/blog/optimjack/ Comments URL: https://news.ycombinator.com/item?id=50542181 Points: 3 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.fortirix.com/blog/optimjack/",
+          "published": "Wed, 18 Nov 2026 05:21:07 +0000"
+        },
+        {
+          "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+          "summary": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 101 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+          "published": "Wed, 18 Nov 2026 05:11:30 +0000"
+        },
+        {
+          "title": "Why is Gemini 4 Carbon taking so long?",
+          "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 31 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+          "published": "Wed, 18 Nov 2026 04:14:04 +0000"
+        },
+        {
+          "title": "Claude was trained on protein sequences at scale",
+          "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 9 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+          "published": "Wed, 18 Nov 2026 03:47:43 +0000"
+        },
+        {
+          "title": "H-1B Executive Actions in 2026 [pdf]",
+          "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 21 # Comments: 20",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+          "published": "Wed, 18 Nov 2026 03:37:35 +0000"
+        },
+        {
+          "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comment",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+          "published": "Wed, 18 Nov 2026 03:35:47 +0000"
+        },
+        {
+          "title": "Cerebras Disaggregated Inference",
+          "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 61 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+          "published": "Wed, 18 Nov 2026 00:56:23 +0000"
+        },
+        {
+          "title": "ID.me terms required for IRS sign-in",
+          "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 273 # Comments: 113",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+          "published": "Wed, 18 Nov 2026 00:51:45 +0000"
+        },
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 272 # Comments: 195",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://revscope.co/blog/search-seo-geo-2026/",
+          "published": "Wed, 18 Nov 2026 00:17:58 +0000"
+        },
+        {
+          "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+          "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 154 # Comments: 53",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+          "published": "Tue, 17 Nov 2026 23:32:58 +0000"
+        },
+        {
+          "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+          "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 242 # Comments: 59",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/microsoft/onnxruntime",
+          "published": "Tue, 17 Nov 2026 23:18:49 +0000"
+        },
+        {
+          "title": "现货黄金失守3800美元，为去年9月以来首次",
+          "summary": "美联储官员接连释放鹰派信号，金价承压跌至14个月新低，分析师警告短期下行风险犹存。 圣路易斯联储主席Alberto Musalem表示，美国经济在明年春季前可能需要经历\"数次加息\"；纽约联储主席John Williams亦称，央行在将通胀拉回2%目标的道路上\"仍有工作要做\"。 受此拖累，现货黄金周三盘中最多下跌1.5%，触及3788美元/盎司附近，连续第三个交易日下跌。 金价自今年2月底美伊战争爆",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786165",
+          "published": "Wed, 18 Nov 2026 05:33:18 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "AI抛售潮里，SpaceX凭什么扛住了？",
+          "summary": "在近期剧烈波动的AI抛售潮中，SpaceX展现出了惊人的抗跌韧性。摩根士丹利认为，SpaceX正在与传统的“AI交易”脱钩 （Decorrelate） ，成为投资者投资组合中更具持久性的避风港，维持其“增持”评级，目标价高达300美元。 据追风交易台消息，摩根士丹利在11月17日的研报中称，SpaceX的核心吸引力在于三大催化剂： 星链（Starlink）业务展现出的“类债券”稳定收益特征、旗下T",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786164",
+          "published": "Wed, 18 Nov 2026 05:43:36 GMT"
+        },
+        {
+          "title": "老黄想杀回英伟达，第一步，干掉董事会",
+          "summary": "黄仁勋想杀回英伟达，第一步可能不是求董事会点头，是直接把董事会干掉。 毕竟他手里还有大约3.5%的英伟达股份，有资格提名两名董事候选人。 更关键的是，只要股东凑够15%的投票权，就有机会发起特别股东大会。 到时候，就是股东决定这届董事会，还能不能继续干下去！ 而且老黄不是一个人在战斗。员工联名、科技大佬站队、华尔街投资人施压，甚至特朗普都表达过支持。 所以，这场回归之战能成功吗？",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960190",
+          "published": "Wed, 18 Nov 2026 05:40:16 GMT"
+        },
+        {
+          "title": "现货黄金失守3800美元，为去年9月以来首次",
+          "summary": "美联储官员接连释放鹰派信号，金价承压跌至14个月新低，分析师警告短期下行风险犹存。 圣路易斯联储主席Alberto Musalem表示，美国经济在明年春季前可能需要经历\"数次加息\"；纽约联储主席John Williams亦称，央行在将通胀拉回2%目标的道路上\"仍有工作要做\"。 受此拖累，现货黄金周三盘中最多下跌1.5%，触及3788美元/盎司附近，连续第三个交易日下跌。 金价自今年2月底美伊战争爆",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786165",
+          "published": "Wed, 18 Nov 2026 05:33:18 GMT"
+        },
+        {
+          "title": "证监会：“监管要求基金公司上报全部产品AI敞口”不实",
+          "summary": "中国证监会新闻发言人答记者问 问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 来源： 证监会发布 风险提示及免责条款 市场有风",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786163",
+          "published": "Wed, 18 Nov 2026 05:30:17 GMT"
+        },
+        {
+          "title": "微博三季度广告行业分化，AI和视频还填不上收入缺口",
+          "summary": "今年前三季度，微博的营收几乎原地踏步，净利润却少了七成多。 11月17日，微博披露截至9月30日的三季度业绩：总营收4.102亿美元，同比下降7%。 按去年同期汇率计算，降幅为13%。归属微博的净利润2450万美元，同比降88.9%。 拉长到前三季度，累计营收12.854亿美元，与去年同期12.840亿几乎持平。 按财报数据计算，前两个季度收入同比增长约4%，下滑集中出现在三季度。 前三季度归属净",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786162",
+          "published": "Wed, 18 Nov 2026 05:01:15 GMT"
+        },
+        {
+          "title": "中国证监会：“监管要求基金公司上报全部产品AI敞口”信息不属实",
+          "summary": "中国证监会新闻发言人答记者问。问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3201701",
+          "published": "Wed, 18 Nov 2026 04:28:06 GMT"
+        },
+        {
+          "title": "只剩央行一个买家！时隔11天，高盛再度下调黄金目标价至4650美元",
+          "summary": "现货黄金跌至逾一年低位，高盛认为美联储加息压制私人投资需求，央行买盘成为支撑金价的唯一力量。 周三，现货黄金下挫1.5%、跌破3800美元，为2025年10月以来最低，较一个月前下跌超300美元。美元持续走强，加之市场预期美联储将于12月再度加息，令金价承压。 正是在此背景下， 高盛 Lina Thomas领衔的高盛大宗商品团队于本周发布2027年贵金属年度展望， 将黄金年底目标价由4800美元下",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786160",
+          "published": "Wed, 18 Nov 2026 04:03:20 GMT"
+        },
+        {
+          "title": "2027见闻历，财经人的桌面必备“神历”",
+          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "published": "Wed, 18 Nov 2026 03:51:00 GMT"
+        },
+        {
+          "title": "BIS新规：如何影响全球算力格局？",
+          "summary": "BIS新规之下，全球算力将被切割成三个互不连通的市场。 在BIS《出口管理条例》中新增第744.24条：第三国数据中心只要向总部位于D:5 国家组（含中国）或中国澳门的企业提供超过1200万聚合总处理性能的算力，芯片的出口、再出口与境内转移都需事先获许可。 新规真正的杀伤力不在算力总量，而在算力的「合法性溢价」 。它把全球算力从一个大市场切成三个互不连通的价格体系。2027年是全球算力分水岭，但决",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786156",
+          "published": "Wed, 18 Nov 2026 03:42:21 GMT"
+        },
+        {
+          "title": "京东外卖减亏过半，获客回报仍待检验",
+          "summary": "外卖亏损大幅收窄，推动京东三季度利润回升。但在补贴投入下降之后，此前吸引来的用户能够留下多少，又能为核心零售贡献多少增量，仍有待验证。 11月17日晚，京东发布2026年第三季度财报，营收3095.93亿元，同比增长3.5%；归属于普通股股东的净利润65.03亿元，同比增长约23.3%；经调整净利润83.27亿元，同比增长43.7%。 利润改善的主要来源是新业务减亏。 三季度，京东集团经营利润由上",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786158",
+          "published": "Wed, 18 Nov 2026 02:44:59 GMT"
+        },
+        {
+          "title": "习近平：中方支持成立世界湾区经济合作联盟。（新华社）",
+          "summary": "习近平：中方支持成立世界湾区经济合作联盟。（新华社） 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786157",
+          "published": "Wed, 18 Nov 2026 02:30:07 GMT"
+        },
+        {
+          "title": "英伟达代理CEO Kress安抚市场：客户没有流失，员工也不会出走",
+          "summary": "英伟达交出一份超预期的季度成绩单，代理CEO Colette Kress随即出面稳定军心。 在黄仁勋因丑闻突然辞职后的首份财报发布当晚，Kress接受CNBC《Mad Money》节目专访， 明确表示客户需求未受影响，员工队伍同样稳固。盘后英伟达股价上涨逾3%。 这份财报在一定程度上缓解了市场对英伟达领导层更迭后前景的担忧。但公司股价本月已累计下跌24%，并在上周五结束了自2012年以来最长的六连",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786150",
+          "published": "Wed, 18 Nov 2026 02:29:50 GMT"
+        },
+        {
+          "title": "债市调整观察：流言引发市场动荡，需多久平息风波？",
+          "summary": "近期国内债市呈现震荡走弱格局，自11月中旬以来，10年期国债活跃券收益率从前期1.57%附近的极低水平逐步回升并突破1.60%关口，市场多头交易情绪明显受挫，国债期货远月合约出现超跌。政策性银行债亦遭抛售，10年期国开债收益率单日上行3bp，与同期限国债利差扩至约9bp，为六个多月以来最大水平。 此次短期调整的触发点在于：消息面上，人民银行就中央和地方政府债券利息收入征收25%所得税对银行购买需求",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786127",
+          "published": "Wed, 18 Nov 2026 02:17:59 GMT"
+        },
+        {
+          "title": "A股三大股指早盘集体转跌，AI硬件侧局部回暖，创新药、贵金属调整，恒指、恒科指齐跌，京东大跌8%",
+          "summary": "英伟达披露第三季度业绩，大幅超出市场预期，盘后股价涨超4%，提振市场信心。亚太股市周三开盘上涨，韩国KOSPI指数涨幅扩大至3%，SK海力士涨超6%，三星电子涨超4%。A股AI硬件股跟随反弹走高。 11月18日，A股早盘高开，三大股指盘初集体回落，纷纷转跌，得益于英伟达最新公布的业绩强于预期，AI硬件测反弹，光模块、电路板、覆铜板等概念股集体回暖，工业富联、沪电股份、天孚通信等早盘拉升。白色家电、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786152",
+          "published": "Wed, 18 Nov 2026 02:14:52 GMT"
+        },
+        {
+          "title": "京东港股盘中跌超8%，摩根士丹利警示消费疲软压力",
+          "summary": "京东港股盘中跌超8%，创下三个多月来最大日内跌幅，此前发布财报。摩根士丹利报告预计第四季度京东零售收入同比将基本持平。 京东股价周三盘初在香港一度下跌8.7%，创下三个多月来最大日内跌幅。 财报显示京东三季度恢复营收增长，不过摩根士丹利报告指出中国网上零售额数据不佳显示消费仍然疲软，预计第四季度京东零售收入同比将基本持平。 摩根士丹利的报告称，在消费尚未出现复苏迹象的情况下，京东能否在2027年收",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786154",
+          "published": "Wed, 18 Nov 2026 02:13:26 GMT"
+        },
+        {
+          "title": "亚玛芬三季度营收增长24%，美股上市后首推10亿美元级回购",
+          "summary": "始祖鸟母公司亚玛芬体育（Amer Sports）宣布美股上市以来首次推出10亿美元级股票回购计划，同时年内第三次上调全年业绩指引。 11月17日，亚玛芬公布2026年第三季度业绩。集团营收21.69亿美元，同比增长24%；调整后营业利润3.57亿美元，同比增长30%；调整后净利润2.50亿美元，同比增长35%，收入及盈利均超过市场预期。 这是亚玛芬今年第三次上调全年业绩指引。此前，公司已分别在5月",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786153",
+          "published": "Wed, 18 Nov 2026 02:05:44 GMT"
+        },
+        {
+          "title": "IPO火爆！Anthropic的早期VC们回报超过10倍",
+          "summary": "Anthropic或将以1.4万亿美元估值完成IPO定价，这场AI独角兽的上市盛宴，让一批押注早、押注重的风险投资机构收获颇丰。 11月17日，据知情人士向The Information透露，美国Spark Capital、Factorial Funds、Sound Ventures和Menlo Ventures等早期VC机构，将在本次IPO中实现超过10倍的理论回报。其中Menlo Ventur",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786149",
+          "published": "Wed, 18 Nov 2026 01:45:58 GMT"
+        },
+        {
+          "title": "逼近3800！黄金：令人疲惫的震荡区间，反弹窗口何时打开？",
+          "summary": "近期黄金持续承压，从4100美元/盎司上方持续回落，一度跌至3850美元/盎司附近，周跌幅约5%，创下今年3月下旬以来的最差单周表现。压制因素较为清晰：美国通胀连续第三个月超出预期，美联储官员释放鹰派信号，交易员进一步加大加息押注，并开始消化12月加息25bp甚至50bp的可能性。 但市场异常同样明显。尽管金价跌破关键趋势水平，ETF持仓仍未出现大规模赎回，在经历前期短暂流出后，上周黄金ETF录得",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786080",
+          "published": "Wed, 18 Nov 2026 01:44:16 GMT"
+        },
+        {
+          "title": "回归英伟达，黄仁勋要先“干掉董事会”",
+          "summary": "离职第五天，黄仁勋打破沉默。 11月17日周二，黄仁勋发布声明称： “自我离开以来，我看到英伟达的员工、投资者、商业伙伴和客户纷纷呼吁我回归担任CEO。如果董事会认为我的回归符合股东、员工、公司和美国的最大利益，我将荣幸地回应这些呼声，重返CEO职位。” 他同时承认了个人过失：“我没有达到英伟达对每个人的要求标准，我在个人生活中犯了严重的错误。我给董事会造成了麻烦，我对此深感遗憾。我完全承担自己的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786145",
+          "published": "Wed, 18 Nov 2026 00:52:06 GMT"
+        },
+        {
+          "title": "从资本“宠儿”到高息“救赎”，蛰伏5年的物管行业轻舟将过万重山？",
+          "summary": "五年之前，物业管理行业是资本市场炙手可热的成长赛道。分拆上市、开发商关联业务和高估值并购推动规模急剧膨胀；房地产信用危机随后使收入、资产与估值共同承压。五年之后，关联业务明显退潮，历史坏账和商誉风险经过持续消化，行业重新回到基础物业服务。 收缴率下行仍是新的拦路虎，但一批头部企业保留着可观的现金、较低的有息债务和持续分红能力，正在吸引深度价值投资者。 01 从11%股息率说起：昔日物管之王的五年跌",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786086",
+          "published": "Wed, 18 Nov 2026 00:27:23 GMT"
+        },
+        {
+          "title": "英伟达盘后涨幅扩大至5%，带动纳斯达克100股指期货在亚太盘初涨1.9%。Lumentum涨幅扩大至7.5%，闪迪涨6.7%，美光、SK海力士ADR涨5.5%，阿斯麦ADR涨4.4%，英特尔...",
+          "summary": "英伟达盘后涨幅扩大至5%，带动纳斯达克100股指期货在亚太盘初涨1.9%。Lumentum涨幅扩大至7.5%，闪迪涨6.7%，美光、SK海力士ADR涨5.5%，阿斯麦ADR涨4.4%，英特尔涨3.1%，谷歌A、阿里、SpaceX至多涨1.7%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786140",
+          "published": "Tue, 17 Nov 2026 23:13:14 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "债市调整观察：流言引发市场动荡，需多久平息风波？",
+          "summary": "近期国内债市呈现震荡走弱格局，自11月中旬以来，10年期国债活跃券收益率从前期1.57%附近的极低水平逐步回升并突破1.60%关口，市场多头交易情绪明显受挫，国债期货远月合约出现超跌。政策性银行债亦遭抛售，10年期国开债收益率单日上行3bp，与同期限国债利差扩至约9bp，为六个多月以来最大水平。 此次短期调整的触发点在于：消息面上，人民银行就中央和地方政府债券利息收入征收25%所得税对银行购买需求",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786127",
+          "published": "Wed, 18 Nov 2026 02:17:59 GMT"
+        },
+        {
+          "title": "逼近3800！黄金：令人疲惫的震荡区间，反弹窗口何时打开？",
+          "summary": "近期黄金持续承压，从4100美元/盎司上方持续回落，一度跌至3850美元/盎司附近，周跌幅约5%，创下今年3月下旬以来的最差单周表现。压制因素较为清晰：美国通胀连续第三个月超出预期，美联储官员释放鹰派信号，交易员进一步加大加息押注，并开始消化12月加息25bp甚至50bp的可能性。 但市场异常同样明显。尽管金价跌破关键趋势水平，ETF持仓仍未出现大规模赎回，在经历前期短暂流出后，上周黄金ETF录得",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786080",
+          "published": "Wed, 18 Nov 2026 01:44:16 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "从资本“宠儿”到高息“救赎”，蛰伏5年的物管行业轻舟将过万重山？",
+          "summary": "五年之前，物业管理行业是资本市场炙手可热的成长赛道。分拆上市、开发商关联业务和高估值并购推动规模急剧膨胀；房地产信用危机随后使收入、资产与估值共同承压。五年之后，关联业务明显退潮，历史坏账和商誉风险经过持续消化，行业重新回到基础物业服务。 收缴率下行仍是新的拦路虎，但一批头部企业保留着可观的现金、较低的有息债务和持续分红能力，正在吸引深度价值投资者。 01 从11%股息率说起：昔日物管之王的五年跌",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786086",
+          "published": "Wed, 18 Nov 2026 00:27:23 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 55,
+    "total_collected": 39,
+    "sources": 5,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "少数派"
+    ],
+    "domains": 5
+  }
+}
