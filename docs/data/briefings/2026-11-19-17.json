@@ -1,0 +1,932 @@
+{
+  "id": "2026-11-19-17",
+  "datetime": "2026-11-19 17:08:40",
+  "date": "2026-11-19",
+  "time": "17:08",
+  "period": "下午",
+  "summary": "本期采集 83 篇文章，来自 8 个信息源，覆盖 7 个领域，精选 108 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "给 Apple 的 2026 年打分，请你一起参与",
+          "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119191",
+          "published": "Thu, 19 Nov 2026 18:25:05 +0800"
+        },
+        {
+          "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+          "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in co",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/onlook-dev/onlook/",
+          "published": "Thu, 19 Nov 2026 16:34:04 +0000"
+        },
+        {
+          "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 78 # Comments: 53",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://thedataexchange.media/pete-warden-moonshine/",
+          "published": "Thu, 19 Nov 2026 15:38:12 +0000"
+        },
+        {
+          "title": "Show HN: Watch weight-space programming in action with WebGPU",
+          "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM.",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tabbyml.github.io/weight-space-playground/",
+          "published": "Thu, 19 Nov 2026 15:32:47 +0000"
+        },
+        {
+          "title": "OpenAI still has a WebRTC Problem",
+          "summary": "Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50560461 Points: 61 # Comments: 17",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+          "published": "Thu, 19 Nov 2026 14:20:08 +0000"
+        },
+        {
+          "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+          "published": "Thu, 19 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "published": "Thu, 19 Nov 2026 16:59:23 +0000"
+        },
+        {
+          "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+          "published": "Thu, 19 Nov 2026 16:19:41 +0000"
+        },
+        {
+          "title": "UK government forced to disclose secret Apple backdoor order",
+          "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+          "published": "Thu, 19 Nov 2026 15:32:20 +0000"
+        },
+        {
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000"
+        },
+        {
+          "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+          "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+          "published": "Thu, 19 Nov 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Superhuman pushes its Go assistant everywhere",
+          "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+          "published": "Thu, 19 Nov 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Anthropic starts trading on Wall Street",
+          "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the N",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+          "published": "2026-11-19T11:52:01-05:00"
+        },
+        {
+          "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+          "summary": "To Do was a nice app while it lasted. | Image: Microsoft In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+          "published": "2026-11-19T11:28:12-05:00"
+        },
+        {
+          "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+          "summary": "Strange New Worlds is one of many Star Trek shows currently available on Paramount Plus. | Image: Marni Grossman / Paramount Plus Ahead of Black Friday, you can subscribe to Paramount Plus for just $2",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+          "published": "2026-11-19T11:15:01-05:00"
+        },
+        {
+          "title": "JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage",
+          "summary": "JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses. The confirmation follows a report from Cybernews , which says a ran",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+          "published": "2026-11-19T11:14:23-05:00"
+        },
+        {
+          "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+          "summary": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now glo",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+          "published": "2026-11-19T10:16:45-05:00"
+        },
+        {
+          "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+          "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+          "published": "2026-11-19T09:25:37-05:00"
+        },
+        {
+          "title": "The wait begins for GTA VI on PC",
+          "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year , just to play it. As you ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+          "published": "2026-11-19T09:00:00-05:00"
+        },
+        {
+          "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+          "summary": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
+          "importance": "medium",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 09:16:44 GMT"
+        },
+        {
+          "title": "国家数据局：开展新一批可信数据空间创新发展试点",
+          "summary": "[!--begin:htmlVideoCode--]7360b630017243d48eb848c4a3a2bba1,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：记者11月19日从国家数据局了解到，新一批即第二批可信数据空间创新发展试点工作启动。 可信数据空间相当于能让数据规模化流通的“高速公路”，为数据的流通和开发提供一个可控、可管、可计量",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/20/ARTI96NAS4KPFgSzdq99lLZ2261120.shtml",
+          "published": "Thu, 19 Nov 2026 16:15:33 GMT"
+        },
+        {
+          "title": "2027届全国普通高校毕业生规模预计1299万人",
+          "summary": "记者从2027届全国普通高校毕业生就业创业工作会议上获悉， 2027届全国普通高校毕业生规模预计1299万人 ，各地各部门将强化协同、央地联动，全力确保2027届高校毕业生就业总体稳定。 据了解，各地各有关部门将 用好政策“先手棋”，健全政策支持体系促就业 ，用足用好现行政策，支持出台增量政策，优化招录时序安排； 拿出拓岗“关键招”，挖潜更多岗位资源促就业 ，支持重点区域提升就业承载力，助力重点产",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIjPK0HT6vMv1NMeV5ipnk261119.shtml",
+          "published": "Thu, 19 Nov 2026 09:24:14 GMT"
+        },
+        {
+          "title": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！",
+          "summary": "SpaceX的星舰正在重塑卫星互联网的商业模式：通过大幅提升卫星部署效率、压低单位发射成本，将火箭运载能力转化为Starlink更快的收入增长和资本回报。 摩根士丹利最新报告指出， 单次星舰满载发射可为Starlink带来约4亿美元年化收入，收入回收期约13周，EBIT回收期约19周，盈利效率甚至超过新兴云计算（neocloud）业务。 这一测算基于每枚星舰搭载50颗Starlink V3卫星、每",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786306",
+          "published": "Thu, 19 Nov 2026 15:56:18 GMT"
+        },
+        {
+          "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
+          "summary": "美联储副主席菲利普·杰斐逊（Philip Jefferson）周四表示，快速推进的人工智能（AI）基础设施建设正通过拉动需求对美国通胀施加上行压力，而有助于缓解价格压力的潜在生产率提升则要到“未来”才会出现。 杰斐逊在向巴西央行一场会议提交的预先准备好的演讲稿中表示，AI热潮可能同时影响需求和供给、但冲击发生时间点不同。 杰斐逊说： “在需求端，对该技术的乐观情绪一直在推高企业在数据中心、先进计算",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786305",
+          "published": "Thu, 19 Nov 2026 15:32:24 GMT"
+        },
+        {
+          "title": "Anthropic创纪录IPO提振市场，美股全线上涨，半导体指数涨3%，金铜油走高",
+          "summary": "Anthropic创纪录IPO成为市场焦点，提振美股期货走高。与此同时，美元延续强势，铜价在前一交易日大跌后有所反弹。 周四美股盘初，标普500指数涨0.9%，道琼斯工业平均指数涨0.47%，纳斯达克综合指数涨1.55%，纳斯达克100指数涨1.7%，半导体指数涨2.8%。 个股方面，英伟达涨1.2%，SpaceX涨1.3%，希捷科技、Nebius、西部数据、英特尔、SK海力士ADR、闪迪、Cor",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786267",
+          "published": "Thu, 19 Nov 2026 14:52:32 GMT"
+        },
+        {
+          "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
+          "summary": "对冲基金对科技股的极端低配，正在为市场反弹埋下伏笔，而Anthropic创纪录IPO的落地，可能成为触发资金回流、推动空头回补的关键催化剂。 高盛交易台主管Rich Privorotsky在周四晨报中指出， 对冲基金科技股净敞口较基准指数低配约11个百分点，接近五年来最低水平。与此同时，市场庄家的伽马敞口极度偏空，而波动率趋于稳定，这些因素都可能为反弹创造条件。 纳斯达克期货周四早盘上涨近2%。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786303",
+          "published": "Thu, 19 Nov 2026 13:52:34 GMT"
+        },
+        {
+          "title": "沃尔玛Q3营收、净利双双超预期，上调全年业绩指引，高收入消费者成新增长引擎 | 财报见闻",
+          "summary": "沃尔玛第三季度营收和盈利双双超出预期，并上调全年业绩指引，显示这家全球最大零售商凭借价格优势和电商扩张持续吸引各收入阶层消费者。 沃尔玛第三季度营收1,888.4亿美元，同比增长5.2%，高于市场预估的1,871.7亿美元；调整后每股收益0.65美元，亦超出预估的0.64美元；经营现金流达294亿美元。公司同步上调全年调整后每股收益预期至2.84美元至2.89美元，高于此前指引的2.80美元至2.",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786304",
+          "published": "Thu, 19 Nov 2026 13:49:12 GMT"
+        },
+        {
+          "title": "东南亚增长分化与资产定价切换，欧盟科技政策转向主权安全产业化，中国化债收尾但财政扩张待恢复---1119宏观脱水",
+          "summary": "三季度区域增长明显分层，新加坡与印度尼西亚超预期，马来西亚高位回落仍领先，泰国不及预期。资产定价核心变量正从AI出口红利切换为政策信用与外部融资条件。 欧盟科技政策正从规则优先转向主权安全产业化，地缘安全、供应链依赖与技术代际差距叠加推动政策转向。欧盟将规则与补贴、公共采购、本土需求及基础设施结合，形成对内简化、对外安全化的双轨结构，但产业闭环尚未完成。 本轮化债推进较快，特殊再融资债发行规模已超",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786296",
+          "published": "Thu, 19 Nov 2026 12:30:24 GMT"
+        },
+        {
+          "title": "阿里巴巴电话会：正使用自研芯片训练下一代新模型，AI产品年化收入已超过100亿美元",
+          "summary": "在周四晚间召开的电话会上，阿里巴巴首席执行官表示，公司正使用自研芯片训练下一代新模型，AI相关产品的年化收入已超过100亿美元。 电话会文字实录： 本季度，阿里巴巴集团收入增长加速，盈利能力持续提升。集团总收入在 AI、云与算力服务板块同比增长 10%，其中外部收入增速加快至 64%。与此同时，外部客户经常性收入的同比增长率提升至 67%。经调整 EBITDA 利润率升至 14.5%。AI 相关产",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786299",
+          "published": "Thu, 19 Nov 2026 12:10:49 GMT"
+        },
+        {
+          "title": "科技投资大佬Brad Gerstner：Anthropic凭什么\"10倍认购\"与AI时代的\"模型至上主义\"",
+          "summary": "在半导体股票大跌、数据中心政策前景不明、英伟达CEO疑云未散的市场环境下，Anthropic的IPO依然获得10倍超额认购——这一现象背后，折射出AI时代最核心的投资逻辑之争。 Altimeter Capital创始人Brad Gerstner在TomorrowX 峰会上详解了Anthropic IPO获追捧的三大驱动力：史上最大的潜在市场、大幅压缩的算力成本，以及一个反常识的事实——Anthro",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786298",
+          "published": "Thu, 19 Nov 2026 11:52:55 GMT"
+        },
+        {
+          "title": "DeepSeek第二轮融资落地！31家出资方入股梁文锋搭建的持股平台",
+          "summary": "天眼查App显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透显示，作为持股平台的杭州程砚同期完成工商变更，新增31家合伙人，即为参与DeepSeek第二轮融资的各外部股东，囊括了腾讯、中国移动、中国电信、宁德时代、兆易创新、小红书、vivo",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786297",
+          "published": "Thu, 19 Nov 2026 11:49:58 GMT"
+        },
+        {
+          "title": "杭州国资加码具身大脑，原力无限三个月内再获第四轮融资",
+          "summary": "原力无限三个月内连获四轮融资，浙江省、市两级国资接续入局，持续加码具身大脑研发与产业化。 11月19日，原力无限科技控股（浙江）有限公司（简称“原力无限”）宣布完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。公司表示，本轮资金将主要用于具身大脑AtomBrain研发、真实场景验证及产业化落地。 这是原力无限三个月内的第四轮融资。 今年8月，公司宣布完成A轮及A+轮融资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786294",
+          "published": "Thu, 19 Nov 2026 11:34:00 GMT"
+        },
+        {
+          "title": "“北美大豆包”谷歌，终于杀回AI牌桌中央",
+          "summary": "谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。 如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786291",
+          "published": "Thu, 19 Nov 2026 11:28:02 GMT"
+        },
+        {
+          "title": "无涯智远获五源红杉数亿元投资，RSI赛道融资与验证仍有落差",
+          "summary": "11月19日，北京无涯智远科技有限公司（以下简称“无涯智远”）宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之星、中关村科学城基金及戈壁创投，心流资本担任财务顾问。本轮资金主要用于自研RSI模型的技术攻关与产品落地。 无涯智远成立于2026年6月，首席科学家为北大人工智能研究院助理教授张牧涵。公司聚焦实时RSI，技术路径是参数持续学习，用预先训练的超网络生成基座模型的参数更",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786289",
+          "published": "Thu, 19 Nov 2026 10:27:23 GMT"
+        },
+        {
+          "title": "柯力传感连投五家具身智能公司，机器人传感器放量",
+          "summary": "11月19日，宁波柯力传感科技股份有限公司（柯力传感， 603662.SH ）宣布完成对知行机器人科技（苏州）有限公司（以下简称“知行机器人”）的战略投资。 8月27日起，柯力传感先后战略投资优理奇机器人、卓誉科技、深朴智能、鹿明机器人与知行机器人五家公司，覆盖人形机器人整机、电机与关节模组、具身大模型、产业级整机与灵巧手。 柯力传感披露，公司已累计战略投资超15家机器人企业。优理奇机器人、深朴智",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786287",
+          "published": "Thu, 19 Nov 2026 10:24:00 GMT"
+        },
+        {
+          "title": "专访｜世界粮食计划署气候与韧性司司长：响应越早，救灾总成本越低",
+          "summary": "研究和实例已证实，如果进行预见性行动，每投入1美元，平均可节省3.5至7美元的灾害损失和灾后响应成本 【财新网】 “早期气象预警技术发展到今天，我们再也没有不作为的借口了。”在土耳其安塔利亚气候大会（COP 31）期间，联合国世界粮食计划署（WFP）全球气候与韧性司司长理查德·乔拉顿（Richard Choularton）在接受财新专访时指出，随着卫星遥感、人工智能（AI）等现代气象预测技术的飞跃",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://science.caixin.com/2026-11-19/102506793.html",
+          "published": "Thu, 19 Nov 2026 12:18:20 GMT"
+        },
+        {
+          "title": "DeepSeek完成工商变更 千亿融资落地",
+          "summary": "DeepSeek工商信息新增杭州程砚企业管理咨询合伙企业为新增股东，31家外部出资方入伙该平台 【财新网】 DeepSeek第二轮外部融资完成。工商信息显示，杭州深度求索人工智能基础技术研究有限公司于11月17日完成工商变更。公司注册资本由1644.75万元增加至1991.87万元，增幅21.1%。此外，杭州程砚企业管理咨询合伙企业（下称“杭州程砚”）新增为公司股东，持股比例约17.27%。 杭州",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-19/102506633.html",
+          "published": "Thu, 19 Nov 2026 09:17:26 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "给 Apple 的 2026 年打分，请你一起参与",
+          "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119191",
+          "published": "Thu, 19 Nov 2026 18:25:05 +0800"
+        },
+        {
+          "title": "科技投资大佬Brad Gerstner：Anthropic凭什么\"10倍认购\"与AI时代的\"模型至上主义\"",
+          "summary": "在半导体股票大跌、数据中心政策前景不明、英伟达CEO疑云未散的市场环境下，Anthropic的IPO依然获得10倍超额认购——这一现象背后，折射出AI时代最核心的投资逻辑之争。 Altimeter Capital创始人Brad Gerstner在TomorrowX 峰会上详解了Anthropic IPO获追捧的三大驱动力：史上最大的潜在市场、大幅压缩的算力成本，以及一个反常识的事实——Anthro",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786298",
+          "published": "Thu, 19 Nov 2026 11:52:55 GMT"
+        },
+        {
+          "title": "长鑫科技：调整回购方案，回购金额上调至25亿元至50亿元",
+          "summary": "长鑫科技公告，公司于2026年10月30日召开第二届董事会第八次会议审议通过回购方案，2026年11月3日收到董事长朱一明提议将回购金额增加至不低于人民币25亿元（含），不超过人民币50亿元（含）。2026年11月19日，公司召开第二届董事会第九次会议审议通过调整回购方案。回购价格不超过人民币63.78元/股（含），回购股份用途为股权激励/员工持股计划、注销并减少注册资本及为维护公司价值及股东权益",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786288",
+          "published": "Thu, 19 Nov 2026 10:25:15 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+          "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 33 # Comments: 2",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+          "published": "Thu, 19 Nov 2026 16:21:03 +0000"
+        },
+        {
+          "title": "Google Chrome dev team declares bug report bankruptcy",
+          "summary": "Article URL: https://blog.plover.com/tech/bug-reports.html Comments URL: https://news.ycombinator.com/item?id=50562101 Points: 58 # Comments: 11",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.plover.com/tech/bug-reports.html",
+          "published": "Thu, 19 Nov 2026 16:20:12 +0000"
+        },
+        {
+          "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+          "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 31 # Comments: 25",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://cornholenews.news",
+          "published": "Thu, 19 Nov 2026 15:38:32 +0000"
+        },
+        {
+          "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 78 # Comments: 53",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://thedataexchange.media/pete-warden-moonshine/",
+          "published": "Thu, 19 Nov 2026 15:38:12 +0000"
+        },
+        {
+          "title": "Show HN: Watch weight-space programming in action with WebGPU",
+          "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM.",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tabbyml.github.io/weight-space-playground/",
+          "published": "Thu, 19 Nov 2026 15:32:47 +0000"
+        },
+        {
+          "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+          "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/ Comments URL: https://news.ycombinator.com/item?id=50561170 Points: 23 # ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+          "published": "Thu, 19 Nov 2026 15:13:23 +0000"
+        },
+        {
+          "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+          "summary": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 61 # Comments: 48",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://maccus.fr/en/cooling-overtaking-heating/",
+          "published": "Thu, 19 Nov 2026 14:57:14 +0000"
+        },
+        {
+          "title": "Everything you need to survive and rebuild society",
+          "summary": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 140 # Comments: 71",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://lastbook.org/",
+          "published": "Thu, 19 Nov 2026 14:47:18 +0000"
+        },
+        {
+          "title": "Germany and Austria Call for European Control of TikTok",
+          "summary": "Article URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/ Comments URL: https://news.ycombinator.com/item?id=50560795 Points: 92 # Comments: 76",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+          "published": "Thu, 19 Nov 2026 14:44:50 +0000"
+        },
+        {
+          "title": "OpenAI still has a WebRTC Problem",
+          "summary": "Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50560461 Points: 61 # Comments: 17",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+          "published": "Thu, 19 Nov 2026 14:20:08 +0000"
+        },
+        {
+          "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+          "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 113 # Comments: 30",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+          "published": "Thu, 19 Nov 2026 13:18:11 +0000"
+        },
+        {
+          "title": "Unblockable communication with gravity – Science Advances",
+          "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 50 # Comments: 20",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+          "published": "Thu, 19 Nov 2026 12:22:00 +0000"
+        },
+        {
+          "title": "Someone reported java4shell bug in September 2026",
+          "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 140 # Comments: 41",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/openjdk/jdk/pull/32781",
+          "published": "Thu, 19 Nov 2026 11:47:03 +0000"
+        },
+        {
+          "title": "How the European Commission rolled out Matrix to more than 40k staff",
+          "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 505 # Comments: 263",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+          "published": "Thu, 19 Nov 2026 10:58:29 +0000"
+        },
+        {
+          "title": "What's New in PHP 8.6",
+          "summary": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 199 # Comments: 98",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.php.net/releases/8.6/en.php",
+          "published": "Thu, 19 Nov 2026 09:27:15 +0000"
+        },
+        {
+          "title": "习近平主持中俄美元首会晤",
+          "summary": "[!--begin:htmlVideoCode--]a25b5569c57b429abef8bfca4a71ce95,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。 习近平指出，中俄美三国最高领导人有史",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIVoDQEfE8a0iZFV5jxkHz261119.shtml",
+          "published": "Thu, 19 Nov 2026 13:52:51 GMT"
+        },
+        {
+          "title": "中俄美元首和平宣言",
+          "summary": "[!--begin:htmlVideoCode--]6e3a0bf770444bc487c46fbfbc53e03d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 中俄美元首和平宣言 中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIBhSaD74ambEzVIz3mSWr261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:04:20 GMT"
+        },
+        {
+          "title": "中俄美元首和平宣言",
+          "summary": "新华社深圳11月19日电 中俄美元首和平宣言 中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护战略稳定和国际安全。 一、中国、俄罗斯、美国作为联合国安理会常任理事国，致力于推动联合国改革，使之更有效应对全球性挑战，并履行其维护国际和平与安全的基本使命。 二、三国计划增加精",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIbiUINwrtJVXrwNKkero1261119.shtml",
+          "published": "Thu, 19 Nov 2026 10:57:08 GMT"
+        },
+        {
+          "title": "中俄美元首和平宣言",
+          "summary": "一、中国、俄罗斯、美国作为联合国安理会常任理事国，致力于推动联合国改革，使之更有效应对全球性挑战，并履行其维护国际和平与安全的基本使命。\n\n二、三国计划增加精炼石油产品的生产和供应，以造福世界各国。三国重申能源稳定流动的重要性。\n\n三、三国元首认可国家同意原则和尊重国家官员享有豁免至关重要，一致认为国际刑事法院以及其他类似机构不得滥用管辖权。\n\n四、三国元首重申核战争打不赢也打不得。三国将就减少核",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786290",
+          "published": "Thu, 19 Nov 2026 10:47:59 GMT"
+        },
+        {
+          "title": "中俄美元首发表和平宣言 重申核战争打不赢也打不得",
+          "summary": "俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护战略稳定和国际安全 【财新网】 11月19日，据新华社消息，中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤，发表中俄美元首和平宣言，全文如下： 中俄美元首和平宣言 中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。俄美领导人感谢中方",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-19/102506759.html",
+          "published": "Thu, 19 Nov 2026 11:15:03 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "国家数据局：开展新一批可信数据空间创新发展试点",
+          "summary": "[!--begin:htmlVideoCode--]7360b630017243d48eb848c4a3a2bba1,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：记者11月19日从国家数据局了解到，新一批即第二批可信数据空间创新发展试点工作启动。 可信数据空间相当于能让数据规模化流通的“高速公路”，为数据的流通和开发提供一个可控、可管、可计量",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/20/ARTI96NAS4KPFgSzdq99lLZ2261120.shtml",
+          "published": "Thu, 19 Nov 2026 16:15:33 GMT"
+        },
+        {
+          "title": "聚焦APEC丨2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣",
+          "summary": "新华社深圳11月19日电 2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣 我们，亚太经合组织领导人，于2026年11月18日至19日在中国深圳举行会议。亚太经合组织成立数十年来，在我们持续努力下，本地区已成为全球增长的重要引擎和区域经济合作的典范。今年以来，我们围绕“建设亚太共同体，促进共同繁荣”主题，聚焦中国设定的2026年亚太经合组织三大优先领域“开放、创新、合作”，以《2",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIfQJVxoMnWj9XerJGKRsN261119.shtml",
+          "published": "Thu, 19 Nov 2026 13:29:02 GMT"
+        },
+        {
+          "title": "焦点访谈｜共商发展大计 擘画亚太合作新蓝图",
+          "summary": "[!--begin:htmlVideoCode--]06cea83fbc2140e68457d4755cd09ed0,0,0,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （焦点访谈）：30多年前，亚太经合组织应运而生，开启了建设亚太共同体的壮阔历程。30多年来，亚太地区面貌日新月异，创造了经济快速发展的“亚太奇迹”。如何续写“亚太奇迹”的新篇章？11月",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTInl0WF4zhx9kFwrrF2Ch8261119.shtml",
+          "published": "Thu, 19 Nov 2026 13:25:54 GMT"
+        },
+        {
+          "title": "独家视频丨彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
+          "summary": "[!--begin:htmlVideoCode--]21777ebfd1d141cba081daf43bffc33e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月19日上午，国家主席习近平夫人彭丽媛同出席亚太经合组织第三十三次领导人非正式会议的经济体领导人或代表配偶在深圳湾文化广场举行集体活动。 彭丽媛热情迎接来宾并同她们合影。孩子们以喜庆热烈的醒狮",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTI7AVKCYvEN3SXSdOmkzbL261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:53:01 GMT"
+        },
+        {
+          "title": "内蒙古电力（集团）有限责任公司原党委书记、董事长张海峰被开除党籍和公职",
+          "summary": "央视网消息 ：中央纪委国家监委网站通报，据内蒙古自治区纪委监委消息：经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古电力（集团）有限责任公司原党委书记、董事长张海峰严重违纪违法问题进行了立案审查调查。 经查，张海峰丧失理想信念，背弃初心使命，搞迷信活动；无视中央八项规定精神，违规收受礼品、礼金、消费卡，接受可能影响公正执行公务的宴请，将应当由本人支付的费用由他人支付；违反组织原则，不按规定报告",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIinDXW0ZFts2xjiF8UrLi261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:38:39 GMT"
+        },
+        {
+          "title": "我国加快提升农产品品质",
+          "summary": "[!--begin:htmlVideoCode--]289beb5aab164ffaae47d2e93df83579,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从农业农村部了解到，“十五五”期间我国将推动农业由产量主导向产量品质并重转变，通过实施农业标准化提升计划、绿色优质农产品供给扩容行动等，到2030年，基本建立以市场需",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIu7qaEqHszV3J5b8LaUUs261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:27:30 GMT"
+        },
+        {
+          "title": "习近平对老龄工作作出重要指示",
+          "summary": "[!--begin:htmlVideoCode--]567e5a1aa39540d5b727c5718d15c350,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 习近平对老龄工作作出重要指示强调 深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满 李强出席全国老龄工作会议并讲话 中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTINNTqCCMS9Ea7fU0rJZ7f261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:12:06 GMT"
+        },
+        {
+          "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "summary": "[!--begin:htmlVideoCode--]88c1dc282df040379713affd1a350a53,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。 香蜜湖畔，灯火璀璨，国际交流中心奏响亚太经合组织各成员经济体乐曲。 各",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIMIvZp3uDgBOU1bZLPFof261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:03:44 GMT"
+        },
+        {
+          "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+          "summary": "[!--begin:htmlVideoCode--]e308b3ef0eec44d5a3b909275c4061d0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月19日上午，国家主席习近平在深圳国际交流中心主持亚太经合组织第三十三次领导人非正式会议，并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要讲话。 11月的深圳，微风送爽，鲜花盛开。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIZ8rQTQLS9n6IEvwwBzLW261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:03:28 GMT"
+        },
+        {
+          "title": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
+          "summary": "11月19日上午，国家主席习近平夫人彭丽媛同出席亚太经合组织第三十三次领导人非正式会议的经济体领导人或代表配偶在深圳湾文化广场举行集体活动。 彭丽媛热情迎接来宾并同她们合影。孩子们以喜庆热烈的醒狮和英歌舞欢迎嘉宾们的到来。彭丽媛邀请来宾参观“岭南非遗传承与创新”主题展。大家兴致盎然，不时驻足观看精美的非遗工艺品，共同欣赏岭南特色小型文艺展示，体验数字化骑楼街景。 彭丽媛同来宾们亲切交流，表示岭南文",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIG2nPm1Ogu23CgFbStsTx261119.shtml",
+          "published": "Thu, 19 Nov 2026 10:57:32 GMT"
+        },
+        {
+          "title": "视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+          "summary": "[!--begin:htmlVideoCode--]310a50754bbb4e8a8078c651083c3e4e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 11月19日上午，国家主席习近平在深圳国际交流中心主持亚太经合组织第三十三次领导人非正式会议，并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要讲话。 11月的深圳，微风送爽，鲜花盛开。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIYJyuZ8x4LawxlizNEhji261119.shtml",
+          "published": "Thu, 19 Nov 2026 09:30:46 GMT"
+        },
+        {
+          "title": "普京：感谢中方和习主席组织今天的俄中美元首会晤",
+          "summary": "11月19日下午，国家 主席习 近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 普京说：“我要感谢中方和习主席组织今天的俄中美元首会晤。我坚信，俄罗斯、中国和美国以及我们三国人民，如果能够在相互尊重、平等和遵守利益平衡的基础上开展建设性、伙伴式合作，便能为加强世界安全与稳定作出重要贡献。” 本文来源： 央视新闻 ，原文标题：《普京：感谢中方和习主席组织今天的俄中美元首会晤》。 风险",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786308",
+          "published": "Thu, 19 Nov 2026 16:25:30 GMT"
+        },
+        {
+          "title": "特朗普：今天我们创造了历史",
+          "summary": "11月19日下午，国家 主席习 近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 特朗普说：“我要祝贺习主席成功举办此次APEC会议。非常成功，巨大的成功。我也很高兴，此次访问期间有机会出席历史上首次美中俄三方会晤。从这个角度来说，今天我们创造了历史。我们三国负有特殊重要的责任，保持开放、相互尊重和富有成果的对话。这不仅关乎本国人民，也关乎全世界。” 本文来源： 央视新闻 ，原文标题",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786310",
+          "published": "Thu, 19 Nov 2026 16:25:11 GMT"
+        },
+        {
+          "title": "王毅：这是一次和平峰会，中俄美元首会晤为新时期大国协调互动构建了新范式",
+          "summary": "王毅送别美俄元首后举行记者会 11月19日，中共中央政治局委员、外交部长王毅举行中外记者会。王毅表示，我刚刚在机场相继送别了特朗普总统和普京总统，所以让大家在这久等了，各位辛苦了。这几天大家积极地报道这次APEC会议，我也代表主办方向各位记者表示我们衷心的感谢。 王毅：会议达成深圳展望，这是APEC中国年最重要的成果 11月19日，中共中央政治局委员、外交部长王毅举行中外记者会。王毅表示，当今国际",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786307",
+          "published": "Thu, 19 Nov 2026 15:56:22 GMT"
+        },
+        {
+          "title": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！",
+          "summary": "SpaceX的星舰正在重塑卫星互联网的商业模式：通过大幅提升卫星部署效率、压低单位发射成本，将火箭运载能力转化为Starlink更快的收入增长和资本回报。 摩根士丹利最新报告指出， 单次星舰满载发射可为Starlink带来约4亿美元年化收入，收入回收期约13周，EBIT回收期约19周，盈利效率甚至超过新兴云计算（neocloud）业务。 这一测算基于每枚星舰搭载50颗Starlink V3卫星、每",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786306",
+          "published": "Thu, 19 Nov 2026 15:56:18 GMT"
+        },
+        {
+          "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
+          "summary": "美联储副主席菲利普·杰斐逊（Philip Jefferson）周四表示，快速推进的人工智能（AI）基础设施建设正通过拉动需求对美国通胀施加上行压力，而有助于缓解价格压力的潜在生产率提升则要到“未来”才会出现。 杰斐逊在向巴西央行一场会议提交的预先准备好的演讲稿中表示，AI热潮可能同时影响需求和供给、但冲击发生时间点不同。 杰斐逊说： “在需求端，对该技术的乐观情绪一直在推高企业在数据中心、先进计算",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786305",
+          "published": "Thu, 19 Nov 2026 15:32:24 GMT"
+        },
+        {
+          "title": "拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设",
+          "summary": "拼多多正将供应链建设推向更核心的战略位置。在国内，公司从农业产区、农村物流向制造业产业带延伸，试图通过基础设施投入和商家扶持，推动商品品质升级与产业带品牌化；在海外，面对贸易规则变化，公司则将本地仓储、物流及履约网络建设作为下一阶段业务发展的重点，帮助中小商家降低跨境经营成本。 这一战略背后，是拼多多对电商竞争逻辑的重新布局。随着国内平台竞争持续加剧，单纯依靠价格和营销已难以形成长期优势，而海外市",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786302",
+          "published": "Thu, 19 Nov 2026 15:32:08 GMT"
+        },
+        {
+          "title": "Anthropic创纪录IPO提振市场，美股全线上涨，半导体指数涨3%，金铜油走高",
+          "summary": "Anthropic创纪录IPO成为市场焦点，提振美股期货走高。与此同时，美元延续强势，铜价在前一交易日大跌后有所反弹。 周四美股盘初，标普500指数涨0.9%，道琼斯工业平均指数涨0.47%，纳斯达克综合指数涨1.55%，纳斯达克100指数涨1.7%，半导体指数涨2.8%。 个股方面，英伟达涨1.2%，SpaceX涨1.3%，希捷科技、Nebius、西部数据、英特尔、SK海力士ADR、闪迪、Cor",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786267",
+          "published": "Thu, 19 Nov 2026 14:52:32 GMT"
+        },
+        {
+          "title": "亚太经合组织互联互通蓝图",
+          "summary": "据 新华社 ，我们强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；我们以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。 我们肯定《亚太经合组织互联互通蓝图（2015－2025）》十年来为推进互联互通合作发挥的作用。新兴趋势和不断演变的需求正在重塑本地区互联互通格局。我们鼓励",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3202655",
+          "published": "Thu, 19 Nov 2026 14:50:50 GMT"
+        },
+        {
+          "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
+          "summary": "对冲基金对科技股的极端低配，正在为市场反弹埋下伏笔，而Anthropic创纪录IPO的落地，可能成为触发资金回流、推动空头回补的关键催化剂。 高盛交易台主管Rich Privorotsky在周四晨报中指出， 对冲基金科技股净敞口较基准指数低配约11个百分点，接近五年来最低水平。与此同时，市场庄家的伽马敞口极度偏空，而波动率趋于稳定，这些因素都可能为反弹创造条件。 纳斯达克期货周四早盘上涨近2%。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786303",
+          "published": "Thu, 19 Nov 2026 13:52:34 GMT"
+        },
+        {
+          "title": "集邦咨询：部分CSP下修订单抵销北美拉货，2027年NAND Flash供需将反转走跌",
+          "summary": "根据TrendForce集邦咨询最新存储器产业研究，2027年全球NAND Flash产业将迎来供需反转；在整体供给量将高速成长的情况下，因部分云端服务供应商（CSP）大幅下修Enterprise SSD订单，而且来自消费性电子产品的需求可能进一步放缓，市场供过于求情势将加剧，TrendForce集邦咨询预估，2027年第一季起整体NAND Flash合约价格将转向下跌趋势，跌幅可能逐季扩大。 T",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3202619",
+          "published": "Thu, 19 Nov 2026 13:51:30 GMT"
+        },
+        {
+          "title": "沃尔玛Q3营收、净利双双超预期，上调全年业绩指引，高收入消费者成新增长引擎 | 财报见闻",
+          "summary": "沃尔玛第三季度营收和盈利双双超出预期，并上调全年业绩指引，显示这家全球最大零售商凭借价格优势和电商扩张持续吸引各收入阶层消费者。 沃尔玛第三季度营收1,888.4亿美元，同比增长5.2%，高于市场预估的1,871.7亿美元；调整后每股收益0.65美元，亦超出预估的0.64美元；经营现金流达294亿美元。公司同步上调全年调整后每股收益预期至2.84美元至2.89美元，高于此前指引的2.80美元至2.",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786304",
+          "published": "Thu, 19 Nov 2026 13:49:12 GMT"
+        },
+        {
+          "title": "美股多头迎来新麻烦：通胀、加息与盈利增长放缓同时来袭",
+          "summary": "美股多头正面临日益棘手的局面：美联储政策立场可能进一步转鹰，而企业盈利增长动能却在减弱。货币政策收紧与盈利预期下修的双重压力，正在动摇部分机构投资者对美股的信心。 研究机构TS Lombard已将美股配置比例下调350个基点，同时将现金仓位提高10.3个百分点至14%，并将资金转向欧洲和印度市场。其12个月组合贝塔值也从1.07降至0.92，显示整体风险敞口明显收缩。 TS Lombard担忧的并",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786300",
+          "published": "Thu, 19 Nov 2026 13:25:01 GMT"
+        },
+        {
+          "title": "阿里巴巴电话会：正使用自研芯片训练下一代新模型，AI产品年化收入已超过100亿美元",
+          "summary": "在周四晚间召开的电话会上，阿里巴巴首席执行官表示，公司正使用自研芯片训练下一代新模型，AI相关产品的年化收入已超过100亿美元。 电话会文字实录： 本季度，阿里巴巴集团收入增长加速，盈利能力持续提升。集团总收入在 AI、云与算力服务板块同比增长 10%，其中外部收入增速加快至 64%。与此同时，外部客户经常性收入的同比增长率提升至 67%。经调整 EBITDA 利润率升至 14.5%。AI 相关产",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786299",
+          "published": "Thu, 19 Nov 2026 12:10:49 GMT"
+        },
+        {
+          "title": "沃尔玛第三季度营收1,888.4亿美元，预估1,871.7亿美元。 沃尔玛第三季度调整后每股收益0.65美元，预估0.64美元。 沃尔玛预计全年调整后每股收益2.84美元至2.89美...",
+          "summary": "沃尔玛第三季度营收1,888.4亿美元，预估1,871.7亿美元。 沃尔玛第三季度调整后每股收益0.65美元，预估0.64美元。 沃尔玛预计全年调整后每股收益2.84美元至2.89美元，此前预计2.80美元至2.87美元，市场预估2.89美元。 沃尔玛美股盘前跌超2%。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3202572",
+          "published": "Thu, 19 Nov 2026 12:00:56 GMT"
+        },
+        {
+          "title": "科技投资大佬Brad Gerstner：Anthropic凭什么\"10倍认购\"与AI时代的\"模型至上主义\"",
+          "summary": "在半导体股票大跌、数据中心政策前景不明、英伟达CEO疑云未散的市场环境下，Anthropic的IPO依然获得10倍超额认购——这一现象背后，折射出AI时代最核心的投资逻辑之争。 Altimeter Capital创始人Brad Gerstner在TomorrowX 峰会上详解了Anthropic IPO获追捧的三大驱动力：史上最大的潜在市场、大幅压缩的算力成本，以及一个反常识的事实——Anthro",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786298",
+          "published": "Thu, 19 Nov 2026 11:52:55 GMT"
+        },
+        {
+          "title": "DeepSeek第二轮融资落地！31家出资方入股梁文锋搭建的持股平台",
+          "summary": "天眼查App显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透显示，作为持股平台的杭州程砚同期完成工商变更，新增31家合伙人，即为参与DeepSeek第二轮融资的各外部股东，囊括了腾讯、中国移动、中国电信、宁德时代、兆易创新、小红书、vivo",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786297",
+          "published": "Thu, 19 Nov 2026 11:49:58 GMT"
+        },
+        {
+          "title": "追加4亿雷亚尔，奇瑞捷途加快巴西本地化",
+          "summary": "进入巴西市场不到一年，捷途开始为当地生产做准备。 当地时间11月18日，捷途宣布追加投资4亿雷亚尔，计划2027年在巴西生产T1、T2，并扩充产品线和经销商网络。加上此前公布的4亿雷亚尔，捷途在巴西的计划投资总额增至8亿雷亚尔。厂址拟于2027年一季度公布。 这笔投入对应着捷途下一阶段的经营任务。随着产品和销售网络扩展，捷途需要同步完善当地的供货、配件供应和售后服务能力。 品牌今年上半年进入巴西，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786295",
+          "published": "Thu, 19 Nov 2026 11:37:47 GMT"
+        },
+        {
+          "title": "杭州国资加码具身大脑，原力无限三个月内再获第四轮融资",
+          "summary": "原力无限三个月内连获四轮融资，浙江省、市两级国资接续入局，持续加码具身大脑研发与产业化。 11月19日，原力无限科技控股（浙江）有限公司（简称“原力无限”）宣布完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。公司表示，本轮资金将主要用于具身大脑AtomBrain研发、真实场景验证及产业化落地。 这是原力无限三个月内的第四轮融资。 今年8月，公司宣布完成A轮及A+轮融资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786294",
+          "published": "Thu, 19 Nov 2026 11:34:00 GMT"
+        },
+        {
+          "title": "拼多多Q3营收1083亿元，调整后每ADS收益21.04元｜财报见闻",
+          "summary": "拼多多第三季度营收1,083亿元人民币，预估1,152.1亿元人民币。 第三季度调整后每ADS收益 21.04元人民币，预估18.54元人民币。 拼多多美股盘前拉升，现涨近2%，此前一度跌近3%。 更新中 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786292",
+          "published": "Thu, 19 Nov 2026 11:30:25 GMT"
+        },
+        {
+          "title": "股价下跌近70%，“葛卫东”一股没卖",
+          "summary": "知名投资人葛卫东，面对股价暴跌，展现了出惊人的“钝感力”。 中材科技最新公告显示，今年三季度以来，公司股价下跌近70%，葛卫东妻子王萍一股没卖，还在三季度逆势加仓。 葛卫东则在10月豪掷7亿元参与该公司增发，当前浮亏40%以上。 葛卫东家族坚守 在剧烈的震荡调整中，葛卫东家族坚守中材科技。 中材科技最新公告显示，截至11月13日，葛卫东妻子王萍位列第三大流通股股东，持有股数为802.2万股，同三季",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786286",
+          "published": "Thu, 19 Nov 2026 11:08:04 GMT"
+        },
+        {
+          "title": "中俄美元首和平宣言",
+          "summary": "一、中国、俄罗斯、美国作为联合国安理会常任理事国，致力于推动联合国改革，使之更有效应对全球性挑战，并履行其维护国际和平与安全的基本使命。\n\n二、三国计划增加精炼石油产品的生产和供应，以造福世界各国。三国重申能源稳定流动的重要性。\n\n三、三国元首认可国家同意原则和尊重国家官员享有豁免至关重要，一致认为国际刑事法院以及其他类似机构不得滥用管辖权。\n\n四、三国元首重申核战争打不赢也打不得。三国将就减少核",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786290",
+          "published": "Thu, 19 Nov 2026 10:47:59 GMT"
+        },
+        {
+          "title": "无涯智远获五源红杉数亿元投资，RSI赛道融资与验证仍有落差",
+          "summary": "11月19日，北京无涯智远科技有限公司（以下简称“无涯智远”）宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之星、中关村科学城基金及戈壁创投，心流资本担任财务顾问。本轮资金主要用于自研RSI模型的技术攻关与产品落地。 无涯智远成立于2026年6月，首席科学家为北大人工智能研究院助理教授张牧涵。公司聚焦实时RSI，技术路径是参数持续学习，用预先训练的超网络生成基座模型的参数更",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786289",
+          "published": "Thu, 19 Nov 2026 10:27:23 GMT"
+        },
+        {
+          "title": "长鑫科技：调整回购方案，回购金额上调至25亿元至50亿元",
+          "summary": "长鑫科技公告，公司于2026年10月30日召开第二届董事会第八次会议审议通过回购方案，2026年11月3日收到董事长朱一明提议将回购金额增加至不低于人民币25亿元（含），不超过人民币50亿元（含）。2026年11月19日，公司召开第二届董事会第九次会议审议通过调整回购方案。回购价格不超过人民币63.78元/股（含），回购股份用途为股权激励/员工持股计划、注销并减少注册资本及为维护公司价值及股东权益",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786288",
+          "published": "Thu, 19 Nov 2026 10:25:15 GMT"
+        },
+        {
+          "title": "柯力传感连投五家具身智能公司，机器人传感器放量",
+          "summary": "11月19日，宁波柯力传感科技股份有限公司（柯力传感， 603662.SH ）宣布完成对知行机器人科技（苏州）有限公司（以下简称“知行机器人”）的战略投资。 8月27日起，柯力传感先后战略投资优理奇机器人、卓誉科技、深朴智能、鹿明机器人与知行机器人五家公司，覆盖人形机器人整机、电机与关节模组、具身大模型、产业级整机与灵巧手。 柯力传感披露，公司已累计战略投资超15家机器人企业。优理奇机器人、深朴智",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786287",
+          "published": "Thu, 19 Nov 2026 10:24:00 GMT"
+        },
+        {
+          "title": "阿里巴巴第二财季营收2715亿元，调整后净利润199亿元，盘前股价涨4%｜财报见闻",
+          "summary": "阿里巴巴第二季度业绩如下：营收2,715.2亿元人民币，预估2,705.3亿元人民币（彭博综合预期）。 其他收入277.1亿元人民币，预估688.2亿元人民币。调整后每ADS收益8.10元人民币，预估10.75元人民币。 调整后息税折旧及摊销前利润460.6亿元人民币，预估399亿元人民币。调整后净利润199.1亿元人民币，预估266.1亿元人民币。 财报后，阿里巴巴美股盘前涨近4%。 更新中 风",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786285",
+          "published": "Thu, 19 Nov 2026 10:02:37 GMT"
+        },
+        {
+          "title": "虚拟电厂进入加速发展期 2030年最大调节能力将翻番",
+          "summary": "虚拟电厂的快速发展，凸显负荷侧（电力用户）逐步参与电力市场的新趋势 2021年，虚拟电厂运营管理平台在深试运行。图：深圳广播电视集团官网 【财新网】 截至2026年6月底，全国虚拟电厂最大调节能力达到2042.8万千瓦，同比增长62.7%，提前实现2027年的政策目标。 11月19日，国家能源局发布《中国虚拟电厂发展报告（2026）》（下称《报告》）提及上述数据。这是虚拟电厂领域首部国家级发展报告",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-19/102506814.html",
+          "published": "Thu, 19 Nov 2026 15:08:20 GMT"
+        },
+        {
+          "title": "携程CEO孙洁：中国入境游快速增长 但整体规模、对经济贡献力度仍有提升空间",
+          "summary": "对于旅行社、酒店、景区等而言，海外游客有机会补充部分目的地的国内淡季 【财新网】 “2023年到2025年，中国入境外国游客数量增长了155%；同期，中国入境外国游客人次占全球国际游客人次的比重从约1%提高到约2.3%”，11月19日，携程集团CEO孙洁在于澳大利亚悉尼举行的2026携程集团全球合作伙伴峰会上表示。 2025年以来，中国持续优化签证政策，免签入境国家名单不断扩容，截至2026年11",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-19/102506762.html",
+          "published": "Thu, 19 Nov 2026 11:21:25 GMT"
+        },
+        {
+          "title": "邹澜：中国征信业的发展与变革",
+          "summary": "在金融强国建设、数字中国建设、社会信用建设加速推进的时代背景下，征信的功能定位、治理边界、运行逻辑也在随之调整 信用是市场经济的基础，征信体系是社会信用体系的重要组成部分，征信系统也是重要的金融基础设施。当前，在金融强国建设、数字中国建设、社会信用建设加速推进的时代背景下，征信的功能定位、治理边界、运行逻辑也在随之调整，为本届财新峰会“以发展应变局”这一宏大主题提供了可供观察思考的生动案例。在此，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-19/102506746.html",
+          "published": "Thu, 19 Nov 2026 10:54:30 GMT"
+        },
+        {
+          "title": "中韩自贸协定升级谈判实质性完成 中方承诺给予韩国电影、游戏最惠国待遇",
+          "summary": "习近平表示，中方愿同韩方持续促进两国人员往来，循序渐进开展健康有益的文化交流 【财新网】 11月18日，中韩双方在深圳确认，中韩自由贸易协定（FTA）第二阶段谈判已实质性完成。 自2018年3月举行首轮正式谈判以来，双方历时约8年8个月，共举行17轮正式谈判，就跨境服务贸易、投资和金融服务等领域的市场准入达成协议。升级协定仍待正式签署，双方尚未公布签署和生效日期。 当天上午，中国国家主席习近平在深",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-19/102506658.html",
+          "published": "Thu, 19 Nov 2026 09:48:36 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "习近平对老龄工作作出重要指示",
+          "summary": "[!--begin:htmlVideoCode--]567e5a1aa39540d5b727c5718d15c350,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 习近平对老龄工作作出重要指示强调 深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满 李强出席全国老龄工作会议并讲话 中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTINNTqCCMS9Ea7fU0rJZ7f261119.shtml",
+          "published": "Thu, 19 Nov 2026 12:12:06 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "江西发现植物新种华东堇菜",
+          "summary": "新华社南昌11月19日电（记者刘佳敏）江西马头山国家级自然保护区与中山大学科研团队在开展生物多样性调查时，发现堇菜属植物新物种——华东堇菜。该研究成果近日发表在国际植物分类学期刊《北欧植物学杂志》上。这是继2025年3月华东景天新种研究成果发表后，马头山保护区在生物多样性研究领域取得的又一个重要成果。 图为华东堇菜。新华社发 据江西马头山国家级自然保护区管理局高级工程师熊宇介绍，科研团队在马头山采",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIc2FJhimPQRBbBKw9nmEC261119.shtml",
+          "published": "Thu, 19 Nov 2026 09:24:33 GMT"
+        },
+        {
+          "title": "2027届全国普通高校毕业生规模预计1299万人",
+          "summary": "记者从2027届全国普通高校毕业生就业创业工作会议上获悉， 2027届全国普通高校毕业生规模预计1299万人 ，各地各部门将强化协同、央地联动，全力确保2027届高校毕业生就业总体稳定。 据了解，各地各有关部门将 用好政策“先手棋”，健全政策支持体系促就业 ，用足用好现行政策，支持出台增量政策，优化招录时序安排； 拿出拓岗“关键招”，挖潜更多岗位资源促就业 ，支持重点区域提升就业承载力，助力重点产",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/19/ARTIjPK0HT6vMv1NMeV5ipnk261119.shtml",
+          "published": "Thu, 19 Nov 2026 09:24:14 GMT"
+        },
+        {
+          "title": "杭州国资加码具身大脑，原力无限三个月内再获第四轮融资",
+          "summary": "原力无限三个月内连获四轮融资，浙江省、市两级国资接续入局，持续加码具身大脑研发与产业化。 11月19日，原力无限科技控股（浙江）有限公司（简称“原力无限”）宣布完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。公司表示，本轮资金将主要用于具身大脑AtomBrain研发、真实场景验证及产业化落地。 这是原力无限三个月内的第四轮融资。 今年8月，公司宣布完成A轮及A+轮融资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786294",
+          "published": "Thu, 19 Nov 2026 11:34:00 GMT"
+        },
+        {
+          "title": "柯力传感连投五家具身智能公司，机器人传感器放量",
+          "summary": "11月19日，宁波柯力传感科技股份有限公司（柯力传感， 603662.SH ）宣布完成对知行机器人科技（苏州）有限公司（以下简称“知行机器人”）的战略投资。 8月27日起，柯力传感先后战略投资优理奇机器人、卓誉科技、深朴智能、鹿明机器人与知行机器人五家公司，覆盖人形机器人整机、电机与关节模组、具身大模型、产业级整机与灵巧手。 柯力传感披露，公司已累计战略投资超15家机器人企业。优理奇机器人、深朴智",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786287",
+          "published": "Thu, 19 Nov 2026 10:24:00 GMT"
+        },
+        {
+          "title": "玄素之辨：一次关于黑白本体的学术“冒险”｜观展",
+          "summary": "“玄素——中国黑白艺术研究”正在山东美术馆展出，展期持续至12月13日 “玄素——中国黑白艺术研究”展览入口 近日，由清华大学美术学院主办，山东美术馆、清华大学美术学院美术馆承办的“玄素——中国黑白艺术研究”正在山东美术馆展出，展期持续至12月13日。展览汇集了尚扬、王怀庆、梁绍基、王冬龄、徐冰、施慧、闫平、隋建国、冷冰川、顾黎明、白明、马岩松12位艺术家的近60件（组）作品，艺术形式涵盖了绘画、",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-19/102506663.html",
+          "published": "Thu, 19 Nov 2026 09:50:40 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
+          "summary": "美联储副主席菲利普·杰斐逊（Philip Jefferson）周四表示，快速推进的人工智能（AI）基础设施建设正通过拉动需求对美国通胀施加上行压力，而有助于缓解价格压力的潜在生产率提升则要到“未来”才会出现。 杰斐逊在向巴西央行一场会议提交的预先准备好的演讲稿中表示，AI热潮可能同时影响需求和供给、但冲击发生时间点不同。 杰斐逊说： “在需求端，对该技术的乐观情绪一直在推高企业在数据中心、先进计算",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786305",
+          "published": "Thu, 19 Nov 2026 15:32:24 GMT"
+        },
+        {
+          "title": "科技投资大佬Brad Gerstner：Anthropic凭什么\"10倍认购\"与AI时代的\"模型至上主义\"",
+          "summary": "在半导体股票大跌、数据中心政策前景不明、英伟达CEO疑云未散的市场环境下，Anthropic的IPO依然获得10倍超额认购——这一现象背后，折射出AI时代最核心的投资逻辑之争。 Altimeter Capital创始人Brad Gerstner在TomorrowX 峰会上详解了Anthropic IPO获追捧的三大驱动力：史上最大的潜在市场、大幅压缩的算力成本，以及一个反常识的事实——Anthro",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786298",
+          "published": "Thu, 19 Nov 2026 11:52:55 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 108,
+    "total_collected": 83,
+    "sources": 8,
+    "source_list": [
+      "BBC中文",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "少数派",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
