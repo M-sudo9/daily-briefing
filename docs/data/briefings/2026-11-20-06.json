@@ -1,0 +1,750 @@
+{
+  "id": "2026-11-20-06",
+  "datetime": "2026-11-20 06:10:39",
+  "date": "2026-11-20",
+  "time": "06:10",
+  "period": "上午",
+  "summary": "本期采集 61 篇文章，来自 6 个信息源，覆盖 5 个领域，精选 87 条摘要",
+  "domains": [
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+          "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119311",
+          "published": "Fri, 20 Nov 2026 08:34:31 +0800"
+        },
+        {
+          "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+          "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084 Comments URL: https://news.ycombinator.com/item?id=50570479 Points: 35 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+          "published": "Fri, 20 Nov 2026 05:21:02 +0000"
+        },
+        {
+          "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+          "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase Comments URL: https://news.ycombinator.com/item?id=50568643 Points: 41 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+          "published": "Fri, 20 Nov 2026 00:37:31 +0000"
+        },
+        {
+          "title": "ChatGPT for SNES",
+          "summary": "Article URL: https://www.bxfoundry.com/chatgpt_snes/ Comments URL: https://news.ycombinator.com/item?id=50568548 Points: 34 # Comments: 7",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.bxfoundry.com/chatgpt_snes/",
+          "published": "Fri, 20 Nov 2026 00:25:59 +0000"
+        },
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "published": "Fri, 20 Nov 2026 00:56:01 +0000"
+        },
+        {
+          "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+          "published": "Fri, 20 Nov 2026 00:26:03 +0000"
+        },
+        {
+          "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+          "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+          "published": "Thu, 19 Nov 2026 23:37:56 +0000"
+        },
+        {
+          "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+          "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+          "published": "Thu, 19 Nov 2026 22:33:26 +0000"
+        },
+        {
+          "title": "Apple is hiring engineers to build its own AI agent",
+          "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing s",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "published": "2026-11-19T17:31:41-05:00"
+        },
+        {
+          "title": "报道：数据中心运营商DayOne暂停美国IPO计划，因数据中心和市场担忧",
+          "summary": "数据中心运营商DayOne搁置了原定规模达数十亿美元的美国IPO计划，市场对支撑人工智能热潮的数字基础设施估值能否持续的疑虑，正给该行业的资本运作带来切实压力。 据彭博11月20日报道，知情人士透露，DayOne此前计划最快于今年第四季度赴美募资最多50亿美元，但随着数据中心及AI股票波动加剧，公司已开始重新评估方案，包括推迟上市或缩减融资规模。上述知情人士称，若市场形势和情绪改善，DayOne可",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786350",
+          "published": "Fri, 20 Nov 2026 05:44:09 GMT"
+        },
+        {
+          "title": "黄仁勋离职冲击，英伟达被穆迪“降级”！",
+          "summary": "英伟达遭遇创始人离职后的信用评级首波冲击。 穆迪评级周四将英伟达的信用展望从\"正面\"下调至\"稳定\"，理由是长期首席执行官黄仁勋的辞职以及公司\"缺乏正式的继任计划\"。 尽管穆迪维持英伟达Aa1高级无抵押债务评级不变，但展望下调意味着未来12至18个月内该公司几乎不可能获得评级上调。 英伟达股价当日下跌逾5%，Arm Holdings跌幅亦超过6%。值得注意的是，Anthropic当日以83美元定价上",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786348",
+          "published": "Fri, 20 Nov 2026 05:22:21 GMT"
+        },
+        {
+          "title": "强美元撕裂全球流动性：风险资产何时迎来转机？",
+          "summary": "随着美元指数连续四个交易日上涨，一度突破103.50，创年内新高。与此同时，美债市场遭遇抛售，收益率曲线呈现显著的熊平特征：对货币政策最为敏感的2年期美债收益率单周飙升35个基点至4.87%附近，创下两年多来最大单周涨幅；10年期基准美债收益率重返5.15%的高位，距离多年峰值仅一步之遥。 在强美元与高利率双重挤压下，全球主要风险资产与避险品种均未能幸免于流动性抽离的冲击。黄金单周下跌4.7%至约",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786020",
+          "published": "Fri, 20 Nov 2026 05:21:59 GMT"
+        },
+        {
+          "title": "美元，迎来第四周上涨",
+          "summary": "美元正受到多重利好因素共振支撑，有望实现连续第四周上涨。 周四，人工智能实验室Anthropic正式在纳斯达克全球精选市场挂牌交易，上市首日股价即跳涨17%。 这一史上规模最大的科技类公开募股，吸引全球投资者纷纷将本国货币兑换为美元以认购股份，直接推高了市场对美元的需求。 Spectra Markets总裁Brent Donnelly在周四的研报中估计， 此次IPO的海外认购规模约在100亿至15",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786343",
+          "published": "Fri, 20 Nov 2026 03:56:08 GMT"
+        },
+        {
+          "title": "美联储为AI泡沫破裂做准备：生产力革命，还是宏观风险重估？",
+          "summary": "11月17日，沃什在旧金山联储公开会议上表示，美联储工作组已开始就AI快速普及对美国经济的潜在影响制定应急预案，涵盖生产力繁荣、大规模失业、技术泡沫破裂三条截然不同路径。 这三条路径为：1）AI推动生产力大幅提升、经济与劳动者共享红利的繁荣路径；2）经济增长被大规模岗位流失所抵消的失业路径；3）技术发展未能兑现预期、进而引发股市下挫与经济放缓的泡沫破裂路径。 沃什特别强调第三种情景：大规模资本投资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786190",
+          "published": "Fri, 20 Nov 2026 02:59:03 GMT"
+        },
+        {
+          "title": "AI 投研时代，行情变快了吗？",
+          "summary": "核心结论 AI 投研时代，行情发展的速度是否会受到影响？把自六月底以来的调整与历史上不同牛市见顶下跌放在同一组价格路径指标下比较，综合下跌速度和共识形成的速度，结合本轮科技行情既具备类似 2007-2008 的周期股逻辑也具备类似 2015 年移动互联网的产业叙事逻辑， 我们认为本轮调整可以理解为与行情结构基本相符。 扩展到更多行业以及更普遍的见顶回撤，得出以下三点结论： 有业绩周期股逻辑相比纯叙",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786338",
+          "published": "Fri, 20 Nov 2026 02:50:03 GMT"
+        },
+        {
+          "title": "AI公司的“困境”：规模越大，破产越快",
+          "summary": "Fireworks AI CEO 乔琳认为，与SaaS时代不同，AI时代失衡的高昂成本导致许多公司面临“扩张即破产”的危机；因此，如何利用私有数据构建核心竞争壁垒（IP）并有效控制成本，已成为当前整个AI行业面临的最大挑战。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960208",
+          "published": "Fri, 20 Nov 2026 02:30:49 GMT"
+        },
+        {
+          "title": "阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理",
+          "summary": "阿里巴巴和腾讯在各自最新季度财报电话会上，都给出了相似的资本开支路径：AI基础设施资本开支的高峰期正在临近，2028年将成为关键拐点。与此同时，两家公司均强调，推理负载已可在国内芯片上高效运行，国产算力正成为支撑云收入增长的一大核心引擎。 阿里CFO徐宏在电话会上表示，本季度资本开支为505亿元人民币（约合75亿美元），环比上季度的677亿元人民币（约合100亿美元）有所下降。他进一步解释了未来的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786331",
+          "published": "Fri, 20 Nov 2026 01:29:01 GMT"
+        },
+        {
+          "title": "黑色星期五！日韩股指跌近5%，软银大跌15%，SK海力士跌超7%，黄金跌破3600",
+          "summary": "Anthropic上市未能提振AI板块信心，受人工智能交易前景悲观情绪的影响，亚太市场周五开盘遭遇重挫，科技股首当其冲，全球股指正迈向近三年来最长连跌纪录。 MSCI亚太股票指数下跌1.7%，连续第七个交易日收跌，逼近4月以来最低收盘位，同步拖累MSCI全球指数走向2023年9月以来最长跌势。韩国综合股价指数下挫4.7%，日本日经225指数跌幅扩大至4.6%，日本最新通胀数据引发市场对央行加息的担",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786330",
+          "published": "Fri, 20 Nov 2026 01:22:29 GMT"
+        },
+        {
+          "title": "华尔街希望Anthropic明年站上3万亿",
+          "summary": "知名科技投资人Brad Gerstner押注 Anthropic，用 2028 年 Gap 收入 ×10 倍市销率算出 3 万亿估值。 晨星乐观情景同样给到 3 万亿，悲观仅 5000 亿，分歧巨大。Altimeter 计划砸 50 亿基石投资。当前 IPO 估值 1.5 万亿，锚定短期收入，而他赌的是 2028 年后 AI 长期超级周期。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960206",
+          "published": "Fri, 20 Nov 2026 01:09:50 GMT"
+        },
+        {
+          "title": "消费数据还在寻底，为什么科技基金经理开始研究消费股了？",
+          "summary": "消费行业策略会涌入了科技基金经理？这不是段子，这是真实发生的事情。过去两年，AI、半导体几乎占据了成长基金经理的注意力；到了11月，消费重新成为不少投资者愿意坐下来认真听一听的方向。花旗银行分析师在最新中国策略会反馈中欣喜地表示：投资者对中国消费行业的兴趣达到过去三年最高水平。 更有意思的是，消费者本人还没有回来。10月社会消费品零售总额同比仅增长0.4%，1—10月累计增长1.0%；但10月30",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786171",
+          "published": "Fri, 20 Nov 2026 01:07:02 GMT"
+        },
+        {
+          "title": "首度突破1万亿美元！AI加持，韩国出口创下新纪录",
+          "summary": "韩国年度商品出口额首次突破万亿美元，AI驱动的半导体出口热潮是这一历史性突破的核心引擎。 11月19日周四，据韩国产业通商资源部公布的初步数据， 韩国年度货物出口累计额正式越过万亿美元关口。 这一成就距韩国年出口额首次突破7000亿美元仅一年之隔，使韩国成为继美国、中国和德国之后，全球第四个实现这一目标的经济体。 出口激增也为韩国宏观经济提供了支撑。 韩国三季度GDP环比增长1%，超出市场预期。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786327",
+          "published": "Fri, 20 Nov 2026 00:56:22 GMT"
+        },
+        {
+          "title": "美光CEO：2028年比2026年更紧张",
+          "summary": "美光CEO认为，随着AI模型扩展及应用深化，对内存和存储的需求持续激增，导致未来几年供应将愈发紧张，2027和2028年的紧缺程度将超越创纪录的2026年，公司业务基本面保持极度强劲。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960205",
+          "published": "Fri, 20 Nov 2026 00:49:55 GMT"
+        },
+        {
+          "title": "腾讯终于有了AI爆款，但然后呢？",
+          "summary": "腾讯终于拿出了一款有商业化说服力的AI产品。2026年三季度，WorkBuddy日活用户突破1000万，日均消耗超过100万亿Token；最近七天收入的年化运行率超过5亿美元，企业客户也在快速增加。对于长期面临软件付费难题的中国互联网市场，这是一份足以令人侧目的成绩单。 但在同一张财报上，新AI产品对腾讯单季经营利润的净拖累扩大到152亿元，资本开支达到814亿元，自由现金流净流出691亿元。Wo",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786254",
+          "published": "Fri, 20 Nov 2026 00:34:47 GMT"
+        },
+        {
+          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
+          "summary": "11月19日，Anthropic以83美元定价上市，开盘即飙升至111.50美元，全场沸腾。但Anthropic开盘即是高点，股价随即一路回落，收盘97美元，涨幅收窄至17%。 与此同时，美股大盘也是冲高回落的走势——纳斯达克从开盘涨逾2%，到收盘跌2.25%，单日振幅超过4个百分点。标普500当日蒸发市值约1.3万亿美元，与Anthropic此次IPO募资规模高度吻合。 美股盘中，做空机构Hun",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786326",
+          "published": "Fri, 20 Nov 2026 00:32:19 GMT"
+        },
+        {
+          "title": "11月20日会员早报：Anthropic完成史上最大IPO AMD股价盘中重挫11%",
+          "summary": "1、【Anthropic完成史上最大IPO】人工智能公司Anthropic周四（11月19日）在纳斯达克挂牌交易，首日收涨17%。公司以每股83美元完成首次公开发行，股票在纳斯达克全球精选市场交易，代码“ANT”；首日收于97.17美元，市值约1.27万亿美元。算上面向大型投资者的私募配售，Anthropic此次共募资约1070亿美元，超过今年6月的SpaceX，成为有史以来规模最大的IPO。但投",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786323",
+          "published": "Thu, 19 Nov 2026 23:20:41 GMT"
+        },
+        {
+          "title": "美国：AI投资见顶了么",
+          "summary": "AI投资的增速已经见顶，支出水平尚未见顶。由于对GDP增长的拉动取决于投资增量，而不是投资水平，增速放缓就意味着宏观拉动进入平台期，并在2028年明显回落 过去两年，AI投资是美国经济最显眼的增长引擎。2025年，AI相关投资（信息处理设备加软件）拉动实际GDP 0.70个百分点，约占当年2.3%增长的三成；2026年三季度，五大云厂商单季资本开支达到2304亿美元，是两年前的4倍。市场的问题是：",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506975.html",
+          "published": "Fri, 20 Nov 2026 05:07:25 GMT"
+        },
+        {
+          "title": "联想单季营收首超2000亿元 AI泡沫担忧下AI服务器实现三倍增长",
+          "summary": "AI基础设施投资是否过热、如何控制新云厂商客户风险？面对美国对华算力限制，联想提出通过异构算力调度提高资源利用率 11月19日，全球最大PC制造商联想集团公布截至2026年9月30日的2026/27财年第二季度财报，当季实现营收302.4亿美元。图：视觉中国 【财新网】 全球市场担忧AI基础设施资本开支泡沫、建设可能放缓之际，联想集团（HKSE：00992/ADR：LNVGY）AI服务器实现高增长",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506895.html",
+          "published": "Fri, 20 Nov 2026 02:51:38 GMT"
+        },
+        {
+          "title": "【华尔街原声】Anthropic CEO：希望未来获投资级信用评级",
+          "summary": "Dario Amodei称债务融资是未来可考虑的工具，公司将持续投入巨资扩充AI算力",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506890.html",
+          "published": "Fri, 20 Nov 2026 02:43:03 GMT"
+        },
+        {
+          "title": "【华尔街原声】微软CEO：AI降低大规模网络攻击门槛",
+          "summary": "Satya Nadella称旧系统与新补丁可能引发运行不稳定，网络防御和基础设施升级愈发重要",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506888.html",
+          "published": "Fri, 20 Nov 2026 02:39:55 GMT"
+        },
+        {
+          "title": "Anthropic上市首日大涨17% 市值1.8万亿美元跃居全球前十",
+          "summary": "以史上规模最大的IPO登陆纳斯达克，成为人工智能公司上市估值标杆 【财新网】 当地时间11月19日，Anthropic（NASDAQ： ANT）正式于纳斯达克挂牌上市，史上规模最大的IPO。当日，其股价大幅冲高后回落，最终收涨17%，报97.17美元/股。 以收盘价计算，Anthropic完全稀释市值为1.8万亿美元，跻身全球市值前十企业之列。在美股老牌“Mag 7”公司中，Anthropic的市",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506875.html",
+          "published": "Fri, 20 Nov 2026 02:11:11 GMT"
+        },
+        {
+          "title": "【市场动态】IMF总裁警告称AI相关金融资产回调并未结束 循环融资可能威胁金融稳定",
+          "summary": "格奥尔基耶娃周四在深圳接受彭博电视采访时表示，IMF此前已预计市场会出现调整，目前尚未看到大幅回调，可能还会进一步调整，这将有助于市场回到更可持续的状态",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506871.html",
+          "published": "Fri, 20 Nov 2026 01:52:05 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+          "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084 Comments URL: https://news.ycombinator.com/item?id=50570479 Points: 35 # Comments: 3",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+          "published": "Fri, 20 Nov 2026 05:21:02 +0000"
+        },
+        {
+          "title": "FFmpeg 9.1 'Gauss'",
+          "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 15 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://ffmpeg.org/download.html#release_9.1",
+          "published": "Fri, 20 Nov 2026 04:02:39 +0000"
+        },
+        {
+          "title": "GIMP now has UI tests",
+          "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 41 # Comments: 22",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+          "published": "Fri, 20 Nov 2026 04:00:24 +0000"
+        },
+        {
+          "title": "PostgreSQL 19",
+          "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 49 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.postgresql.org/docs/release/19.0/",
+          "published": "Fri, 20 Nov 2026 03:45:45 +0000"
+        },
+        {
+          "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+          "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 42 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+          "published": "Fri, 20 Nov 2026 02:43:49 +0000"
+        },
+        {
+          "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+          "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 101 # Comments: 53",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/openssl/openssl/pull/33652",
+          "published": "Fri, 20 Nov 2026 02:01:09 +0000"
+        },
+        {
+          "title": "Vint Cerf on why TCP/IP was never patented",
+          "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 71 # Comments: 15",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+          "published": "Fri, 20 Nov 2026 01:06:12 +0000"
+        },
+        {
+          "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+          "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase Comments URL: https://news.ycombinator.com/item?id=50568643 Points: 41 # Comments: 18",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+          "published": "Fri, 20 Nov 2026 00:37:31 +0000"
+        },
+        {
+          "title": "ChatGPT for SNES",
+          "summary": "Article URL: https://www.bxfoundry.com/chatgpt_snes/ Comments URL: https://news.ycombinator.com/item?id=50568548 Points: 34 # Comments: 7",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.bxfoundry.com/chatgpt_snes/",
+          "published": "Fri, 20 Nov 2026 00:25:59 +0000"
+        },
+        {
+          "title": "RegExr: Temporarily Offline",
+          "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 68 # Comments: 36",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://regexr.com/",
+          "published": "Thu, 19 Nov 2026 22:27:07 +0000"
+        },
+        {
+          "title": "Synology Security Advisory",
+          "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 128 # Comments: 94",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+          "published": "Thu, 19 Nov 2026 22:13:40 +0000"
+        },
+        {
+          "title": "日本10月核心CPI加速升至2.2%，加息再添砝码",
+          "summary": "日本最新通胀数据显示物价涨势加速，进一步巩固了日本央行（BOJ）下月升息的理由。 日本总务省周五（11月20日）公布的数据显示， 10月剔除生鲜食品的核心CPI同比上涨2.2% ，连续第二个月加速，为今年以来最快升幅，但略低于经济学家预期中值2.3%。与此同时， 整体CPI同比上涨2.3% 。数据公布后，掉期合约隐含日本央行 12月18日加息概率约为86% 。 Sompo Institute Pl",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786346",
+          "published": "Fri, 20 Nov 2026 05:34:07 GMT"
+        },
+        {
+          "title": "强美元撕裂全球流动性：风险资产何时迎来转机？",
+          "summary": "随着美元指数连续四个交易日上涨，一度突破103.50，创年内新高。与此同时，美债市场遭遇抛售，收益率曲线呈现显著的熊平特征：对货币政策最为敏感的2年期美债收益率单周飙升35个基点至4.87%附近，创下两年多来最大单周涨幅；10年期基准美债收益率重返5.15%的高位，距离多年峰值仅一步之遥。 在强美元与高利率双重挤压下，全球主要风险资产与避险品种均未能幸免于流动性抽离的冲击。黄金单周下跌4.7%至约",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786020",
+          "published": "Fri, 20 Nov 2026 05:21:59 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "报道：数据中心运营商DayOne暂停美国IPO计划，因数据中心和市场担忧",
+          "summary": "数据中心运营商DayOne搁置了原定规模达数十亿美元的美国IPO计划，市场对支撑人工智能热潮的数字基础设施估值能否持续的疑虑，正给该行业的资本运作带来切实压力。 据彭博11月20日报道，知情人士透露，DayOne此前计划最快于今年第四季度赴美募资最多50亿美元，但随着数据中心及AI股票波动加剧，公司已开始重新评估方案，包括推迟上市或缩减融资规模。上述知情人士称，若市场形势和情绪改善，DayOne可",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786350",
+          "published": "Fri, 20 Nov 2026 05:44:09 GMT"
+        },
+        {
+          "title": "日本10月核心CPI加速升至2.2%，加息再添砝码",
+          "summary": "日本最新通胀数据显示物价涨势加速，进一步巩固了日本央行（BOJ）下月升息的理由。 日本总务省周五（11月20日）公布的数据显示， 10月剔除生鲜食品的核心CPI同比上涨2.2% ，连续第二个月加速，为今年以来最快升幅，但略低于经济学家预期中值2.3%。与此同时， 整体CPI同比上涨2.3% 。数据公布后，掉期合约隐含日本央行 12月18日加息概率约为86% 。 Sompo Institute Pl",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786346",
+          "published": "Fri, 20 Nov 2026 05:34:07 GMT"
+        },
+        {
+          "title": "强美元撕裂全球流动性：风险资产何时迎来转机？",
+          "summary": "随着美元指数连续四个交易日上涨，一度突破103.50，创年内新高。与此同时，美债市场遭遇抛售，收益率曲线呈现显著的熊平特征：对货币政策最为敏感的2年期美债收益率单周飙升35个基点至4.87%附近，创下两年多来最大单周涨幅；10年期基准美债收益率重返5.15%的高位，距离多年峰值仅一步之遥。 在强美元与高利率双重挤压下，全球主要风险资产与避险品种均未能幸免于流动性抽离的冲击。黄金单周下跌4.7%至约",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786020",
+          "published": "Fri, 20 Nov 2026 05:21:59 GMT"
+        },
+        {
+          "title": "美元，迎来第四周上涨",
+          "summary": "美元正受到多重利好因素共振支撑，有望实现连续第四周上涨。 周四，人工智能实验室Anthropic正式在纳斯达克全球精选市场挂牌交易，上市首日股价即跳涨17%。 这一史上规模最大的科技类公开募股，吸引全球投资者纷纷将本国货币兑换为美元以认购股份，直接推高了市场对美元的需求。 Spectra Markets总裁Brent Donnelly在周四的研报中估计， 此次IPO的海外认购规模约在100亿至15",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786343",
+          "published": "Fri, 20 Nov 2026 03:56:08 GMT"
+        },
+        {
+          "title": "跌破3600，黄金势创3月来最惨一周",
+          "summary": "黄金连跌五日，本周跌幅逼近9%，创下2026年3月以来最大单周跌幅。美联储鹰派信号持续强化、科技股抛售潮蔓延，以及美元走强三重压力叠加，令这一曾在今年1月触及历史高点的贵金属陷入深度调整。 现货黄金周五亚市盘中跌幅一度逼近3%，最低触及3520美元，较1月28日创下的历史高点5589.38美元已累计下跌逾三分之一。 白银同期跌幅更深，本周累计下挫约14%。 美联储加息预期是本轮下行的核心驱动力。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786342",
+          "published": "Fri, 20 Nov 2026 03:46:59 GMT"
+        },
+        {
+          "title": "付鹏：VIX倒挂叠加负Gamma效应，如何放大美股共振下杀？【付鹏说图表】",
+          "summary": "《付鹏说·第七季》全新升级上线！立即订阅 VIX倒挂叠加负Gamma效应，如何放大美股共振下杀？ VIX 跳升 + 期限结构倒挂（Backwardation） + 负 Delta 敞口 + 不断扩大的负 Gamma 正凑在一起，市场不再是平缓的线性波动，要提妨“恐慌定价、机械对冲、流动性变薄”三者共振...... 《付鹏说》第七季 已经正式上线， 大家点击订阅加入 。第七季我们也做出了全新的更新，",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/premium/articles/3786341?layout=wscn-layout",
+          "published": "Fri, 20 Nov 2026 03:15:37 GMT"
+        },
+        {
+          "title": "美联储为AI泡沫破裂做准备：生产力革命，还是宏观风险重估？",
+          "summary": "11月17日，沃什在旧金山联储公开会议上表示，美联储工作组已开始就AI快速普及对美国经济的潜在影响制定应急预案，涵盖生产力繁荣、大规模失业、技术泡沫破裂三条截然不同路径。 这三条路径为：1）AI推动生产力大幅提升、经济与劳动者共享红利的繁荣路径；2）经济增长被大规模岗位流失所抵消的失业路径；3）技术发展未能兑现预期、进而引发股市下挫与经济放缓的泡沫破裂路径。 沃什特别强调第三种情景：大规模资本投资",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786190",
+          "published": "Fri, 20 Nov 2026 02:59:03 GMT"
+        },
+        {
+          "title": "2027见闻历，财经人的桌面必备“神历”",
+          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "published": "Fri, 20 Nov 2026 01:42:39 GMT"
+        },
+        {
+          "title": "聪明人常犯的错误：太过迷恋自己的逻辑",
+          "summary": "华尔街传奇投资人德鲁肯米勒认为，聪明人往往因为太钟爱自己的论点而缺乏“智识上的谦逊”，这导致他们在面对市场变化时变得僵化，无法迅速做出调整。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960207",
+          "published": "Fri, 20 Nov 2026 01:33:48 GMT"
+        },
+        {
+          "title": "阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理",
+          "summary": "阿里巴巴和腾讯在各自最新季度财报电话会上，都给出了相似的资本开支路径：AI基础设施资本开支的高峰期正在临近，2028年将成为关键拐点。与此同时，两家公司均强调，推理负载已可在国内芯片上高效运行，国产算力正成为支撑云收入增长的一大核心引擎。 阿里CFO徐宏在电话会上表示，本季度资本开支为505亿元人民币（约合75亿美元），环比上季度的677亿元人民币（约合100亿美元）有所下降。他进一步解释了未来的",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786331",
+          "published": "Fri, 20 Nov 2026 01:29:01 GMT"
+        },
+        {
+          "title": "黑色星期五！日韩股指跌近5%，软银大跌15%，SK海力士跌超7%，黄金跌破3600",
+          "summary": "Anthropic上市未能提振AI板块信心，受人工智能交易前景悲观情绪的影响，亚太市场周五开盘遭遇重挫，科技股首当其冲，全球股指正迈向近三年来最长连跌纪录。 MSCI亚太股票指数下跌1.7%，连续第七个交易日收跌，逼近4月以来最低收盘位，同步拖累MSCI全球指数走向2023年9月以来最长跌势。韩国综合股价指数下挫4.7%，日本日经225指数跌幅扩大至4.6%，日本最新通胀数据引发市场对央行加息的担",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786330",
+          "published": "Fri, 20 Nov 2026 01:22:29 GMT"
+        },
+        {
+          "title": "恒指低开1.6%，恒生科技指数跌2.9%",
+          "summary": "09:21 恒生指数低开1.57%，恒生科技指数跌2.95%。网易跌超13%，智谱、MINIMAX、快手跌超8%。。中际旭创、三环集团、剑桥科技跌超6%。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786333",
+          "published": "Fri, 20 Nov 2026 01:21:28 GMT"
+        },
+        {
+          "title": "华尔街希望Anthropic明年站上3万亿",
+          "summary": "知名科技投资人Brad Gerstner押注 Anthropic，用 2028 年 Gap 收入 ×10 倍市销率算出 3 万亿估值。 晨星乐观情景同样给到 3 万亿，悲观仅 5000 亿，分歧巨大。Altimeter 计划砸 50 亿基石投资。当前 IPO 估值 1.5 万亿，锚定短期收入，而他赌的是 2028 年后 AI 长期超级周期。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960206",
+          "published": "Fri, 20 Nov 2026 01:09:50 GMT"
+        },
+        {
+          "title": "消费数据还在寻底，为什么科技基金经理开始研究消费股了？",
+          "summary": "消费行业策略会涌入了科技基金经理？这不是段子，这是真实发生的事情。过去两年，AI、半导体几乎占据了成长基金经理的注意力；到了11月，消费重新成为不少投资者愿意坐下来认真听一听的方向。花旗银行分析师在最新中国策略会反馈中欣喜地表示：投资者对中国消费行业的兴趣达到过去三年最高水平。 更有意思的是，消费者本人还没有回来。10月社会消费品零售总额同比仅增长0.4%，1—10月累计增长1.0%；但10月30",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786171",
+          "published": "Fri, 20 Nov 2026 01:07:02 GMT"
+        },
+        {
+          "title": "中国11月LPR维持不变",
+          "summary": "中国11月贷款市场报价利率（LPR）11月20日出炉，1年期和5年期以上LPR均未调整。 中国人民银行授权全国银行间同业拆借中心公布显示，2026年11月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。 作为主要政策利率的7天期逆回购利率自2025年5月下调后已经连续17个月保持不变，因此，LPR报价的定价基础本月未发生",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786332",
+          "published": "Fri, 20 Nov 2026 01:01:03 GMT"
+        },
+        {
+          "title": "首度突破1万亿美元！AI加持，韩国出口创下新纪录",
+          "summary": "韩国年度商品出口额首次突破万亿美元，AI驱动的半导体出口热潮是这一历史性突破的核心引擎。 11月19日周四，据韩国产业通商资源部公布的初步数据， 韩国年度货物出口累计额正式越过万亿美元关口。 这一成就距韩国年出口额首次突破7000亿美元仅一年之隔，使韩国成为继美国、中国和德国之后，全球第四个实现这一目标的经济体。 出口激增也为韩国宏观经济提供了支撑。 韩国三季度GDP环比增长1%，超出市场预期。 ",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786327",
+          "published": "Fri, 20 Nov 2026 00:56:22 GMT"
+        },
+        {
+          "title": "罕见！CoreWeave联合创始人3000万美元买入自己债券",
+          "summary": "CoreWeave联合创始人以一笔罕见的债券自购行动，向市场传递信心信号。 CoreWeave联合创始人兼首席战略官Brian Venturo周三（11月18日）在LinkedIn发文披露，他已买入该公司面值3000万美元的无担保债券，并计划持有至2031年10月1日到期。 “我对CoreWeave的信心从未如此之强，”他写道。 CoreWeave随后在社交平台X上转发了这一表态。 消息公布后，C",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786328",
+          "published": "Fri, 20 Nov 2026 00:48:23 GMT"
+        },
+        {
+          "title": "Trendforce看跌2027年NAND闪存价格，因中国云厂砍单影响超过北美需求增长",
+          "summary": "全球NAND闪存市场正面临供需格局的系统性逆转。 11月19日，据集邦咨询（TrendForce）最新研究显示，受 供给端产能快速扩张 、 中国云服务商大幅削减企业级固态硬盘订单 以及 消费电子需求持续疲软 等三重因素叠加影响， NAND闪存合约价格预计将于2027年第一季度开始下滑，并在此后逐季扩大跌幅 。 在需求端，中国云服务商削减的企业级固态硬盘订单规模已超过美国云服务商的新增需求量，导致全",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786329",
+          "published": "Fri, 20 Nov 2026 00:40:17 GMT"
+        },
+        {
+          "title": "腾讯终于有了AI爆款，但然后呢？",
+          "summary": "腾讯终于拿出了一款有商业化说服力的AI产品。2026年三季度，WorkBuddy日活用户突破1000万，日均消耗超过100万亿Token；最近七天收入的年化运行率超过5亿美元，企业客户也在快速增加。对于长期面临软件付费难题的中国互联网市场，这是一份足以令人侧目的成绩单。 但在同一张财报上，新AI产品对腾讯单季经营利润的净拖累扩大到152亿元，资本开支达到814亿元，自由现金流净流出691亿元。Wo",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786254",
+          "published": "Fri, 20 Nov 2026 00:34:47 GMT"
+        },
+        {
+          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
+          "summary": "11月19日，Anthropic以83美元定价上市，开盘即飙升至111.50美元，全场沸腾。但Anthropic开盘即是高点，股价随即一路回落，收盘97美元，涨幅收窄至17%。 与此同时，美股大盘也是冲高回落的走势——纳斯达克从开盘涨逾2%，到收盘跌2.25%，单日振幅超过4个百分点。标普500当日蒸发市值约1.3万亿美元，与Anthropic此次IPO募资规模高度吻合。 美股盘中，做空机构Hun",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786326",
+          "published": "Fri, 20 Nov 2026 00:32:19 GMT"
+        },
+        {
+          "title": "Anthropic“超级IPO”：过半机构投资者“一股未得”，散户“凶猛买卖”",
+          "summary": "Anthropic史上最大规模IPO在机构与散户之间制造了截然不同的两个世界：超过半数机构投资者颗粒无收，而散户则以创纪录的交易量同时扮演买家与卖家。 据彭博最新报道， 约1200家机构投资者参与了此次认购，但超过半数未能获得任何配股 。Anthropic此次IPO连同七位联合创始人共募资1073亿美元，其中包括来自英伟达、谷歌及超微半导体（AMD）等投资者的260亿美元私募配售，从SpaceX手",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786325",
+          "published": "Fri, 20 Nov 2026 00:15:17 GMT"
+        },
+        {
+          "title": "美国财政部发行“9天期票据”，上一次是在2008年7月",
+          "summary": "美国财政部正以越来越短的时间窗口管理其现金需求，一个尘封近17年的融资工具悄然重出江湖，令市场对美联储储备充裕程度的判断再添疑虑。 11月19日， 美国财政部以3.910%的利率售出150亿美元、期限仅9天的现金管理短期国库券（CMB），这是自2008年7月以来首次发行此类超短期工具，彼时IndyMac刚刚被接管，雷曼兄弟距离破产仅剩两个月。 此次“9天期票据”发行日期为11月24日，到期日为12",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786324",
+          "published": "Thu, 19 Nov 2026 23:58:46 GMT"
+        },
+        {
+          "title": "恒生科技指数将迎重大调整 宁德时代和中际旭创等股票或被纳入",
+          "summary": "宁德时代和中际旭创等股票预计将在香港科技股基准指数的一次重大调整中被纳入。恒生指数公司预计将在周五收市后公布季度检讨结果，势将把恒生科技指数成份股数量从30只扩大至50只。分析师表示，在一批高科技制造企业赴港上市后，新纳入的股票可能包括先进硬件相关公司。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/livenews/3202862",
+          "published": "Thu, 19 Nov 2026 23:24:44 GMT"
+        },
+        {
+          "title": "11月20日会员早报：Anthropic完成史上最大IPO AMD股价盘中重挫11%",
+          "summary": "1、【Anthropic完成史上最大IPO】人工智能公司Anthropic周四（11月19日）在纳斯达克挂牌交易，首日收涨17%。公司以每股83美元完成首次公开发行，股票在纳斯达克全球精选市场交易，代码“ANT”；首日收于97.17美元，市值约1.27万亿美元。算上面向大型投资者的私募配售，Anthropic此次共募资约1070亿美元，超过今年6月的SpaceX，成为有史以来规模最大的IPO。但投",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786323",
+          "published": "Thu, 19 Nov 2026 23:20:41 GMT"
+        },
+        {
+          "title": "连任未满一月 金融街证券董事长祝艳辉被留置",
+          "summary": "祝艳辉目前还任金融街集团党委副书记、副董事长、总经理，兼任北京华融综合投资有限公司董事长、总经理 【财新网】 11月20日，金融街证券（原恒泰证券，1476.HK）在港交所公告，根据北京市西城区监察委员会的通知，公司董事长祝艳辉目前正接受调查并被实施留置措施。公司未收到任何委员会需要协助调查或提供任何数据的要求，集团的业务运营正常。 根据公告，除担任公司董事长及执行董事外，祝艳辉亦为董事会战略与投",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-20/102506997.html",
+          "published": "Fri, 20 Nov 2026 05:55:49 GMT"
+        },
+        {
+          "title": "从持续积累到退休保障，养老金融需更关注真实需求",
+          "summary": "居民养老需求正从基本保障延伸到长期财富积累、退休收入安排和养老生活品质。养老金融因此不只是产品问题，更是制度、资产管理、客户服务和长期陪伴共同构成的系统工程 文｜陈培文 近年来，随着中国多层次、多支柱养老保障体系不断完善，国内公募养老业务已从早期探索走向体系化建设，产品供给持续丰富，专业投资管理和客户服务能力也在逐步增强。然而，制度和产品供给完善，并不意味着居民养老储备行为已经充分形成。如何帮助居",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506995.html",
+          "published": "Fri, 20 Nov 2026 05:33:00 GMT"
+        },
+        {
+          "title": "美国：AI投资见顶了么",
+          "summary": "AI投资的增速已经见顶，支出水平尚未见顶。由于对GDP增长的拉动取决于投资增量，而不是投资水平，增速放缓就意味着宏观拉动进入平台期，并在2028年明显回落 过去两年，AI投资是美国经济最显眼的增长引擎。2025年，AI相关投资（信息处理设备加软件）拉动实际GDP 0.70个百分点，约占当年2.3%增长的三成；2026年三季度，五大云厂商单季资本开支达到2304亿美元，是两年前的4倍。市场的问题是：",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506975.html",
+          "published": "Fri, 20 Nov 2026 05:07:25 GMT"
+        },
+        {
+          "title": "泰国审计署大楼倒塌案再有进展 中铁经理被判入狱三年",
+          "summary": "此次判决针对的是中铁十局（泰国）公司通过泰籍人士代持股份、违规经营建筑业务 资料图：张传令。11月18日，泰国曼谷刑事法院作出裁决，中铁十局泰国分公司总经理张传令被判入狱三年，并处罚金100万泰铢；公司被罚款100万泰铢，并被勒令停止营业。 【财新网】 2025年3月，泰国国家审计署尚未完工的总部大楼在地震中倒塌，该大楼由中铁十局泰国分公司参与承建。11月18日，泰国曼谷刑事法院作出裁决，中铁十局",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-20/102506971.html",
+          "published": "Fri, 20 Nov 2026 05:01:36 GMT"
+        },
+        {
+          "title": "中国无抵押消费信贷风险有多大？银行体系能否承受？",
+          "summary": "2026年上半年，中国无抵押消费信贷余额首次出现同比下降，信用卡和网贷成为主要拖累。信贷需求的萎缩只是表象，更令市场担忧的是其背后的信用风险 经济增长承压、消费复苏乏力、居民去杠杆持续，中国消费信贷市场正经历一场罕见的收缩。 2026年上半年，中国无抵押消费信贷余额首次出现同比下降，信用卡和网贷成为主要拖累。信贷需求的萎缩只是表象，更令市场担忧的是其背后的信用风险：居民偿债能力是否正在恶化？无抵押",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506951.html",
+          "published": "Fri, 20 Nov 2026 04:29:36 GMT"
+        },
+        {
+          "title": "数字时代的新圈地运动：资本主义的终结？",
+          "summary": "第一次圈地运动，资本圈占了土地；新圈地运动，资本开始扩展到云空间，将人的行为数据纳入自己的资本积累。最隐蔽的地方在于，人们甚至可能在享受便利的过程中，参与了对自己的圈占 资本控制的范围，正在从传统生产资料和商品交易，进一步延伸到数据、注意力、市场入口乃至人的日常行为。图：视觉中国 十多年前刚开始用微信的时候，一位同事就预言：以后工作和生活恐怕很难分开了。现在看来，他说得挺准。现在，我们越来越多的时",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506910.html",
+          "published": "Fri, 20 Nov 2026 03:23:43 GMT"
+        },
+        {
+          "title": "重庆信托董事长翁振杰失联",
+          "summary": "10月13日黄奇帆官宣被查后，翁振杰或因此被调查或协助调查 【财新网】 2026年11月17日晚间，重庆路桥（600106.SH）发布公告称，近日收到股东重庆国际信托股份有限公司（下称“重庆信托”）告知函，公司董事长翁振杰因个人原因暂不能正常履行董事长及董事会相关专门委员会委员等职务,董事会推举董事马赟在翁振杰不能正常履职期间，代行公司董事长及董事会相关专门委员会委员的职责。 公开信息显示，翁振杰",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-20/102506902.html",
+          "published": "Fri, 20 Nov 2026 02:52:41 GMT"
+        },
+        {
+          "title": "联想单季营收首超2000亿元 AI泡沫担忧下AI服务器实现三倍增长",
+          "summary": "AI基础设施投资是否过热、如何控制新云厂商客户风险？面对美国对华算力限制，联想提出通过异构算力调度提高资源利用率 11月19日，全球最大PC制造商联想集团公布截至2026年9月30日的2026/27财年第二季度财报，当季实现营收302.4亿美元。图：视觉中国 【财新网】 全球市场担忧AI基础设施资本开支泡沫、建设可能放缓之际，联想集团（HKSE：00992/ADR：LNVGY）AI服务器实现高增长",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506895.html",
+          "published": "Fri, 20 Nov 2026 02:51:38 GMT"
+        },
+        {
+          "title": "能源内参｜中俄美元首和平宣言：重申能源稳定流动重要性；内蒙古电力集团原董事长张海峰被“双开”",
+          "summary": "虚拟电厂进入加速发展期 2030年最大调节能力将翻番；国际能源署：2030年全球数据中心用电量将翻倍 投资支出预计再增4万亿美元 外交部11月19日消息，中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。图：视觉中国 【财新网】 中俄美元首和平宣言：重申能源稳定流动重要性 外交部11月19日消息，中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506892.html",
+          "published": "Fri, 20 Nov 2026 02:50:46 GMT"
+        },
+        {
+          "title": "【华尔街原声】Anthropic CEO：希望未来获投资级信用评级",
+          "summary": "Dario Amodei称债务融资是未来可考虑的工具，公司将持续投入巨资扩充AI算力",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506890.html",
+          "published": "Fri, 20 Nov 2026 02:43:03 GMT"
+        },
+        {
+          "title": "《爷爷奶奶那些事》：我们真的理解亲人吗",
+          "summary": "我们以为自己了解父母，其实认识的可能只是父母在我们面前呈现的那一部分 新上线的纪实电影《爷爷奶奶那些事》，没看多久，我就想起同事老谢的那句话：“你说我们真的了解父母吗？” 三年前笔者刚刚小范围分享自己提出的“大孝赋能”观点，老谢专程登门，上来却是这句话。 老谢家就在湖南，距离电影里面的那条河，估计不远。 是啊，熟悉不等于理解。 电影里面60年风雨的老夫老妻都并不理解对方，何况是子女呢？ 我提倡的为",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506880.html",
+          "published": "Fri, 20 Nov 2026 02:21:45 GMT"
+        },
+        {
+          "title": "Anthropic上市首日大涨17% 市值1.8万亿美元跃居全球前十",
+          "summary": "以史上规模最大的IPO登陆纳斯达克，成为人工智能公司上市估值标杆 【财新网】 当地时间11月19日，Anthropic（NASDAQ： ANT）正式于纳斯达克挂牌上市，史上规模最大的IPO。当日，其股价大幅冲高后回落，最终收涨17%，报97.17美元/股。 以收盘价计算，Anthropic完全稀释市值为1.8万亿美元，跻身全球市值前十企业之列。在美股老牌“Mag 7”公司中，Anthropic的市",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506875.html",
+          "published": "Fri, 20 Nov 2026 02:11:11 GMT"
+        },
+        {
+          "title": "【市场动态】IMF总裁警告称AI相关金融资产回调并未结束 循环融资可能威胁金融稳定",
+          "summary": "格奥尔基耶娃周四在深圳接受彭博电视采访时表示，IMF此前已预计市场会出现调整，目前尚未看到大幅回调，可能还会进一步调整，这将有助于市场回到更可持续的状态",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506871.html",
+          "published": "Fri, 20 Nov 2026 01:52:05 GMT"
+        },
+        {
+          "title": "【市场动态】中国铜市逼空催生交易机会 美国巨量铜库存开始流向中国",
+          "summary": "过去几天，物流公司收到了大量来自交易商的询盘，寻求将铜从美国运往中国，目前已有数批船货完成订舱",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-20/102506870.html",
+          "published": "Fri, 20 Nov 2026 01:50:34 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "报道：数据中心运营商DayOne暂停美国IPO计划，因数据中心和市场担忧",
+          "summary": "数据中心运营商DayOne搁置了原定规模达数十亿美元的美国IPO计划，市场对支撑人工智能热潮的数字基础设施估值能否持续的疑虑，正给该行业的资本运作带来切实压力。 据彭博11月20日报道，知情人士透露，DayOne此前计划最快于今年第四季度赴美募资最多50亿美元，但随着数据中心及AI股票波动加剧，公司已开始重新评估方案，包括推迟上市或缩减融资规模。上述知情人士称，若市场形势和情绪改善，DayOne可",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786350",
+          "published": "Fri, 20 Nov 2026 05:44:09 GMT"
+        },
+        {
+          "title": "黑色星期五！日韩股指跌近5%，软银大跌15%，SK海力士跌超7%，黄金跌破3600",
+          "summary": "Anthropic上市未能提振AI板块信心，受人工智能交易前景悲观情绪的影响，亚太市场周五开盘遭遇重挫，科技股首当其冲，全球股指正迈向近三年来最长连跌纪录。 MSCI亚太股票指数下跌1.7%，连续第七个交易日收跌，逼近4月以来最低收盘位，同步拖累MSCI全球指数走向2023年9月以来最长跌势。韩国综合股价指数下挫4.7%，日本日经225指数跌幅扩大至4.6%，日本最新通胀数据引发市场对央行加息的担",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786330",
+          "published": "Fri, 20 Nov 2026 01:22:29 GMT"
+        },
+        {
+          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
+          "summary": "11月19日，Anthropic以83美元定价上市，开盘即飙升至111.50美元，全场沸腾。但Anthropic开盘即是高点，股价随即一路回落，收盘97美元，涨幅收窄至17%。 与此同时，美股大盘也是冲高回落的走势——纳斯达克从开盘涨逾2%，到收盘跌2.25%，单日振幅超过4个百分点。标普500当日蒸发市值约1.3万亿美元，与Anthropic此次IPO募资规模高度吻合。 美股盘中，做空机构Hun",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786326",
+          "published": "Fri, 20 Nov 2026 00:32:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "从持续积累到退休保障，养老金融需更关注真实需求",
+          "summary": "居民养老需求正从基本保障延伸到长期财富积累、退休收入安排和养老生活品质。养老金融因此不只是产品问题，更是制度、资产管理、客户服务和长期陪伴共同构成的系统工程 文｜陈培文 近年来，随着中国多层次、多支柱养老保障体系不断完善，国内公募养老业务已从早期探索走向体系化建设，产品供给持续丰富，专业投资管理和客户服务能力也在逐步增强。然而，制度和产品供给完善，并不意味着居民养老储备行为已经充分形成。如何帮助居",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-20/102506995.html",
+          "published": "Fri, 20 Nov 2026 05:33:00 GMT"
+        },
+        {
+          "title": "全球卫生援助资金缩减冲击疫苗接种，如何应对？",
+          "summary": "全球免疫进程多数指标偏离既定目标；疫苗可预防疾病的疫情数量增加，发病率和死亡率上升 【财新网】 全球免疫规划正面临前所未有的挑战：“零剂次”儿童上升；麻疹等疫苗可预防疾病疫情数量增加；全球卫生发展援助资金缩减，进一步加剧免疫规划可持续性压力。 在日前由浙江大学医学院公共卫生学院与昆山杜克大学疫苗交付研究创新实验室（VaxLab）共同主办的‌“创新·公平·可持续实施：推动国家免疫规划发展国际研讨会”",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-20/102506962.html",
+          "published": "Fri, 20 Nov 2026 04:36:13 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 87,
+    "total_collected": 61,
+    "sources": 6,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "华尔街见闻",
+      "少数派",
+      "财新网"
+    ],
+    "domains": 5
+  }
+}
