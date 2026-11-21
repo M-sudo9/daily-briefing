@@ -1,108 +1,126 @@
 {
-  "id": "2026-11-21-06",
-  "datetime": "2026-11-21 06:01:19",
+  "id": "2026-11-21-15",
+  "datetime": "2026-11-21 15:57:33",
   "date": "2026-11-21",
-  "time": "06:01",
-  "period": "上午",
-  "summary": "本期采集 39 篇文章，来自 5 个信息源，覆盖 6 个领域，精选 63 条摘要",
+  "time": "15:57",
+  "period": "下午",
+  "summary": "本期采集 42 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 53 条摘要",
   "domains": [
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-          "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ... 查看全文",
-          "importance": "medium",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119291",
-          "published": "Sat, 21 Nov 2026 12:00:00 +0800"
-        },
-        {
-          "title": "解药｜GLP-1类明星药致“眼中风”疑云",
-          "summary": "FDA要求GLP-1类药物在标签中添加可升高NAION发病风险的警示，这一风险争议由来已久，患者如何选择？ 【财新网】 以司美格鲁肽为代表的GLP-1类药物，近日又因其与罕见眼病或存关联被推上风口浪尖。 11月9日，美国FDA（食品药品监督管理局）发布通报，要求所有GLP-1类药物在药品标签的“警示与注意事项”部分添加相关信息，以说明使用此类药物可能会增加一种罕见眼病“NAION”的发病风险。 G",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-21/102507391.html",
-          "published": "Sat, 21 Nov 2026 00:43:04 GMT"
-        }
-      ]
-    },
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "BlackBlaze now explicitly states selling your data for advertisement",
-          "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 98 # Comments: 24",
+          "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 106 # Comments: 66",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.backblaze.com/company/policy/privacy",
-          "published": "Sat, 21 Nov 2026 03:23:16 +0000"
+          "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "published": "Sat, 21 Nov 2026 14:36:45 +0000"
         },
         {
-          "title": "Clojure will affect the way you think about programming (2017)",
-          "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 33 # Comments: 6",
+          "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+          "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 167 # Comments: 109",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-          "published": "Sat, 21 Nov 2026 02:40:39 +0000"
+          "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "published": "Sat, 21 Nov 2026 13:23:14 +0000"
         },
         {
-          "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-          "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 25 # Comments: 4",
+          "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+          "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 63 # Comments: 52",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-          "published": "Sat, 21 Nov 2026 00:33:40 +0000"
+          "link": "https://simple-bench.com/",
+          "published": "Sat, 21 Nov 2026 13:16:12 +0000"
         },
         {
-          "title": "Serious cyberattack thought backed by wealthy operators",
-          "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 52 # Comments: 29",
+          "title": "My Monitor Was Cutting My Download Speed by 75%",
+          "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 184 # Comments: 75",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-          "published": "Fri, 20 Nov 2026 23:29:30 +0000"
+          "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+          "published": "Sat, 21 Nov 2026 10:36:32 +0000"
         },
         {
-          "title": "Sir Brian May adds new dimension to Hera asteroid",
-          "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=505837",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 108 # Comments: 50",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-          "published": "Fri, 20 Nov 2026 23:19:44 +0000"
+          "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+          "published": "Sat, 21 Nov 2026 10:33:57 +0000"
         },
         {
-          "title": "NINLIVE: The Nine Inch Nails live archive",
-          "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 194 # Comments: 49",
+          "title": "RCE in Gnupg",
+          "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 135 # Comments: 46",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://ninlive.com/",
-          "published": "Fri, 20 Nov 2026 22:30:47 +0000"
+          "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "published": "Sat, 21 Nov 2026 08:32:58 +0000"
         },
         {
-          "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: http",
+          "title": "《明日方舟：终末地》「全新版本&2.0揭幕前瞻」特别节目回顾",
+          "summary": "《明日方舟：终末地》「全新版本&2.0揭幕前瞻」特别节目现已结束，感谢管理员的观看。\n为了方便管理员更快捷地了解新版本内容，我们已上线【新版本导览】专题网页。浏览网页并点击领取奖励，即可获得嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。\n\n管理员可以通过下方链接、前瞻特别节目中的二维码，或者游戏内邮件、游戏内公告、官方自媒体账号等方式进入【新版本导览】专题网页。\n>>点",
           "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "published": "Fri, 20 Nov 2026 22:18:20 +0000"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1pvyhzdER5",
+          "published": "Sat, 21 Nov 2026 12:45:00 GMT"
         },
         {
-          "title": "宁可买楼，也不投AI：拼多多为什么不怕被颠覆？",
-          "summary": "拼多多交出了一份收入几乎零增长的财报，财报当晚股价却逆势暴涨11%。国内电商业务重新加速、Temu收缩投入、利润率显著改善，让市场重新审视这家公司的盈利能力。 更有意思的是，当互联网巨头纷纷投入巨资争夺AI时代的入口时，手握4554亿元现金的拼多多却宁愿买楼，也没有加入算力军备竞赛。AI可能重塑电商行业，但拼多多或许有充分的理由保持冷静。 01 收入零增长，华尔街为什么奖励了11%？ 11月19日",
+          "title": "泽连斯基会见英国国防大臣 讨论乌防空能力建设",
+          "summary": "当地时间11月21日，乌克兰总统泽连斯基在基辅会见到访的英国国防大臣斯特里廷。双方重点就乌防空能力建设、“爱国者”防空系统所用拦截弹供应、联合武器生产、远程打击能力等议题进行磋商。 在联合武器生产与远程打击能力建设方面，双方认为该领域具备深化合作的空间。通过联合生产与技术协作，能够助力乌克兰推进本土导弹研发计划。 此外，泽连斯基还表示，英国提供的新一批国防与人道主义援助总额超过5亿英镑。（总台记者",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml",
+          "published": "Sat, 21 Nov 2026 14:19:26 GMT"
+        },
+        {
+          "title": "习近平主席的深圳APEC时间",
+          "summary": "原标题：习近平主席的深圳APEC时间 “亚太奇迹”新篇章，大国外交新图景，在这里起笔 南海之滨，鹏城深圳，历史把笔落在了这片沃土。 2026年11月，习近平主席的亚太经合组织（APEC）时间，近20场双多边活动密集铺展： 18日至19日，出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，主持亚太经合组织第三十三次领导人非正式会议并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIHvDB8lno2BGL88LrAQo9261121.shtml",
+          "published": "Sat, 21 Nov 2026 13:00:06 GMT"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队总司令视察“导弹城”",
+          "summary": "△双联装导弹发射装置 据伊朗方面当地时间21日公布的消息，伊朗伊斯兰革命卫队总司令瓦希迪日前视察了一座“导弹城”。 此外，伊朗革命卫队航空航天部队新研发的双联装导弹发射装置首次亮相。（总台记者 李健南）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:28:12 GMT"
+        },
+        {
+          "title": "大国的历史主动，落笔即成新章",
+          "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 这是三国领导人首次面对面会晤，定将成为人类发展史上的里程碑事件。 新闻稿中， “大国” 这个词出现了15次。 一个词语出现的密度，往往标示着时代的语境——中俄美是三个联合国安理会常任理事国，中美是世界前两大经济体，俄美是世界上两个拥有最大核武库的国家...... 三个大国坐到一起，能为世界做什么？ 「 大国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIFkw04VQXx5ggBXyABdt9261121.shtml",
+          "published": "Sat, 21 Nov 2026 11:18:30 GMT"
+        },
+        {
+          "title": "中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全",
+          "summary": "央视网消息： 11月21日，中国驻沙特大使馆发文表示，近来，沙特首都利雅得等多地频繁遭导弹和无人机袭击。据媒体报道，部分袭击造成人员伤亡，有机场、建筑物、能源电力设施等受损，局部地区出现短时停水电断网等情况。多地学校继续线上授课，部分当地机构和企业人员居家办公。利雅得哈立德国王国际机场部分恢复运营，但多地机场航班经常出现异常。局势还有可能进一步恶化。 中国驻沙特使领馆再次提醒在沙特中资机构和中国公",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:08:55 GMT"
+        },
+        {
+          "title": "特朗普想要“1月初之前”结束俄乌战争",
+          "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3786339",
-          "published": "Sat, 21 Nov 2026 04:39:30 GMT"
+          "link": "https://wallstreetcn.com/articles/3786435",
+          "published": "Sat, 21 Nov 2026 09:02:21 GMT"
         },
         {
-          "title": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成",
-          "summary": "美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。 11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全",
+          "title": "大西洋观察｜联合国气候大会的无奈与现实",
+          "summary": "一言以蔽之，就气变而言，大会本身绝非最优解，但却是人类当下最可及的方案 【财新网】 第31届联合国气候变化大会（COP31）正在土耳其地中海沿岸城市安塔利亚举行。 不出意外的话，会议的最后一天也就是11月20日，又将是一个不眠之夜，与会的190多个国家代表将就草案的最后文本锱铢必较地博弈与交易。 今年会议的一大看点是，东道主土耳其推动全球电气化倡议及“35 by 35”目标，即力争到2035年让电",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786412",
-          "published": "Fri, 20 Nov 2026 22:34:16 GMT"
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-21/102507572.html",
+          "published": "Sat, 21 Nov 2026 13:41:03 GMT"
         }
       ]
     },
@@ -111,400 +129,132 @@
       "summary": "",
       "items": [
         {
-          "title": "Clojure will affect the way you think about programming (2017)",
-          "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 33 # Comments: 6",
+          "title": "RCE in Gnupg",
+          "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 135 # Comments: 46",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-          "published": "Sat, 21 Nov 2026 02:40:39 +0000"
+          "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "published": "Sat, 21 Nov 2026 08:32:58 +0000"
         },
         {
-          "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-          "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 25 # Comments: 4",
+          "title": "Can Anthropic afford to put safety first?",
+          "summary": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public",
           "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-          "published": "Sat, 21 Nov 2026 00:33:40 +0000"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+          "published": "2026-11-21T10:00:00-05:00"
         },
         {
-          "title": "NINLIVE: The Nine Inch Nails live archive",
-          "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 194 # Comments: 49",
+          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+          "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at ",
           "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://ninlive.com/",
-          "published": "Fri, 20 Nov 2026 22:30:47 +0000"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+          "published": "2026-11-21T09:55:28-05:00"
         },
         {
-          "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: http",
+          "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+          "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mah",
           "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "published": "Fri, 20 Nov 2026 22:18:20 +0000"
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+          "published": "2026-11-21T09:00:00-05:00"
         },
         {
-          "title": "AI对黎曼猜想的证明，正式通过形式化验证！",
-          "summary": "-",
+          "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+          "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros , but didn't release them outsi",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+          "published": "2026-11-21T08:00:00-05:00"
+        },
+        {
+          "title": "The game of the year is finally here",
+          "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also yo",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+          "published": "2026-11-21T08:00:00-05:00"
+        },
+        {
+          "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+          "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round , cappin",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+          "published": "2026-11-21T07:00:00-05:00"
+        },
+        {
+          "title": "《蓝色星原：旅谣》公测动画短片",
+          "summary": "到了出发的时间啦，星临者！\n\n特别感谢 水树奈奈 带来的合作歌曲《Starry Garden》\n\n《蓝色星原：旅谣》11月26日正式公测！\n✦ bilibili预约地址：https://www.biligame.com/detail/?id=111392",
           "importance": "medium",
           "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1DjybzFEed",
-          "published": "Fri, 20 Nov 2026 23:49:19 GMT"
+          "link": "https://www.bilibili.com/video/BV1oRsu6XE2o",
+          "published": "Sat, 21 Nov 2026 12:00:00 GMT"
         },
         {
-          "title": "宁可买楼，也不投AI：拼多多为什么不怕被颠覆？",
-          "summary": "拼多多交出了一份收入几乎零增长的财报，财报当晚股价却逆势暴涨11%。国内电商业务重新加速、Temu收缩投入、利润率显著改善，让市场重新审视这家公司的盈利能力。 更有意思的是，当互联网巨头纷纷投入巨资争夺AI时代的入口时，手握4554亿元现金的拼多多却宁愿买楼，也没有加入算力军备竞赛。AI可能重塑电商行业，但拼多多或许有充分的理由保持冷静。 01 收入零增长，华尔街为什么奖励了11%？ 11月19日",
+          "title": "90后数学家用AI攻克百年难题？数学界：验证仍需时间",
+          "summary": "null",
+          "importance": "medium",
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909420_s.shtml",
+          "published": "Sat, 21 Nov 2026 11:47:00 GMT"
+        },
+        {
+          "title": "南水北调“天河”大模型完成升级",
+          "summary": "21日记者从中国南水北调集团了解到，全新升级的南水北调“天河”大模型V2发布。 [!--begin:htmlVideoCode--]86c95266c8ed487f8e250920d5720028,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 此次完成升级的南水北调“天河”大模型从V1版本夯实基础，到V2版本深化应用，推动水网管理决策向数据—机理—智能协同驱",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIm7nQISYyCYWNheR5yD95261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:34:21 GMT"
+        },
+        {
+          "title": "今年前三季度全国经营主体“提质向新”",
+          "summary": "央视网消息： 11月21日，市场监管总局公布数据显示，前三 季度，我国“四新”经济与先进制造业发展势头强劲，新产业新赛道相关企业加速壮大，为高质量发展蓄势聚能。 “四新”经济与前沿产业增势强劲。截至9月底，全国登记在册“四新”经济企业同比增长5.6%。一是新兴支柱产业保持增长。1月至9月，航天器及运载火箭制造业新设企业同比增长73.3%，集成电路制造业增长21.1%。二是前沿领域加速成长。生成式人",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIbRJtZ7pTQjcLyknpN0bQ261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:29:32 GMT"
+        },
+        {
+          "title": "房间里的大象：美国2.1万亿高等级债供给压顶，谁在为泡沫买单？",
+          "summary": "今年，美国投资级（IG）债券发行已创历史纪录，发行量达到1.88万亿美元。而明年IG债券总供应量预计将进一步攀升至2.1万亿美元。 然而，2027年存量债券到期规模约1万亿美元，叠加利率中枢上移推动年度票息收入升至5560亿美元，扣除到期与票息回流后的“净净”供给约5080亿美元，仍低于2020年峰值；净发行量1.06万亿美元仅占市场规模的11.2%，与11.0%的长期历史均值基本持平。高额到期与",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3786339",
-          "published": "Sat, 21 Nov 2026 04:39:30 GMT"
+          "link": "https://wallstreetcn.com/member/articles/3786334",
+          "published": "Sat, 21 Nov 2026 11:55:02 GMT"
         },
         {
-          "title": "孙正义的万亿美元豪赌：曾考虑收购SK海力士",
-          "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。 据The Information近日报道援引知情人士， 孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。 软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。” 若这项收购计划最终落地，软银原本有望直接切入全球存储芯片",
+          "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
+          "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786425",
-          "published": "Sat, 21 Nov 2026 03:04:16 GMT"
+          "link": "https://wallstreetcn.com/articles/3786438",
+          "published": "Sat, 21 Nov 2026 11:47:38 GMT"
         },
         {
-          "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-          "summary": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。 本周， 费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。 抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786423",
-          "published": "Sat, 21 Nov 2026 02:27:20 GMT"
-        },
-        {
-          "title": "“抛售“带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
-          "summary": "美股新一轮剧烈抛售正在蔓延，高盛警告，市场可能陷入“抛售引发更多抛售”的恶性循环，未来一周仍有大规模卖盘等待释放。 11月21日，据彭博报道，高盛交易员周五发布研报称， 该行“恐慌指数”已升至10分满分中的9分，系统性投资者的抛售压力全面扩散。根据高盛模型，即使市场保持平稳，趋势追踪基金未来一周仍可能抛售数百亿美元股票；若市场进一步下跌，卖盘规模还将显著扩大。 本轮跌势已对科技股造成沉重打击。纳斯",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786422",
-          "published": "Sat, 21 Nov 2026 02:06:31 GMT"
-        },
-        {
-          "title": "“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页",
-          "summary": "困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。 11月20日， Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。 由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786421",
-          "published": "Sat, 21 Nov 2026 01:14:53 GMT"
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年11月21日",
-          "summary": "华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 要闻精选 中国 特朗普 ： 中俄美元首会晤“史无前例”“意义重大”。 连续第18个月维持不变 ！11月 LPR报价 出炉：5年期以上3.5%，1年期3%。 中国财政部 ： 加强离岸信托个税征管等因素带动，10月个税同比增长89.6%。 华为 新品牌、 首款鸿蒙AI手机来了 ！搭载麒麟9030S，售价5699元起。 海外 特朗普",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786416",
-          "published": "Fri, 20 Nov 2026 23:32:19 GMT"
-        },
-        {
-          "title": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%",
-          "summary": "AI交易遭遇新一轮集中抛售。 创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。 20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786414",
-          "published": "Fri, 20 Nov 2026 23:16:19 GMT"
-        },
-        {
-          "title": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调",
-          "summary": "美联储理事Lisa Cook（莉萨·库克）为其在10月议息会议上的异见投票公开作出解释，称当前利率水平不足以有效遏制通胀蔓延，落后于曲线的风险正在上升。与此同时，Cook还面临特朗普政府试图将其解雇的政治压力。 Cook周五在智利圣地亚哥出席一场政策会议时表示， 美联储10月决定暂停加息的举措有可能使央行在抗通胀斗争中落入被动。 她指出，当前3.75%至4%的联邦基金利率目标区间对于抑制通胀仍显不",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786417",
-          "published": "Fri, 20 Nov 2026 22:56:01 GMT"
-        },
-        {
-          "title": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成",
-          "summary": "美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。 11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786412",
-          "published": "Fri, 20 Nov 2026 22:34:16 GMT"
-        },
-        {
-          "title": "AI历史（连载中）",
+          "title": "顶级数学家陶哲轩感叹：AI狂解数学难题，但我们学到了什么？",
           "summary": "",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://key.caixin.com/topic/BQ02.000008083",
-          "published": "Sat, 21 Nov 2026 03:17:22 GMT"
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960210",
+          "published": "Sat, 21 Nov 2026 10:11:12 GMT"
         },
         {
-          "title": "相隔大西洋的两个天才｜AI历史①",
-          "summary": "持续70年、围绕人工大脑构建路径的思想论战，由两位素未谋面、才华卓绝却命运悲凉的局外人悄然开启 《AI历史》“财新mini+”连载中，查看 已更新内容 开栏语：我们谈起人工智能时，总将它视作冰冷的代码与硅基硬件。然而它的根基，藏在一段段鲜活的人的故事里。本“AI历史”系列将以人物故事为线索，追溯一众先驱的人生际遇，看他们围绕“心智（mind）究竟是什么”这一根本命题，掀起哪些激烈的思想交锋。最关键",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-21/102507462.html",
-          "published": "Sat, 21 Nov 2026 03:14:14 GMT"
-        },
-        {
-          "title": "科技股领跌美股跌入调整区间 访华后特朗普再提希望黄仁勋回归",
-          "summary": "Anthropic上市次日遭获利了结，股价下跌8.5%；英伟达单日跌逾14%，距10月初高位几近腰斩 当地时间2026年11月20日，美国纽约，纽约证券交易所交易大厅内的电视正在播报市场新闻。图：视觉中国 【财新网】 11月20日，美国科技股抛售潮加剧，Anthropic的上市未能重振AI股票的涨势，当天纳斯达克指数重挫5.28%，抹去全年所有涨幅，年内累计下跌2.7%。 标普500指数收跌3.7",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://international.caixin.com/2026-11-21/102507412.html",
-          "published": "Sat, 21 Nov 2026 01:43:10 GMT"
-        },
-        {
-          "title": "解药｜GLP-1类明星药致“眼中风”疑云",
-          "summary": "FDA要求GLP-1类药物在标签中添加可升高NAION发病风险的警示，这一风险争议由来已久，患者如何选择？ 【财新网】 以司美格鲁肽为代表的GLP-1类药物，近日又因其与罕见眼病或存关联被推上风口浪尖。 11月9日，美国FDA（食品药品监督管理局）发布通报，要求所有GLP-1类药物在药品标签的“警示与注意事项”部分添加相关信息，以说明使用此类药物可能会增加一种罕见眼病“NAION”的发病风险。 G",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-21/102507391.html",
-          "published": "Sat, 21 Nov 2026 00:43:04 GMT"
-        },
-        {
-          "title": "财新闻｜U17男足世界杯小组赛首轮：中国队不敌西班牙队",
-          "summary": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破；盲目施救，3人遇难！事故原因查明；游客在三亚海边捡到百斤重金枪鱼，体长近一米九，价值超3000元，当地：在沙滩捡到金枪鱼不常见，只要不是保护动物，可自行处理 问鼎戈登·贝尔奖 曙光8000实现超算应用新突破 在美国当地时间19日下午举行的2026年国际超级计算大会（SC26）上，依托全国产十万卡AI超集群曙光8000（登峰）开展的两项重大科研应用，",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-21/102507387.html",
-          "published": "Sat, 21 Nov 2026 00:15:00 GMT"
-        },
-        {
-          "title": "【周刊提前读】黄仁勋去职搅动中美博弈与AI叙事 竞争会慢下来吗？",
-          "summary": "【本文系数据通用户提前专享】掌舵英伟达33年的黄仁勋站在全球AI革命最中心，他去职的短中长期影响是什么？ 当地时间2026年10月21日，德国柏林，时任英伟达首席执行官黄仁勋在柏林GPU技术大会（GTC）上发表主题演讲，推出全新的英伟达Vera计算机。图：Sean Gallup/视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507386.html",
-          "published": "Sat, 21 Nov 2026 00:14:04 GMT"
-        },
-        {
-          "title": "【市场洞察】软银缩减燃机订单 AI基建是否现泡沫引关注",
-          "summary": "在AI算力、电力的卖方市场下，提前锁定燃机产能的模式，存在较高的退出代价。且企业在美大规模基建投资的回报周期也受到审视",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507377.html",
-          "published": "Fri, 20 Nov 2026 23:59:40 GMT"
-        }
-      ]
-    },
-    {
-      "name": "金融 / 投资",
-      "summary": "",
-      "items": [
-        {
-          "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
-          "summary": "美股持续下跌，金融条件急剧收紧，市场正显现出与2018年末相似的危险信号：美联储在市场压力不断累积之际，仍面临继续加息的政策预期，投资者开始担忧货币政策是否会再次加剧市场动荡。 据高盛交易主管Rich Privorotsky周五报告，当前市场与2018年末存在惊人的相似之处。他将近期抛售定性为“全面清仓式变现”，而非普通的板块轮动，并警告市场可能正在从风险偏好下降转向更深层次的流动性收缩。 彼时，",
+          "title": "恒生科技指数迎史上最大调整：30只扩至50只，近300亿港元资金待配置",
+          "summary": "11月20日，恒生指数公司发布今年第三季度恒生指数系列季度检讨结果。恒生指数、恒生国企指数、恒生科技指数及恒生综合指数的成份股变动将于2026年12月4日收市后实施，并于2026年12月7日起生效。 恒生指数成份股没有变动，成份股数目维持95只。恒生国企指数成份股数目维持50只，纳入智谱、MINIMAX-W，剔除邮储银行、申洲国际。 恒生科技指数成份股由30只扩容至50只，纳入建滔集团、瑞声科技、",
           "importance": "medium",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786429",
-          "published": "Sat, 21 Nov 2026 05:22:07 GMT"
+          "link": "https://wallstreetcn.com/articles/3786434",
+          "published": "Sat, 21 Nov 2026 08:17:31 GMT"
         },
         {
-          "title": "宁可买楼，也不投AI：拼多多为什么不怕被颠覆？",
-          "summary": "拼多多交出了一份收入几乎零增长的财报，财报当晚股价却逆势暴涨11%。国内电商业务重新加速、Temu收缩投入、利润率显著改善，让市场重新审视这家公司的盈利能力。 更有意思的是，当互联网巨头纷纷投入巨资争夺AI时代的入口时，手握4554亿元现金的拼多多却宁愿买楼，也没有加入算力军备竞赛。AI可能重塑电商行业，但拼多多或许有充分的理由保持冷静。 01 收入零增长，华尔街为什么奖励了11%？ 11月19日",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3786339",
-          "published": "Sat, 21 Nov 2026 04:39:30 GMT"
-        },
-        {
-          "title": "老黄陈年黑料被扒了个底朝天，疯狂打脸马斯克",
-          "summary": "《纽约时报》长文指控黄仁勋职场PUA、语言暴力与当众羞辱员工，称其靠恐惧统治英伟达。同日特朗普呼吁给他”第二次机会”，马斯克愿为其安排工作。分析认为黄仁勋近期困境实为针对特朗普的政治绞杀，并已波及英伟达、AMD股价与全球市场。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/charts/41960209",
-          "published": "Sat, 21 Nov 2026 04:38:12 GMT"
-        },
-        {
-          "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
-          "summary": "美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。 高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当 前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。 Garrett回忆起2018年12月24日的市场崩跌。 当时，一位客户问他：“为什么今天",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786426",
-          "published": "Sat, 21 Nov 2026 03:44:58 GMT"
-        },
-        {
-          "title": "人民日报：唱空中国经济者终会落空",
-          "summary": "嘴上唱空中国经济的美西方人士，心里究竟打的什么算盘？ 今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。 这些论调背后，算的是他们自己的利益账和政治账：借“中国崩溃”动摇信心，拿“中国威胁”设限围堵。 可惜，中国经济的发展，从来不由这些",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786427",
-          "published": "Sat, 21 Nov 2026 03:21:32 GMT"
-        },
-        {
-          "title": "孙正义的万亿美元豪赌：曾考虑收购SK海力士",
-          "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。 据The Information近日报道援引知情人士， 孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。 软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。” 若这项收购计划最终落地，软银原本有望直接切入全球存储芯片",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786425",
-          "published": "Sat, 21 Nov 2026 03:04:16 GMT"
-        },
-        {
-          "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-          "summary": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。 本周， 费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。 抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786423",
-          "published": "Sat, 21 Nov 2026 02:27:20 GMT"
-        },
-        {
-          "title": "“抛售“带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
-          "summary": "美股新一轮剧烈抛售正在蔓延，高盛警告，市场可能陷入“抛售引发更多抛售”的恶性循环，未来一周仍有大规模卖盘等待释放。 11月21日，据彭博报道，高盛交易员周五发布研报称， 该行“恐慌指数”已升至10分满分中的9分，系统性投资者的抛售压力全面扩散。根据高盛模型，即使市场保持平稳，趋势追踪基金未来一周仍可能抛售数百亿美元股票；若市场进一步下跌，卖盘规模还将显著扩大。 本轮跌势已对科技股造成沉重打击。纳斯",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786422",
-          "published": "Sat, 21 Nov 2026 02:06:31 GMT"
-        },
-        {
-          "title": "通胀就业双重暴击！12月到底加25还是50bp？",
-          "summary": "11月10日，美国劳工统计局（BLS）公布CPI数据显示，10月份美国整体CPI环比上涨0.4%（预期0.30%），核心CPI环比上涨0.30%（预期0.20%）。由于去年10月美国政府停摆导致同比数据缺失，但从环比趋势看，美国通胀并未出现市场此前期待的持续降温。 核心CPI三个月年化增速升至3.75%，创下两年多最大涨幅，六个月年化增速也达到2.69%，潜在价格压力仍然顽固。10月核心PCE环比",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/member/articles/3785727",
-          "published": "Sat, 21 Nov 2026 01:12:30 GMT"
-        },
-        {
-          "title": "2027见闻历，财经人的桌面必备“神历”",
-          "summary": "风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782813",
-          "published": "Sat, 21 Nov 2026 01:02:55 GMT"
-        },
-        {
-          "title": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”",
-          "summary": "费城联储主席Anna Paulson表示，愿意考虑在即将举行的政策会议上连续加息以遏制通胀，但强调美联储应以\"审慎\"步伐推进，给家庭、企业和银行留出调整时间。 11月20日周五，Paulson在接受彭博新闻采访时明确表态， 利率走向\"非常清晰\"，\"需要继续走高\"。 她表示对连续加息\"持开放态度\"，认为这是\"完全合理的选项\"，但同时拒绝承诺具体节奏，称\"我既不承诺隔次会议加息，也不承诺每次会议加息\"",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786418",
-          "published": "Sat, 21 Nov 2026 00:52:24 GMT"
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年11月21日",
-          "summary": "华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 要闻精选 中国 特朗普 ： 中俄美元首会晤“史无前例”“意义重大”。 连续第18个月维持不变 ！11月 LPR报价 出炉：5年期以上3.5%，1年期3%。 中国财政部 ： 加强离岸信托个税征管等因素带动，10月个税同比增长89.6%。 华为 新品牌、 首款鸿蒙AI手机来了 ！搭载麒麟9030S，售价5699元起。 海外 特朗普",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786416",
-          "published": "Fri, 20 Nov 2026 23:32:19 GMT"
-        },
-        {
-          "title": "特朗普称美墨贸易协议接近达成，美加谈判进展滞后",
-          "summary": "美国总统特朗普表示，美国正接近与墨西哥达成一项贸易协议，但与加拿大的双边谈判进展相对滞后 特朗普在结束亚洲之行并与墨西哥总统Sheinbaum会晤后，于周五在白宫新闻发布会上释放了上述乐观信号。双方确认，正在就相关核心议题进行最后阶段的磋商，以期达成最终协议。 他透露，美国正与墨西哥总统Sheinbaum展开合作，其中包括共同应对贩毒集团问题。 Sheinbaum对谈判的积极进展予以了印证。本周早",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786410",
-          "published": "Fri, 20 Nov 2026 23:16:28 GMT"
-        },
-        {
-          "title": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%",
-          "summary": "AI交易遭遇新一轮集中抛售。 创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。 20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786414",
-          "published": "Fri, 20 Nov 2026 23:16:19 GMT"
-        },
-        {
-          "title": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调",
-          "summary": "美联储理事Lisa Cook（莉萨·库克）为其在10月议息会议上的异见投票公开作出解释，称当前利率水平不足以有效遏制通胀蔓延，落后于曲线的风险正在上升。与此同时，Cook还面临特朗普政府试图将其解雇的政治压力。 Cook周五在智利圣地亚哥出席一场政策会议时表示， 美联储10月决定暂停加息的举措有可能使央行在抗通胀斗争中落入被动。 她指出，当前3.75%至4%的联邦基金利率目标区间对于抑制通胀仍显不",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786417",
-          "published": "Fri, 20 Nov 2026 22:56:01 GMT"
-        },
-        {
-          "title": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成",
-          "summary": "美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。 11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786412",
-          "published": "Fri, 20 Nov 2026 22:34:16 GMT"
-        },
-        {
-          "title": "回购潮的“偏题”：员工激励式回购不是给股东的礼物",
-          "summary": "回购的价值不在“买”这个动作，而在“注销”这个结果。当一家公司用股东的资金买回股票却不注销、转而发放给员工时，投资者读到的应是一个中性乃至需要警惕的信号，而非一条利好 2026年11月19日晚间，A股市场出现了一轮密集的回购公告。据不完全统计，当晚公告计划回购股份的上市公司多达27家，其中16家的计划回购金额不低于1亿元。其中，通威股份拟以10亿至20亿元回购股份，摩尔线程的实际控制人提议回购5亿",
+          "title": "Anthropic研究员宣称已用AI证明黎曼猜想 国际数学界回应",
+          "summary": "Anthropic公司研究员阿尔普格宣布，其与人工智能模型Claude合作，找到了黎曼猜想的证明。国际数学界迅速回应，多名顶尖数学家表示，证明过程有待详细审查 【财新网】 “抵达终点前，Claude会起舞，会飞翔，会闪耀。”当地时间11月20日，美国人工智能公司Anthropic的数学研究员阿尔普格（Levent Alpöge）在其个人网站发布了一份四页声明，声称自己与该公司的人工智能模型Clau",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-21/102507528.html",
-          "published": "Sat, 21 Nov 2026 05:05:36 GMT"
-        },
-        {
-          "title": "销量增长难抵成本压力 零跑汽车三季度净利下滑逾七成",
-          "summary": "前三季度，零跑汽车累计实现净利润约2.5亿元，距离全年30亿元目标仍有较大差距 【财新网】 零跑汽车（09863.HK）第三季度营收继续保持增长，但盈利能力有所下降。 据11月20日披露的财报，当季零跑录得营收317亿元，同比增长63%；归母净利润约0.4亿元，同比下降73.3%。三季度毛利率为10.9%，同比下降3.6个百分点，环比下降1.7个百分点。 在11月20日晚举行的业绩会上，零跑汽车副",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-21/102507519.html",
-          "published": "Sat, 21 Nov 2026 04:40:16 GMT"
-        },
-        {
-          "title": "科技股领跌美股跌入调整区间 访华后特朗普再提希望黄仁勋回归",
-          "summary": "Anthropic上市次日遭获利了结，股价下跌8.5%；英伟达单日跌逾14%，距10月初高位几近腰斩 当地时间2026年11月20日，美国纽约，纽约证券交易所交易大厅内的电视正在播报市场新闻。图：视觉中国 【财新网】 11月20日，美国科技股抛售潮加剧，Anthropic的上市未能重振AI股票的涨势，当天纳斯达克指数重挫5.28%，抹去全年所有涨幅，年内累计下跌2.7%。 标普500指数收跌3.7",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://international.caixin.com/2026-11-21/102507412.html",
-          "published": "Sat, 21 Nov 2026 01:43:10 GMT"
-        },
-        {
-          "title": "【周刊提前读】上实公司破产重整渐离“壳价值” 产业拯救成投资人必选项",
-          "summary": "【本文系数据通用户提前专享】投资人锁定期从三年延长到五年、承诺50%是自有资金、退出与扣非盈利挂钩，A股上市公司破产重整从“保壳套利”转向“产业拯救” 证监会在2025年3月14日起施行的《上市公司监管指引第11号——上市公司破产重整相关事项》中明确了底线要求，而当前多家上市公司重整投资人自愿承诺的标准，均远高于现行规则。图：刘洋/视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507381.html",
-          "published": "Sat, 21 Nov 2026 00:12:43 GMT"
-        },
-        {
-          "title": "【周刊提前读】避免“K型”分化 如何打造有竞争力的国内消费市场？",
-          "summary": "【本文系数据通用户提前专享】复杂多变的国内外环境下，中国如何避免K型分化，建立起具有全球影响力和竞争力的消费市场？ 2026年11月12日，在主题为“以发展应变局”的第十七届财新峰会上，新加坡国立研究基金会（NRF）主席、新加坡前副总理王瑞杰（右）与财新传媒社长胡舒立对谈。",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507384.html",
-          "published": "Sat, 21 Nov 2026 00:12:33 GMT"
-        },
-        {
-          "title": "【周刊提前读】地产下行期代建市场膨胀 民企如何抓住机遇？",
-          "summary": "【本文系数据通用户提前专享】民营开发商希望抓住能抓住的机会，迎接市场复苏 2021年4月2日，广州白云陈田村拆迁现场。陈田村旧改大盘是广州城中村改造标杆项目之一。图：石建华/视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507380.html",
-          "published": "Sat, 21 Nov 2026 00:12:11 GMT"
-        },
-        {
-          "title": "【市场洞察】软银缩减燃机订单 AI基建是否现泡沫引关注",
-          "summary": "在AI算力、电力的卖方市场下，提前锁定燃机产能的模式，存在较高的退出代价。且企业在美大规模基建投资的回报周期也受到审视",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507377.html",
-          "published": "Fri, 20 Nov 2026 23:59:40 GMT"
-        }
-      ]
-    },
-    {
-      "name": "哲学",
-      "summary": "",
-      "items": [
-        {
-          "title": "孙正义的万亿美元豪赌：曾考虑收购SK海力士",
-          "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。 据The Information近日报道援引知情人士， 孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。 软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。” 若这项收购计划最终落地，软银原本有望直接切入全球存储芯片",
-          "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786425",
-          "published": "Sat, 21 Nov 2026 03:04:16 GMT"
-        },
-        {
-          "title": "回购潮的“偏题”：员工激励式回购不是给股东的礼物",
-          "summary": "回购的价值不在“买”这个动作，而在“注销”这个结果。当一家公司用股东的资金买回股票却不注销、转而发放给员工时，投资者读到的应是一个中性乃至需要警惕的信号，而非一条利好 2026年11月19日晚间，A股市场出现了一轮密集的回购公告。据不完全统计，当晚公告计划回购股份的上市公司多达27家，其中16家的计划回购金额不低于1亿元。其中，通威股份拟以10亿至20亿元回购股份，摩尔线程的实际控制人提议回购5亿",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-21/102507528.html",
-          "published": "Sat, 21 Nov 2026 05:05:36 GMT"
-        },
-        {
-          "title": "财新闻｜U17男足世界杯小组赛首轮：中国队不敌西班牙队",
-          "summary": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破；盲目施救，3人遇难！事故原因查明；游客在三亚海边捡到百斤重金枪鱼，体长近一米九，价值超3000元，当地：在沙滩捡到金枪鱼不常见，只要不是保护动物，可自行处理 问鼎戈登·贝尔奖 曙光8000实现超算应用新突破 在美国当地时间19日下午举行的2026年国际超级计算大会（SC26）上，依托全国产十万卡AI超集群曙光8000（登峰）开展的两项重大科研应用，",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-21/102507387.html",
-          "published": "Sat, 21 Nov 2026 00:15:00 GMT"
-        },
-        {
-          "title": "【周刊提前读】上实公司破产重整渐离“壳价值” 产业拯救成投资人必选项",
-          "summary": "【本文系数据通用户提前专享】投资人锁定期从三年延长到五年、承诺50%是自有资金、退出与扣非盈利挂钩，A股上市公司破产重整从“保壳套利”转向“产业拯救” 证监会在2025年3月14日起施行的《上市公司监管指引第11号——上市公司破产重整相关事项》中明确了底线要求，而当前多家上市公司重整投资人自愿承诺的标准，均远高于现行规则。图：刘洋/视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-21/102507381.html",
-          "published": "Sat, 21 Nov 2026 00:12:43 GMT"
+          "link": "https://science.caixin.com/2026-11-21/102507591.html",
+          "published": "Sat, 21 Nov 2026 13:47:53 GMT"
         }
       ]
     },
@@ -513,51 +263,229 @@
       "summary": "",
       "items": [
         {
-          "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-          "summary": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。 本周， 费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。 抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，",
+          "title": "《明日方舟：终末地》「全新版本&2.0揭幕前瞻」特别节目回顾",
+          "summary": "《明日方舟：终末地》「全新版本&2.0揭幕前瞻」特别节目现已结束，感谢管理员的观看。\n为了方便管理员更快捷地了解新版本内容，我们已上线【新版本导览】专题网页。浏览网页并点击领取奖励，即可获得嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。\n\n管理员可以通过下方链接、前瞻特别节目中的二维码，或者游戏内邮件、游戏内公告、官方自媒体账号等方式进入【新版本导览】专题网页。\n>>点",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786423",
-          "published": "Sat, 21 Nov 2026 02:27:20 GMT"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1pvyhzdER5",
+          "published": "Sat, 21 Nov 2026 12:45:00 GMT"
         },
         {
-          "title": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%",
-          "summary": "AI交易遭遇新一轮集中抛售。 创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。 20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7",
+          "title": "星河为证七秩荣光！《2026航天之夜》今日上线，把中国浪漫写进太空",
+          "summary": "2026年是中国航天事业创建七十周年，也是“十五五”开局之年。航天强国首次作为国家五年规划的重要目标被系统推进，中国航天正从“跟跑并跑”加速迈向部分“领跑”的新阶段。从神舟常态化出征、天宫在轨巡守，到长征十号乙一子级海上回收实现全球首次网系回收，再到商业航天全速起跑，一项项扎实成果标注着这个时代的航天高度。 9月29日至30日，由上海市浦东新区推动，中央广播电视总台央视频、中国航天科技国际交流中心",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786414",
-          "published": "Fri, 20 Nov 2026 23:16:19 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIRSOCqzP9NbzmvqBmt23W261121.shtml",
+          "published": "Sat, 21 Nov 2026 13:44:41 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "《无限暖暖》概念CG | 叩响新声",
+          "summary": "艺术，铺就西西亚的底色：\n光勾勒她的轮廓，影追问她的真实。\n冠冕自天穹坠落，花窗如梦境破碎，\n失序的美学在明暗的夹缝中悄然滋长。\n\n流转的时针重合于午夜，\n叩响西西亚沉寂已久的钟，\n越过理想与真实的边界——\n听，新声已至！",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1hryaz6E1u",
+          "published": "Sat, 21 Nov 2026 11:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "又有美法官叫停华盛顿“凯旋门”项目动工",
+          "summary": "新华社北京11月21日电　美国一名联邦地区法官20日发布禁令，在诉讼审理期间阻止特朗普政府在首都华盛顿动工建造“凯旋门”。此前，已有另一名联邦地区法官针对该项目发布临时限制令并延长至12月3日。 华盛顿哥伦比亚特区与弗吉尼亚州等方面已就拟建的“凯旋门”项目提起诉讼，申请临时限制令。弗吉尼亚州联邦地区法官利奥妮·布林克马20日在法院听证会上说，联邦政府对“凯旋门”项目的经济和环境影响分析存在很多缺陷",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIKfOXuzazhIrJ2MlwVr6h261121.shtml",
+          "published": "Sat, 21 Nov 2026 13:09:05 GMT"
         },
         {
-          "title": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调",
-          "summary": "美联储理事Lisa Cook（莉萨·库克）为其在10月议息会议上的异见投票公开作出解释，称当前利率水平不足以有效遏制通胀蔓延，落后于曲线的风险正在上升。与此同时，Cook还面临特朗普政府试图将其解雇的政治压力。 Cook周五在智利圣地亚哥出席一场政策会议时表示， 美联储10月决定暂停加息的举措有可能使央行在抗通胀斗争中落入被动。 她指出，当前3.75%至4%的联邦基金利率目标区间对于抑制通胀仍显不",
+          "title": "习近平主席的深圳APEC时间",
+          "summary": "原标题：习近平主席的深圳APEC时间 “亚太奇迹”新篇章，大国外交新图景，在这里起笔 南海之滨，鹏城深圳，历史把笔落在了这片沃土。 2026年11月，习近平主席的亚太经合组织（APEC）时间，近20场双多边活动密集铺展： 18日至19日，出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，主持亚太经合组织第三十三次领导人非正式会议并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要",
           "importance": "medium",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786417",
-          "published": "Fri, 20 Nov 2026 22:56:01 GMT"
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIHvDB8lno2BGL88LrAQo9261121.shtml",
+          "published": "Sat, 21 Nov 2026 13:00:06 GMT"
         },
         {
-          "title": "从张大民到赛多喜，也是伟大的长征｜影视",
-          "summary": "我们的年代剧虽然表面上没有那么残酷，但是骨子里也是一场跨时代的艰难行军 在电视剧这个领域里，每隔一段时间总会涌现一部以多子女复杂家庭关系为背景、以各种各样极致离奇剧情为脉络、以性格反差鲜明的多角色人物为亮点、跨度动辄长达数十年的现实主义年代剧成为收视焦点。从前几年热播的《乔家的儿女》到《六姊妹》，再到眼下再度受到追捧的《多喜一家人》，还包括更加深沉厚重的《人世间》，以及由《多喜一家人》主演梁冠华联",
+          "title": "多地秋假激发亲子文旅市场活力",
+          "summary": "[!--begin:htmlVideoCode--]957ec5909a40402da1e1e286b7dc6cee,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：眼下，全国多地中小学迎来秋假。各地依托秋日特色，将课堂延伸至田间地头与科技场馆，让秋假成为学生快乐成长的“行走课堂”，也为秋季文旅市场注入强劲活力。 在线旅游平台数据显示",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIYpmrYOosKvVMdvDcUBQF261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:38:05 GMT"
+        },
+        {
+          "title": "10月份工业经济总体平稳 发展质量持续提升",
+          "summary": "[!--begin:htmlVideoCode--]c05bf164c9454b088f5400a897359dd7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：10月份，我国工业生产总体平稳，新动能支撑有力，工业经济持续向新向优向好发展。 10月份，我国工业生产保持较快增长，多数行业实现增长。规模以上装备制造业增加值同比增长10",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIoxN8SQfJGt7EsBHWAfqF261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:37:33 GMT"
+        },
+        {
+          "title": "南水北调“天河”大模型完成升级",
+          "summary": "21日记者从中国南水北调集团了解到，全新升级的南水北调“天河”大模型V2发布。 [!--begin:htmlVideoCode--]86c95266c8ed487f8e250920d5720028,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 此次完成升级的南水北调“天河”大模型从V1版本夯实基础，到V2版本深化应用，推动水网管理决策向数据—机理—智能协同驱",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIm7nQISYyCYWNheR5yD95261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:34:21 GMT"
+        },
+        {
+          "title": "为推动亚太合作行稳致远指明方向——国际人士高度评价习近平主席重要讲话",
+          "summary": "[!--begin:htmlVideoCode--]9e3a4d27c7fa4cb98a29e2011fa319f6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国际人士表示，习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话，为推动亚太合作行稳致远指明了方向，不仅对亚太共同",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTI4dn9FgnNREpESkmhpHsY261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:29:03 GMT"
+        },
+        {
+          "title": "大国的历史主动，落笔即成新章",
+          "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 这是三国领导人首次面对面会晤，定将成为人类发展史上的里程碑事件。 新闻稿中， “大国” 这个词出现了15次。 一个词语出现的密度，往往标示着时代的语境——中俄美是三个联合国安理会常任理事国，中美是世界前两大经济体，俄美是世界上两个拥有最大核武库的国家...... 三个大国坐到一起，能为世界做什么？ 「 大国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIFkw04VQXx5ggBXyABdt9261121.shtml",
+          "published": "Sat, 21 Nov 2026 11:18:30 GMT"
+        },
+        {
+          "title": "解锁农业大棚里的“新”力量 蔬菜产业实现“智慧蝶变”",
+          "summary": "[!--begin:htmlVideoCode--]9146e0f1944f481a86e041ad3727b610,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在“蔬菜之乡”山东潍坊寿光市，当地依靠物联网智慧管控、标准化种植体系，稳产、保供、稳价，全力保障全国蔬菜市场供应。 在山东寿光市一处农业产业园的大棚内，西红柿、五彩椒迎来了集中采收期",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIxV2KL7c0yglvm6PEGYIv261121.shtml",
+          "published": "Sat, 21 Nov 2026 09:31:43 GMT"
+        },
+        {
+          "title": "今年前三季度全国经营主体“提质向新”",
+          "summary": "央视网消息： 11月21日，市场监管总局公布数据显示，前三 季度，我国“四新”经济与先进制造业发展势头强劲，新产业新赛道相关企业加速壮大，为高质量发展蓄势聚能。 “四新”经济与前沿产业增势强劲。截至9月底，全国登记在册“四新”经济企业同比增长5.6%。一是新兴支柱产业保持增长。1月至9月，航天器及运载火箭制造业新设企业同比增长73.3%，集成电路制造业增长21.1%。二是前沿领域加速成长。生成式人",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIbRJtZ7pTQjcLyknpN0bQ261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:29:32 GMT"
+        },
+        {
+          "title": "国家发展改革委：加快推动政府投资项目建设和资金支付",
+          "summary": "记者今天从国家发展改革委了解到，国家发展改革委近日通报各地政府投资资金支付使用和重大项目储备工作情况，要求各地完善要素保障等工作机制，加快推动政府投资项目建设和资金支付，加强调度督促和协调服务，进一步凝聚形成积极扩大有效投资的工作合力，尽快形成更多实物工作量。 （总台央视记者 吴昊 张艺瑾）",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIiOiyfPqglj9OheJy4I6V261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:26:12 GMT"
+        },
+        {
+          "title": "房间里的大象：美国2.1万亿高等级债供给压顶，谁在为泡沫买单？",
+          "summary": "今年，美国投资级（IG）债券发行已创历史纪录，发行量达到1.88万亿美元。而明年IG债券总供应量预计将进一步攀升至2.1万亿美元。 然而，2027年存量债券到期规模约1万亿美元，叠加利率中枢上移推动年度票息收入升至5560亿美元，扣除到期与票息回流后的“净净”供给约5080亿美元，仍低于2020年峰值；净发行量1.06万亿美元仅占市场规模的11.2%，与11.0%的长期历史均值基本持平。高额到期与",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/member/articles/3786334",
+          "published": "Sat, 21 Nov 2026 11:55:02 GMT"
+        },
+        {
+          "title": "恒生科技指数迎史上最大调整：30只扩至50只，近300亿港元资金待配置",
+          "summary": "11月20日，恒生指数公司发布今年第三季度恒生指数系列季度检讨结果。恒生指数、恒生国企指数、恒生科技指数及恒生综合指数的成份股变动将于2026年12月4日收市后实施，并于2026年12月7日起生效。 恒生指数成份股没有变动，成份股数目维持95只。恒生国企指数成份股数目维持50只，纳入智谱、MINIMAX-W，剔除邮储银行、申洲国际。 恒生科技指数成份股由30只扩容至50只，纳入建滔集团、瑞声科技、",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786434",
+          "published": "Sat, 21 Nov 2026 08:17:31 GMT"
+        },
+        {
+          "title": "“脱欧”十年之后，英国又要“入欧”？",
+          "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆‌本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆‌与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786433",
+          "published": "Sat, 21 Nov 2026 08:07:36 GMT"
+        },
+        {
+          "title": "Visa中国区总裁：中国是Visa长期投入的重要市场",
+          "summary": "未来随着Visa在境内的银行卡清算机构开业，或意味着“双标卡”将逐步退出市场 国际卡组织维萨（Visa）在中国境内的法人实体威士信息技术（北京）有限公司，已于2026年10月初获得银行卡清算机构筹备许可。图：视觉中国 【财新网】 国际卡组织维萨（Visa）在中国境内的法人实体威士信息技术（北京）有限公司（下称“威士公司”），已于2026年10月初获得银行卡清算机构筹备许可。这是人民币清算市场进一步",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-21/102507419.html",
-          "published": "Sat, 21 Nov 2026 01:50:00 GMT"
+          "link": "https://finance.caixin.com/2026-11-21/102507595.html",
+          "published": "Sat, 21 Nov 2026 14:09:08 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "习近平主席的深圳APEC时间",
+          "summary": "原标题：习近平主席的深圳APEC时间 “亚太奇迹”新篇章，大国外交新图景，在这里起笔 南海之滨，鹏城深圳，历史把笔落在了这片沃土。 2026年11月，习近平主席的亚太经合组织（APEC）时间，近20场双多边活动密集铺展： 18日至19日，出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，主持亚太经合组织第三十三次领导人非正式会议并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIHvDB8lno2BGL88LrAQo9261121.shtml",
+          "published": "Sat, 21 Nov 2026 13:00:06 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "长安大学回应“14日面试13日出结果”",
+          "summary": "央视网消息： 长安大学11月21日通报，11月14日，学校开展了专职辅导员招聘初步面试工作，面试结束后，人事处工作人员将通过初步面试的人员名单以图片格式添加到11月13日在网站后台起草的公告文字稿中，并于14日18时55分发布了公告。工作人员未注意到公告显示的发布日期为网站后台文字稿创建日期（ 11月13日 ），相关审核人员也未发现公告发布日期错误。人事处收到考生反映后，于14日20时31分更正了",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIbCdTI82YkG7KyhtaoaoE261121.shtml",
+          "published": "Sat, 21 Nov 2026 12:43:30 GMT"
+        },
+        {
+          "title": "【新思想引领新征程】努力让老年人的生活更加幸福美满",
+          "summary": "[!--begin:htmlVideoCode--]60ae8d3a5a9846edbd0c3475ccf7ad8f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在习近平总书记引领推动下，我国实施积极应对人口老龄化国家战略，老龄工作取得显",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTIigtGCMXhxUZjNrob8Tje261121.shtml",
+          "published": "Sat, 21 Nov 2026 11:50:48 GMT"
+        },
+        {
+          "title": "各地打造冬季文旅消费新场景新业态 “花式过冬”让冰雪游持续升温",
+          "summary": "[!--begin:htmlVideoCode--]cecbfeb3a4fb44b5a86357a2d74b837f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 这几天，吉林省降雪降温，为雪场开板提供有利条件。随着新雪季的到来，冰雪赛事、冰雪主题活动也将密集上线。新雪季有哪些新服务、新玩法？ 记者来到通化万峰滑雪度假区，11月21日这里就迎来",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTINlrLcmokyT43WroiysAo261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:51:54 GMT"
+        },
+        {
+          "title": "中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全",
+          "summary": "央视网消息： 11月21日，中国驻沙特大使馆发文表示，近来，沙特首都利雅得等多地频繁遭导弹和无人机袭击。据媒体报道，部分袭击造成人员伤亡，有机场、建筑物、能源电力设施等受损，局部地区出现短时停水电断网等情况。多地学校继续线上授课，部分当地机构和企业人员居家办公。利雅得哈立德国王国际机场部分恢复运营，但多地机场航班经常出现异常。局势还有可能进一步恶化。 中国驻沙特使领馆再次提醒在沙特中资机构和中国公",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml",
+          "published": "Sat, 21 Nov 2026 08:08:55 GMT"
+        },
+        {
+          "title": "“脱欧”十年之后，英国又要“入欧”？",
+          "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆‌本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆‌与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786433",
+          "published": "Sat, 21 Nov 2026 08:07:36 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 63,
-    "total_collected": 39,
-    "sources": 5,
+    "total_items": 53,
+    "total_collected": 42,
+    "sources": 7,
     "source_list": [
       "B站科技热门",
       "Hacker News",
+      "The Verge",
       "华尔街见闻",
-      "少数派",
+      "央视新闻",
+      "观察者网",
       "财新网"
     ],
-    "domains": 6
+    "domains": 7
   }
 }
