@@ -1,0 +1,476 @@
+{
+  "id": "2026-11-22-16",
+  "datetime": "2026-11-22 16:00:04",
+  "date": "2026-11-22",
+  "time": "16:00",
+  "period": "下午",
+  "summary": "本期采集 41 篇文章，来自 6 个信息源，覆盖 6 个领域，精选 52 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+          "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html C",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+          "published": "Sun, 22 Nov 2026 15:42:40 +0000"
+        },
+        {
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 58 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/gulivan/worker755",
+          "published": "Sun, 22 Nov 2026 13:56:58 +0000"
+        },
+        {
+          "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+          "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 38 # Comments: 20",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+          "published": "Sun, 22 Nov 2026 13:37:10 +0000"
+        },
+        {
+          "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 35 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://simonwillison.net/2026/Nov/21/muru/",
+          "published": "Sun, 22 Nov 2026 09:57:01 +0000"
+        },
+        {
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 393 # Comments: 49",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "published": "Sun, 22 Nov 2026 08:57:34 +0000"
+        },
+        {
+          "title": "一见·两个维度看中俄美元首历史性会晤",
+          "summary": "历史定格下这一刻—— 2026年11月19日下午，中国深圳，一张圆桌前，习近平主席同普京总统、特朗普总统围坐在一起，围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。 “国际外交史上一个意义非凡的时刻”“具有开创性意义”……世界在屏息关注，中俄美三国最高领导人有史以来首次聚首。 百年变局的十字路口，风云激荡的国际舞台上，大国关系攸关世界和平发展和人类前途命运，分量愈显举足轻重。 从两个不",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIPBCzw7u3OT58ShMM4YrY261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 58 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/gulivan/worker755",
+          "published": "Sun, 22 Nov 2026 13:56:58 +0000"
+        },
+        {
+          "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 35 # Comments: 6",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://simonwillison.net/2026/Nov/21/muru/",
+          "published": "Sun, 22 Nov 2026 09:57:01 +0000"
+        },
+        {
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 393 # Comments: 49",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "published": "Sun, 22 Nov 2026 08:57:34 +0000"
+        },
+        {
+          "title": "‘The show is starting soon. Please turn on your headphones.’",
+          "summary": "Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I f",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+          "published": "2026-11-22T09:00:00-05:00"
+        },
+        {
+          "title": "The vibe-coding revolution is coming to all the gadgets",
+          "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscrib",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "published": "2026-11-22T08:00:00-05:00"
+        },
+        {
+          "title": "【三轮霞无伤宿傩】大家好，我是没用的三轮【B站AI创造公开赛】",
+          "summary": "想去哪呢？\n点击即玩《宇宙无敌超级霹雳咒术回战》：https://www.bilibili.com/toy/3avpeuj9fIhdehr3/index.html",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1eKyLz8E5h",
+          "published": "Sun, 22 Nov 2026 11:34:25 GMT"
+        },
+        {
+          "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+          "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间 新华社记者王雨萧、胡林果 清晨，家住上海宝山区的陈敏轻轻抬起手，智能手表自动采集好心率、血氧、脉搏数据，并生成一份简明的健康报告推送到她的手机。每天一次的“微体检”，已经融入陈敏生活的日常。 千里之外，广州市比倩日用化妆品有限公司会议室里，销售总经理黄素琴戴着一副AI眼镜，正和海外客户视频洽谈新品订单。“字幕实时出现在视野",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIWnYGEeW9NmkjESiQ1AO5261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:45:21 GMT"
+        },
+        {
+          "title": "“深圳周期”→“产业沃土”→“智慧场景” 盛会落幕，创新不止……",
+          "summary": "[!--begin:htmlVideoCode--]f272b78fa2564bb4ba72b525b9301782,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 刚刚落幕的APEC会议，让世界看见了深圳无处不在的硬核科技与城市创新活力。盛会落幕，创新不止。从创意快速落地的“深圳周期”到打通成果转化的“产业沃土”，再到融入烟火日常的全域“智慧场",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIn1kjU9oQt8VW6VtjHhLY261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:43:01 GMT"
+        },
+        {
+          "title": "“六张网”投资发力：创新有支撑，民生有温度",
+          "summary": "1至10月份全国固定资产投资数据日前公布，有几组细分数据引人注目：互联网和相关服务业投资增长48.4%，信息传输业投资增长32%，航空、水上运输业投资均增长12.5%。 “既要看到投资总量变化情况，更要看投资结构、质量和效益的改善。”国家统计局新闻发言人付凌晖解读数据时表示，前10月，投资在促创新、优供给、惠民生等关键领域的作用在持续增强，这些将有利于推动经济高质量发展。 作为今年扩大内需的重要着",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIjhPZBCpqaQfbNdeolI6d261122.shtml",
+          "published": "Sun, 22 Nov 2026 08:36:43 GMT"
+        },
+        {
+          "title": "为马斯克融资买GPU，高盛“秀操作”",
+          "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但Space",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786456",
+          "published": "Sun, 22 Nov 2026 12:11:23 GMT"
+        },
+        {
+          "title": "风险远未结束！硅谷大佬预警：我现在全面避险！",
+          "summary": "硅谷知名投资人查马斯（Chamath Palihapitiya）在最新一期《All-In》播客中明确表示，自己当前整体处于避险模式（Risk-off），并指出市场面临三大下行风险： 1、宏观经济：后面仍有大量不确定性尚未释放； 2、AI 交易与“英伟达银行”：国会听证会尚未落幕，一旦英伟达的资金循环链条收紧或关闭，直接冲击仍未可知； 3、网络安全与现实动荡：黑客攻击频发、系统接连宕机，甚至已出现应",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960214",
+          "published": "Sun, 22 Nov 2026 08:57:26 GMT"
+        },
+        {
+          "title": "黄仁勋事件后美对华算力管制走向何方？",
+          "summary": "2026年11月12日，执掌英伟达三十三年的联合创始人黄仁勋辞去总裁、首席执行官及董事职务，由首席财务官科莱特·克雷斯（Colette Kress）出任临时首席执行官，资深董事哈维·琼斯（Harvey C. Jones）出任公司历史上首位董事会主席。引发此次人事变动的直接导火索，是《纽约时报》自10月下旬起连续披露黄仁勋与新加坡算力云服务商 Megaspeed 前高管的私人往来及美国情报机构的反情",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786457",
+          "published": "Sun, 22 Nov 2026 08:26:27 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "法治守护“夕阳红” 让老年人生活更幸福",
+          "summary": "莫道桑榆晚，为霞尚满天。 让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。 11月18日至19日，全国老龄工作会议在京召开。会上传达了习近平总书记重要指示。习近平总书记强调：“深入实施积极应对人口老龄化国家战略，坚持政府、市场、社会、家庭协同发力，进一步加强老年人社会保障、养老服务、健康服务、社会参与，大力发展银发经济，营造孝老敬老良好环境，建设老年友好社会，努力让老年人的生活更加幸福美满。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI4eH5IaW6iPbOYe23nIjD261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:53:47 GMT"
+        },
+        {
+          "title": "中国织密电池回收网络 千亿级“城市矿山”崛起",
+          "summary": "一块退役的新能源汽车动力电池，扔了是污染，回收了是富矿。 截至今年6月末，我国新能源汽车保有量已经达到4897万辆，这个数字背后，一场规模空前的动力电池退役潮正在逼近。 近日，商务部等九部门联合发布《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》，以专章形式对“新三样”固废回收利用作出总体部署。 表面看是管“收废品”，往深看，这是一场关乎产业链安全的资源持久战。同时，一个庞大的市场",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI3mwpvzrz3GTBnm4zifpJ261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:49:42 GMT"
+        },
+        {
+          "title": "找家政不再“开盲盒” 细分服务匹配多元需求",
+          "summary": "[!--begin:htmlVideoCode--]feb8d829a82c428db6d54bff9e19d319,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 作为国民经济第一大产业，服务业在拉动经济增长、带动就业等方面发挥了重要作用。2025年，我国服务业增加值首次突破80万亿元，占国内生产总值比重达57.7%，对国民经济增长的贡献率达61.4%。 1",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIV4ZzBFN7oLyQ6q1hATut261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:49:28 GMT"
+        },
+        {
+          "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+          "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间 新华社记者王雨萧、胡林果 清晨，家住上海宝山区的陈敏轻轻抬起手，智能手表自动采集好心率、血氧、脉搏数据，并生成一份简明的健康报告推送到她的手机。每天一次的“微体检”，已经融入陈敏生活的日常。 千里之外，广州市比倩日用化妆品有限公司会议室里，销售总经理黄素琴戴着一副AI眼镜，正和海外客户视频洽谈新品订单。“字幕实时出现在视野",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIWnYGEeW9NmkjESiQ1AO5261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:45:21 GMT"
+        },
+        {
+          "title": "为共创亚太美好未来汇聚力量——习近平主席在亚太经合组织会议期间发表的重要讲话引发热烈反响",
+          "summary": "[!--begin:htmlVideoCode--]a6b3512b8c46484c81a106e7f1900c2f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国际人士表示，习近平主席在亚太经合组织第三十三次领导人非正式会议及相关活动中发表的一系列重要讲话，围绕亚太共同体建设提出中国方案、指明发展方向，为共创亚太美好未来汇聚力量",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIz1ba0060zIlT0E7vViMd261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:58:11 GMT"
+        },
+        {
+          "title": "服务消费升温带动服务业加速提质扩容",
+          "summary": "[!--begin:htmlVideoCode--]4ca2019c2db54a589dc19b7332d4df89,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年以来，文旅体育等服务消费持续火热，各类消费新场景新业态加速涌现，带动服务业提质扩容，内需潜力不断释放。 最近几天，西藏林芝巴松措景区天气晴好，碧水映雪峰、林海照清幽的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIKAhMt4VpUxjU9FaWxBwT261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:58:01 GMT"
+        },
+        {
+          "title": "专访丨“四梁”将持续助力澳中合作——访澳中工商业委员会全国主席里斯·罗伯茨",
+          "summary": "新华社悉尼11月22日电　专访｜“四梁”将持续助力澳中合作——访澳中工商业委员会全国主席里斯·罗伯茨 新华社记者齐紫剑　梁有昶　张淑惠 “对工商界而言，搭建亚太地区发展的‘四梁’是一个切实可行的议程。”澳大利亚中国工商业委员会全国主席里斯·罗伯茨日前接受新华社记者专访时说，该机构将在这一框架下，持续助力澳中两国合作取得更多成果。 亚太经合组织（APEC）第三十三次领导人非正式会议近日在深圳举行。会",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTISJvZKSZPrAcdrQpYBE33261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:43:08 GMT"
+        },
+        {
+          "title": "东西问丨多国政要点赞深圳、感谢中国：完美得无可挑剔",
+          "summary": "作者 贺劭清 李嘉茵 王宗汉 当地时间21日，美国总统特朗普在社交平台一口气发布了三十多张APEC深圳会议相关的照片。 照片内容十分丰富，有欢迎仪式现场，有中俄美元首会晤，还有APEC经济体领导人、代表的“全家福”。在“全家福”照片上，特朗普配文“GOAT”，即“Greatest of All Time”的缩写，意为“有史以来最伟大的”。 多国网友留言：“去一趟中国的后劲还是太大了！”“他到底是有",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI5FduQbWaIUHIBKbIyeId261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:40:50 GMT"
+        },
+        {
+          "title": "前10个月全国一般公共预算收入同比增长4.9%",
+          "summary": "[!--begin:htmlVideoCode--]b0e222a0fe1a42f2a48bf17ead0f1b45,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：财政部数据显示，今年1—10月，全国一般公共预算收入19.57万亿元，同比增长4.9%，实现平稳增长。 分税种看，国内增值税增长5.3%，主要是工业和服务业持续增长、工业",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIBEk1503SE9FY3mlT2ypY261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:28:17 GMT"
+        },
+        {
+          "title": "【讲习所·和合共生】习近平引领亚太共同体建设迈入新阶段",
+          "summary": "【本期导读】 11月19日，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话。习近平指出，面对新的机遇和挑战，亚太合作必须适应新形势、迈出新步伐、开创新局面，推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体。 国际人士表示，习近平主席的讲话为建设亚太共同体搭建了清晰务实的行动框架，为地区各经济体的经贸发展和人民福祉勾勒出光明愿景。 监制：陈刚、戴爽、金近 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIXf3129dRD2w8odmLIh4a261122.shtml",
+          "published": "Sun, 22 Nov 2026 11:00:56 GMT"
+        },
+        {
+          "title": "上交所组合式推出新一批降费措施，预计向市场让利13.68亿元",
+          "summary": "央视网消息： 11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免数据中心相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/11/22/ARTIKzzvF76JijafaVbKM7eR261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:52:32 GMT"
+        },
+        {
+          "title": "记者手记丨这条造福非洲的“自由之路”正在激活",
+          "summary": "新华社内罗毕11月21日电　记者手记｜这条造福非洲的“自由之路”正在激活 新华社记者林天昊 在坦桑尼亚国家博物馆的一场绘画展上，索罗蒙·姆瓦卡桑加在一幅画前停下脚步。 画中是半个多世纪前的坦赞铁路工地。1970年，年轻的姆瓦卡桑加参加了铁路建设。回忆那段日子，他记得的不只是艰苦的工作，还有那些远道而来的中国工人。 “中国兄弟们不要求特殊照顾，同我们吃一样的清汤和玉米糊，住在同样的工地里。”姆瓦卡桑",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI8kPdi15Ll03RDQNlEgI6261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:50:23 GMT"
+        },
+        {
+          "title": "中国结算：暂免收取部分债券登记结算费用",
+          "summary": "央视网消息： 11月22日，中国证券登记结算有限责任公司通知：为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/11/22/ARTILno66UgWRhm1x1h32VPk261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:48:33 GMT"
+        },
+        {
+          "title": "口岸车流穿梭、人流密集、物流繁忙……经贸相融让新职业、新活力加速“生长”",
+          "summary": "[!--begin:htmlVideoCode--]703fa826417245a389b83f5e908ee332,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 新疆霍尔果斯口岸地处欧亚经济板块的中心地带，是我国东联西出的重要通道。2026年1至10月，该口岸进出口货运量达3980.2万吨，同比增长3.4%。 2026年以来，口岸持续优化货源",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTILPuusshO2zVG2pEZWOYP261122.shtml",
+          "published": "Sun, 22 Nov 2026 09:15:08 GMT"
+        },
+        {
+          "title": "国产大型邮轮“爱达·花城号”开启商业首航",
+          "summary": "今天（22日），第二艘国产大型邮轮“爱达·花城号”从广州南沙国际邮轮母港启航，正式开启商业首航。 “爱达·花城号”首航旅客超3800人，为了确保旅客快速、顺利通关，工作人员还对通关流程进行了针对性优化。 接下来，“爱达·花城号”将以广州为母港运营五十余个国际邮轮航次。除5天4晚、6天5晚的常规航线外，还将推出近十个9天8晚的“南洋风情线”航次，串联越南、马来西亚、文莱等多国目的地。两艘国产大型邮轮",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIm3Vo4gChbyITfSIFmeJV261122.shtml",
+          "published": "Sun, 22 Nov 2026 08:51:22 GMT"
+        },
+        {
+          "title": "“六张网”投资发力：创新有支撑，民生有温度",
+          "summary": "1至10月份全国固定资产投资数据日前公布，有几组细分数据引人注目：互联网和相关服务业投资增长48.4%，信息传输业投资增长32%，航空、水上运输业投资均增长12.5%。 “既要看到投资总量变化情况，更要看投资结构、质量和效益的改善。”国家统计局新闻发言人付凌晖解读数据时表示，前10月，投资在促创新、优供给、惠民生等关键领域的作用在持续增强，这些将有利于推动经济高质量发展。 作为今年扩大内需的重要着",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIjhPZBCpqaQfbNdeolI6d261122.shtml",
+          "published": "Sun, 22 Nov 2026 08:36:43 GMT"
+        },
+        {
+          "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
+          "summary": "今年前三季度，我国服务进出口总额57687.7亿元，同比增长8.5%。其中，出口22714亿元，增长14.8%；进口34973.7亿元，增长4.8%。服务贸易逆差12259.7亿元，同比缩小1326.6亿元。从知识密集型服务出口占比过半，到运输、旅行服务多点开花，我国服务贸易在总量稳步扩张的基础上保持韧性增长，“中国服务”的国际供给能力和品牌影响力迈上新的台阶。 提质增效结构向优 前三季度，我国服",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI6eSabAA5QFZCa9ezizdE261122.shtml",
+          "published": "Sun, 22 Nov 2026 08:30:29 GMT"
+        },
+        {
+          "title": "垄断、暴利与资本管制：地球上最赚钱的“虚拟央行”",
+          "summary": "GTA 6 首日狂揽 37.9 亿美元，吊打《复联4》全球票房！但华尔街真正看重的，其实是 R 星背后那家“不用安抚债市、也不用去国会听证”的地球最暴利虚拟央行。 13 年老游戏靠 4% 玩家年印 5 亿美金，零成本收割铸币税、搞资本管制、封杀竞争货币……2027 年 GTA 6 在线模式上线，老玩家十几年的存款清零还是继承？如果你是行长，你怎么选？",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960215",
+          "published": "Sun, 22 Nov 2026 13:12:56 GMT"
+        },
+        {
+          "title": "当前红利资产估值还有多少空间?",
+          "summary": "下半年以来，以红利为主的稳定价值类资产的超额收益持续扩大，股息率与潜在回报率水平也进一步被压缩。 当前红利资产到底贵不贵，估值还有多少上行空间？ 我们从价值类资产的筛选逻辑、估值定价、预期收益率等角度讨论以下七个问题： 第一，如何构建稳定价值资产包。 我们从行业和个股两个层面筛选ROE高且稳定的资产：行业层面以ROE中位数和变异系数筛出稳定价值类三级行业，个股层面在这些行业中构建行业优先资产包，同",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786465",
+          "published": "Sun, 22 Nov 2026 12:21:29 GMT"
+        },
+        {
+          "title": "为马斯克融资买GPU，高盛“秀操作”",
+          "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但Space",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786456",
+          "published": "Sun, 22 Nov 2026 12:11:23 GMT"
+        },
+        {
+          "title": "冲上热搜！特斯拉推出FSD V15，“实景视图”可显示摄像头画面叠加FSD行驶规划！中国市场准备工作推进中",
+          "summary": "当地时间11月21日，特斯拉正式启动FSD（Full Self-Driving，完全自动驾驶）V15监督版推送。特斯拉称，新版本将升级端到端自动驾驶网络的多个环节，重点改善安全关键场景处理能力，并推出全新的驾驶可视化界面Tesla Reality View。 特斯拉CEO马斯克随后表示，FSD V15将于12月向更多用户广泛推送，称这一版本将带来“特别的东西”（Something special）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786464",
+          "published": "Sun, 22 Nov 2026 12:07:12 GMT"
+        },
+        {
+          "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
+          "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786460",
+          "published": "Sun, 22 Nov 2026 10:52:10 GMT"
+        },
+        {
+          "title": "报道：韩国将着手准备设立稳定股市基金",
+          "summary": "韩国将为期三个月放宽每日股票回购额度限制。（彭博） 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786459",
+          "published": "Sun, 22 Nov 2026 09:36:56 GMT"
+        },
+        {
+          "title": "风险远未结束！硅谷大佬预警：我现在全面避险！",
+          "summary": "硅谷知名投资人查马斯（Chamath Palihapitiya）在最新一期《All-In》播客中明确表示，自己当前整体处于避险模式（Risk-off），并指出市场面临三大下行风险： 1、宏观经济：后面仍有大量不确定性尚未释放； 2、AI 交易与“英伟达银行”：国会听证会尚未落幕，一旦英伟达的资金循环链条收紧或关闭，直接冲击仍未可知； 3、网络安全与现实动荡：黑客攻击频发、系统接连宕机，甚至已出现应",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/charts/41960214",
+          "published": "Sun, 22 Nov 2026 08:57:26 GMT"
+        },
+        {
+          "title": "黄仁勋事件后美对华算力管制走向何方？",
+          "summary": "2026年11月12日，执掌英伟达三十三年的联合创始人黄仁勋辞去总裁、首席执行官及董事职务，由首席财务官科莱特·克雷斯（Colette Kress）出任临时首席执行官，资深董事哈维·琼斯（Harvey C. Jones）出任公司历史上首位董事会主席。引发此次人事变动的直接导火索，是《纽约时报》自10月下旬起连续披露黄仁勋与新加坡算力云服务商 Megaspeed 前高管的私人往来及美国情报机构的反情",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786457",
+          "published": "Sun, 22 Nov 2026 08:26:27 GMT"
+        },
+        {
+          "title": "周末急出密集新规 救市“组合拳”是否有效开盘见分晓",
+          "summary": "沪深北交易所同步下调融资保证金比例降至80%，深交所启动创业板做市，沪深交易所、中国结算对机构降费 【财新网】 A股连续多日下跌后，11月22日周日晚间，沪深交易所、中国结算公司连发多项政策，救市指向明确。 新的政策包括沪深北交易所同步下调融资保证金比例降至80%，深交所启动创业板做市，沪深交易所和中国证券登记结算有限责任公司（下称“中国结算”）降低针对机构的多项收费。 根据沪深北三家交易所发布的",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-22/102507655.html",
+          "published": "Sun, 22 Nov 2026 11:19:11 GMT"
+        },
+        {
+          "title": "荷兰法院初步认定比亚迪钛7外观侵权颁布临时禁令 产品未在欧盟销售",
+          "summary": "路虎与比亚迪就产品外观是否侵权持续对簿公堂。双方近期各取得一次阶段性胜利，纠纷仍将持续 【财新网】 老牌车企捷豹路虎与比亚迪的诉讼纠纷有了新进展。当地时间11月20日，荷兰海牙法院初步认定，比亚迪“钛7”车型侵犯捷豹路虎在欧盟注册的外观设计权。法院据此支持了捷豹路虎的部分诉讼请求，颁布了针对钛7车型的临时禁令。 根据禁令，比亚迪不得在欧盟境内生产、销售、储存和交付钛7车型。不过，该车型目前并未在欧",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-22/102507649.html",
+          "published": "Sun, 22 Nov 2026 10:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "找家政不再“开盲盒” 细分服务匹配多元需求",
+          "summary": "[!--begin:htmlVideoCode--]feb8d829a82c428db6d54bff9e19d319,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 作为国民经济第一大产业，服务业在拉动经济增长、带动就业等方面发挥了重要作用。2025年，我国服务业增加值首次突破80万亿元，占国内生产总值比重达57.7%，对国民经济增长的贡献率达61.4%。 1",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIV4ZzBFN7oLyQ6q1hATut261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:49:28 GMT"
+        },
+        {
+          "title": "内蒙古医科大学党委原书记赵云山被开除党籍和公职",
+          "summary": "央视网消息： 中央纪委国家监委网站11月22日通报，据内蒙古自治区纪委监委消息：经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古医科大学党委原书记赵云山严重违纪违法问题进行了立案审查调查。 经查，赵云山丧失理想信念，背弃初心使命，无视中央八项规定精神，违规收受礼品、礼金、消费卡；违反组织原则，不按规定报告个人有关事项，在组织函询时不如实说明问题，在职工录用等工作中违规为他人谋取利益并收受财物；",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIi235tZlK0rGnoARe3KYA261122.shtml",
+          "published": "Sun, 22 Nov 2026 12:50:32 GMT"
+        },
+        {
+          "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
+          "summary": "新华社内罗毕11月21日电 通讯｜虫口夺粮——中国与粮农组织合作防治非洲农作物虫害 新华社记者马凯煜　葛晨 肯尼亚没有冬天，11月的太阳照在奔戈马郡的玉米田里，鲜绿的叶片随风起伏。在这里的马班加农业培训中心的示范田，农户俯身拨开玉米心叶，清点着虫口数量，按专家示范将数据录入草地贪夜蛾监测预警系统。 这是11月11日在肯尼亚奔戈马郡拍摄的玉米田（无人机照片）。新华社记者 刘佳琪 摄 这是农民田间学校",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTI7ewxvB7o3OKEZALJF7Wo261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:45:58 GMT"
+        },
+        {
+          "title": "冲上热搜！特斯拉推出FSD V15，“实景视图”可显示摄像头画面叠加FSD行驶规划！中国市场准备工作推进中",
+          "summary": "当地时间11月21日，特斯拉正式启动FSD（Full Self-Driving，完全自动驾驶）V15监督版推送。特斯拉称，新版本将升级端到端自动驾驶网络的多个环节，重点改善安全关键场景处理能力，并推出全新的驾驶可视化界面Tesla Reality View。 特斯拉CEO马斯克随后表示，FSD V15将于12月向更多用户广泛推送，称这一版本将带来“特别的东西”（Something special）",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786464",
+          "published": "Sun, 22 Nov 2026 12:07:12 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "跨越山海 亚太扬帆",
+          "summary": "[!--begin:htmlVideoCode--]b3d77916cd5a4809a1f76d31844bd69d,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 风起南海滨，潮涌太平洋。2026年11月，亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行，习近平主席主持会议并出席相关活动。 这是中国第三次担任亚太经合组织东道主，也是“十五五”开局",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIllec6QGanZHvHu1lX8f3261122.shtml",
+          "published": "Sun, 22 Nov 2026 13:19:29 GMT"
+        },
+        {
+          "title": "大风蓝色预警继续：内蒙古山西河北等地部分地区有5～6级风",
+          "summary": "央视网消息： 中央气象台11月22日18时继续发布大风蓝色预警，预计，11月22日20时至23日20时，内蒙古中东部、山西北部、河北西北部、北京西部山区、吉林中西部、辽宁西部、西藏中西部、青海东北部等地部分地区有5～6级风，阵风7～9级；渤海、巴士海峡、南海东北部海域将有7级、阵风8~9级的大风，其中南海东北部部分海域风力可达8级，阵风9~10级。 预计，11月23日20时至24日20时，甘肃西部",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/22/ARTIf9BIBnlbw4PYNU3ECWsp261122.shtml",
+          "published": "Sun, 22 Nov 2026 10:14:32 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "当前红利资产估值还有多少空间?",
+          "summary": "下半年以来，以红利为主的稳定价值类资产的超额收益持续扩大，股息率与潜在回报率水平也进一步被压缩。 当前红利资产到底贵不贵，估值还有多少上行空间？ 我们从价值类资产的筛选逻辑、估值定价、预期收益率等角度讨论以下七个问题： 第一，如何构建稳定价值资产包。 我们从行业和个股两个层面筛选ROE高且稳定的资产：行业层面以ROE中位数和变异系数筛出稳定价值类三级行业，个股层面在这些行业中构建行业优先资产包，同",
+          "importance": "medium",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786465",
+          "published": "Sun, 22 Nov 2026 12:21:29 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 52,
+    "total_collected": 41,
+    "sources": 6,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "The Verge",
+      "华尔街见闻",
+      "央视新闻",
+      "财新网"
+    ],
+    "domains": 6
+  }
+}
