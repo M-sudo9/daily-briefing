@@ -1,118 +1,118 @@
 {
-  "id": "2026-11-24-08",
-  "datetime": "2026-11-24 08:53:35",
+  "id": "2026-11-24-22",
+  "datetime": "2026-11-24 22:02:22",
   "date": "2026-11-24",
-  "time": "08:53",
-  "period": "上午",
-  "summary": "本期采集 46 篇文章，来自 5 个信息源，覆盖 6 个领域，精选 62 条摘要",
+  "time": "22:02",
+  "period": "晚间",
+  "summary": "本期采集 38 篇文章，来自 4 个信息源，覆盖 3 个领域，精选 43 条摘要",
   "domains": [
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "2035 Came Early",
-          "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 50 # Comments: 3",
+          "title": "CIA Hacked",
+          "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 16 # Comments: 1",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-          "published": "Tue, 24 Nov 2026 06:30:33 +0000"
+          "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+          "published": "Tue, 24 Nov 2026 21:24:27 +0000"
         },
         {
-          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-          "summary": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 55 # Comments: 17",
+          "title": "Working with AI",
+          "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 19 # Comments: 8",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-          "published": "Tue, 24 Nov 2026 05:15:22 +0000"
+          "link": "https://www.anthropic.com/research/working-with-ai",
+          "published": "Tue, 24 Nov 2026 21:07:38 +0000"
         },
         {
-          "title": "Drone Maps of Salvage Yards",
-          "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 73 # Comments: 27",
+          "title": "Ternary Bonsai 2.5 27B",
+          "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 149 # Comments: 47",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://salvageyarddrone.wordpress.com/",
-          "published": "Tue, 24 Nov 2026 04:00:28 +0000"
+          "link": "https://prismml.com/news/bonsai-2-5-27b",
+          "published": "Tue, 24 Nov 2026 20:08:03 +0000"
         },
         {
-          "title": "Making a dumb TV just smart enough",
-          "summary": "Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ Comments URL: https://news.ycombinator.com/item?id=50622934 Points: 64 # Comments: 20",
+          "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+          "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 30 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-          "published": "Tue, 24 Nov 2026 02:46:54 +0000"
+          "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+          "published": "Tue, 24 Nov 2026 19:40:43 +0000"
         },
         {
-          "title": "Declare is a UI language for you and your AI",
-          "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 51 # Comments: 39",
+          "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+          "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 85 # Comments: 16",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://davidtemkin.github.io/declarelang/",
-          "published": "Tue, 24 Nov 2026 02:36:56 +0000"
+          "link": "https://grafana.com/grafana/download",
+          "published": "Tue, 24 Nov 2026 19:23:44 +0000"
         },
         {
-          "title": "Rune: Rust VM for Emacs",
-          "summary": "Article URL: https://github.com/CeleritasCelery/rune Comments URL: https://news.ycombinator.com/item?id=50622804 Points: 36 # Comments: 9",
+          "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+          "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/ Comments URL: https://news.ycombinator.com/item?id=50632883 Points: 119 # Comments: 77",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://github.com/CeleritasCelery/rune",
-          "published": "Tue, 24 Nov 2026 02:30:47 +0000"
+          "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+          "published": "Tue, 24 Nov 2026 19:03:55 +0000"
         },
         {
-          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-          "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Po",
+          "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+          "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 173 ",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-          "published": "Tue, 24 Nov 2026 02:27:02 +0000"
+          "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+          "published": "Tue, 24 Nov 2026 17:07:41 +0000"
         },
         {
-          "title": "消息称伊朗法院要求美国向伊支付2900亿美元赔偿金",
-          "summary": "△伊朗首都德黑兰（资料图） 据伊朗方面消息，伊朗司法机构方面23日表示，伊朗法院已作出裁决，要求美国向伊朗支付2900亿美元的损害赔偿金，以弥补美以联合对伊朗发动战争期间以及更早时期造成的损失。几艘与美国有关联的船只已被扣押，这些船只将用于支付赔偿金的一部分。 消息称，伊朗已向约旦及其他阿拉伯国家提起诉讼，要求其进行损害赔偿。伊朗方面称，这些国家允许美国利用其领土对伊朗发动袭击，因此必须为此承担责",
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIp44IQtwzG71ltYsCY68J261124.shtml",
-          "published": "Tue, 24 Nov 2026 07:57:21 GMT"
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Tue, 24 Nov 2026 17:00:55 +0000"
         },
         {
-          "title": "时评丨中俄美元首历史性会晤 为什么在中国？",
-          "summary": "[!--begin:htmlVideoCode--]f44959cce4d24c48a736a07825b28c0b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 一件全球瞩目的大事在深圳发生。 11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。这是一次“和平峰会”，是载入史册的标志性事件，向世界发出了积极信号。 历史",
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 229 # Comments: 94",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIKsIM3U3Mg6Yt3jwVUH9g261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:54:57 GMT"
+          "source": "Hacker News",
+          "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "published": "Tue, 24 Nov 2026 16:32:17 +0000"
         },
         {
-          "title": "神舟二十四号航天员乘组｜武毅：高效工作 圆满完成任务",
-          "summary": "[!--begin:htmlVideoCode--]47ceac3193b9467ebcace9e5fe7b5849,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 神舟二十四号航天员乘组的02号航天员武毅，毕业于国防科技大学，从陕西榆林走出的少年，到如今即将以神舟二十四号乘组航天飞行工程师的身份首次出征太空，一路走来，武毅跨越的不只是职业的边界",
+          "title": "Jetty Pro",
+          "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 226 # Comments: 89",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIwLX3lPO2pGrDq1QOi5Kp261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:40:35 GMT"
+          "source": "Hacker News",
+          "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+          "published": "Tue, 24 Nov 2026 16:23:02 +0000"
         },
         {
-          "title": "韩国称俄军机进入韩防空识别区 将召见俄武官",
-          "summary": "新华社首尔11月24日电（记者张粲　孙一然）韩国军方24日说，数架俄罗斯军用飞机当天上午进入韩国东部海域防空识别区，随后接近郁陵岛，郁陵郡一度发布警戒警报。另据韩国国防部的消息，国防部将于当天下午召见俄罗斯驻韩武官。 韩国联合参谋本部当天说，韩军在俄军机进入韩国防空识别区前就已探测到相关飞机。在韩国军方采取应对措施期间，俄军机飞离相关区域。整个过程没有侵犯韩国领空。 韩国国防部发言人郑缤娜（音）当",
+          "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+          "summary": "Article URL: https://arxiv.org/abs/2611.30835 Comments URL: https://news.ycombinator.com/item?id=50629962 Points: 68 # Comments: 28",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIbIz47MrqP0cgA1IJUJAv261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:17:30 GMT"
+          "source": "Hacker News",
+          "link": "https://arxiv.org/abs/2611.30835",
+          "published": "Tue, 24 Nov 2026 15:50:22 +0000"
         },
         {
-          "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
-          "summary": "新华社北京11月24日电　11月23日，联合国举行“声援巴勒斯坦人民国际日”纪念大会，国家主席习近平向大会致贺电。 习近平指出，巴勒斯坦问题是中东问题的核心。当前中东地区紧张局势不应该转移国际社会对巴勒斯坦问题的关注。解决巴勒斯坦问题，关键在于锚定“两国方案”正确方向，推动巴以重启和谈。要秉持“巴人治巴”原则推进约旦河西岸治理和加沙战后重建，反对任何针对巴勒斯坦的占地侵权行径。国际社会要把声援巴勒",
+          "title": "A training engine for your local model, using your idle compute",
+          "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 131 # Comments: 37",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI8akdp5lJkkCUGzy9GQUG261124.shtml",
-          "published": "Tue, 24 Nov 2026 00:58:51 GMT"
+          "source": "Hacker News",
+          "link": "https://github.com/sous-labs/songe",
+          "published": "Tue, 24 Nov 2026 15:03:40 +0000"
         },
         {
-          "title": "人工智能，一个新词的诞生｜AI 历史③",
-          "summary": "心智不是一道毫无瑕疵的数学公式，而是一本空白的笔记本，等待这个纷乱无常的世界，在纸上留下印记 《AI历史》“财新mini+”连载中，查看 已更新内容 真正的智能：图灵的思考 二战尘埃落定，阿兰・图灵已是隐于幕后的国家英雄。在布莱切利园（Bletchley Park）那些严守机密的小屋中，他设计的机械译码装置，成功帮助盟军破译了德国恩尼格玛密码。整个战争岁月，他亲眼看见机器推演纯逻辑的速度，远远胜过",
+          "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+          "summary": "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 106 # Comments: 72",
           "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-24/102508188.html",
-          "published": "Tue, 24 Nov 2026 03:25:23 GMT"
+          "source": "Hacker News",
+          "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+          "published": "Tue, 24 Nov 2026 14:54:10 +0000"
         }
       ]
     },
@@ -121,116 +121,236 @@
       "summary": "",
       "items": [
         {
-          "title": "Declare is a UI language for you and your AI",
-          "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 51 # Comments: 39",
+          "title": "Working with AI",
+          "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 19 # Comments: 8",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://davidtemkin.github.io/declarelang/",
-          "published": "Tue, 24 Nov 2026 02:36:56 +0000"
+          "link": "https://www.anthropic.com/research/working-with-ai",
+          "published": "Tue, 24 Nov 2026 21:07:38 +0000"
         },
         {
-          "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
-          "summary": "Megaspeed一名前高層與黃仁勳的婚外情緋聞曝光後，該企業被指控將 AI 晶片輸送至中國。",
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP).",
           "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/c804wekz407ko/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 24 Nov 2026 08:29:33 GMT"
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50634426",
+          "published": "Tue, 24 Nov 2026 20:44:15 +0000"
         },
         {
-          "title": "《蓝色星原：旅谣》涂山小玉PV | 一笺桃花",
-          "summary": "牵丝绕指，终须有结。\n桃花一笺，夙缔良缘。\n\n今后，我们就是拍档了！\n\n《蓝色星原：旅谣》11月26日正式公测！\n✦ bilibili预约地址：https://www.biligame.com/detail/?id=111392",
+          "title": "Ternary Bonsai 2.5 27B",
+          "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 149 # Comments: 47",
           "importance": "medium",
-          "source": "B站科技热门",
-          "link": "https://www.bilibili.com/video/BV1j3yHznECD",
-          "published": "Tue, 24 Nov 2026 03:00:00 GMT"
+          "source": "Hacker News",
+          "link": "https://prismml.com/news/bonsai-2-5-27b",
+          "published": "Tue, 24 Nov 2026 20:08:03 +0000"
         },
         {
-          "title": "6G试点正式启动！北京等8省市获批开展",
-          "summary": "工业和信息化部今天在上海正式启动6G创新发展部省协同试点， 北京、河北、上海、江苏、浙江、安徽、湖北、广东8个省市获批开展6G试点工作。 6G部省协同试点的重点任务是：在国家层面体系布局基础上，因地制宜，围绕 新型终端、关键芯片器件、仪器仪表、卫星互联网等 6G关联产业，面向 沉浸式通信、工业制造、低空经济、海洋经济等 6G潜在应用场景加强攻关，形成全国6G“一盘棋”发展格局。 6G技术标准研究进",
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIGnRThNx3gAadJiHh0orI261124.shtml",
-          "published": "Tue, 24 Nov 2026 08:37:53 GMT"
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Tue, 24 Nov 2026 17:00:55 +0000"
         },
         {
-          "title": "2026中国—东盟周展开多场交流活动 中国与东盟共商互联互通新机遇",
-          "summary": "[!--begin:htmlVideoCode--]cac132bec5774556a400ed7b208f2146,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是中国—东盟建立全面战略伙伴关系5周年。11月23日至25日，2026中国—东盟周在重庆举行。来自中国及东盟国家的300多位各界代表汇集重庆，围绕“深化战略合作 联通共享繁荣”主",
+          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is autom",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIwnLFqrEcqU0SYFL1EvAa261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:55:53 GMT"
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50630809",
+          "published": "Tue, 24 Nov 2026 16:45:44 +0000"
         },
         {
-          "title": "韩国加码高考作弊举报悬赏 赏金最高5亿韩元",
-          "summary": "韩国官方反腐败机构国民权益委员会23日推出悬赏计划，鼓励举报高考作弊，提供线索者最高可获5亿韩元（约合247.5万元人民币）。 这一机构的通报显示，此举意在加强打击借助人工智能在大学修学能力考试（即高考）中作弊的行径，每条举报线索一经查实，一般赏金为1亿韩元（49.5万元人民币），最高可达5亿韩元。 委员会说：“本措施旨在鼓励公众举报作弊，维护韩国大学修学能力考试的公平性和公信力。” 悬赏举措是为",
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 229 # Comments: 94",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:26:11 GMT"
+          "source": "Hacker News",
+          "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "published": "Tue, 24 Nov 2026 16:32:17 +0000"
         },
         {
-          "title": "公安部网安局公布2026年度使用AI工具编造传播网络谣言10起典型案例",
-          "summary": "央视网消息： 据公安部网安局消息，公安机关网安部门依托“净网—2026”专项行动，持续打击整治网络谣言违法犯罪。今日，公布2026年度使用AI工具编造传播网络谣言10起典型案例。 01 网民马某某为博取关注、吸粉引流，使用AI工具生成“张家界大峡谷玻璃桥突发坍塌”虚假视频，视频画面中玻璃桥断裂、人群四散奔逃，并配文称“没事就别出去玩了，还是家里安全”。相关视频发布后引发大量网民关注，造成公众恐慌，",
+          "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+          "summary": "Hey HN, this is Alexander from Hatchet ( https://github.com/hatchet-dev/hatchet ). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud acco",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIxNWQt1swwGZ3QXly2rdt261124.shtml",
-          "published": "Tue, 24 Nov 2026 01:42:01 GMT"
+          "source": "Hacker News",
+          "link": "https://github.com/hatchet-dev/brickie",
+          "published": "Tue, 24 Nov 2026 15:48:34 +0000"
         },
         {
-          "title": "Claude千万行代码：数学的审美危机",
-          "summary": "人工智能没有发明数学的审美危机，只是让这场危机第一次变得如此壮观。而最讽刺的，恐怕在于论文越来越长、技术细节越堆越多，本来就是人类学术界的老毛病 近日，Anthropic的数学家Levent Alpöge宣布，他与人工智能Claude合作找到了黎曼猜想的证明，并公布了约17.5万份Lean源文件、超过1700万行代码。独立形式化检查取得了重要进展，但要把这些代码整理成数学家能够理解、评价和传承的理",
+          "title": "A training engine for your local model, using your idle compute",
+          "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 131 # Comments: 37",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/sous-labs/songe",
+          "published": "Tue, 24 Nov 2026 15:03:40 +0000"
+        },
+        {
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "published": "Tue, 24 Nov 2026 21:48:27 +0000"
+        },
+        {
+          "title": "Even the best AI agents struggle with everyday life",
+          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+        },
+        {
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "published": "Tue, 24 Nov 2026 21:32:38 +0000"
+        },
+        {
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "published": "Tue, 24 Nov 2026 21:19:52 +0000"
+        },
+        {
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "published": "Tue, 24 Nov 2026 18:30:42 +0000"
+        },
+        {
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "published": "Tue, 24 Nov 2026 18:02:59 +0000"
+        },
+        {
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "published": "Tue, 24 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "published": "Tue, 24 Nov 2026 16:46:00 +0000"
+        },
+        {
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "published": "Tue, 24 Nov 2026 16:10:00 +0000"
+        },
+        {
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "published": "Tue, 24 Nov 2026 16:02:37 +0000"
+        },
+        {
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "published": "Tue, 24 Nov 2026 15:51:07 +0000"
+        },
+        {
+          "title": "TikTok was down",
+          "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "published": "2026-11-24T15:27:27-05:00"
+        },
+        {
+          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "published": "2026-11-24T15:02:03-05:00"
+        },
+        {
+          "title": "Amazon is knocking almost $50 off six months of Apple TV",
+          "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US.",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+          "published": "2026-11-24T14:00:00-05:00"
+        },
+        {
+          "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+          "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN pane",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+          "published": "2026-11-24T13:44:57-05:00"
+        },
+        {
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised quest",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "published": "2026-11-24T13:15:00-05:00"
+        },
+        {
+          "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+          "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you foc",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+          "published": "2026-11-24T12:30:00-05:00"
+        },
+        {
+          "title": "Tidal will start banning AI-generated music next month",
+          "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "published": "2026-11-24T12:17:09-05:00"
+        },
+        {
+          "title": "小米三季度经调整净利润下滑近六成 预计明年存储成本仍承压",
+          "summary": "卢伟冰认为DRAM供需紧张局面短期内难以缓解，手机平均售价将继续提升，汽车业务亦将面临成本上涨压力 【财新网】 存储成本持续上涨、汽车业务增长承压、AI投入增加，小米业绩仍未走出下行区间。11月24日晚间，小米集团（01810.HK）发布三季度财报，当季录得营收1072.40亿元，同比下滑5.2%、环比下滑1.5%；经调整净利润为48.84亿元，同比下滑56.8%、环比下滑21.5%。 尽管营收同",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508302.html",
-          "published": "Tue, 24 Nov 2026 08:25:50 GMT"
+          "link": "https://www.caixin.com/2026-11-24/102508402.html",
+          "published": "Tue, 24 Nov 2026 14:22:15 GMT"
         },
         {
-          "title": "美国将Megaspeed等东南亚公司加入出口管制黑名单 其中1家与阿里关联",
-          "summary": "阿里巴巴回应财新称Apex从未转移任何受美国出口管制的先进计算芯片。并将通过法律途径维护权益和声誉 【财新网】 美国对黄仁勋出轨事件相关公司出手。当地时间11月24日，美国商务部下属的工业与安全局（BIS）公告，将位于马来西亚、新加坡和泰国的7家实体列入“实体清单”（Entity List），进行严格的出口管制。 7家新加入实体清单的公司为：新加坡的 Apex Enterprise Solutio",
+          "title": "蚂蚁发AI数据库平台 传统数据库AI营收超1亿元",
+          "summary": "数据库公司OceanBase7月开始首轮外部融资，杨冰告诉财新，对于IPO已经做好准备 【财新网】 “研发团队现在是一分为二、齐头并进的状态。传统数据库产品成熟度更高，我们是国内国外都做的，而且我不觉得国内数据库到了不需要去做的状态，在各方面还需要很多的投入，”11月24日，OceanBase CEO杨冰在蚂蚁OceanBase AI数据大会后接受财新采访时表示，对于未来上市，他称已经做好准备。 ",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-24/102508290.html",
-          "published": "Tue, 24 Nov 2026 07:25:47 GMT"
+          "link": "https://www.caixin.com/2026-11-24/102508396.html",
+          "published": "Tue, 24 Nov 2026 14:07:33 GMT"
         },
         {
-          "title": "中美人工智能对话，下一步该谈什么",
-          "summary": "中美两国已同意就人工智能的风险展开对话。下一个值得讨论的议题，是开发者在系统发布之前必须做到什么 11月18日至19日，亚太经合组织领导人非正式会议在深圳举行，人工智能贯穿了这一周的议程。习近平主席在亚太经合组织工商领导人峰会上发表主旨演讲，呼吁深化人工智能合作。两个月前，中美两国在华盛顿同意建立人工智能相关事件沟通渠道，并建立中美人工智能对话，交流人工智能相关风险和惠益，下次对话定于11月举行。",
+          "title": "华为AI专利超8000件 2025年专利许可收入8亿美元",
+          "summary": "华为AI相关专利占比13%，是无限通讯（占比41%），终端设备（占比16%）之外第三大专利方向 【财新网】 2025年，华为专利许可收入8亿美元。11月24日，华为在2026年创新和知识产权论坛上公布一系列研发投入和专利相关数据。 “华为AI相关专利超过8000件，占比13%，”华为业务规划与重大项目部部长张肖午介绍，在活跃授权专利中，无线通信占比41%，终端设备占比16%：“截至2025年底，华",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508260.html",
-          "published": "Tue, 24 Nov 2026 06:07:36 GMT"
-        },
-        {
-          "title": "字节跳动推出个人AI智能体“小豆”",
-          "summary": "个人AI智能体的主要功能是主动跟进处理日常事项，腾讯的个人智能体内置于微信，“小豆”则在豆包主端 【财新网】 AI办公激战正酣，国内科技巨头迅速抢滩个人AI智能体（Personal Agent）。11月24日上午，字节跳动推出个人AI智能体产品“小豆”，开启邀请制公测。 个人AI智能体概念受到追捧，始于Meta在9月8日发布智能体应用Muse。作为面向个人用户的智能体，Muse能够读取用户邮箱中的",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-24/102508206.html",
-          "published": "Tue, 24 Nov 2026 04:23:32 GMT"
-        },
-        {
-          "title": "证明黎曼猜想，是一场踩中IPO节点的意外吗",
-          "summary": "相比真实世界里那些漫长、昂贵且充满不确定性的硬骨头，数学证明正在成为科技巨头维持AGI叙事时，费效比最高的公关素材库 今年下半年，AI巨头宣称证明数学定理多次登上科技媒体，例如OpenAI在9月宣称证明纳维-斯托克斯千禧年难题，10月放出的722道数学证明，以及最近的Anthropic宣称证明广义黎曼猜想。为什么偏偏是这门最抽象、最远离日常烟火的学科，频频成为硅谷巨头的头版头条？答案很现实：相比真",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508204.html",
-          "published": "Tue, 24 Nov 2026 03:54:10 GMT"
-        },
-        {
-          "title": "【今日盘面】黄仁勋“回宫”点燃AI交易热情 外围压制风险仍未解除",
-          "summary": "分析指出，黄仁勋重返英伟达掌舵，最核心的意义就是给市场以及整个AI生态系统重新注入信心 资料图：黄仁勋。声明称，英伟达董事会在与黄仁勋进行一系列讨论和会面后，一致投票决定恢复其职务。图：视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-24/102508195.html",
-          "published": "Tue, 24 Nov 2026 03:32:40 GMT"
-        },
-        {
-          "title": "人工智能，一个新词的诞生｜AI 历史③",
-          "summary": "心智不是一道毫无瑕疵的数学公式，而是一本空白的笔记本，等待这个纷乱无常的世界，在纸上留下印记 《AI历史》“财新mini+”连载中，查看 已更新内容 真正的智能：图灵的思考 二战尘埃落定，阿兰・图灵已是隐于幕后的国家英雄。在布莱切利园（Bletchley Park）那些严守机密的小屋中，他设计的机械译码装置，成功帮助盟军破译了德国恩尼格玛密码。整个战争岁月，他亲眼看见机器推演纯逻辑的速度，远远胜过",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-24/102508188.html",
-          "published": "Tue, 24 Nov 2026 03:25:23 GMT"
+          "link": "https://www.caixin.com/2026-11-24/102508391.html",
+          "published": "Tue, 24 Nov 2026 14:04:02 GMT"
         }
       ]
     },
@@ -239,317 +359,26 @@
       "summary": "",
       "items": [
         {
-          "title": "商务部新闻发言人就欧盟宣布对混动汽车采取临时保障措施答记者问",
-          "summary": "央视网消息： 据商务部消息，11月24日，商务部新闻发言人就欧盟宣布对混动汽车采取临时保障措施答记者问。 问 ：11月24日，欧盟委员会发布混动汽车全球保障措施初步裁定，并拟于12月1日起采取临时保障措施。请问中方有何评论？ 答 ：中方注意到相关消息。 欧方于10月30日对进口混动汽车发起全球保障措施调查，不到一个月又决定采取临时保障措施。 此前，中欧双方本着相互尊重、平等协商的原则，在中欧贸易投",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIhV54ISi4VnMOrnr8F3PE261124.shtml",
-          "published": "Tue, 24 Nov 2026 08:49:49 GMT"
-        },
-        {
-          "title": "6G试点正式启动！北京等8省市获批开展",
-          "summary": "工业和信息化部今天在上海正式启动6G创新发展部省协同试点， 北京、河北、上海、江苏、浙江、安徽、湖北、广东8个省市获批开展6G试点工作。 6G部省协同试点的重点任务是：在国家层面体系布局基础上，因地制宜，围绕 新型终端、关键芯片器件、仪器仪表、卫星互联网等 6G关联产业，面向 沉浸式通信、工业制造、低空经济、海洋经济等 6G潜在应用场景加强攻关，形成全国6G“一盘棋”发展格局。 6G技术标准研究进",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIGnRThNx3gAadJiHh0orI261124.shtml",
-          "published": "Tue, 24 Nov 2026 08:37:53 GMT"
-        },
-        {
-          "title": "我国将进一步规范临时用地使用管理",
-          "summary": "记者今天（24日）从自然资源部获悉，为了进一步规范临时用地使用，强化土地要素保障支撑，自然资源部近日印发通知， 优化临时用地审批、使用和复垦管理 ，促进有效投资加快落地。 此次政策中涉及的临时用地，是指建设项目施工或者开展地质勘查时，临时使用的国有土地或农民集体所有的土地，这类用地服务于相关项目，使用时间有限，使用后能够恢复原状。 · 在临时用地的类型上，对于什么样的情况可以使用，什么样的情况不得",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIq8H9GU6MmWqiGD1WYjsp261124.shtml",
-          "published": "Tue, 24 Nov 2026 07:49:25 GMT"
-        },
-        {
-          "title": "2026中国—东盟周展开多场交流活动 中国与东盟共商互联互通新机遇",
-          "summary": "[!--begin:htmlVideoCode--]cac132bec5774556a400ed7b208f2146,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年是中国—东盟建立全面战略伙伴关系5周年。11月23日至25日，2026中国—东盟周在重庆举行。来自中国及东盟国家的300多位各界代表汇集重庆，围绕“深化战略合作 联通共享繁荣”主",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIwnLFqrEcqU0SYFL1EvAa261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:55:53 GMT"
-        },
-        {
-          "title": "湖南祁东“5·24”较大火灾事故调查报告公布",
-          "summary": "近日，湖南祁东“5·24”较大火灾事故调查组公布调查报告。2026年5月24日0时43分许，衡阳市祁东县洪桥街道县正东路419号和丰大厦发生火灾，造成 5人死亡、1人受伤 ， 直接经济损失309.7万元 。调查组认定， 这是一起违规改装电动自行车在充电过程中因锂电池热失控引发的较大火灾事故。 起火点位于大厦南侧一层5号门外电动车停放处。邹某和两次违规改装车辆，将铅酸电池更换为三元锂电池并拆分分装，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIkt35HygpeFKyKaQWkuAV261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:35:26 GMT"
-        },
-        {
-          "title": "韩国加码高考作弊举报悬赏 赏金最高5亿韩元",
-          "summary": "韩国官方反腐败机构国民权益委员会23日推出悬赏计划，鼓励举报高考作弊，提供线索者最高可获5亿韩元（约合247.5万元人民币）。 这一机构的通报显示，此举意在加强打击借助人工智能在大学修学能力考试（即高考）中作弊的行径，每条举报线索一经查实，一般赏金为1亿韩元（49.5万元人民币），最高可达5亿韩元。 委员会说：“本措施旨在鼓励公众举报作弊，维护韩国大学修学能力考试的公平性和公信力。” 悬赏举措是为",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:26:11 GMT"
-        },
-        {
-          "title": "事关危险货物包装安全 市场监管总局发布国家标准",
-          "summary": "央视网消息： 据 市场监管总局消息，近日， 市场监管总局批准发布一批危险货物包装领域强制性国家标准。该批标准聚焦危险货物包装安全关键环节，统一技术要求与检验判定规则，补齐安全短板，为危险货物储运全链条安全管控提供标准支撑。 《黄磷包装安全规范 使用鉴定》 （GB 19358—2026）代替2003版标准，针对黄磷易自燃的危险特性强化使用环节管控。该标准明确黄磷包装须符合Ⅰ类危险货物包装要求，细化水",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI88djXjLAtLyTsq2CswiU261124.shtml",
-          "published": "Tue, 24 Nov 2026 05:19:00 GMT"
-        },
-        {
-          "title": "事关危险货物包装安全 市场监管总局发布国家标准",
-          "summary": "记者今天了解到，市场监管总局批准发布一批危险货物包装领域强制性国家标准。该批标准聚焦危险货物包装安全关键环节，统一技术要求与检验判定规则，补齐安全短板，为危险货物储运全链条安全管控提供标准支撑。 《黄磷包装安全规范 使用鉴定》 （GB 19358—2026）代替2003版标准，针对黄磷易自燃的危险特性强化使用环节管控。该标准明确黄磷包装须符合Ⅰ类危险货物包装要求，细化水封保护高度、顶部预留空间、封",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTISSrdTqnWwqAk2SLoZjMi261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:15:03 GMT"
-        },
-        {
-          "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发 警惕诱导消费和过度医疗",
-          "summary": "央视网消息： 据中国消费者协会消息，有媒体报道，陕西宝鸡一名63岁心梗老人因牙疼到当地一家民营口腔医院就医，被拔除全口12颗牙、种植10颗牙，不仅刷光手机内18800元，还欠费6200元，引发社会关注。从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI5PHLE0zX4iFWa4mM0XZs261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:04:10 GMT"
-        },
-        {
-          "title": "从买车→“用车”→回收利用 扩大汽车消费政策发力推动“全链条”扩容升级",
-          "summary": "[!--begin:htmlVideoCode--]6b1dbd9797f94350907e0337bff79cde,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 今年以来，扩大汽车消费的政策从买车一路延伸到 “用车”。6月，商务部等8部门公布40个汽车流通消费改革试点城市，重点方向覆盖新车消费、二手车流通、报废车回收，以及汽车改装、房车露营、",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI65Ij9sQb9BNrqrfwEVec261124.shtml",
-          "published": "Tue, 24 Nov 2026 02:22:10 GMT"
-        },
-        {
-          "title": "从前10个月全社会用电量“增”透视中国经济向稳向新行 数字经济正成为新引擎",
-          "summary": "[!--begin:htmlVideoCode--]f2acb06a6f0a47acbb68c0c15a6cbff8,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 用电量数据是经济社会运行的“晴雨表”“风向标”。国家能源局23日发布1至10月全社会用电量数据，数据显示，今年前10个月，全社会用电量同比增长3.7%，反映出我国经济保持平稳运行，新",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIkFhldyLweUmbEOljayMK261124.shtml",
-          "published": "Tue, 24 Nov 2026 01:57:02 GMT"
-        },
-        {
-          "title": "首批主动ETF上市 首日合计成交额超80亿元‌ 和普通基金有何不同？",
-          "summary": "[!--begin:htmlVideoCode--]822fbc92cd7f4b0792f9255eca70e53a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月23日，首批18只主动ETF上市，首日合计成交额超80亿元‌。主动ETF是什么？和其他基金有何不同？总台央视记者王雷财经老王带您读懂这个新上市的基金产品。 23日，首批主动ET",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIm5wqTLkbBBxneErVQOHz261124.shtml",
-          "published": "Tue, 24 Nov 2026 01:40:47 GMT"
-        },
-        {
-          "title": "Claude千万行代码：数学的审美危机",
-          "summary": "人工智能没有发明数学的审美危机，只是让这场危机第一次变得如此壮观。而最讽刺的，恐怕在于论文越来越长、技术细节越堆越多，本来就是人类学术界的老毛病 近日，Anthropic的数学家Levent Alpöge宣布，他与人工智能Claude合作找到了黎曼猜想的证明，并公布了约17.5万份Lean源文件、超过1700万行代码。独立形式化检查取得了重要进展，但要把这些代码整理成数学家能够理解、评价和传承的理",
+          "title": "B站三季度盈利8亿元 CEO陈睿称很多B站用户不看短剧",
+          "summary": "公司广告收入同比增长20%，陈睿称其内容消费习惯并不是追求轻松刺激的“杀时间” 【财新网】 11月24日，哔哩哔哩（NASDAQ：BILI/09626.HK，下称“B站”）披露三季度业绩，总营收83.2亿元，同比增长8%，维持前两季度增速；净利润5.04亿元，同比增加7%；非通用会计准则（Non-GAAP）下的经调整净利润为8.33亿元，同比增长5.8%。 受业绩带动，11月24日美股盘前交易时段",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508302.html",
-          "published": "Tue, 24 Nov 2026 08:25:50 GMT"
-        },
-        {
-          "title": "王胜邦：促进经济金融合理适配",
-          "summary": "提升经济金融适配性，既要有效发挥金融融资功能，着力提高金融供给质量，又要发挥金融在对冲风险、社会治理和促进消费方面的作用 习近平总书记指出，实体经济是金融的根基，金融是实体经济的血脉，服务实体经济是金融的天职，要坚持把金融服务实体经济作为根本宗旨。这一重要论断揭示了金融的本质。改革开放以来，金融业为中国经济长期高速增长提供了源源不断的资金支持。进入高质量发展阶段，提升经济金融适配性，对于促进实体经",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508289.html",
-          "published": "Tue, 24 Nov 2026 07:24:03 GMT"
-        },
-        {
-          "title": "世界可持续发展工商理事会：推动全球电气化率提升 绿色贸易摩擦待破解",
-          "summary": "现有技术和解决方案不仅足以实现2035年电气化率达到35%的目标，甚至有可能达到更高水平 【财新网】 中国对全球提高电气化率有着重要作用，各方需要对绿色贸易中的摩擦找到新解决方案。当地时间11月19日，世界可持续发展工商理事会（WBCSD）首席执行官Peter Bakker对财新表示。 世界可持续发展工商理事会成立于1995年，总部位于瑞士日内瓦，由全球200多家跨国企业及数十个国家和地区的伙伴机",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-24/102508270.html",
-          "published": "Tue, 24 Nov 2026 06:51:43 GMT"
-        },
-        {
-          "title": "贵州茅台持续整合销售渠道 永辉解散与茅台合资公司",
-          "summary": "截至9月末，公司净资产合计3.86亿元，清算后永辉超市可享有剩余财产分配约1.16亿元 2026年10月30日，贵州茅台酒。图：视觉中国 【财新网】 11月23日盘后，永辉超市股份有限公司（601933.SH，下称“永辉超市”）发布公告称，拟同意参股公司北京友谊使者商贸有限公司（下称“北京友谊使者公司”）解散清算。 对于解散清算原因，永辉超市表示，为进一步优化国内贵州茅台酒市场渠道统筹，北京友谊使",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-24/102508266.html",
-          "published": "Tue, 24 Nov 2026 06:46:41 GMT"
-        },
-        {
-          "title": "为全球绿色转型开拓人民币融资渠道",
-          "summary": "境内外投资者可以通过人民币可持续债券参与全球绿色投资，发展中国家的政府和企业可以借此拓展人民币融资渠道，绿色熊猫债和点心债正是实现这一连接的重要工具 随着全球应对气候变化进程不断推进，全球绿色投资需求正从单一清洁能源项目扩展到能源基础设施建设、产业低碳转型和气候韧性等更广泛的领域。这些投资往往具有前期投入大、回报周期较长等特点，需要长期、稳定且成本合理的资金支持。然而，对许多发展中国家而言，较高的",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://opinion.caixin.com/2026-11-24/102508241.html",
-          "published": "Tue, 24 Nov 2026 05:09:59 GMT"
-        },
-        {
-          "title": "黄仁勋回归亚股弹 港股跟升后倒跌",
-          "summary": "中金认为，港股破局的关键最终落到国内政策选择上，也就是在科技创新与自主可控的长期战略目标之下会否向内需倾斜 【财新网】 英伟达创办人兼行政总裁黄仁勋11月23日戏剧性复职，美股三大指数全线反弹，纳斯达克指数单日急飙6.5%。港股连跌五日后，11月24日开盘跟升，但不仅涨幅未及其他亚洲市场显著，且中午收市已倒跌。 黄仁勋回归英伟达，触发该股11月23日单日暴涨31.5%，创2003年5月9日以来最大",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://finance.caixin.com/2026-11-24/102508228.html",
-          "published": "Tue, 24 Nov 2026 04:40:06 GMT"
-        },
-        {
-          "title": "【今日盘面】黄仁勋“回宫”点燃AI交易热情 外围压制风险仍未解除",
-          "summary": "分析指出，黄仁勋重返英伟达掌舵，最核心的意义就是给市场以及整个AI生态系统重新注入信心 资料图：黄仁勋。声明称，英伟达董事会在与黄仁勋进行一系列讨论和会面后，一致投票决定恢复其职务。图：视觉中国",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://database.caixin.com/2026-11-24/102508195.html",
-          "published": "Tue, 24 Nov 2026 03:32:40 GMT"
-        }
-      ]
-    },
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "6G试点正式启动！北京等8省市获批开展",
-          "summary": "工业和信息化部今天在上海正式启动6G创新发展部省协同试点， 北京、河北、上海、江苏、浙江、安徽、湖北、广东8个省市获批开展6G试点工作。 6G部省协同试点的重点任务是：在国家层面体系布局基础上，因地制宜，围绕 新型终端、关键芯片器件、仪器仪表、卫星互联网等 6G关联产业，面向 沉浸式通信、工业制造、低空经济、海洋经济等 6G潜在应用场景加强攻关，形成全国6G“一盘棋”发展格局。 6G技术标准研究进",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIGnRThNx3gAadJiHh0orI261124.shtml",
-          "published": "Tue, 24 Nov 2026 08:37:53 GMT"
-        },
-        {
-          "title": "疫苗处方全面推行 哪些机构能开、怎么开？最新解读",
-          "summary": "国家疾控局今天举行新闻发布会，主题是“科学防病健康自塑 共绘‘十五五’健康蓝图”。国家疾控局等部门近日出台了全面推行疫苗处方的文件，中国疾病预防控制中心免疫规划中心主任医师余文周介绍，近年来，有些省份和地区探索由医师为诊疗对象开具疫苗处方，群众在就诊过程中就能获得专业的疫苗接种指导。这一项服务举措，不仅提升了公众的接种意识和防病素养，也提高了预防接种服务的便利性。 疫苗处方作为落实健康优先发展战略",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIqVlNmHvQgoTwKnl63nW8261124.shtml",
-          "published": "Tue, 24 Nov 2026 07:55:04 GMT"
-        },
-        {
-          "title": "多所高校推出暖心举措 用“细腻+无声+有温度”的服务护航学子学习生活",
-          "summary": "[!--begin:htmlVideoCode--]e6271902d4cb4610a6eeaca69fda3c59,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 安徽多所高校近期推出一系列暖心举措，安徽信息工程学院就为完成晨跑要求以及备考考研、考公的学生推出暖心福利活动，仅需支付一分钱，这些学生即可领取一份搭配齐全的营养早餐，目的是通过正向激",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIxM88nagmIpnP0hsSNumj261124.shtml",
-          "published": "Tue, 24 Nov 2026 07:15:52 GMT"
-        },
-        {
-          "title": "时评丨中俄美元首历史性会晤 为什么在中国？",
-          "summary": "[!--begin:htmlVideoCode--]f44959cce4d24c48a736a07825b28c0b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 一件全球瞩目的大事在深圳发生。 11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。这是一次“和平峰会”，是载入史册的标志性事件，向世界发出了积极信号。 历史",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIKsIM3U3Mg6Yt3jwVUH9g261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:54:57 GMT"
-        },
-        {
-          "title": "韩国加码高考作弊举报悬赏 赏金最高5亿韩元",
-          "summary": "韩国官方反腐败机构国民权益委员会23日推出悬赏计划，鼓励举报高考作弊，提供线索者最高可获5亿韩元（约合247.5万元人民币）。 这一机构的通报显示，此举意在加强打击借助人工智能在大学修学能力考试（即高考）中作弊的行径，每条举报线索一经查实，一般赏金为1亿韩元（49.5万元人民币），最高可达5亿韩元。 委员会说：“本措施旨在鼓励公众举报作弊，维护韩国大学修学能力考试的公平性和公信力。” 悬赏举措是为",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml",
-          "published": "Tue, 24 Nov 2026 06:26:11 GMT"
-        },
-        {
-          "title": "神舟二十四号航天员乘组｜武毅：高效工作 圆满完成任务",
-          "summary": "[!--begin:htmlVideoCode--]47ceac3193b9467ebcace9e5fe7b5849,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 神舟二十四号航天员乘组的02号航天员武毅，毕业于国防科技大学，从陕西榆林走出的少年，到如今即将以神舟二十四号乘组航天飞行工程师的身份首次出征太空，一路走来，武毅跨越的不只是职业的边界",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIwLX3lPO2pGrDq1QOi5Kp261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:40:35 GMT"
-        },
-        {
-          "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发 警惕诱导消费和过度医疗",
-          "summary": "央视网消息： 据中国消费者协会消息，有媒体报道，陕西宝鸡一名63岁心梗老人因牙疼到当地一家民营口腔医院就医，被拔除全口12颗牙、种植10颗牙，不仅刷光手机内18800元，还欠费6200元，引发社会关注。从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI5PHLE0zX4iFWa4mM0XZs261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:04:10 GMT"
-        },
-        {
-          "title": "新制定的《殡仪馆管理办法》和新修订的《公墓管理办法》有何变化？一文了解↓",
-          "summary": "[!--begin:htmlVideoCode--]ee08ef08deb14a17ab859729f04282f9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 民政部23日公布了新制定的《殡仪馆管理办法》，进一步加强殡仪馆管理、提高殡仪服务水平。该《办法》将于2027年3月30日起正式施行。 《殡仪馆管理办法》强调，殡仪馆管理应当坚持公益惠",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI9HQddqwQ65kiHIpohevv261124.shtml",
-          "published": "Tue, 24 Nov 2026 02:58:48 GMT"
-        },
-        {
-          "title": "首批主动ETF上市 首日合计成交额超80亿元‌ 和普通基金有何不同？",
-          "summary": "[!--begin:htmlVideoCode--]822fbc92cd7f4b0792f9255eca70e53a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月23日，首批18只主动ETF上市，首日合计成交额超80亿元‌。主动ETF是什么？和其他基金有何不同？总台央视记者王雷财经老王带您读懂这个新上市的基金产品。 23日，首批主动ET",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIm5wqTLkbBBxneErVQOHz261124.shtml",
-          "published": "Tue, 24 Nov 2026 01:40:47 GMT"
-        },
-        {
-          "title": "印尼拟推矿业新政 七成采矿收益将归国家",
-          "summary": "巴赫利尔称：“我们需要资金来建设学校、基础设施等其他项目，这就需要利用自然资源潜力，提高国家财政收入。” 资料图：印尼南苏拉威西岛索罗瓦科的一个矿坑。图：视觉中国 【财新网】 作为全球重要的矿产资源生产及出口国，印度尼西亚正酝酿进一步收紧矿业政策，重新分配国家与私人资本在矿产资源开发中的利益。11月23日，印尼能源与矿产资源部长巴赫利尔在新闻发布会上表示，政府正在制定新规，以落实印尼总统普拉博沃此",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-24/102508253.html",
-          "published": "Tue, 24 Nov 2026 05:16:10 GMT"
-        },
-        {
-          "title": "大象无形：索尔曼版画回顾展｜观展",
-          "summary": "组画是索尔曼最自然的形式。他常常同时做好几件，让它们“展开一场想象中的对话”，彼此借用，有时借得相当直接。七套组画按年代挂在一起，看得出他32年来的创作轨迹 《史蒂文·索尔曼：组画——七套版画，1993—2025》，展期为2026年11月8日—12月20日。 2026年11月，美国版画家史蒂文·索尔曼（Steven Sorman）回顾展《组画》（Suites）在明尼苏达州红翼市的M.E.T. Pr",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://mini.caixin.com/2026-11-24/102508210.html",
-          "published": "Tue, 24 Nov 2026 04:35:42 GMT"
-        }
-      ]
-    },
-    {
-      "name": "国内军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "一见·看中国，三座APEC之城的时间印记",
-          "summary": "一座城有一座城的气质，从历史到现在，再到未来，从中可以感受立体鲜活的中国。 11月18日，世界目光聚焦“奇迹之城”，从“看五百年的中国去北京，看一百年的中国去上海”到“看五十年的中国就来深圳”，亚太经合组织第三十三次领导人非正式会议欢迎宴会上，习近平主席娓娓道来。 黄浦江畔，雁栖湖边，南海之滨，三座城与APEC牵手，以中国与世界同行的胸襟，彰显中国式现代化的万千气象。 50年，100年，500年，",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIL7GyVdrQnlV0ZM1zEbCA261124.shtml",
-          "published": "Tue, 24 Nov 2026 07:12:39 GMT"
-        },
-        {
-          "title": "大风蓝色预警：内蒙古山东等8省区部分地区阵风可达8至9级",
-          "summary": "央视网消息： 据中国天气网消息，中央气象台11月24日06时继续发布大风蓝色预警： 预计，11月24日08时至25日08时，内蒙古大部、河北北部、辽宁北部、吉林大部、黑龙江东部、山东半岛以及西藏中部、青海东北部和西南部等地部分地区有5～7级风，阵风8~9级。渤海、黄海中部和南部海域、东海海域、台湾海峡、台湾以东洋面、巴士海峡、南海中北部海域、北部湾将有7级、阵风8~9级的大风，其中东海南部部分海域",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIc7OkK39XCm15fW1hop86261124.shtml",
-          "published": "Tue, 24 Nov 2026 05:58:20 GMT"
-        },
-        {
-          "title": "神舟二十四号航天员乘组｜武毅：高效工作 圆满完成任务",
-          "summary": "[!--begin:htmlVideoCode--]47ceac3193b9467ebcace9e5fe7b5849,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 神舟二十四号航天员乘组的02号航天员武毅，毕业于国防科技大学，从陕西榆林走出的少年，到如今即将以神舟二十四号乘组航天飞行工程师的身份首次出征太空，一路走来，武毅跨越的不只是职业的边界",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIwLX3lPO2pGrDq1QOi5Kp261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:40:35 GMT"
-        },
-        {
-          "title": "韩国称俄军机进入韩防空识别区 将召见俄武官",
-          "summary": "新华社首尔11月24日电（记者张粲　孙一然）韩国军方24日说，数架俄罗斯军用飞机当天上午进入韩国东部海域防空识别区，随后接近郁陵岛，郁陵郡一度发布警戒警报。另据韩国国防部的消息，国防部将于当天下午召见俄罗斯驻韩武官。 韩国联合参谋本部当天说，韩军在俄军机进入韩国防空识别区前就已探测到相关飞机。在韩国军方采取应对措施期间，俄军机飞离相关区域。整个过程没有侵犯韩国领空。 韩国国防部发言人郑缤娜（音）当",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTIbIz47MrqP0cgA1IJUJAv261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:17:30 GMT"
-        }
-      ]
-    },
-    {
-      "name": "心理学",
-      "summary": "",
-      "items": [
-        {
-          "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发 警惕诱导消费和过度医疗",
-          "summary": "央视网消息： 据中国消费者协会消息，有媒体报道，陕西宝鸡一名63岁心梗老人因牙疼到当地一家民营口腔医院就医，被拔除全口12颗牙、种植10颗牙，不仅刷光手机内18800元，还欠费6200元，引发社会关注。从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/24/ARTI5PHLE0zX4iFWa4mM0XZs261124.shtml",
-          "published": "Tue, 24 Nov 2026 03:04:10 GMT"
+          "link": "https://www.caixin.com/2026-11-24/102508406.html",
+          "published": "Tue, 24 Nov 2026 14:28:50 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 62,
-    "total_collected": 46,
-    "sources": 5,
+    "total_items": 43,
+    "total_collected": 38,
+    "sources": 4,
     "source_list": [
-      "BBC中文",
-      "B站科技热门",
       "Hacker News",
-      "央视新闻",
+      "TechCrunch",
+      "The Verge",
       "财新网"
     ],
-    "domains": 6
+    "domains": 3
   }
 }

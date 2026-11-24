@@ -1,0 +1,384 @@
+{
+  "id": "2026-11-24-22",
+  "datetime": "2026-11-24 22:02:22",
+  "date": "2026-11-24",
+  "time": "22:02",
+  "period": "晚间",
+  "summary": "本期采集 38 篇文章，来自 4 个信息源，覆盖 3 个领域，精选 43 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "CIA Hacked",
+          "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 16 # Comments: 1",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+          "published": "Tue, 24 Nov 2026 21:24:27 +0000"
+        },
+        {
+          "title": "Working with AI",
+          "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 19 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.anthropic.com/research/working-with-ai",
+          "published": "Tue, 24 Nov 2026 21:07:38 +0000"
+        },
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 149 # Comments: 47",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://prismml.com/news/bonsai-2-5-27b",
+          "published": "Tue, 24 Nov 2026 20:08:03 +0000"
+        },
+        {
+          "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+          "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 30 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+          "published": "Tue, 24 Nov 2026 19:40:43 +0000"
+        },
+        {
+          "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+          "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 85 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://grafana.com/grafana/download",
+          "published": "Tue, 24 Nov 2026 19:23:44 +0000"
+        },
+        {
+          "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+          "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/ Comments URL: https://news.ycombinator.com/item?id=50632883 Points: 119 # Comments: 77",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+          "published": "Tue, 24 Nov 2026 19:03:55 +0000"
+        },
+        {
+          "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+          "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 173 ",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+          "published": "Tue, 24 Nov 2026 17:07:41 +0000"
+        },
+        {
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Tue, 24 Nov 2026 17:00:55 +0000"
+        },
+        {
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 229 # Comments: 94",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "published": "Tue, 24 Nov 2026 16:32:17 +0000"
+        },
+        {
+          "title": "Jetty Pro",
+          "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 226 # Comments: 89",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+          "published": "Tue, 24 Nov 2026 16:23:02 +0000"
+        },
+        {
+          "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+          "summary": "Article URL: https://arxiv.org/abs/2611.30835 Comments URL: https://news.ycombinator.com/item?id=50629962 Points: 68 # Comments: 28",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://arxiv.org/abs/2611.30835",
+          "published": "Tue, 24 Nov 2026 15:50:22 +0000"
+        },
+        {
+          "title": "A training engine for your local model, using your idle compute",
+          "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 131 # Comments: 37",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/sous-labs/songe",
+          "published": "Tue, 24 Nov 2026 15:03:40 +0000"
+        },
+        {
+          "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+          "summary": "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 106 # Comments: 72",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+          "published": "Tue, 24 Nov 2026 14:54:10 +0000"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Working with AI",
+          "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 19 # Comments: 8",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.anthropic.com/research/working-with-ai",
+          "published": "Tue, 24 Nov 2026 21:07:38 +0000"
+        },
+        {
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP).",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50634426",
+          "published": "Tue, 24 Nov 2026 20:44:15 +0000"
+        },
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 149 # Comments: 47",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://prismml.com/news/bonsai-2-5-27b",
+          "published": "Tue, 24 Nov 2026 20:08:03 +0000"
+        },
+        {
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://jobs.ashbyhq.com/weave-os",
+          "published": "Tue, 24 Nov 2026 17:00:55 +0000"
+        },
+        {
+          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is autom",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://news.ycombinator.com/item?id=50630809",
+          "published": "Tue, 24 Nov 2026 16:45:44 +0000"
+        },
+        {
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 229 # Comments: 94",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "published": "Tue, 24 Nov 2026 16:32:17 +0000"
+        },
+        {
+          "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+          "summary": "Hey HN, this is Alexander from Hatchet ( https://github.com/hatchet-dev/hatchet ). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud acco",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/hatchet-dev/brickie",
+          "published": "Tue, 24 Nov 2026 15:48:34 +0000"
+        },
+        {
+          "title": "A training engine for your local model, using your idle compute",
+          "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 131 # Comments: 37",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/sous-labs/songe",
+          "published": "Tue, 24 Nov 2026 15:03:40 +0000"
+        },
+        {
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "published": "Tue, 24 Nov 2026 21:48:27 +0000"
+        },
+        {
+          "title": "Even the best AI agents struggle with everyday life",
+          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+        },
+        {
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "published": "Tue, 24 Nov 2026 21:32:38 +0000"
+        },
+        {
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "published": "Tue, 24 Nov 2026 21:19:52 +0000"
+        },
+        {
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "published": "Tue, 24 Nov 2026 18:30:42 +0000"
+        },
+        {
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "published": "Tue, 24 Nov 2026 18:02:59 +0000"
+        },
+        {
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "published": "Tue, 24 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "published": "Tue, 24 Nov 2026 16:46:00 +0000"
+        },
+        {
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "published": "Tue, 24 Nov 2026 16:10:00 +0000"
+        },
+        {
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "published": "Tue, 24 Nov 2026 16:02:37 +0000"
+        },
+        {
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "published": "Tue, 24 Nov 2026 15:51:07 +0000"
+        },
+        {
+          "title": "TikTok was down",
+          "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "published": "2026-11-24T15:27:27-05:00"
+        },
+        {
+          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "published": "2026-11-24T15:02:03-05:00"
+        },
+        {
+          "title": "Amazon is knocking almost $50 off six months of Apple TV",
+          "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US.",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+          "published": "2026-11-24T14:00:00-05:00"
+        },
+        {
+          "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+          "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN pane",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+          "published": "2026-11-24T13:44:57-05:00"
+        },
+        {
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised quest",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "published": "2026-11-24T13:15:00-05:00"
+        },
+        {
+          "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+          "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you foc",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+          "published": "2026-11-24T12:30:00-05:00"
+        },
+        {
+          "title": "Tidal will start banning AI-generated music next month",
+          "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "published": "2026-11-24T12:17:09-05:00"
+        },
+        {
+          "title": "小米三季度经调整净利润下滑近六成 预计明年存储成本仍承压",
+          "summary": "卢伟冰认为DRAM供需紧张局面短期内难以缓解，手机平均售价将继续提升，汽车业务亦将面临成本上涨压力 【财新网】 存储成本持续上涨、汽车业务增长承压、AI投入增加，小米业绩仍未走出下行区间。11月24日晚间，小米集团（01810.HK）发布三季度财报，当季录得营收1072.40亿元，同比下滑5.2%、环比下滑1.5%；经调整净利润为48.84亿元，同比下滑56.8%、环比下滑21.5%。 尽管营收同",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-24/102508402.html",
+          "published": "Tue, 24 Nov 2026 14:22:15 GMT"
+        },
+        {
+          "title": "蚂蚁发AI数据库平台 传统数据库AI营收超1亿元",
+          "summary": "数据库公司OceanBase7月开始首轮外部融资，杨冰告诉财新，对于IPO已经做好准备 【财新网】 “研发团队现在是一分为二、齐头并进的状态。传统数据库产品成熟度更高，我们是国内国外都做的，而且我不觉得国内数据库到了不需要去做的状态，在各方面还需要很多的投入，”11月24日，OceanBase CEO杨冰在蚂蚁OceanBase AI数据大会后接受财新采访时表示，对于未来上市，他称已经做好准备。 ",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-24/102508396.html",
+          "published": "Tue, 24 Nov 2026 14:07:33 GMT"
+        },
+        {
+          "title": "华为AI专利超8000件 2025年专利许可收入8亿美元",
+          "summary": "华为AI相关专利占比13%，是无限通讯（占比41%），终端设备（占比16%）之外第三大专利方向 【财新网】 2025年，华为专利许可收入8亿美元。11月24日，华为在2026年创新和知识产权论坛上公布一系列研发投入和专利相关数据。 “华为AI相关专利超过8000件，占比13%，”华为业务规划与重大项目部部长张肖午介绍，在活跃授权专利中，无线通信占比41%，终端设备占比16%：“截至2025年底，华",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-24/102508391.html",
+          "published": "Tue, 24 Nov 2026 14:04:02 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "B站三季度盈利8亿元 CEO陈睿称很多B站用户不看短剧",
+          "summary": "公司广告收入同比增长20%，陈睿称其内容消费习惯并不是追求轻松刺激的“杀时间” 【财新网】 11月24日，哔哩哔哩（NASDAQ：BILI/09626.HK，下称“B站”）披露三季度业绩，总营收83.2亿元，同比增长8%，维持前两季度增速；净利润5.04亿元，同比增加7%；非通用会计准则（Non-GAAP）下的经调整净利润为8.33亿元，同比增长5.8%。 受业绩带动，11月24日美股盘前交易时段",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-24/102508406.html",
+          "published": "Tue, 24 Nov 2026 14:28:50 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 43,
+    "total_collected": 38,
+    "sources": 4,
+    "source_list": [
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "财新网"
+    ],
+    "domains": 3
+  }
+}
