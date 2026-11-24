@@ -1,6 +1,27 @@
 {
   "briefings": [
     {
+      "id": "2026-11-24-08",
+      "datetime": "2026-11-24 08:53:35",
+      "date": "2026-11-24",
+      "time": "08:53",
+      "period": "上午",
+      "summary": "本期采集 46 篇文章，来自 5 个信息源，覆盖 6 个领域，精选 62 条摘要",
+      "stats": {
+        "total_items": 62,
+        "total_collected": 46,
+        "sources": 5,
+        "source_list": [
+          "BBC中文",
+          "B站科技热门",
+          "Hacker News",
+          "央视新闻",
+          "财新网"
+        ],
+        "domains": 6
+      }
+    },
+    {
       "id": "2026-11-23-19",
       "datetime": "2026-11-23 19:55:50",
       "date": "2026-11-23",
@@ -4396,28 +4417,6 @@
           "Hacker News",
           "The Verge",
           "华尔街见闻"
-        ],
-        "domains": 6
-      }
-    },
-    {
-      "id": "2026-09-03-03",
-      "datetime": "2026-09-03 03:27:27",
-      "date": "2026-09-03",
-      "time": "03:27",
-      "period": "凌晨",
-      "summary": "本期采集 57 篇文章，来自 6 个信息源，覆盖 6 个领域，精选 90 条摘要",
-      "stats": {
-        "total_items": 90,
-        "total_collected": 57,
-        "sources": 6,
-        "source_list": [
-          "Hacker News",
-          "TechCrunch",
-          "The Verge",
-          "华尔街见闻",
-          "少数派",
-          "财新网"
         ],
         "domains": 6
       }
