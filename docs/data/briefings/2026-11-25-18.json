@@ -1,0 +1,642 @@
+{
+  "id": "2026-11-25-18",
+  "datetime": "2026-11-25 18:30:08",
+  "date": "2026-11-25",
+  "time": "18:30",
+  "period": "晚间",
+  "summary": "本期采集 59 篇文章，来自 6 个信息源，覆盖 7 个领域，精选 72 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Why aren't we working 2-days a week?",
+          "summary": "Article URL: https://anihil.com/why-arent-we-working-2-days-a-week Comments URL: https://news.ycombinator.com/item?id=50645010 Points: 28 # Comments: 25",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://anihil.com/why-arent-we-working-2-days-a-week",
+          "published": "Wed, 25 Nov 2026 17:37:17 +0000"
+        },
+        {
+          "title": "1Password Security Incident",
+          "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 152 # Comments: 72",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "published": "Wed, 25 Nov 2026 17:18:26 +0000"
+        },
+        {
+          "title": "Investigating degraded experiences across GitHub products",
+          "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 139 # Comments: 71",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+          "published": "Wed, 25 Nov 2026 15:59:23 +0000"
+        },
+        {
+          "title": "In C++, = default and {} are not the same constructor",
+          "summary": "Article URL: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/ Comments URL: https://news.ycombinator.com/item?id=50643199 Points: 45 # Comments: 80",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+          "published": "Wed, 25 Nov 2026 15:20:15 +0000"
+        },
+        {
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 280 # Comments: 77",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "published": "Wed, 25 Nov 2026 15:14:32 +0000"
+        },
+        {
+          "title": "Rumors swirling that labs might have cracked Factoring in P",
+          "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 225 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+          "published": "Wed, 25 Nov 2026 15:08:44 +0000"
+        },
+        {
+          "title": "I checked Clojure's core with Lean and found unreported bugs",
+          "summary": "Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 60 # Comments: 21",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://s.conao3.com/blog/2026/e4f733",
+          "published": "Wed, 25 Nov 2026 14:56:52 +0000"
+        },
+        {
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 304 # Comments: 242",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+          "published": "Wed, 25 Nov 2026 13:33:07 +0000"
+        },
+        {
+          "title": "Hazel (YC W24) Is Hiring a Product Designer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+          "published": "Wed, 25 Nov 2026 12:00:34 +0000"
+        },
+        {
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "summary": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 247 # Comments: 141",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/xoxorwr/pw-loudness-eq",
+          "published": "Wed, 25 Nov 2026 11:34:25 +0000"
+        },
+        {
+          "title": "韩国政府公布31个部门和机构搬迁计划",
+          "summary": "△韩国（资料图） 韩国行政安全部24日发布中央行政机关等搬迁计划变更公告，计划到2031年，将中央行政机关等31个部门和机构的5460名公务员迁往世宗市。首批22家机构将租用民间建筑等场所办公，于明年完成搬迁。另外9家需要专门办公楼及特殊设施的机构，将迁入新建办公楼，并于2031年前完成搬迁。 此次公告未涵盖须修订相关法律法规方可迁址的政府部门和机构及随其一同迁移的所属机构，包括外交部、统一部、国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIIVTX5wFdDu5O3nXvJFYz261125.shtml",
+          "published": "Wed, 25 Nov 2026 15:23:02 GMT"
+        },
+        {
+          "title": "伊朗副总统称不惧美国封锁 将采取措施稳物价",
+          "summary": "伊朗第一副总统穆罕默德·礼萨·阿雷夫25日说，伊朗不惧怕美国海上封锁，伊朗政府正采取措施遏制物价上涨。 阿雷夫表示，除沿波斯湾的南部边境外，伊朗其他边境口岸的货物卸载和清关量显著增加，表明伊朗“不惧敌方海上封锁”。他表示，伊朗目前战略物资储备充足，供应丰富。但他未提及具体数据。 阿雷夫还表示，政府计划在至少三个月内确保基本生活物资价格稳定。伊朗统计中心数据显示，该国10月消费价格同比上涨88.7%",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml",
+          "published": "Wed, 25 Nov 2026 11:51:20 GMT"
+        },
+        {
+          "title": "完善全球治理，携手迈向人类命运共同体",
+          "summary": "坚持相互尊重、平等相待、增进理解，才能把构建人类命运共同体转化为各国共同担当，共同开辟人类持久和平、共同繁荣的前景 不久前，我参加了2026全球治理论坛（雄安），同来自97个国家和国际组织的各界代表共商全球治理的未来走向。聆听与会代表发言后，我更加确信：世界需要改革完善全球治理体系，让各国享有更加公平的发言权与代表性。 本次论坛举行之际，恰逢习近平主席提出全球治理倡议一周年，也是联合国宪章生效81",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:21 GMT"
+        },
+        {
+          "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
+          "summary": "新华社东京11月25日电（记者李子越 陈泽安）据日本《朝日新闻》24日报道，日本政府正在研究修改“防卫装备转移三原则”，或删除其前言中有关“无核三原则”等内容的表述。结合近期日本政府拟在修订“安保三文件”时为“无核三原则”设置例外情形的动向，这一消息引发广泛担忧。 “防卫装备转移三原则”是规范日本对外出口武器的政策文件。今年4月，日本政府通过内阁决议，完成对“防卫装备转移三原则”及其运用指南的修改",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI31lT2UoOhJIaVSIwMK4e261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:47 GMT"
+        },
+        {
+          "title": "“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯",
+          "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议近日在广东深圳举行。在全球经济格局深刻演变、多边贸易体系面临多重挑战之际，今年的APEC会议备受瞩目。不久前，英国国际关系专家、“全球经济指标”（Global Economic Indicator）分析平台创始人瑞恩·珀金斯在明德战略对话（2026）期间接受了人民日报专访。该活动由中国人民大学主办、中国人民大学重阳金融研究院与全球领导力学院承办。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:37 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "Rumors swirling that labs might have cracked Factoring in P",
+          "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 225 # Comments: 16",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+          "published": "Wed, 25 Nov 2026 15:08:44 +0000"
+        },
+        {
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "published": "Wed, 25 Nov 2026 18:11:46 +0000"
+        },
+        {
+          "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "published": "Wed, 25 Nov 2026 17:35:58 +0000"
+        },
+        {
+          "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+          "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+          "published": "Wed, 25 Nov 2026 14:20:28 +0000"
+        },
+        {
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "published": "Wed, 25 Nov 2026 14:10:18 +0000"
+        },
+        {
+          "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+          "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+          "published": "Wed, 25 Nov 2026 13:08:19 +0000"
+        },
+        {
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+          "published": "Wed, 25 Nov 2026 13:00:00 +0000"
+        },
+        {
+          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+          "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+          "published": "2026-11-25T13:00:00-05:00"
+        },
+        {
+          "title": "The loneliest peptide party in New York",
+          "summary": "This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+          "published": "2026-11-25T13:00:00-05:00"
+        },
+        {
+          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+          "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "published": "2026-11-25T12:44:51-05:00"
+        },
+        {
+          "title": "Nothing offers a full look at its AI earbuds and charging case",
+          "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "published": "2026-11-25T11:00:59-05:00"
+        },
+        {
+          "title": "The Verge’s guide to affordable holiday gifts under $25",
+          "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we'r",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+          "published": "2026-11-25T10:00:00-05:00"
+        },
+        {
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly cente",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "published": "2026-11-25T09:12:33-05:00"
+        },
+        {
+          "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
+          "summary": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 f",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+          "published": "2026-11-25T09:00:00-05:00"
+        },
+        {
+          "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+          "summary": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upg",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+          "published": "2026-11-25T08:30:00-05:00"
+        },
+        {
+          "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
+          "summary": "一波與中國有關的帳號用AI生成影片，攻擊台灣執政黨關鍵人物，包括總統賴清德和台北市長候選人沈伯洋。",
+          "importance": "medium",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 11:53:06 GMT"
+        },
+        {
+          "title": "济滨高铁试运行 山东最大地下高铁站同步测试",
+          "summary": "11月25日8:30，55301次试验动车组列车从济南东站平稳驶出，标志着新建天津至潍坊高速铁路济南联络线——济滨高铁的联调联试圆满结束，正式进入试运行阶段，全线开通运营进入倒计时。 济滨高铁自济南东站引出，终到滨州站，正线全长约145.3公里，设计时速350公里。 全线设济南东、遥墙机场、济阳、商河、惠民、滨州6座车站， 其中济南东站、滨州站为既有站，其余为新建站。 高铁线路试运行即运行试验，是",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIAjcufVK0w37QHI1WrCNB261125.shtml",
+          "published": "Wed, 25 Nov 2026 13:27:31 GMT"
+        },
+        {
+          "title": "雄安高新区OPC科创社区成立 首批11家企业入驻",
+          "summary": "25日下午，由雄安高新区管委会与雄安新区中关村科技园联合打造的“雄安高新区OPC科创社区”正式运营，11家OPC企业集中入驻。 雄安高新区OPC科创社区秉持“开放与独立兼顾、工作与休闲融合”的理念：一层设共享办公、共享直播、路演区、咖啡区与静音仓，满足单人起步的灵活需求；二层设大面积独立套间，精准承接初创团队的加速扩张。配套已投用的社区食堂与人才公寓，实现“楼上安居、楼下创业”的一体化生态。 雄安",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://jingji.cctv.com/2026/11/25/ARTIaC4bjR7SyHHYlUctgl3M261125.shtml",
+          "published": "Wed, 25 Nov 2026 13:01:31 GMT"
+        },
+        {
+          "title": "为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）",
+          "summary": "“将‘建设亚太共同体，促进共同繁荣’作为亚太经合组织（APEC）第三十三次领导人非正式会议主题，这对媒体来说至关重要。”马来西亚国家新闻社首席执行官努鲁·阿菲达日前在接受人民日报记者专访时表示，我们应共同学习、共同创新、共同赢得受众信任，为建设亚太共同体贡献媒体力量。 亚太是全球经济最具活力的地区之一。在努鲁·阿菲达看来，APEC相关议程围绕贸易、投资、数字化、人工智能、供应链等展开。将这些议题与",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:26 GMT"
+        },
+        {
+          "title": "新动能是一步一步闯出来的（经济新方位·八大重点任务看落实）",
+          "summary": "2026年的中国经济，一个“新”字，格外亮眼。一年来，围绕“坚持创新驱动，加紧培育壮大新动能”重点任务，各项部署落地见效，新产业蓬勃壮大、新需求拔节生长、新旧动能转换扎实推进，高质量发展动能澎湃。 创新的“底座”更坚实了。一体推进教育科技人才发展，倍增效应持续放大。国家自然科学基金今年资助10类项目超6.9万项，其中青年科学基金项目增幅达50.1%。截至今年9月底校企联合招收培养工程硕博士近3.6",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIrMtpUuIpHjkRBFbR9Gfw261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:43:36 GMT"
+        },
+        {
+          "title": "中国移动、中国电信相继启动大规模超节点集采 运营商加码智算投资",
+          "summary": "两家运营商正在通过跨年度设备集采，为后续智算基础设施建设安排设备供给 【财新网】 国内两大运营商相继启动大规模智算设备采购，超节点成为采购重点。11月20日，中国移动（600941.SH/00941.HK）启动2026年至2027年新一代AI超节点设备第二批集中采购，采购规模为52160卡，约为9月底启动的第一批采购的2.5倍。此前的11月16日，中国电信（601728.SH/00728.HK）启",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-25/102508739.html",
+          "published": "Wed, 25 Nov 2026 13:45:57 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "国台办：唱衰两岸经济合作的政治操弄都徒劳无功",
+          "summary": "[!--begin:htmlVideoCode--]16b968d4efc8405a80dbb87d3b873e66,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 近期，国务院台办与中国进出口银行签署《“十五五”时期促进两岸融合发展金融合作协议》。针对台陆委会就此发出的相关言论，在11月25日举行的国务院台办例行新闻发布会上，发言人张晗表示，大陆产业门类齐全",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/26/ARTIkFL4qKblAbYMt0CC1ROI261125.shtml",
+          "published": "Wed, 25 Nov 2026 18:02:36 GMT"
+        },
+        {
+          "title": "80款样品比较试验 看冲锋衣应该怎么选",
+          "summary": "[!--begin:htmlVideoCode--]a83d2fc7be274c3999d566231a422840,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 随着户外运动越来越受欢迎，冲锋衣成为不少人亲近自然或日常穿着的选择，那么现在市场上的冲锋衣质量如何？消费者又该如何选购？近日，北京市消费者协会对市面上80款冲锋衣开展了比较试验，下面就来看看试验结",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/26/ARTIeGRVQkWDZc5wQoimsHfM261125.shtml",
+          "published": "Wed, 25 Nov 2026 17:02:28 GMT"
+        },
+        {
+          "title": "韩国政府公布31个部门和机构搬迁计划",
+          "summary": "△韩国（资料图） 韩国行政安全部24日发布中央行政机关等搬迁计划变更公告，计划到2031年，将中央行政机关等31个部门和机构的5460名公务员迁往世宗市。首批22家机构将租用民间建筑等场所办公，于明年完成搬迁。另外9家需要专门办公楼及特殊设施的机构，将迁入新建办公楼，并于2031年前完成搬迁。 此次公告未涵盖须修订相关法律法规方可迁址的政府部门和机构及随其一同迁移的所属机构，包括外交部、统一部、国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIIVTX5wFdDu5O3nXvJFYz261125.shtml",
+          "published": "Wed, 25 Nov 2026 15:23:02 GMT"
+        },
+        {
+          "title": "我国加快推进长期护理保险制度建设",
+          "summary": "[!--begin:htmlVideoCode--]d0b60856929d4dc0a172498a2c3bec9b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：2026年度长期照护师职业技能等级认定第四次省际联考近日举行，全国共有2.6万余名考生报名参加本次考试。近年来，国家医保局持续推动长期照护师队伍建设，为全面推开长期护理保",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIIFDPf6WY72KPVGez9y37261125.shtml",
+          "published": "Wed, 25 Nov 2026 12:24:09 GMT"
+        },
+        {
+          "title": "大连海关原关长刘大立受贿、挪用公款、洗钱案一审宣判",
+          "summary": "央视网消息： 据“北京四中院”公众号消息，11月25日，北京市第四中级人民法院依法公开宣判大连海关原党委书记、关长刘大立受贿、挪用公款、洗钱一案，对被告人刘大立以受贿罪判处有期徒刑八年，并处罚金人民币八十万元；以挪用公款罪判处有期徒刑三年；以洗钱罪判处有期徒刑一年，并处罚金人民币四万元；决定执行有期徒刑十年六个月，并处罚金人民币八十四万元。对被告人刘大立的犯罪所得依法予以追缴，上缴国库。",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIXCa3dyOqksHCiR9x8WdN261125.shtml",
+          "published": "Wed, 25 Nov 2026 11:53:58 GMT"
+        },
+        {
+          "title": "伊朗副总统称不惧美国封锁 将采取措施稳物价",
+          "summary": "伊朗第一副总统穆罕默德·礼萨·阿雷夫25日说，伊朗不惧怕美国海上封锁，伊朗政府正采取措施遏制物价上涨。 阿雷夫表示，除沿波斯湾的南部边境外，伊朗其他边境口岸的货物卸载和清关量显著增加，表明伊朗“不惧敌方海上封锁”。他表示，伊朗目前战略物资储备充足，供应丰富。但他未提及具体数据。 阿雷夫还表示，政府计划在至少三个月内确保基本生活物资价格稳定。伊朗统计中心数据显示，该国10月消费价格同比上涨88.7%",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml",
+          "published": "Wed, 25 Nov 2026 11:51:20 GMT"
+        },
+        {
+          "title": "一见·在改革开放先行地，总书记始终关注创新",
+          "summary": "岭南冬暖，珠江潮起处，活力奔涌。 “创新是引领发展的第一动力”。深圳APEC会议期间，习近平主席提出携手搭建亚太共同体的“四梁八柱”，明确“打造创新支柱”；阐释促进亚太共同繁荣的四点主张，强调“要激发创新增长动力。” “下大气力推动科技创新和产业创新深度融合，不断迈出推动高质量发展新步伐。”会议前夕，习近平总书记来到广东中山市的湾区未来科技城考察。 得风气之先，挺时代潮头，“广东是一个窗口。”党的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIVICGUPPRXSeZFV36zigj261125.shtml",
+          "published": "Wed, 25 Nov 2026 11:37:46 GMT"
+        },
+        {
+          "title": "“坚定信心、勇毅前行，携手建设亚太共同体”",
+          "summary": "2026年11月，中国深圳，亚太合作的征途，铸刻下新的历史坐标。 “面对新的机遇和挑战，亚太合作必须适应新形势、迈出新步伐、开创新局面，推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体。”亚太经合组织（APEC）第三十三次领导人非正式会议上，习近平主席就“建设什么样的亚太共同体、怎样建设亚太共同体”深入阐述中国主张，邀约各方携手搭建亚太共同体的“四梁八柱”。 促进亚太增长和繁荣，APEC",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIa0SODl8Qu2Jgm6yTA7uG261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:47:06 GMT"
+        },
+        {
+          "title": "“我乘飞机23小时跨越太平洋，只为拥抱中国新疆扑面而来的温暖”",
+          "summary": "“我乘飞机23小时，跨越太平洋，只为拥抱中国新疆扑面而来的温暖。”11月24日，美国加州皮科里维拉市议员埃里克·卢茨的一句感慨，道出远道而来各位外宾的心声。 当天，参加2026世界市长对话·乌鲁木齐活动的巴基斯坦、蒙古国、俄罗斯、乌兹别克斯坦、美国等五国外宾相聚克拉玛依市克拉玛依区昆仑路街道南苑·南泉社区邻里共享中心，参加这场热气腾腾的百家宴活动。在这里，外宾近距离感受新疆社会稳定、民生向好、各族",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTICACU9AZE0hiax8etj5rK261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:56 GMT"
+        },
+        {
+          "title": "中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特",
+          "summary": "“中国绿色技术的进步，降低了全球实现净零碳排放的成本。”澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特近日在接受本报记者采访时表示，中国绿色产业快速发展，不仅为全球应对气候变化作出重要贡献，也为亚太地区深化经贸合作创造了新机遇。 加诺特长期关注亚太经济合作与气候变化政策。在他看来，中国在太阳能电池板、风力发电机组、储能电池、电动汽车、制氢电解槽等领域取得显著进展。相关产品性能不断提升、成本持",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIyNpgrcpl22up4bHg7qdC261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:32 GMT"
+        },
+        {
+          "title": "递稳跨年政策衔接“交接棒”",
+          "summary": "临近年末，谋划来年经济工作、做好跨年度政策衔接成为宏观调控的重点。近期召开的国务院常务会议提出，要认真研究明年经济工作思路，加强跨年度政策衔接，推动经济持续向好。 今年以来，更加积极有为的宏观政策持续发力，经济保持总体平稳、向新向优发展态势。从更加积极的财政政策到适度宽松的货币政策，从支出规模扩大、财政金融协同，到“六张网”规划建设、“两重”“两新”扎实推进，一系列政策落地显效，成为稳增长、扩内需",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIBViaVxwd7Qaf8PuKvWqv261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:45:25 GMT"
+        },
+        {
+          "title": "“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯",
+          "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议近日在广东深圳举行。在全球经济格局深刻演变、多边贸易体系面临多重挑战之际，今年的APEC会议备受瞩目。不久前，英国国际关系专家、“全球经济指标”（Global Economic Indicator）分析平台创始人瑞恩·珀金斯在明德战略对话（2026）期间接受了人民日报专访。该活动由中国人民大学主办、中国人民大学重阳金融研究院与全球领导力学院承办。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:37 GMT"
+        },
+        {
+          "title": "为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）",
+          "summary": "“将‘建设亚太共同体，促进共同繁荣’作为亚太经合组织（APEC）第三十三次领导人非正式会议主题，这对媒体来说至关重要。”马来西亚国家新闻社首席执行官努鲁·阿菲达日前在接受人民日报记者专访时表示，我们应共同学习、共同创新、共同赢得受众信任，为建设亚太共同体贡献媒体力量。 亚太是全球经济最具活力的地区之一。在努鲁·阿菲达看来，APEC相关议程围绕贸易、投资、数字化、人工智能、供应链等展开。将这些议题与",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:26 GMT"
+        },
+        {
+          "title": "“世界工厂”迈向科创高地——广东经济生态观察之一",
+          "summary": "编者按 党的十八大以来，习近平总书记多次考察广东，对广东高质量发展作出科学部署。牢记总书记殷殷嘱托，广东踔厉奋发，担当作为，着力打造经济生态，推进高质量发展和现代化建设，取得可喜进展和显著成效。即日起，本报推出“广东经济生态观察”调研，敬请关注。 近日，世界知识产权组织发布2026年全球百强创新集群，“深圳—香港—广州”创新集群蝉联全球第一。 从“东京—横滨”到“圣何塞—旧金山”，全球顶尖创新集群",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI3lNvwQQwFPT62Woji0ry261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:04 GMT"
+        },
+        {
+          "title": "新动能是一步一步闯出来的（经济新方位·八大重点任务看落实）",
+          "summary": "2026年的中国经济，一个“新”字，格外亮眼。一年来，围绕“坚持创新驱动，加紧培育壮大新动能”重点任务，各项部署落地见效，新产业蓬勃壮大、新需求拔节生长、新旧动能转换扎实推进，高质量发展动能澎湃。 创新的“底座”更坚实了。一体推进教育科技人才发展，倍增效应持续放大。国家自然科学基金今年资助10类项目超6.9万项，其中青年科学基金项目增幅达50.1%。截至今年9月底校企联合招收培养工程硕博士近3.6",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIrMtpUuIpHjkRBFbR9Gfw261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:43:36 GMT"
+        },
+        {
+          "title": "特朗普政府欲以“产能过剩”为由对华加征20%关税 预计最早明年生效",
+          "summary": "郭嘉昆表示，关税战、贸易战不符合任何一方利益，双方应在平等、尊重、互惠的基础上协商解决有关问题 【财新网】 11月25日，即美国感恩节假期到来前一天，特朗普政府根据过去数月针对美国主要贸易伙伴有关所谓“产能过剩”的调查结果，提出了征收关税的应对措施草案，但除了中国外，此次特朗普政府对欧盟、日韩、中国台湾地区、越南等贸易伙伴出台的关税，并不与现有关税叠加，预计这些经济体面临的美国关税税率不会出现实际",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-25/102508752.html",
+          "published": "Wed, 25 Nov 2026 14:46:45 GMT"
+        },
+        {
+          "title": "中国移动、中国电信相继启动大规模超节点集采 运营商加码智算投资",
+          "summary": "两家运营商正在通过跨年度设备集采，为后续智算基础设施建设安排设备供给 【财新网】 国内两大运营商相继启动大规模智算设备采购，超节点成为采购重点。11月20日，中国移动（600941.SH/00941.HK）启动2026年至2027年新一代AI超节点设备第二批集中采购，采购规模为52160卡，约为9月底启动的第一批采购的2.5倍。此前的11月16日，中国电信（601728.SH/00728.HK）启",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-25/102508739.html",
+          "published": "Wed, 25 Nov 2026 13:45:57 GMT"
+        },
+        {
+          "title": "安永：今年港股IPO集资额4300亿港元 料2027年回落至3000亿",
+          "summary": "安永提到，9月以来，二级市场香港新股破发率明显攀升，也反映出投资者对估值与基本面要求严苛 2026年8月19日，香港证券交易所。图：李志华/中新社/视觉中国 【财新网】 安永最新预估，2026年香港新股集资额累计达4300亿港元，略低于2010年4495亿港元的历史纪录。不过，随着下半年港股IPO市场转冷，安永预计2027年首季弱势延续，全年“先承压、后回暖”，年度新股集资额回落至约3000亿港元",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-25/102508733.html",
+          "published": "Wed, 25 Nov 2026 12:50:25 GMT"
+        },
+        {
+          "title": "美司法部起诉华为案获裁决 华为称将全面审慎评估",
+          "summary": "华为官网发布声明称，裁决检方对华为《反勒索及受贿组织法》（RICO）相关的指控无罪，华为对此表示欢迎。“这一裁决有力地证明，检方对华为的指控缺乏事实根据，也充分印证了八年来我们的一贯立场。”华为同时称，检方的其他指控同样缺乏实质的法律与事实依据 当地时间2026年11月24日，美国纽约布鲁克林区，华为技术有限公司律师布莱恩·赫伯利格（Brian Heberlig）在联邦法院外对记者讲话。图：视觉中",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-25/102508728.html",
+          "published": "Wed, 25 Nov 2026 11:28:05 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "韩国政府公布31个部门和机构搬迁计划",
+          "summary": "△韩国（资料图） 韩国行政安全部24日发布中央行政机关等搬迁计划变更公告，计划到2031年，将中央行政机关等31个部门和机构的5460名公务员迁往世宗市。首批22家机构将租用民间建筑等场所办公，于明年完成搬迁。另外9家需要专门办公楼及特殊设施的机构，将迁入新建办公楼，并于2031年前完成搬迁。 此次公告未涵盖须修订相关法律法规方可迁址的政府部门和机构及随其一同迁移的所属机构，包括外交部、统一部、国",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIIVTX5wFdDu5O3nXvJFYz261125.shtml",
+          "published": "Wed, 25 Nov 2026 15:23:02 GMT"
+        },
+        {
+          "title": "习近平对党内法规工作作出重要指示",
+          "summary": "[!--begin:htmlVideoCode--]bd29ccb69f1b4b68a700381385e3b62e,0,1,16:9,news[!--end:htmlVideoCode--] 习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话 中共中央总书记、国家主席、中央军委主席习近平近日对党内法规工作作",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI3AFDVKTlflXhOnDN1zWk261125.shtml",
+          "published": "Wed, 25 Nov 2026 11:24:01 GMT"
+        },
+        {
+          "title": "大风蓝色预警：新疆青海等8省区部分地区阵风可达7至9级",
+          "summary": "央视网消息： 据中国天气网消息，中央气象台11月25日18时发布大风蓝色预警： 预计，11月25日20时至26日20时，新疆东部、青海、甘肃西部、宁夏、陕西北部、内蒙古中西部、山西中北部、河北西部和北部等地部分地区有5~6级风，阵风7~9级。黄海北部和中部海域、巴士海峡、南海东北部偏东海域将有7级、阵风8级的大风。 预计，11月26日20时至27日20时，青海东部、宁夏、内蒙古、陕西北部、山西、河",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIXX72FlTPm7kOSXK0Vjmt261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "陈予彤，好样的！高三女生跪地10分钟救回同学",
+          "summary": "[!--begin:htmlVideoCode--]d9eb2c1b9f5f41459705ee7b7c48d018,6,1,9:16,newPlayer[!--end:htmlVideoCode--] 近日，湖北荆门一中学，一名学生跑步时突然晕倒、意识丧失。危急关头，高三学生陈予彤临危不惧，跪地不间断实施10分钟胸外按压，老师第一时间拨打120。师生协同处置，为救治争取了宝贵时间。 经救治，遇险",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://people.cctv.com/2026/11/25/ARTIrtQXJSpZGSPw7Ztzwn8c261125.shtml",
+          "published": "Wed, 25 Nov 2026 14:09:26 GMT"
+        },
+        {
+          "title": "中国空间站迎首位外籍航天员 北航外国留学生共庆历史时刻",
+          "summary": "11月25日，北京航空航天大学的外国留学生共同观看了神舟二十四号载人飞船发射的直播。他们来自不同国家和地区，但都为这一历史时刻共同欢庆。 [!--begin:htmlVideoCode--]dd78dec706254d2a829bde2600cb0ffd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 据中国载人航天工程办公室消息，北京时间2026年11月25",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIGJKsnt4QBZcTCI1WWiYb261125.shtml",
+          "published": "Wed, 25 Nov 2026 14:01:18 GMT"
+        },
+        {
+          "title": "【学习贯彻五中全会精神在基层】甘肃：落实做细 把民生实事办到群众心坎上 浙江：用心用情服务好新就业群体",
+          "summary": "[!--begin:htmlVideoCode--]93c59d02c58d4acdbedc0e14a674e60f,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：甘肃、浙江深入学习贯彻党的二十届五中全会精神，党员干部聚焦群众的身边事、关心事，积极提升为民服务水平，推动全会精神深入人心、落到实处。 甘肃：落实做细 把民生实事办到群众",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTInaDa2o0hHactE2PpyaJr261125.shtml",
+          "published": "Wed, 25 Nov 2026 12:07:07 GMT"
+        },
+        {
+          "title": "“用世界的眼光看中国，用中国的眼光看世界”（我和中国的故事）",
+          "summary": "金江在香港中文大学（深圳）逸夫书院2025高桌晚宴上致辞。 受访者供图 金江在香港中文大学（深圳）逸夫书院“院长茶聚”中与书院学生交流。 香港中文大学（深圳）逸夫书院供图 金江为学生授课。 受访者供图 看点 看脸是“老外”，一张嘴却是“老内”——在广东深圳工作的劳里·皮尔西，中文名字叫金江。24年前他与中国结缘，此后87次往返中国，如今扎根粤港澳大湾区。从促进国际交流，到参与高校书院建设和人才培养",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIvstfwmzheFG1WIrY8j6I261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:46 GMT"
+        },
+        {
+          "title": "治理精度从哪儿来",
+          "summary": "需求生长一寸，治理跟进一步；治理更精细，民生会更暖 当精细治理成为共识，如何在实践中找准切口与路径，行之有效地把“精细”做实？近期两则媒体的报道，给出了生动答案。 一则是江西新余的新鲜事：摊主缺啥设备，政府按需免费“定制”。夜市上，有的摊主缺烤炉，有的需冰柜，还有的想要展示柜……相关部门改变“统一发三轮车”的旧思路，让摊主根据自身实际提出具体需求，实现“商家点菜、政府接单”。 另一则是重庆的日常事",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIDoEhI0Bqsn5LrGkZGD3t261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:10 GMT"
+        },
+        {
+          "title": "在实践中淬炼锻造干部干事创业真本领",
+          "summary": "【光明论坛】 近期，党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，明确提出“增强干部干事创业本领”，着重强调通过加强干部思想淬炼、政治历练、实践锻炼、专业训练，增强推动高质量发展本领、服务群众本领、防范化解风险本领、运用法治思维和法治方式开展工作本领，加强斗争精神和斗争本领养成。 在干部培养的过程中，实践锻炼发挥着关键性作用。干部干事创业所需的真本领，不能",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI1vu9IqOFfVPlyMEepMHo261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:45:06 GMT"
+        },
+        {
+          "title": "“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯",
+          "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议近日在广东深圳举行。在全球经济格局深刻演变、多边贸易体系面临多重挑战之际，今年的APEC会议备受瞩目。不久前，英国国际关系专家、“全球经济指标”（Global Economic Indicator）分析平台创始人瑞恩·珀金斯在明德战略对话（2026）期间接受了人民日报专访。该活动由中国人民大学主办、中国人民大学重阳金融研究院与全球领导力学院承办。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:37 GMT"
+        },
+        {
+          "title": "重庆73岁男子坠楼致2男孩被砸 官方通报：伤者无生命危险",
+          "summary": "央视网消息： 11月25日，重庆璧山区璧泉街道办事处发布情况通报： 2026年11月23日9时许，辖区仙山路一居民楼内发生一起人员坠落事件。 事件发生后，街道迅速联动公安、120急救等专业力量赶赴现场，开展救援工作。 经核实，吴某（男，73岁）因难以忍受病痛从自家高层住宅坠落，坠落碰撞三楼平台，致平台外墙瓷砖脱落，砸中楼下喻某睿（男，9岁）及其堂兄喻某鑫（男，14岁），造成喻某睿头部、喻某鑫右肩受",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIgiCbgmCWhGuqsrAdOR5x261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:33:26 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "设施风貌升级 北京公园“精雕细琢”还景于民",
+          "summary": "近期，在北京，不少市民游客在游玩时发现，各大公园景观视线更加开阔，人们与园林生态的距离感觉也更近了。记者从北京市公园管理中心获悉，这正是各大公园聚焦“精雕细琢塑美感 析美寻美创美”主题，从景观视线、园艺造景、设施风貌、展览展示、便民服务等方面更新提升带来的变化，让公园景观、建筑、文创、展览、服务之美可感、可触、可及，进一步提升市民游客游园体验。 拆除冗余遮挡 打通景观视线 各公园聚焦“视觉割裂、视",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIUVLS4o4vmDQzvYNsNHgv261125.shtml",
+          "published": "Wed, 25 Nov 2026 13:39:09 GMT"
+        },
+        {
+          "title": "完善全球治理，携手迈向人类命运共同体",
+          "summary": "坚持相互尊重、平等相待、增进理解，才能把构建人类命运共同体转化为各国共同担当，共同开辟人类持久和平、共同繁荣的前景 不久前，我参加了2026全球治理论坛（雄安），同来自97个国家和国际组织的各界代表共商全球治理的未来走向。聆听与会代表发言后，我更加确信：世界需要改革完善全球治理体系，让各国享有更加公平的发言权与代表性。 本次论坛举行之际，恰逢习近平主席提出全球治理倡议一周年，也是联合国宪章生效81",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:46:21 GMT"
+        },
+        {
+          "title": "在实践中淬炼锻造干部干事创业真本领",
+          "summary": "【光明论坛】 近期，党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，明确提出“增强干部干事创业本领”，着重强调通过加强干部思想淬炼、政治历练、实践锻炼、专业训练，增强推动高质量发展本领、服务群众本领、防范化解风险本领、运用法治思维和法治方式开展工作本领，加强斗争精神和斗争本领养成。 在干部培养的过程中，实践锻炼发挥着关键性作用。干部干事创业所需的真本领，不能",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI1vu9IqOFfVPlyMEepMHo261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:45:06 GMT"
+        },
+        {
+          "title": "为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）",
+          "summary": "“将‘建设亚太共同体，促进共同繁荣’作为亚太经合组织（APEC）第三十三次领导人非正式会议主题，这对媒体来说至关重要。”马来西亚国家新闻社首席执行官努鲁·阿菲达日前在接受人民日报记者专访时表示，我们应共同学习、共同创新、共同赢得受众信任，为建设亚太共同体贡献媒体力量。 亚太是全球经济最具活力的地区之一。在努鲁·阿菲达看来，APEC相关议程围绕贸易、投资、数字化、人工智能、供应链等展开。将这些议题与",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:26 GMT"
+        },
+        {
+          "title": "“世界工厂”迈向科创高地——广东经济生态观察之一",
+          "summary": "编者按 党的十八大以来，习近平总书记多次考察广东，对广东高质量发展作出科学部署。牢记总书记殷殷嘱托，广东踔厉奋发，担当作为，着力打造经济生态，推进高质量发展和现代化建设，取得可喜进展和显著成效。即日起，本报推出“广东经济生态观察”调研，敬请关注。 近日，世界知识产权组织发布2026年全球百强创新集群，“深圳—香港—广州”创新集群蝉联全球第一。 从“东京—横滨”到“圣何塞—旧金山”，全球顶尖创新集群",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI3lNvwQQwFPT62Woji0ry261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:44:04 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "呼吸道疾病进入高发季 儿童什么时候需要就医",
+          "summary": "新华社长沙11月24日电（记者帅才）进入冬季，呼吸道疾病进入高发期。一些家长面对孩子发烧、咳嗽容易紧张。儿科医生提醒，家长不必过度焦虑，当孩子出现呼吸道感染，家长要重点关注两大指标：孩子的精神状态与呼吸状态。 “很多家长一看到孩子发烧就紧张，其实不必要太焦虑。”湖南省人民医院儿童医学中心主任医师曾赛珍说，儿童呼吸道感染多为自限性疾病，比如近期流行的流感病毒会让孩子出现发热、头疼、乏力、嗓子疼等症状",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIUKzE3LihpPDsXVn34bG3261125.shtml",
+          "published": "Wed, 25 Nov 2026 10:43:51 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 72,
+    "total_collected": 59,
+    "sources": 6,
+    "source_list": [
+      "BBC中文",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "央视新闻",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
