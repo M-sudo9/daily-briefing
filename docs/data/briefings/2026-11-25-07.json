@@ -1,0 +1,659 @@
+{
+  "id": "2026-11-25-07",
+  "datetime": "2026-11-25 07:28:32",
+  "date": "2026-11-25",
+  "time": "07:28",
+  "period": "上午",
+  "summary": "本期采集 53 篇文章，来自 7 个信息源，覆盖 7 个领域，精选 74 条摘要",
+  "domains": [
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118791",
+          "published": "Wed, 25 Nov 2026 11:07:41 +0800"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
+          "summary": "新华社北京11月25日电　近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》，明确“十五五”时期全民国防教育的总体要求、重点任务和保障措施。 规划强调，全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的重要内容。要坚持以习近平新时代中国特色社会主义思想为指导，深入学习实践习近平强军思想和习近平文化思想，坚持和加强党的全面领导，坚持贯彻总体国家安全观，坚持紧贴形势任",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIKaZew82qk753Hux4uU0Y261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:43:59 GMT"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+          "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+          "importance": "medium",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119527",
+          "published": "Wed, 25 Nov 2026 08:22:35 +0800"
+        },
+        {
+          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+          "summary": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 52 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://gpu-demo-gallery.pages.dev/",
+          "published": "Wed, 25 Nov 2026 04:31:48 +0000"
+        },
+        {
+          "title": "Taking over US Treasury subdomains for $3 each",
+          "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 36 # Comments: 2",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+          "published": "Wed, 25 Nov 2026 04:27:55 +0000"
+        },
+        {
+          "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+          "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F Comments URL: https://news.ycombinator.com/item?id=50638320 Points: 136 # Comments: 88",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+          "published": "Wed, 25 Nov 2026 04:03:33 +0000"
+        },
+        {
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 70 # Comments: 24",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+          "published": "Wed, 25 Nov 2026 03:47:42 +0000"
+        },
+        {
+          "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+          "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 38 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.proofatlas.ai/open-problems/",
+          "published": "Wed, 25 Nov 2026 03:01:36 +0000"
+        },
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=5063722",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "published": "Wed, 25 Nov 2026 01:19:26 +0000"
+        },
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 191 # Comments: 33",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+          "published": "Wed, 25 Nov 2026 00:54:49 +0000"
+        },
+        {
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
+          "importance": "medium",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "published": "Wed, 25 Nov 2026 00:12:02 +0000"
+        },
+        {
+          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+          "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+          "published": "2026-11-24T20:00:00-05:00"
+        },
+        {
+          "title": "《异环》Exe角色PV丨追杀计数",
+          "summary": "超自然都市开放世界RPG《异环》全新版本「致电，空想迷数」现已开启！立刻下载>>>https://www.biligame.com/detail/?id=111795\n\n网络空间并非真正的城市，在这里需要采用与现实不同的做法。\n从暗处观察明面上的信息，筛选、检索……效率太低。\n偶尔就稍微改写一下底层来诱导那名罪犯咬钩子吧，如果不是拥有相同的视角，也就不该看到这层变化——\n好比是突然，将世界切换至夜",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1wYsq6kEeg",
+          "published": "Wed, 25 Nov 2026 03:00:00 GMT"
+        },
+        {
+          "title": "AI如何成为美国资管业务第二曲线的战略引擎",
+          "summary": "AI能不能成为第二曲线，要看它和机构原有的优势接不接得上。美国几家头部公司的做法，已经给出了几种可以对照的方向 这两年，美国大型资管公司谈起AI，已经很少再说试点了。贝莱德、领航、富达都把AI写进了公司战略，各走各的路。普信（T. Rowe Price）走的又是另一条。 先交代一下“第二曲线”指什么。资管行业的第一曲线是投资研究和基金管理，靠投资业绩积累管理规模。这条线这几年增长变慢，费率往下走，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508622.html",
+          "published": "Wed, 25 Nov 2026 06:41:35 GMT"
+        },
+        {
+          "title": "【今日盘面】AI交易疑虑再度升温 板块轮动特征明显",
+          "summary": "昨日股市热情昙花一现，宽基指数今日集体承压",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-25/102508602.html",
+          "published": "Wed, 25 Nov 2026 05:05:05 GMT"
+        },
+        {
+          "title": "黄金何时迎来转机",
+          "summary": "短期反弹看加息预期下修，黄金短期资金表现受此牵引。把时间拉长到2027年，更值得关注的是，科技投资退潮削弱美国增长优势，弱美元或带来黄金配置机会 本轮黄金连破关口，有两点异常 11月18日至20日，金价先后失守每盎司3800、3700、3600美元，周内累计下跌超9%，盘中触及2025年9月以来低位。 本轮下跌值得关注的是，美债和黄金在同一场股市调整中给出不同反馈，引发市场关注。 异常一：本轮美股",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508580.html",
+          "published": "Wed, 25 Nov 2026 04:27:39 GMT"
+        },
+        {
+          "title": "世纪互联完成国内算力基础设施机构间REITs首次扩募 新增资产估值23.41亿元",
+          "summary": "世纪互联希望通过存量数据中心资产回笼资金，支持新项目建设 世纪互联乌兰察布绿色G瓦级超级智算旗舰基地。图：世纪互联 【财新网】 近日，国内数据中心服务商世纪互联（NASDAQ：VNET）宣布，“国金资管-世纪乌兰数据中心持有型不动产资产支持专项计划”于11月18日完成扩募发行，为国内算力基础设施领域机构间REITs首单扩募。此次新增资产位于内蒙古乌兰察布，评估值为23.41亿元。 上述产品于202",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-25/102508564.html",
+          "published": "Wed, 25 Nov 2026 04:03:05 GMT"
+        },
+        {
+          "title": "【华尔街原声】摩根大通预计美联储将连续三次加息",
+          "summary": "美国经济增长基础扩大、通胀持续顽固，美联储可能需要进一步收紧货币政策 【CNBC】 摩根大通首席经济学家Bruce Kasman在接受CNBC《The Exchange》节目采访时表示，预计美联储将在未来三次货币政策会议上加息。他认为，美国经济进入2027年后仍将保持较强增长势头，未来12个月的增速可能高于潜在水平。 Kasman指出，人工智能投资虽然推动了部分经济增长，但随着此前油价冲击等不利因",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-25/102508526.html",
+          "published": "Wed, 25 Nov 2026 02:34:23 GMT"
+        },
+        {
+          "title": "人事观察｜从业35年 董时出任中国青年报社社长",
+          "summary": "董时毕业于黑龙江大学，1996年起任职中国青年报社，曾表示“媒体要在行业里生存下来，必须要有公信力” 【财新网】 中国青年报社迎来女社长。近日，中国青年报社党委副书记、总编辑董时已任报社社长，并继续担任总编辑职务。 据《中国青年报》消息，11月20日，人工智能赋能新时代高校校园戏剧创新与思政育人展示交流会在天津举行。开幕式上，中国青年报社社长、总编辑董时等嘉宾先后致辞。这是董时首次以中国青年报社社",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-25/102508522.html",
+          "published": "Wed, 25 Nov 2026 02:24:39 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+          "summary": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 52 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://gpu-demo-gallery.pages.dev/",
+          "published": "Wed, 25 Nov 2026 04:31:48 +0000"
+        },
+        {
+          "title": "Taking over US Treasury subdomains for $3 each",
+          "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 36 # Comments: 2",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+          "published": "Wed, 25 Nov 2026 04:27:55 +0000"
+        },
+        {
+          "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+          "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F Comments URL: https://news.ycombinator.com/item?id=50638320 Points: 136 # Comments: 88",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+          "published": "Wed, 25 Nov 2026 04:03:33 +0000"
+        },
+        {
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 70 # Comments: 24",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+          "published": "Wed, 25 Nov 2026 03:47:42 +0000"
+        },
+        {
+          "title": "A faster algorithm for extracting hexadecimal digits of π",
+          "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 25 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+          "published": "Wed, 25 Nov 2026 03:28:42 +0000"
+        },
+        {
+          "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+          "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 49 # Comments: 10",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+          "published": "Wed, 25 Nov 2026 03:28:06 +0000"
+        },
+        {
+          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 214 # Comments: 21",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://buttons.joshwcomeau.com/",
+          "published": "Wed, 25 Nov 2026 03:23:07 +0000"
+        },
+        {
+          "title": "Macrohistory in Six Facts",
+          "summary": "Article URL: https://basilhalperin.com/essays/macrohistory.html Comments URL: https://news.ycombinator.com/item?id=50637891 Points: 49 # Comments: 17",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://basilhalperin.com/essays/macrohistory.html",
+          "published": "Wed, 25 Nov 2026 03:04:46 +0000"
+        },
+        {
+          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+          "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 114 # Comments: 33",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+          "published": "Wed, 25 Nov 2026 03:04:37 +0000"
+        },
+        {
+          "title": "Lua for Data Representation",
+          "summary": "Article URL: https://citrons.xyz/journal/2025-07-23 Comments URL: https://news.ycombinator.com/item?id=50637888 Points: 44 # Comments: 12",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://citrons.xyz/journal/2025-07-23",
+          "published": "Wed, 25 Nov 2026 03:04:12 +0000"
+        },
+        {
+          "title": "I've been drinking wine in my kitchen",
+          "summary": "Article URL: https://scottaaronson.blog/?p=10362 Comments URL: https://news.ycombinator.com/item?id=50637874 Points: 134 # Comments: 103",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://scottaaronson.blog/?p=10362",
+          "published": "Wed, 25 Nov 2026 03:02:10 +0000"
+        },
+        {
+          "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+          "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 38 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.proofatlas.ai/open-problems/",
+          "published": "Wed, 25 Nov 2026 03:01:36 +0000"
+        },
+        {
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 165 # Comm",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "published": "Wed, 25 Nov 2026 02:34:21 +0000"
+        },
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=5063722",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "published": "Wed, 25 Nov 2026 01:19:26 +0000"
+        },
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 191 # Comments: 33",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+          "published": "Wed, 25 Nov 2026 00:54:49 +0000"
+        },
+        {
+          "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+          "summary": "Article URL: https://literaryreview.co.uk/here-in-the-world Comments URL: https://news.ycombinator.com/item?id=50636925 Points: 46 # Comments: 5",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://literaryreview.co.uk/here-in-the-world",
+          "published": "Wed, 25 Nov 2026 00:36:43 +0000"
+        },
+        {
+          "title": "《狩》首曝PV&实机演示丨动作要秀，有狩就行！",
+          "summary": "各位选手，欢迎来到“狩”，一个全新的动作赛场！\n\n聚光灯下，个性十足的时尚厂牌选手齐聚于此——在这里，怎么秀由你说了算！数十种武器搭配华丽多变的动作招式，近战博弈、全域跑酷与竞技策略层层交叠，每一帧都将是你的SHOTIME时刻！\n\n赢家不止一个，玩法不止一种。PC、移动多端互通，无论在哪，随时随地都能秀出你的操作。动作要秀，有狩就行！\n\n「SHOTIME测试」现已开启招募，点击评论区链接预约游戏并",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1931AzhE1q",
+          "published": "Wed, 25 Nov 2026 02:00:00 GMT"
+        },
+        {
+          "title": "加防长回应五角大楼指责：“我们不向美国汇报”",
+          "summary": "针对美国国防部日前发布文件指责加拿大国防开支不足，加拿大国防部长戴维·麦金蒂24日强硬回应说，加拿大是一个主权国家，“我们不向美国汇报”。 麦金蒂当天在渥太华参加内阁会议前接受采访时说：“加拿大是一个主权国家。我就直说了，我们不向美国汇报。”他表示，加方正在持续推进国防投入，而加拿大对北美防空司令部和北约合作的承诺没有改变。 在回应记者关于美方为何就加拿大国防开支问题发难的提问时，麦金蒂表示，他无",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml",
+          "published": "Wed, 25 Nov 2026 05:38:18 GMT"
+        },
+        {
+          "title": "英国宣布制裁也门胡塞武装",
+          "summary": "新华社伦敦11月24日电（记者张枫）英国政府24日宣布，对也门胡塞武装及其4名高级官员实施制裁，理由是“蓄意破坏中东地区稳定”。 英国外交部当天发布的声明称，胡塞武装袭击曼德海峡的商业航运导致英国国内生活成本上升。 声明还称，胡塞武装加大了对沙特阿拉伯民用基础设施的打击力度，造成多人死亡，并导致也门境内冲突再度爆发。 受制裁的4名胡塞武装高级官员是分管内政事务的阿卜杜勒卡里姆·阿米尔丁·侯赛因·胡",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIk3vz49d1Ld7N06AnBtgM261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:51:53 GMT"
+        },
+        {
+          "title": "非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制",
+          "summary": "针对22日发生在利比亚附近海域的俄罗斯船只遭袭事件，非洲联盟（非盟）委员会主席优素福24日发表声明，对袭击事件表示谴责。优素福对这类袭击对海上安全构成的威胁深表关切，并呼吁充分尊重利比亚的主权和领土完整。同时，优素福支持展开迅速、独立和透明的调查，以确定袭击的情况并查明责任人。他敦促各方保持克制，不要采取任何可能使利比亚进一步陷入外部冲突的行动。 22日，一艘停泊在利比亚东部班加西海军基地的俄罗斯",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml",
+          "published": "Wed, 25 Nov 2026 02:55:41 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者问",
+          "summary": "新华社北京11月25日电 题：中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者 问 新华社记者 近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》（以下简称《规划》）。中央宣传部、中央军委国防动员部负责人就《规划》有关情况，回答了记者的提问。 问：请介绍一下《规划》出台的背景和意义。 答：全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIDkVpZtleKaPDhIhbDtlM261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:45:25 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
+          "summary": "新华社北京11月25日电　近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》，明确“十五五”时期全民国防教育的总体要求、重点任务和保障措施。 规划强调，全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的重要内容。要坚持以习近平新时代中国特色社会主义思想为指导，深入学习实践习近平强军思想和习近平文化思想，坚持和加强党的全面领导，坚持贯彻总体国家安全观，坚持紧贴形势任",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIKaZew82qk753Hux4uU0Y261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:43:59 GMT"
+        },
+        {
+          "title": "图集｜泽连斯基回应芬兰湾袭击俄货船 明确打击原则",
+          "summary": "当地时间2026年11月22日，芬兰湾，俄罗斯货船“斯巴达2号”遭袭起火，救援船只正在灭火。图：IC photo 【财新网】 当地时间2026年11月24日，据央视新闻客户端报道，乌克兰总统泽连斯基证实，乌方11月21日在芬兰湾袭击了俄罗斯一艘货船。11月23日，泽连斯基发文称，乌方11月22日在利比亚沿海击沉了俄罗斯“水星”号护卫舰，“完成了既定作战目标”。同日，俄罗斯货轮“安加拉”号也在班加西",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://photos.caixin.com/2026-11-25/102508585.html",
+          "published": "Wed, 25 Nov 2026 04:42:35 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "中国驻伊朗大使馆提醒在伊中国公民防范治安事件",
+          "summary": "央视网消息： 据“中国驻伊朗大使馆”公众号消息，近日，部分来伊旅游的中国公民向大使馆反映其遭遇换汇骗局、财物被盗抢，蒙受较大经济损失。 中国驻伊朗大使馆再次提醒来伊中国公民遵守当地法律法规、尊重当地风俗习惯，强化风险防范意识，通过安全可靠渠道换汇，警惕换汇骗局，不通过陌生人换汇；妥善保管好个人财物，尽量不携带大额现金、贵重财物外出。 如遇紧急情况，请保管好相关证据及时报警，并与驻伊朗使领馆联系。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml",
+          "published": "Wed, 25 Nov 2026 05:49:53 GMT"
+        },
+        {
+          "title": "加防长回应五角大楼指责：“我们不向美国汇报”",
+          "summary": "针对美国国防部日前发布文件指责加拿大国防开支不足，加拿大国防部长戴维·麦金蒂24日强硬回应说，加拿大是一个主权国家，“我们不向美国汇报”。 麦金蒂当天在渥太华参加内阁会议前接受采访时说：“加拿大是一个主权国家。我就直说了，我们不向美国汇报。”他表示，加方正在持续推进国防投入，而加拿大对北美防空司令部和北约合作的承诺没有改变。 在回应记者关于美方为何就加拿大国防开支问题发难的提问时，麦金蒂表示，他无",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml",
+          "published": "Wed, 25 Nov 2026 05:38:18 GMT"
+        },
+        {
+          "title": "年末多部新片登陆全国院线 多元业态拓展“电影+”新消费场景",
+          "summary": "[!--begin:htmlVideoCode--]63169c5e00c943a9bbe3cb38fab276b2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 近期，多部新片陆续登陆全国院线，2026电影经济促进年系列观影惠民活动持续落地，金融力量深度参与电影促消费，不断激活“票根经济”，带动文商旅融合消费升温。 进入11月下旬，全国院线影",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIAsvpSfjbru0k1fVimo2q261125.shtml",
+          "published": "Wed, 25 Nov 2026 04:06:53 GMT"
+        },
+        {
+          "title": "国台办：搞“台独”分裂没有市场更没有出路",
+          "summary": "11月25日，国务院台办举行例行新闻发布会，有记者问：中俄美元首深圳会晤就当前国际形势深入交换了意见。国家主席习近平强调，“要尊重彼此主权和领土完整”“不能触碰对方的底线”。在中美元首会晤中，美国总统特朗普重申美方不支持“台独”的立场。舆论认为，各种重要信号叠加在一起，是对“台独”分裂势力的一记重锤。发言人对此有何评论？ [!--begin:htmlVideoCode--]42c04d3ce9c6",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIXVdcpTvNjZYMgp1IV87i261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:39:34 GMT"
+        },
+        {
+          "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
+          "summary": "11月25日，国务院台办举行例行新闻发布会，有记者问：近日，国务院台办与中国进出口银行签署《“十五五”时期促进两岸融合发展金融合作协议》，台陆委会称，台商已逐步调整全球布局，赴陆投资占台湾整体对外投资比重等今年已显著下滑。发言人对此有何评论？ 发言人张晗表示，事实充分证明，深化两岸经济交流合作、融合发展是双赢选择，也是大势所趋。任何唱衰、抹黑两岸经济合作、图谋“脱钩断链”的政治操弄，都违背事实，徒",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:09:32 GMT"
+        },
+        {
+          "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "summary": "近日，经中国公安机关不懈努力，在我驻俄罗斯使馆的大力协助下，涉嫌非法吸收公众存款犯罪的嫌疑人舒某某从俄罗斯被引渡回国。 据了解，犯罪嫌疑人舒某某在未经金融监管部门批准、不具备吸收公众存款资质的情况下， 以虚构理财产品、承诺高额年化收益为诱饵，向不特定人群非法吸收存款，涉案金额超150亿元人民币。 2024年10月，浙江省宁波市公安局鄞州区分局依法对舒某某立案侦查。2025年2月，检察机关以涉嫌非法",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIBbKF29m757H1PuUqFG1g261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:03:46 GMT"
+        },
+        {
+          "title": "南非总统：南非正采取多方面举措应对美贸易限制",
+          "summary": "新华社开普敦11月24日电（记者王晓梅 王雷）南非总统拉马福萨24日表示，针对美国政府近日宣布将暂停南非参与《促进非洲增长与机会法》的资格，南非正在积极采取多方面举措应对其影响。 美国贸易代表贾米森·格里尔本月初通知美国国会，出于对南非、卢旺达在“威胁美国利益”等方面问题的担忧，美国政府决定自2027年1月1日起暂停两国参与《促进非洲增长与机会法》的资格。 拉马福萨24日下午在南非全国省级事务委员",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml",
+          "published": "Wed, 25 Nov 2026 02:52:01 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者问",
+          "summary": "新华社北京11月25日电 题：中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者 问 新华社记者 近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》（以下简称《规划》）。中央宣传部、中央军委国防动员部负责人就《规划》有关情况，回答了记者的提问。 问：请介绍一下《规划》出台的背景和意义。 答：全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIDkVpZtleKaPDhIhbDtlM261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:45:25 GMT"
+        },
+        {
+          "title": "大家人寿携手亦庄国投 设立20亿元私募基金",
+          "summary": "大家人寿和亦庄国投作为LP，分别持股49.95%，基金采用双GP模式；从基金名称中的“科新”来看，该基金的投向大概率为科技创新 【财新网】 近日，北京屹唐盛鼎科新股权投资基金合伙企业（有限合伙）成立，经营范围为私募股权投资基金管理、创业投资基金管理服务。 这是险资与地方国资合作的最新案例。合伙人信息显示，该基金由大家人寿、北京亦庄国际投资发展有限公司（下称“亦庄国投”）、盛鼎（北京）私募基金管理有",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-25/102508627.html",
+          "published": "Wed, 25 Nov 2026 06:59:39 GMT"
+        },
+        {
+          "title": "AI如何成为美国资管业务第二曲线的战略引擎",
+          "summary": "AI能不能成为第二曲线，要看它和机构原有的优势接不接得上。美国几家头部公司的做法，已经给出了几种可以对照的方向 这两年，美国大型资管公司谈起AI，已经很少再说试点了。贝莱德、领航、富达都把AI写进了公司战略，各走各的路。普信（T. Rowe Price）走的又是另一条。 先交代一下“第二曲线”指什么。资管行业的第一曲线是投资研究和基金管理，靠投资业绩积累管理规模。这条线这几年增长变慢，费率往下走，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508622.html",
+          "published": "Wed, 25 Nov 2026 06:41:35 GMT"
+        },
+        {
+          "title": "“上学太耽误学习”？校内减校外加的错位游戏",
+          "summary": "你拼命做减法，我就拼命做加法，就如一个跷跷板，循环往复 因为“上学太耽误学习了”，一些小学生父母只让孩子上半天学，中午接回家自行安排其他学习。这就是最近一个热门的话题：小学生只上半天学。 这种情况是否真的普遍存在，应该是存疑的，但能引起大家关注，至少说明持这种观点的家长不在少数。 出现这种现象或者说观点，深刻地反映了中国教育所面临的现实困境。 一方面，舆论，包括大量专家、家长都在批评教育负担过重，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508608.html",
+          "published": "Wed, 25 Nov 2026 05:26:48 GMT"
+        },
+        {
+          "title": "时隔九年 波音再获中国航司公开批量订单",
+          "summary": "截至目前，波音、南航等相关方均未确认此次厦航的订单是否为此前5月特朗普访华后的200架购机承诺转化而来 11月24日晚，南方航空公告，旗下厦门航空将采购50架B737-8飞机。图：波音 【财新网】 时隔九年，中国航司再确认波音客机订单。11月24日晚，南方航空（600029.SH/01055.HK）公告，旗下厦门航空将采购50架B737-8飞机。 公告显示，50架飞机目录总价约74亿美元（约合人民",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-25/102508604.html",
+          "published": "Wed, 25 Nov 2026 05:14:03 GMT"
+        },
+        {
+          "title": "黄金何时迎来转机",
+          "summary": "短期反弹看加息预期下修，黄金短期资金表现受此牵引。把时间拉长到2027年，更值得关注的是，科技投资退潮削弱美国增长优势，弱美元或带来黄金配置机会 本轮黄金连破关口，有两点异常 11月18日至20日，金价先后失守每盎司3800、3700、3600美元，周内累计下跌超9%，盘中触及2025年9月以来低位。 本轮下跌值得关注的是，美债和黄金在同一场股市调整中给出不同反馈，引发市场关注。 异常一：本轮美股",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508580.html",
+          "published": "Wed, 25 Nov 2026 04:27:39 GMT"
+        },
+        {
+          "title": "哈萨克斯坦驻华大使：哈萨克斯坦如何守住投资者的信任",
+          "summary": "如今对投资者而言，市场规模或原料获取渠道已不再是唯一考量。同样重要甚至更为关键的，是一个简单的问题：今天给出的条件，明天是否依然稳定？今天的规则，明天是否依然清晰？ 【财新网】 2025年，哈萨克斯坦共和国GDP突破3000亿美元，经济实际增长6.5%。2026年，外部环境更加复杂，主要因石油板块动能走弱，但经济仍保持增长。1—9月，GDP实际增长4.2%，驱动力依旧来自非资源型行业和投资。 在国",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-25/102508561.html",
+          "published": "Wed, 25 Nov 2026 04:01:57 GMT"
+        },
+        {
+          "title": "平稳中蜕变｜2027—2028年中国经济展望",
+          "summary": "增长缓慢下降的长期趋势和年内小周期将在2027年和2028年延续，但增速不太可能较2026年预计的4.6%明显下降 自2011年以来，中国GDP增速一直逐步放缓。推动增速放缓的因素包括人口结构变化，以及政策重心从追求增长最大化转向非经济目标。这些目标包括提高空气质量、改善财富不平等、提升企业规范和反腐败。国际投资者对这些概念并不陌生，但其定义及相应的政策应对往往与西方国家有所不同。追求这些目标可以",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508539.html",
+          "published": "Wed, 25 Nov 2026 03:45:27 GMT"
+        },
+        {
+          "title": "中信老将葛小波第三站落定 加入华兴资本任CEO",
+          "summary": "知情人士认为，华兴提供的薪酬待遇和自主空间更具吸引力 【财新网】 告别无锡国资券商三个月后，现年56岁的中信证券老将葛小波去向尘埃落定。11月24日，华兴资本控股（01911.HK，下称“华兴资本”）公告，自当日起，葛小波正式接任华兴资本首席执行官（CEO）及执行委员会成员，王力行不再担任首席执行官，转任董事会副主席。 同日，华兴资本通过官方微信公众号刊发公司董事会主席、包凡之妻许彦清的一封信。许",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-25/102508534.html",
+          "published": "Wed, 25 Nov 2026 03:30:10 GMT"
+        },
+        {
+          "title": "【华尔街原声】摩根大通预计美联储将连续三次加息",
+          "summary": "美国经济增长基础扩大、通胀持续顽固，美联储可能需要进一步收紧货币政策 【CNBC】 摩根大通首席经济学家Bruce Kasman在接受CNBC《The Exchange》节目采访时表示，预计美联储将在未来三次货币政策会议上加息。他认为，美国经济进入2027年后仍将保持较强增长势头，未来12个月的增速可能高于潜在水平。 Kasman指出，人工智能投资虽然推动了部分经济增长，但随着此前油价冲击等不利因",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-25/102508526.html",
+          "published": "Wed, 25 Nov 2026 02:34:23 GMT"
+        },
+        {
+          "title": "理性看待车企扎堆“去宁德化”",
+          "summary": "“去宁德化”不是一个需要被反击的口号，而是一个需要被回应的信号。车企在重新分配供应链权力，而电池企业能够拿回主动权的只有品牌化和确定性 “去宁德化”在舆论场被喊了许久。一家手握全球动力电池装车量约四成份额的头部供应商，被下游的整车厂商扎堆寻找替换方案。这种自带热度的报道，本身就很容易博人眼球。 一段时间以来，相关动作确实显得密集。理想汽车以26.5亿元增资欣旺达动力，小鹏汽车把PACK与BMS系统",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508520.html",
+          "published": "Wed, 25 Nov 2026 02:14:45 GMT"
+        },
+        {
+          "title": "【市场洞察】瑞银：中国科技股已反映悲观预期 估值吸引力显现",
+          "summary": "瑞银预计，MSCI中国指数每股收益增长约10%，估值有约3%的提升空间，对应整体回报约13%。瑞银给出的2027年末MSCI中国指数目标点位为76，恒生指数目标点位约为26000点",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-25/102508518.html",
+          "published": "Wed, 25 Nov 2026 01:56:10 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "加防长回应五角大楼指责：“我们不向美国汇报”",
+          "summary": "针对美国国防部日前发布文件指责加拿大国防开支不足，加拿大国防部长戴维·麦金蒂24日强硬回应说，加拿大是一个主权国家，“我们不向美国汇报”。 麦金蒂当天在渥太华参加内阁会议前接受采访时说：“加拿大是一个主权国家。我就直说了，我们不向美国汇报。”他表示，加方正在持续推进国防投入，而加拿大对北美防空司令部和北约合作的承诺没有改变。 在回应记者关于美方为何就加拿大国防开支问题发难的提问时，麦金蒂表示，他无",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml",
+          "published": "Wed, 25 Nov 2026 05:38:18 GMT"
+        },
+        {
+          "title": "习近平对党内法规工作作出重要指示",
+          "summary": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话 新华社北京11月25日电　中共中央总书记、国家主席、中央军委主席习近平近日对党内法规工作作出重要指示强调，五年来，党中央从全局和战略高度谋划和推进依规治党，党内法规制度建设扎实有力、成效明显。新征程上，要以新时代中国特色社会主义思想为指导，深入学习贯彻新时代",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTImsrirqRU9rzAghGnDs6v261125.shtml",
+          "published": "Wed, 25 Nov 2026 05:28:27 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者问",
+          "summary": "新华社北京11月25日电 题：中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者 问 新华社记者 近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》（以下简称《规划》）。中央宣传部、中央军委国防动员部负责人就《规划》有关情况，回答了记者的提问。 问：请介绍一下《规划》出台的背景和意义。 答：全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIDkVpZtleKaPDhIhbDtlM261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:45:25 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
+          "summary": "新华社北京11月25日电　近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》，明确“十五五”时期全民国防教育的总体要求、重点任务和保障措施。 规划强调，全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的重要内容。要坚持以习近平新时代中国特色社会主义思想为指导，深入学习实践习近平强军思想和习近平文化思想，坚持和加强党的全面领导，坚持贯彻总体国家安全观，坚持紧贴形势任",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIKaZew82qk753Hux4uU0Y261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:43:59 GMT"
+        }
+      ]
+    },
+    {
+      "name": "教育 / 升学",
+      "summary": "",
+      "items": [
+        {
+          "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
+          "summary": "想提升竞争力、拓宽收入渠道，提升学历、考职业证书、增加副业技能这三项是比较常规的选择。但这些培训可能存在着一定的水分，有人为了拿下硕士学位，花了10万元“买教材”，却迟迟等不来证书；有人花6000元参加汉语教学资格培训，想兼职“线上海外任教”赚钱，却只拿到一张认可度有限的证书。 针对这些培训中出现的问题，近期北京市第一中级人民法院二审审结多起教育培训合同纠纷案。这一类消费存在哪些问题？ “免试拿硕",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIS2KvCPa0Tc3RR36gbFDt261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:59:02 GMT"
+        },
+        {
+          "title": "为文旅注入“年轻力” 景区NPC成为推动体验式消费的“密码”",
+          "summary": "[!--begin:htmlVideoCode--]7be0f032424742c5943ce16e04be86fd,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： NPC原是电子游戏术语，指由程序设定的“非玩家角色”。落地文旅场景后，它指由真人扮演、有明确身份设定，在景区内与游客实时互动的演职人员。近两年，“为一位NPC赴一座城”已经是部分年轻",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTI46ipls72tluqtisvW7JF261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:48:02 GMT"
+        },
+        {
+          "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "summary": "近日，经中国公安机关不懈努力，在我驻俄罗斯使馆的大力协助下，涉嫌非法吸收公众存款犯罪的嫌疑人舒某某从俄罗斯被引渡回国。 据了解，犯罪嫌疑人舒某某在未经金融监管部门批准、不具备吸收公众存款资质的情况下， 以虚构理财产品、承诺高额年化收益为诱饵，向不特定人群非法吸收存款，涉案金额超150亿元人民币。 2024年10月，浙江省宁波市公安局鄞州区分局依法对舒某某立案侦查。2025年2月，检察机关以涉嫌非法",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIBbKF29m757H1PuUqFG1g261125.shtml",
+          "published": "Wed, 25 Nov 2026 03:03:46 GMT"
+        },
+        {
+          "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
+          "summary": "新华社北京11月25日电　近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》，明确“十五五”时期全民国防教育的总体要求、重点任务和保障措施。 规划强调，全民国防教育是建设和巩固国防的基础，是社会主义精神文明建设的重要内容。要坚持以习近平新时代中国特色社会主义思想为指导，深入学习实践习近平强军思想和习近平文化思想，坚持和加强党的全面领导，坚持贯彻总体国家安全观，坚持紧贴形势任",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTIKaZew82qk753Hux4uU0Y261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:43:59 GMT"
+        },
+        {
+          "title": "见证“巴铁”航天梦想启航！中巴合作不断向更广、更深的领域拓展",
+          "summary": "[!--begin:htmlVideoCode--]664b37d3c9e54dc69731099dcffd03ed,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在巴基斯坦，从当地时间11月25日凌晨起，巴航天机构人员、媒体和各界代表就已经齐聚巴基斯坦空间与高层大气研究委员会总部，全程观看了发射直播，共同见证巴基斯坦的航天历史开启新篇章。 记",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTINqqK9tFpdtod5fBm7dSm261125.shtml",
+          "published": "Wed, 25 Nov 2026 01:41:00 GMT"
+        },
+        {
+          "title": "【8点见】出征仪式举行，3名航天员领命出征！",
+          "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·我国瞄准11月25日8时18分发射神舟二十四号载人飞船。 ·北京时间11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行。5时28分，汤洪波、武毅、穆罕默德·齐尚·阿里3名航天员领命出征。 ·我国将实施长十火箭技术验证飞行试验，揽月着陆器首次飞行任务也正按计划有序推进。 ·北京、",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/25/ARTItv2ETGAM4EeujGtmvv0U261125.shtml",
+          "published": "Wed, 25 Nov 2026 00:00:03 GMT"
+        },
+        {
+          "title": "“上学太耽误学习”？校内减校外加的错位游戏",
+          "summary": "你拼命做减法，我就拼命做加法，就如一个跷跷板，循环往复 因为“上学太耽误学习了”，一些小学生父母只让孩子上半天学，中午接回家自行安排其他学习。这就是最近一个热门的话题：小学生只上半天学。 这种情况是否真的普遍存在，应该是存疑的，但能引起大家关注，至少说明持这种观点的家长不在少数。 出现这种现象或者说观点，深刻地反映了中国教育所面临的现实困境。 一方面，舆论，包括大量专家、家长都在批评教育负担过重，",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508608.html",
+          "published": "Wed, 25 Nov 2026 05:26:48 GMT"
+        },
+        {
+          "title": "人事观察｜从业35年 董时出任中国青年报社社长",
+          "summary": "董时毕业于黑龙江大学，1996年起任职中国青年报社，曾表示“媒体要在行业里生存下来，必须要有公信力” 【财新网】 中国青年报社迎来女社长。近日，中国青年报社党委副书记、总编辑董时已任报社社长，并继续担任总编辑职务。 据《中国青年报》消息，11月20日，人工智能赋能新时代高校校园戏剧创新与思政育人展示交流会在天津举行。开幕式上，中国青年报社社长、总编辑董时等嘉宾先后致辞。这是董时首次以中国青年报社社",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-25/102508522.html",
+          "published": "Wed, 25 Nov 2026 02:24:39 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "理性看待车企扎堆“去宁德化”",
+          "summary": "“去宁德化”不是一个需要被反击的口号，而是一个需要被回应的信号。车企在重新分配供应链权力，而电池企业能够拿回主动权的只有品牌化和确定性 “去宁德化”在舆论场被喊了许久。一家手握全球动力电池装车量约四成份额的头部供应商，被下游的整车厂商扎堆寻找替换方案。这种自带热度的报道，本身就很容易博人眼球。 一段时间以来，相关动作确实显得密集。理想汽车以26.5亿元增资欣旺达动力，小鹏汽车把PACK与BMS系统",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-25/102508520.html",
+          "published": "Wed, 25 Nov 2026 02:14:45 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 74,
+    "total_collected": 53,
+    "sources": 7,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "TechCrunch",
+      "The Verge",
+      "央视新闻",
+      "少数派",
+      "财新网"
+    ],
+    "domains": 7
+  }
+}
