@@ -1,260 +1,244 @@
 {
-  "id": "2026-11-26-18",
-  "datetime": "2026-11-26 18:12:01",
-  "date": "2026-11-26",
-  "time": "18:12",
-  "period": "晚间",
-  "summary": "本期采集 43 篇文章，来自 6 个信息源，覆盖 7 个领域，精选 55 条摘要",
+  "id": "2026-11-27-07",
+  "datetime": "2026-11-27 07:13:23",
+  "date": "2026-11-27",
+  "time": "07:13",
+  "period": "上午",
+  "summary": "本期采集 54 篇文章，来自 5 个信息源，覆盖 7 个领域，精选 71 条摘要",
   "domains": [
-    {
-      "name": "国际军事",
-      "summary": "",
-      "items": [
-        {
-          "title": "YouTube Ad Punisher – Bypass anti-adblock",
-          "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 16 # Comments: 5",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://github.com/antonpictures/youtube-punisher",
-          "published": "Thu, 26 Nov 2026 17:36:47 +0000"
-        },
-        {
-          "title": "Tracking Diseases Cured by AI",
-          "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 26 # Comments: 6",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://diseasescuredbyai.com/",
-          "published": "Thu, 26 Nov 2026 17:16:41 +0000"
-        },
-        {
-          "title": "AMD Specific Patches for Llama.cpp",
-          "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 50 # Comments: 8",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://devnull.land/amd-specific-llama-cpp",
-          "published": "Thu, 26 Nov 2026 17:11:29 +0000"
-        },
-        {
-          "title": "NP_R ≠ PAR_R",
-          "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 72 # Comments: 53",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://github.com/samueleverett01/bss-permanent-separations",
-          "published": "Thu, 26 Nov 2026 16:50:55 +0000"
-        },
-        {
-          "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-          "summary": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? No",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://news.ycombinator.com/item?id=50656763",
-          "published": "Thu, 26 Nov 2026 16:16:41 +0000"
-        },
-        {
-          "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-          "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 45 # Comments: 14",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://michidk.github.io/sidebyside/",
-          "published": "Thu, 26 Nov 2026 15:00:06 +0000"
-        },
-        {
-          "title": "Tell HN: Happy Thanksgiving",
-          "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 384 # Comments: 107",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://news.ycombinator.com/item?id=50655664",
-          "published": "Thu, 26 Nov 2026 14:26:54 +0000"
-        },
-        {
-          "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-          "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 16",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-          "published": "Thu, 26 Nov 2026 13:48:11 +0000"
-        },
-        {
-          "title": "Head of Software Engineering – NOX Metals",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://news.ycombinator.com/item?id=50654353",
-          "published": "Thu, 26 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Nextcloud Office Desktop app",
-          "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 346 # Comments: 143",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-          "published": "Thu, 26 Nov 2026 11:50:49 +0000"
-        },
-        {
-          "title": "联合国贸发会议报告：2026年全球海运贸易量预计零增长",
-          "summary": "当地时间11月26日，联合国贸易和发展会议（贸发会议）发布的一份报告显示， 2026年全球海运贸易量预计零增长 ，而这一数据在2025年为1.9%。 该报告指出，地缘政治不确定性导致海上贸易停滞不前。今年，霍尔木兹海峡、红海、黑海和巴拿马运河这四个重要的海上咽喉要道同时面临压力。报告称，这些压力正迫使船只采取航程更长、成本更高的航线。全球贸易中超过80%的货物通过海运运输，其中包括各国赖以生存的食",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIa7xUUsb4YqRX1F91KS4K261127.shtml",
-          "published": "Thu, 26 Nov 2026 16:43:03 GMT"
-        },
-        {
-          "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
-          "summary": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。 特朗普说，他坚信“这很有可能实现”，并称“若能达成协议，那将是对所有人的一大贡献”。 特朗普还说，他25日晚在佛罗里达州海湖庄园会见北约秘书长吕特时，通报了他与普京的谈话内容。 当天早些时候，特朗普发文说，他在同吕特会见时重点讨论了俄乌冲突及伊朗战事，强调俄乌双方应避免采取任何可能导",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIU6LdIsKSvMnYbe0skODT261127.shtml",
-          "published": "Thu, 26 Nov 2026 16:25:00 GMT"
-        },
-        {
-          "title": "中方敦促日本尽快销毁在华遗弃化学武器",
-          "summary": "新华社海牙11月25日电（记者邵海军）25日，中国参加《禁止化学武器公约》（下称《公约》）第31届缔约国大会代表团在荷兰海牙举行专题会议，敦促日本全面履行《公约》义务，切实承担历史责任，彻底销毁在华遗弃化学武器，早日还中国人民和世界一片净土。 中国代表团团长、常驻禁止化学武器组织代表申博指出，日本始终没有真正反省战争罪责，严重缺乏履约诚意，导致日遗化武销毁严重滞后，是实现“无化武世界”的最大现实障",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTI2eDpb7ttRjlf1RsQkEMO261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:41:39 GMT"
-        }
-      ]
-    },
     {
       "name": "AI / 人工智能",
       "summary": "",
       "items": [
         {
-          "title": "Tracking Diseases Cured by AI",
-          "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 26 # Comments: 6",
+          "title": "The group chat where your AI talks behind your back",
+          "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 5 # Comments: 0",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://diseasescuredbyai.com/",
-          "published": "Thu, 26 Nov 2026 17:16:41 +0000"
+          "link": "https://construct22.com/",
+          "published": "Fri, 27 Nov 2026 06:44:34 +0000"
         },
         {
-          "title": "A month with the iPhone Duo has changed how I use my phone",
-          "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+          "title": "The need for a formally verifiable mainstream programming language",
+          "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 61 # Comments: 35",
           "importance": "medium",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-          "published": "Thu, 26 Nov 2026 17:00:00 +0000"
+          "source": "Hacker News",
+          "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+          "published": "Fri, 27 Nov 2026 05:22:06 +0000"
         },
         {
-          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "title": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 67 # Comments: 36",
           "importance": "medium",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-          "published": "Thu, 26 Nov 2026 16:00:00 +0000"
+          "source": "Hacker News",
+          "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+          "published": "Fri, 27 Nov 2026 04:56:18 +0000"
         },
         {
-          "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-          "summary": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at ",
+          "title": "The Cutthroat Business of Shipwrecks",
+          "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 14 # Comments: 2",
           "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-          "published": "2026-11-26T12:07:00-05:00"
+          "source": "Hacker News",
+          "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+          "published": "Fri, 27 Nov 2026 01:21:49 +0000"
         },
         {
-          "title": "Android app developers will soon have to share their address publicly",
-          "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy cha",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-          "published": "2026-11-26T12:06:24-05:00"
-        },
-        {
-          "title": "The best Black Friday deals we’ve already found",
-          "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals o",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "published": "2026-11-26T11:55:00-05:00"
-        },
-        {
-          "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-          "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to d",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-          "published": "2026-11-26T11:38:00-05:00"
-        },
-        {
-          "title": "GTA VI developers vote against unionization",
-          "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independen",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-          "published": "2026-11-26T10:55:24-05:00"
-        },
-        {
-          "title": "Why GTA VI’s version of Florida feels so real",
-          "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular : the 13 years of anticipation , the relatable lead characters and romantic storyline , the sheer level of depth . But another major f",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-          "published": "2026-11-26T10:00:00-05:00"
-        },
-        {
-          "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-          "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robot",
-          "importance": "medium",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-          "published": "2026-11-26T07:00:00-05:00"
-        },
-        {
-          "title": "全国技工院校将培养培训超200万高技能人才",
-          "summary": "新华社北京11月26日电（记者张晓洁、邹雨沁）记者11月26日获悉，人力资源社会保障部等5部门近日联合印发关于推进技工教育高质量特色发展的意见，明确“十五五”期间，全国技工院校在校生规模和职业培训规模力争保持总体稳定，毕业生毕业去向落实率97%以上，累计培养培训高技能人才达到200万人以上。 意见对“十五五”时期技工教育改革发展作出5方面部署。 落实立德树人根本任务方面，意见明确，大力弘扬劳模精神",
+          "title": "以政策矩阵助力“中国服务”培育 与世界共享服务业发展机遇",
+          "summary": "[!--begin:htmlVideoCode--]3b0597b0188646fab47aa07b122f9ba9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 商务部11月26日举行例行新闻发布会，新闻发言人表示，我国服务贸易规模已突破万亿美元。在这个新起点上，商务部会同有关部门编制了《服务贸易发展“十五五”规划》（以下简称《规划》），以“",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIuu596eV6sGHsjY1FGyQj261127.shtml",
-          "published": "Thu, 26 Nov 2026 17:06:42 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIS6aDoaO1T8E42YCkgFPL261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:12:11 GMT"
         },
         {
-          "title": "中国经济看“新”丨人工智能训练师走俏，具身智能产业“解锁”新图景",
-          "summary": "机器人缓缓抬起手臂，一点点伸向货架上的目标商品，手指灵活开合、稳稳捏住，最后收回手臂、打开手指，将货物放入购物篮中……记者见到22岁的李必修时，他正通过手柄遥控一台人形机器人做动作，两“人”十分默契。 “我最近在训练机器人下架过期商品，摆放促销标识牌。”李必修说，机器人手腕处装了摄像头，过程中产生的视觉和运动轨迹数据，都会被记录下来。 这里是湖北人形机器人创新中心三楼训练场，李必修的工作有点特别—",
+          "title": "“千锤百炼”锻造硬功 “屏”常可见走出方寸从1到N“加速跑”",
+          "summary": "[!--begin:htmlVideoCode--]d18dca12ca434853b42809a0a0dc5026,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 我国柔性显示产业规模位居全球前列，已建成从上游材料、面板制造到终端应用的完整产业链。但产业链完备并不代表全部关键环节实现自主可控。面向下一代显示技术，仍需要攻克不少现实难题，这些难题",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://jingji.cctv.com/2026/11/26/ARTIswj2zeAST5w42HPqcXWF261126.shtml",
-          "published": "Thu, 26 Nov 2026 13:38:21 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIHxYSEUcz3S3NatkqTKiB261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:11:56 GMT"
         },
         {
-          "title": "第七届中俄媒体论坛在莫斯科举行 与会嘉宾期待深化数智时代媒体合作",
-          "summary": "新华社莫斯科11月25日电　第七届中俄媒体论坛25日在莫斯科举行。与会嘉宾表示，在两国元首战略引领下，中俄媒体合作不断拓展，成果丰硕，要以本届论坛为契机，共同开创数智时代中俄媒体合作新局面。 与会嘉宾指出，今年以来，中俄元首多次举行会晤，就扩大人文交流达成共识，共同见证签署多项媒体合作协议。会晤成果明确提出共同办好中俄媒体论坛、促进主流媒体互访、加强人才联合培养，为中俄媒体深化合作提供重要指引。 ",
+          "title": "86亿元，创新高！人工智能加速渗透文化产业全链条成为增长新引擎",
+          "summary": "[!--begin:htmlVideoCode--]44580dd0f2ac40359e171df717ba4bc3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 粤港澳大湾区文化产业投资大会11月26日在广州落下帷幕，累计意向签约金额约86亿元，创下历史新高。从30秒AI文创定制到快速生成三维沉浸式场景，人工智能正在加速渗透文化产业创作、生产",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIPBxWzNKAxh6L4IePbPsD261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:43:18 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIyHms8kpNBR97zjOEMUdf261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:19 GMT"
         },
         {
-          "title": "我国加速推进“人工智能+制造”专项行动",
-          "summary": "[!--begin:htmlVideoCode--]fb5cf5cb78484fc0b8949f0afa1d0d53,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年以来，我国启动实施“人工智能+制造”专项行动，在应用层面，人工智能已经基本贯穿研发设计、生产制造、质检运维等全链条。 在这家钢铁厂的生产线上，一套钢坯AI称重切割系统",
+          "title": "从“初次握手”到“价值共创” 搭乘高交会“快车”中外客商共觅科创商机",
+          "summary": "[!--begin:htmlVideoCode--]6cae448475df4a5682f666ddbf78615a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 第二十八届中国国际高新技术成果交易会11月26日在深圳开幕。高交会是中国科技创新发展的风向标之一。本届高交会以“创新引领变革，合作链接全球”为主题，吸引5000余家企业及机构参展。开",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIoeZK1bpr9zeobqSx6Gft261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:06:20 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIpcNvW87mKPPyCmOR4Aja261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:03 GMT"
         },
         {
-          "title": "我国将加快培育服务贸易发展新动能",
-          "summary": "[!--begin:htmlVideoCode--]57e465d574b24a92848d32eeeeb027d2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者11月26日从商务部了解到，“十五五”时期，我国将以“培育发展新动能”为主线，培育“中国服务”品牌，推动服务贸易高质量发展；从生产性服务和生活性服务两个维度拓展服务贸",
+          "title": "从5G升级到6G试点 信息通信业各类融合应用加速赋能千行百业",
+          "summary": "[!--begin:htmlVideoCode--]8efaa4eae21a4fc1ad966f1aa11da30a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 工业和信息化部联合国家网信办、国家发展改革委印发的《新一代通信网建设实施方案》（以下简称《实施方案》）11月26日公布。《实施方案》要求，到2030年建成覆盖完善、性能领先的新一代通",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTI71qA8f1PySlNHwuruSgT261126.shtml",
-          "published": "Thu, 26 Nov 2026 11:58:40 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIz6IJACkgiuc3x5UWTf0e261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:27:45 GMT"
         },
         {
-          "title": "何小鹏：通用大模型难以解决物理AI所有难题",
-          "summary": "大模型可以拓宽机器人的能力边界，但物理AI的应用还需要兼顾安全、成本及可靠性等因素 【财新网】 通用AI（人工智能）大模型的能力正在迅速提升，它会否“击穿”物理AI，是具身智能领域近期的热议话题。 11月25日，小鹏集团董事长、CEO何小鹏在该公司举办的科技日活动上提出，相较于数字世界，AI在物理世界的应用面临更多约束，仅依靠通用大模型难以解决所有问题。 2026年9月，美国人工智能企业OpenA",
+          "title": "11月27日起，电视不得播放开机广告",
+          "summary": "11月27日，国家广播电视总局《有线广播电视运营服务管理规定》和《交互式网络电视运营服务管理暂行规定》正式施行。 为维护用户合法权益，方便用户看电视，新规对有线广播电视运营服务和交互式网络电视运营服务，提出以下要求： 实现开机看全屏直播功能 不得播放开机广告 应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。 智能电视应支持优先呈现直播频道功能，提供便捷设置入口。 ",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTISXmtsmYX031OeXxiZkVE261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:31:05 GMT"
+        },
+        {
+          "title": "国产显示技术持续突围 全链条创新赋能多样场景",
+          "summary": "[!--begin:htmlVideoCode--]d18dca12ca434853b42809a0a0dc5026,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 我国柔性显示产业规模位居全球前列，已建成从上游材料、面板制造到终端应用的完整产业链。但产业链完备，并不代表全部关键环节实现自主可控，面向下一代显示技术，仍需要攻克不少现实难题，这些难",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIZIy8M3PKSFLqyeHatdAG261127.shtml",
+          "published": "Fri, 27 Nov 2026 01:32:03 GMT"
+        },
+        {
+          "title": "办事员的屋子里，藏着一个学步孩童：达特茅斯幻梦｜AI历史⑥",
+          "summary": "让机器人平稳识别、拿起一只咖啡杯，这件看起来微不足道的小事，在几十年里一直难以实现。而实现的关键，是学界慢慢放下了办事员那套僵硬的规则手册，转向可以自主学习的模型 《AI历史》“财新mini+”连载中，查看 已更新内容 达特茅斯的学者们尽管各有争执，逻辑理论家的成功，却让整个时代笃定了一个信念：所谓思考，就是依照既定规则操纵符号。 时隔20年，纽厄尔与西蒙在他们的图灵讲座上，把这套想法凝练成一句纲",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-26/102509048.html",
-          "published": "Thu, 26 Nov 2026 14:26:05 GMT"
+          "link": "https://mini.caixin.com/2026-11-27/102509275.html",
+          "published": "Fri, 27 Nov 2026 07:11:56 GMT"
         },
         {
-          "title": "中资租户占比高 美国算力新规冲击柔佛算力枢纽",
-          "summary": "标普指出，租金承压、客户流失及额外的资本开支，很可能加大数据中心运营商的偿债压力 【财新网】 美国进一步收紧中国企业获取境外先进算力的限制，正在给近年来数据中心建设迅速扩张的马来西亚带来新的信用风险。 11月25日，标普全球评级董事及亚太区数字基础设施主管谷力佛在记者会上表示，马来西亚柔佛州的数据中心正面临显著的风险敞口，由于不少数据中心由中国企业租用，部分运营商或面临重新寻找客户的压力。 毗邻新",
+          "title": "GPT周报｜Anthropic研究员宣称已用AI证明黎曼猜想；字节跳动推出个人AI智能体“小豆”‘；美国算力限制下国产AI模型迭代面临降速",
+          "summary": "推荐：智谱发布新一代旗舰模型GLM-5.4；欧盟委员会确认遭到AI辅助网络攻击；MiniMax聊天应用因“色情内容”遭苹果下架 【财新网】 Anthropic研究员宣称已用AI证明黎曼猜想 国际数学界回应 据财新网，当地时间11月20日，美国人工智能公司Anthropic的数学研究员阿尔普格（Levent Alpöge）在其个人网站发布了一份四页声明，声称自己与该公司的人工智能模型Claude合作",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-26/102509010.html",
-          "published": "Thu, 26 Nov 2026 12:29:04 GMT"
+          "link": "https://www.caixin.com/2026-11-27/102509256.html",
+          "published": "Fri, 27 Nov 2026 06:11:59 GMT"
+        },
+        {
+          "title": "MiniMax聊天应用因“色情内容”遭苹果下架",
+          "summary": "此前被OpenRouter移除“零数据保留”标签；MiniMax没有就应用下架回复财新的置评请求 【财新网】 11月26日，因被指控带有“色情内容”，MiniMax（ 00100.HK ）旗下C端应用Talkie被苹果在全球范围内将该应用从App Store（应用商店）下架。 根据澳大利亚广播公司（ABC）联合 The Bureau of Investigative Journalism在11月2",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-27/102509252.html",
+          "published": "Fri, 27 Nov 2026 06:09:55 GMT"
+        },
+        {
+          "title": "【商圈】遭机构做空 把AMD拉回赛场的“苏妈”如何应对",
+          "summary": "英特尔曾经是不可战胜的名字，如今在AI牌桌上要靠代工和补贴找位置；英伟达眼下握着一手好牌，但客户已经在讨论“第二个供应商”。苏姿丰的12年说明，牌桌上的位置从来不是天生的，是一代产品一代产品打回来的 【财新数据专稿】 11月19日做空机构Hunterbrook Capital宣布建立AMD（超威半导体）空头仓位后，AMD股价连跌多个交易日。但除了公司回应外，CEO苏姿丰并未公开喊话，予以强势反击。",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-27/102509186.html",
+          "published": "Fri, 27 Nov 2026 03:13:14 GMT"
+        },
+        {
+          "title": "【今日盘面】海外算力供应生变 国产替代预期点燃华为算力链",
+          "summary": "华为算力链全线爆发",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-27/102509184.html",
+          "published": "Fri, 27 Nov 2026 03:07:27 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "The group chat where your AI talks behind your back",
+          "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 5 # Comments: 0",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://construct22.com/",
+          "published": "Fri, 27 Nov 2026 06:44:34 +0000"
+        },
+        {
+          "title": "The need for a formally verifiable mainstream programming language",
+          "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 61 # Comments: 35",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+          "published": "Fri, 27 Nov 2026 05:22:06 +0000"
+        },
+        {
+          "title": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 67 # Comments: 36",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+          "published": "Fri, 27 Nov 2026 04:56:18 +0000"
+        },
+        {
+          "title": "Google will show solo Android developers' phone numbers and addresses",
+          "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 112 # Comments: 62",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+          "published": "Fri, 27 Nov 2026 03:11:41 +0000"
+        },
+        {
+          "title": "The Cutthroat Business of Shipwrecks",
+          "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 14 # Comments: 2",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+          "published": "Fri, 27 Nov 2026 01:21:49 +0000"
+        },
+        {
+          "title": "Hard Drive pricing has gotten bad",
+          "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 267 # Comments: 170",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "published": "Fri, 27 Nov 2026 01:13:49 +0000"
+        },
+        {
+          "title": "【欢迎来龙餐馆】起锅开灶，好好吃饭",
+          "summary": "徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV14iy2zgE4s",
+          "published": "Fri, 27 Nov 2026 01:30:02 GMT"
+        },
+        {
+          "title": "撒毒罐、讲义、演习记录，侵华日军化学战再添新罪证",
+          "summary": "侵华日军第七三一部队罪证陈列馆11月27日发布从日本征集的3件化学战新罪证——制式撒毒器补给罐、化学兵教学讲义及寒地工兵演习资料。装备制造、人员培训、野外试验相互印证，再次表明侵华日军化学战是自上而下、成体系的国家犯罪。 11月19日，工作人员展示侵华日军“九五式”手动便携式撒毒器补给罐。新华社记者何山 摄 在实物装备方面，此次公布的侵华日军“九五式”手动便携式撒毒器补给罐保存完好，长47厘米、直",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIiss6nj8EPtpa7JmR5QdT261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:38:40 GMT"
+        },
+        {
+          "title": "百年银杏“金叶”带动文旅发展 成为村民增收致富“金色产业”",
+          "summary": "[!--begin:htmlVideoCode--]17cb5dade1204ee58b8ae605e167f5b6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，在广西桂林灵川县海洋乡，银杏换上金装，层层金叶环绕古村。独特的林间景致吸引了不少游客到来。 这里是广西灵川县海洋乡画眉弄村的银杏林。此时此刻，银杏树全部进入观赏的最佳时期，满树",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIokmrNtKQO6gQxQz5bkNI261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:45 GMT"
+        },
+        {
+          "title": "荷兰官员：反对美国立法加强半导体制造设备出口管制",
+          "summary": "荷兰外贸与发展合作大臣舍尔茨玛26日表示，美国国会正在审议的《硬件技术管制多边协调法案》损害荷兰主权和国家利益。如果该法案获得通过，荷兰政府将要求美国政府不执行该法案。 舍尔茨玛当天在荷兰众议院一般性辩论发言中表示，《硬件技术管制多边协调法案》对美国盟友所施加的限制措施远超合理范围。法案一旦通过，将对荷兰半导体产业以及经济发展带来严重不利影响，荷兰坚决反对这一损害主权和利益的单边措施，将继续通过外",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIfQH00AvH01pirSEE7YPe261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:06:04 GMT"
+        },
+        {
+          "title": "乌克兰外长：无意将俄乌冲突扩展至利比亚",
+          "summary": "乌克兰外交部长瑟比加（资料图） 在乌克兰袭击位于利比亚班加西沿海的一艘俄罗斯军舰和一艘俄罗斯商船后，乌克兰外交部长瑟比加26日称，乌方无意将俄乌冲突扩展至利比亚或任何其他国家。 瑟比加当天在社交媒体上发帖称，他和利比亚民族统一政府代理外交部长巴乌尔通电话，就利比亚班加西港近期事态进行沟通。“我向利方解释，乌方任何行动从未针对利比亚或利比亚人民，仅针对直接服务于俄乌冲突的俄罗斯军事目标，我就意外后果",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIDiyH6Nye0INJh4c3M6oo261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:38:57 GMT"
+        },
+        {
+          "title": "从集体无意识到文化无意识｜心理",
+          "summary": "文化无意识不仅会影响我们的个体行为，还会影响族群之间乃至整个国家层面更广泛的关系。它关乎社会冲突与和谐、战争与和平 【财新网】 你是否了解荣格心理学，或是有兴趣探索它那些引人入胜的想法？如果有，集体无意识是一个至关重要的概念。一个多世纪以前，卡尔・荣格提出这一概念。部分依据是建立在他对精神疾病患者开展的治疗工作中。依托于对东西方艺术、民俗与神话的调查研究，他提出：世界各地的人类拥有相同的，与生俱来",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-27/102509250.html",
+          "published": "Fri, 27 Nov 2026 05:59:30 GMT"
         }
       ]
     },
@@ -263,178 +247,188 @@
       "summary": "",
       "items": [
         {
-          "title": "BBC事實查核：紀錄顯示，特朗普的帳戶今年交易了44次Nvidia股票",
-          "summary": "美國總統財務揭露的審查顯示特朗普（川普）的投資組合經常交易Nvidia的股票。",
+          "title": "美国GDP大幅上修，特朗普怒了：为什么不早说？",
+          "summary": "null",
           "importance": "medium",
-          "source": "BBC中文",
-          "link": "https://www.bbc.com/zhongwen/articles/cm62p52417ywo/trad?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 13:23:19 GMT"
+          "source": "观察者网",
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_27_910092_s.shtml",
+          "published": "Thu, 26 Nov 2026 23:30:00 GMT"
         },
         {
-          "title": "便捷+专业！家门口的智能康复中心上新",
-          "summary": "[!--begin:htmlVideoCode--]7360d7b01d9b465489e4baad3dfb7c75,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：为破解康复患者往返大医院不便、外地康复支出数额巨大等痛点，2025年开始，四川推进社区智能康复中心建设，引进多种智能化康复设备，让康复患者在家门口就能获得专业的康复治疗。目前，已建成",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIou5JmnZHyMpxLw4al0X2261127.shtml",
-          "published": "Thu, 26 Nov 2026 17:28:27 GMT"
-        },
-        {
-          "title": "联合国贸发会议报告：2026年全球海运贸易量预计零增长",
-          "summary": "当地时间11月26日，联合国贸易和发展会议（贸发会议）发布的一份报告显示， 2026年全球海运贸易量预计零增长 ，而这一数据在2025年为1.9%。 该报告指出，地缘政治不确定性导致海上贸易停滞不前。今年，霍尔木兹海峡、红海、黑海和巴拿马运河这四个重要的海上咽喉要道同时面临压力。报告称，这些压力正迫使船只采取航程更长、成本更高的航线。全球贸易中超过80%的货物通过海运运输，其中包括各国赖以生存的食",
+          "title": "最高法公开宣判利乐垄断后继民事诉讼两案 合计判赔4.92亿元",
+          "summary": "央视网消息： 据“最高人民法院”微信公众号消息，2026年11月27日，最高人民法院在知识产权法庭第一法庭公开开庭，对纷美（北京）贸易有限公司等（以下简称纷美方）及山东新巨丰科技包装股份有限公司等（以下简称新巨丰方）分别诉利乐中国有限公司等（以下简称利乐方）滥用市场支配地位两案公开宣判。合议庭针对案件争议焦点简要阐述了裁判意见，随后宣布依法改判利乐方赔偿纷美方4.66亿元、赔偿新巨丰方2647万元",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIa7xUUsb4YqRX1F91KS4K261127.shtml",
-          "published": "Thu, 26 Nov 2026 16:43:03 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTINUyun0NVffbbjhYsOYyV261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:41:35 GMT"
         },
         {
-          "title": "中国经济看“新”丨人工智能训练师走俏，具身智能产业“解锁”新图景",
-          "summary": "机器人缓缓抬起手臂，一点点伸向货架上的目标商品，手指灵活开合、稳稳捏住，最后收回手臂、打开手指，将货物放入购物篮中……记者见到22岁的李必修时，他正通过手柄遥控一台人形机器人做动作，两“人”十分默契。 “我最近在训练机器人下架过期商品，摆放促销标识牌。”李必修说，机器人手腕处装了摄像头，过程中产生的视觉和运动轨迹数据，都会被记录下来。 这里是湖北人形机器人创新中心三楼训练场，李必修的工作有点特别—",
+          "title": "85.9%、681万台，出口量质齐升！3D打印产业“加速跑”开辟应用新空间",
+          "summary": "[!--begin:htmlVideoCode--]068c31f3b7c84f67afca48dc2b5787f5,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 3D打印作为先进制造技术的典型代表，是我国加快发展新质生产力、深入推进新型工业化的重要支撑。记者11月26日从工业和信息化部装备工业发展中心了解到，2026年以来，我国规模以上工业企",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://jingji.cctv.com/2026/11/26/ARTIswj2zeAST5w42HPqcXWF261126.shtml",
-          "published": "Thu, 26 Nov 2026 13:38:21 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTINahaiD3YCIU7aXvIZz0w261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:12:56 GMT"
         },
         {
-          "title": "湖南怀化通报“主城区部分区域存在空气异味问题”：正开展排查",
-          "summary": "央视网消息： 11月26日，湖南怀化市生态环境局发布情况通报。11月25日晚，群众反映怀化市主城区部分区域存在空气异味问题。接报后，该局高度重视，连夜采取“现场嗅辨＋航拍巡查＋居民走访”方式，对群众反映存在空气异味的区域进行了排查。本次异味逸散存在多点、多源的情况，该局会同相关部门正开展专项行动，重点对工业企业生产活动、城镇生活垃圾和废水处置、管道燃气和罐装液化气生产供应、农贸市场家禽牲畜屠宰加工",
+          "title": "以政策矩阵助力“中国服务”培育 与世界共享服务业发展机遇",
+          "summary": "[!--begin:htmlVideoCode--]3b0597b0188646fab47aa07b122f9ba9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 商务部11月26日举行例行新闻发布会，新闻发言人表示，我国服务贸易规模已突破万亿美元。在这个新起点上，商务部会同有关部门编制了《服务贸易发展“十五五”规划》（以下简称《规划》），以“",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTI9zaxvfvY8LHUqknpuJHu261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:54:28 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIS6aDoaO1T8E42YCkgFPL261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:12:11 GMT"
         },
         {
-          "title": "第七届中俄媒体论坛在莫斯科举行 与会嘉宾期待深化数智时代媒体合作",
-          "summary": "新华社莫斯科11月25日电　第七届中俄媒体论坛25日在莫斯科举行。与会嘉宾表示，在两国元首战略引领下，中俄媒体合作不断拓展，成果丰硕，要以本届论坛为契机，共同开创数智时代中俄媒体合作新局面。 与会嘉宾指出，今年以来，中俄元首多次举行会晤，就扩大人文交流达成共识，共同见证签署多项媒体合作协议。会晤成果明确提出共同办好中俄媒体论坛、促进主流媒体互访、加强人才联合培养，为中俄媒体深化合作提供重要指引。 ",
+          "title": "轨道上的长三角再现“新貌” 多座铁路大桥通车区域高铁路网越织越密",
+          "summary": "[!--begin:htmlVideoCode--]c3297e93f52d4763acad7d2aa46c3bb9,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月27日，安徽省巢湖至马鞍山、淮北至蚌埠、淮北至阜阳三条高速铁路正式集中开通运营，一批重点控制性大型桥梁工程同步建成投用，安徽区域高铁路网布局进一步加密完善。 此次开通的三条高铁",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIPBxWzNKAxh6L4IePbPsD261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:43:18 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTILCsJ2IskLlicky1GgiQw261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:59:45 GMT"
         },
         {
-          "title": "市场监管总局开展网络交易平台信用共治活动",
-          "summary": "央视网消息 ：据“市说新语”微信公众号消息，近日，市场监管总局开展网络交易平台信用共治活动。活动深入贯彻落实党中央、国务院关于平台经济领域信用体系建设要求，推动平台企业守信践诺、规范经营，积极营造规范有序、诚信放心的网络消费环境。 活动发布了《网络交易平台信用共治倡议书》，向网络交易平台企业发出共同参与平台企业信用共治、将信用管理融入平台治理各环节的倡议。京东集团代表网络交易平台企业宣读《网络交易",
+          "title": "畅享冬趣全天候精彩！国内外游客乐享“冰雪+” 催热冬季文旅“新”消费",
+          "summary": "[!--begin:htmlVideoCode--]5bfa7334f58141a8b3221b27bc4d17b5,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在内蒙古兴安盟，第二十一届阿尔山冰雪节已于11月25日启动，当地依托冰雪、温泉资源，整合多元文旅产品，吸引各地游客和多国旅行商前来，冬季文旅市场持续火热。 内蒙古阿尔山地处大兴安岭西",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIFCsIMU8iQXMWohGFTjEg261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:19:03 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIeinEoMut3FQgL1pvtMlY261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:59:24 GMT"
         },
         {
-          "title": "我国加速推进“人工智能+制造”专项行动",
-          "summary": "[!--begin:htmlVideoCode--]fb5cf5cb78484fc0b8949f0afa1d0d53,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年以来，我国启动实施“人工智能+制造”专项行动，在应用层面，人工智能已经基本贯穿研发设计、生产制造、质检运维等全链条。 在这家钢铁厂的生产线上，一套钢坯AI称重切割系统",
+          "title": "打造消费新优势 “雄厚产业基础+完备产供链”筑牢首发经济“护城河”",
+          "summary": "[!--begin:htmlVideoCode--]7acbfd3f7fb54d999254b85b6f95c853,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《扩大消费“十五五”规划》中明确提出，因地制宜推进首发经济。深圳在2026年8月推出了支持首发经济发展的相关政策，重点打造世界级商圈、街区等首发经济集聚区，打造标杆性首发活动IP，还",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIoeZK1bpr9zeobqSx6Gft261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:06:20 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIcknM9gJmhWoy5SSWQvKJ261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:29:08 GMT"
         },
         {
-          "title": "大股东陷质押泥潭 百傲化学急宣回购拉股价",
-          "summary": "跨界半导体后被证监会立案，股价暴跌引发大股东的股权质押陷入维保困境，宣布2亿元回购计划后，连续两日拉出涨停板 【财新网】 11月26日，两连板触及异常波动标准的百傲化学（603360.SH）开盘继续放量，盘中一度逼近11.62元/股的涨停价，收盘报11.25元/股，涨幅6.53%，周内涨幅超过31%。这轮快速拉升的直接导火索，是公司在11月23日晚间披露的回购计划，该计划的出台，正值其大股东所持股",
+          "title": "从分散“赶大集”到集中“逛超市” 绿电在更大范围内优化配置",
+          "summary": "[!--begin:htmlVideoCode--]2fb6d69a62834ec586a33f617092548e,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从国家电网了解到，11月26日，我国首次开展省间省内绿电联合交易，全国统一电力市场建设迎来重大突破。 11月26日，国内首笔绿电省间省内联合交易在北京电力交易中心完成。这就像是来",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIzwqzdQoZz1YHoAnAWbhD261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:33 GMT"
+        },
+        {
+          "title": "86亿元，创新高！人工智能加速渗透文化产业全链条成为增长新引擎",
+          "summary": "[!--begin:htmlVideoCode--]44580dd0f2ac40359e171df717ba4bc3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 粤港澳大湾区文化产业投资大会11月26日在广州落下帷幕，累计意向签约金额约86亿元，创下历史新高。从30秒AI文创定制到快速生成三维沉浸式场景，人工智能正在加速渗透文化产业创作、生产",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIyHms8kpNBR97zjOEMUdf261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:19 GMT"
+        },
+        {
+          "title": "荷兰官员：反对美国立法加强半导体制造设备出口管制",
+          "summary": "荷兰外贸与发展合作大臣舍尔茨玛26日表示，美国国会正在审议的《硬件技术管制多边协调法案》损害荷兰主权和国家利益。如果该法案获得通过，荷兰政府将要求美国政府不执行该法案。 舍尔茨玛当天在荷兰众议院一般性辩论发言中表示，《硬件技术管制多边协调法案》对美国盟友所施加的限制措施远超合理范围。法案一旦通过，将对荷兰半导体产业以及经济发展带来严重不利影响，荷兰坚决反对这一损害主权和利益的单边措施，将继续通过外",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIfQH00AvH01pirSEE7YPe261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:06:04 GMT"
+        },
+        {
+          "title": "应急管理部公布一批安全生产培训考试领域典型案例 严查违法违规行为",
+          "summary": "央视网消息： 据应急管理部网站消息，为进一步严格安全生产培训考核工作，切实提升从业人员安全素质和技能，应急管理部日前公布一批安全生产培训考试领域典型案例，严查无证假证上岗作业、考试组织作弊等违法违规行为，以案说法、以案示警。 一、特种作业人员无证上岗或使用伪造的国家机关证件上岗类案例 1.山东省滨州市邹平市某药业有限公司特种作业人员无证上岗案 2026年3月11日，山东省滨州市邹平市应急管理局执法",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIpWduITS4N6AaFaiLlWFV261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:19:04 GMT"
+        },
+        {
+          "title": "中国驻南非使领馆再次提醒中国公民近期暂勿前往斯威士兰",
+          "summary": "央视网消息 ：11月27日，中国驻南非大使馆发布领事提醒：当前，斯威士兰安全形势复杂，排外情绪上升。斯当局拟出台的有关经济领域法律和政策可能伤害外国公民利益。 驻南非使领馆提醒中国公民近期暂勿前往斯威士兰，已在当地的中国公民和机构请密切关注局势发展，加强安全防范和应急准备，并尽快撤离或转移至南非等相对安全区域。如遇紧急情况，请及时报警并与中国驻南非使领馆联系寻求协助。执意前往或驻留人员将面临极高安",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIXvpylHoZDJ2X0fGyTk5u261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:15:45 GMT"
+        },
+        {
+          "title": "线上“老师”教学 线下“车手”收金 警方拆解新型黄金诈骗套路",
+          "summary": "近期，国际、国内黄金价格震荡下行，不少消费者趁机抄底黄金，市场热度攀升的同时，骗子也盯上了这个“窗口期”，各类假借“低价黄金、黄金投资”实施的诈骗案件也随之高发。有人仅凭“线上顾问”的投资教学便购买100克金条来进行线下交易，全程不挑款式不问价。 这背后其实是一条“线上洗脑、线下取金”的完整链条。对于消费者而言，如何分辨投资还是诈骗？怎样避开新型黄金诈骗的层层圈套？ 山东威海的张先生平时喜欢刷短视",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIbgngNalHrlXb5GlhRPNf261127.shtml",
+          "published": "Fri, 27 Nov 2026 01:16:33 GMT"
+        },
+        {
+          "title": "印尼“镍王”涉嫌洗钱 检方查获巨额现金及近38公斤黄金",
+          "summary": "根据印尼检方此前掌握的出入境记录，阿里夫目前已身处印尼境外 【财新网】 印度尼西亚政府对国内矿业违规经营及腐败行为的调查，正向当地知名镍矿贸易商蔓延。11月25日晚间，印尼总检察署宣布，将有印尼“镍王”之称的华裔矿业巨头阿里夫·库尔尼亚万（Arif Kurniawan）及其实际控制的镍矿企业PT BSJ列为涉嫌洗钱的犯罪嫌疑人，印尼检方已查获总值约人民币2100万元的现金以及近38公斤黄金。 据印",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://finance.caixin.com/2026-11-26/102509033.html",
-          "published": "Thu, 26 Nov 2026 13:44:32 GMT"
+          "link": "https://international.caixin.com/2026-11-27/102509272.html",
+          "published": "Fri, 27 Nov 2026 07:02:45 GMT"
         },
         {
-          "title": "和谐健康年内密集减持金融街 持股比例下降逾7个百分点",
-          "summary": "受房地产市场深度调整影响，金融街业绩持续承压，和谐健康年内合计套现超5亿元；近两年和谐健康投资动作频频引行业关注，加码科技股成最大亮点 【财新网】 11月26日，金融街（000402.SZ）发布持股5%以上股东权益变动公告显示，该公司股东和谐健康保险公司（下称“和谐健康”）因自身经营需要，于11月17日至11月25日通过集中竞价交易减持该公司股份3412.59万股，占总股本的比例为1.14%，持有",
+          "title": "涉150亿元非吸案嫌疑人被引渡回国 或指向浙江中涌案",
+          "summary": "舒某某以高息理财为诱饵，向不特定人群非法吸收存款，涉案金额超150亿元人民币，2024年10月被浙江宁波警方立案侦查，2025年11月在俄罗斯被抓。其涉案主体或为浙江中涌系 【财新网】 一名涉嫌非法吸收公众存款的逃犯从俄罗斯被引渡回国，涉案金额超150亿元。11月25日，公安部经侦局通报了这一消息。据财新查证，此人或涉浙江中涌理财案。 公安部经侦局通报指，犯罪嫌疑人舒某某在未经金融监管部门批准、不",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://finance.caixin.com/2026-11-26/102509027.html",
-          "published": "Thu, 26 Nov 2026 13:37:04 GMT"
+          "link": "https://china.caixin.com/2026-11-27/102509267.html",
+          "published": "Fri, 27 Nov 2026 06:53:00 GMT"
         },
         {
-          "title": "内塔尼亚胡涉腐案件出现关键转折 以色列选后政局仍在悬峙",
-          "summary": "这一进展被外界视为内塔尼亚胡在司法上的重大胜利，同时也是对以色列检方的一次打击 【财新网】 目前担任以色列看守政府总理、面临多项腐败指控的内塔尼亚胡，在其所涉的刑事案件审判中获得了对其有利的进展。 当地时间11月25日，耶路撒冷地方法院的法官建议以色列检方撤销对内塔尼亚胡的一项腐败指控。这一进展被外界视为内塔尼亚胡在司法上的重大胜利，同时也是对以色列检方的一次打击。 内塔尼亚胡所涉的“4000号案",
+          "title": "能把事情做到100分的日本，却为何少见0到1的创新",
+          "summary": "中日像一枚硬币的两面：中国拥有速度、规模、竞争和极强的试错能力，但也伴随着焦虑、内卷、粗糙和短期主义；日本拥有秩序、质量、稳定和长期主义，却也面临路径依赖、节奏缓慢和创新动力不足的问题 今年的日本之行，我一直怀有一种很复杂的情绪。 一方面，我依然会被这个国家深深打动。秩序、干净、礼貌、克制，以及对细节近乎执拗的打磨，都让人很自然地理解，为什么日本能够长期在制造业、材料、精密工程等领域保持世界级的领",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://international.caixin.com/2026-11-26/102509022.html",
-          "published": "Thu, 26 Nov 2026 13:30:38 GMT"
+          "link": "https://opinion.caixin.com/2026-11-27/102509248.html",
+          "published": "Fri, 27 Nov 2026 05:51:16 GMT"
         },
         {
-          "title": "中资租户占比高 美国算力新规冲击柔佛算力枢纽",
-          "summary": "标普指出，租金承压、客户流失及额外的资本开支，很可能加大数据中心运营商的偿债压力 【财新网】 美国进一步收紧中国企业获取境外先进算力的限制，正在给近年来数据中心建设迅速扩张的马来西亚带来新的信用风险。 11月25日，标普全球评级董事及亚太区数字基础设施主管谷力佛在记者会上表示，马来西亚柔佛州的数据中心正面临显著的风险敞口，由于不少数据中心由中国企业租用，部分运营商或面临重新寻找客户的压力。 毗邻新",
+          "title": "绿电“大超市” 初探 全国首笔“省间+省内”绿电联合交易落地",
+          "summary": "两级绿电市场首次在同一规则下实现“一次申报、联合交易”；此次首笔交易出清电量61.7亿千瓦时，平均交易价格0.204元/千瓦时 【财新网】 全国省间、省内两级绿电交易首次实现联合组织，电力用户一次申报即可同时购买省内和省外绿电。 国家电网消息，11月26日，国内首笔省间省内绿电联合交易在北京电力交易中心达成。此次交易由西北五省区、华东五省市的1615家市场经营主体参与，包括新能源企业1188家，用",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-26/102509010.html",
-          "published": "Thu, 26 Nov 2026 12:29:04 GMT"
+          "link": "https://www.caixin.com/2026-11-27/102509226.html",
+          "published": "Fri, 27 Nov 2026 04:56:50 GMT"
         },
         {
-          "title": "商务部：坚决反对美对中国等经济体加征301关税",
-          "summary": "得益于双方积极磋商及9月“300亿对300亿”降税清单，中美贸易明显回暖，10月单月贸易额突破600亿美元 【财新网】 中国商务部反对美国对华新征关税。11月26日，商务部办公厅副主任兼新闻发言人何亚东就美国贸易代表办公室宣布“产能过剩”301调查结果、发布拟议措施，提出对包括中国在内的14个经济体加征301关税做出回应。 张亚东表示，美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重",
+          "title": "【市场洞察】固态电池产业化仍在路上 堵点到底在哪里？",
+          "summary": "固态电池距离规模化量产仍有工艺和成本两道难关，一方面要保证材料质量和电芯制造的稳定性，另一方面，也要降低原料、生产环境控制及设备投入带来的成本",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://companies.caixin.com/2026-11-26/102508999.html",
-          "published": "Thu, 26 Nov 2026 11:51:19 GMT"
+          "link": "https://database.caixin.com/2026-11-27/102509207.html",
+          "published": "Fri, 27 Nov 2026 04:28:23 GMT"
         },
         {
-          "title": "蔚来秦力洪：2027年车市或延续低迷 车企需调整经营预期",
-          "summary": "2026年前10个月，中国汽车累计销量为2628.6万辆，同比下跌5.1%；其中国内销量仅为1701.4万辆，同比下跌22.9% 【财新网】 2026年中国汽车市场需求收缩可能并非短期波动，而是未来几年行业发展的新常态。在11月25日举行的蔚来创新科技日活动上，蔚来汽车（09866.HK/NYSE：NIO）联合创始人、总裁秦力洪提出上述判断。 据中国汽车工业协会（下称“中汽协”）统计，2026年前",
+          "title": "【华尔街原声】毕马威经济学家：未来数月美国通胀率或逼近4%",
+          "summary": "预计美联储12月加息，通胀回归2%目标或至少需要两至三年",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-26/102508994.html",
-          "published": "Thu, 26 Nov 2026 11:47:49 GMT"
-        }
-      ]
-    },
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "跪地10分钟救回同学！陈予彤，你真棒！",
-          "summary": "近日，湖北荆门一中学 一名学生跑步时突然晕倒、意识丧失 危急关头，高三学生 陈予彤 跪地持续实施10分钟心肺复苏 为遇险学生 争取宝贵的黄金救治时间 11月18日晚，荆门市龙泉中学操场上 一名学生跑步时突然晕倒 周围同学发现异常后 迅速向老师、医务及安保人员求助 高三学生陈予彤闻讯快步冲到现场 “当时的情况确实很紧急 我其实也非常紧张 但心中一直有声音告诉我 这个时候帮她 也许可以挽回一条生命 然",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://people.cctv.com/2026/11/27/ARTIi5TfTaSvqFEXvPnajBgP261127.shtml",
-          "published": "Thu, 26 Nov 2026 18:03:53 GMT"
+          "link": "https://database.caixin.com/2026-11-27/102509206.html",
+          "published": "Fri, 27 Nov 2026 04:26:06 GMT"
         },
         {
-          "title": "降温后又回暖，粽子式、洋葱式、橘子式穿衣法你要怎么选？",
-          "summary": "11月26日起，又有新冷空气上线，北方局地降温可达10℃以上，短暂降温后大回暖又来了，如何穿对衣服成了难题。中国天气网推出全国花式穿衣地图，看看粽子式、洋葱式、橘子式哪种穿衣方法最适合你。 近日中东部气温迎回升，一些地方最高气温突破20℃，较常年同期明显偏暖。不过暖意短暂，一股冷空气已经上线，明后天局地降温将超10℃。中国天气网气象分析师沈雨旸介绍，本次冷空气过程持续时间短、降温节奏快，且主要影响",
+          "title": "从收入端提振消费：三个群体，三套办法",
+          "summary": "如果重点是扩大民生支出，提振消费，那就不能按着生产的思维、供给的思维去补贴产品、补贴生产，而是应该从不同人群的消费约束条件出发 有海外机构预测说，中国GDP的增长目标可能会调低到4%。我个人认为不能调低。因为前两年经济目标还是5%左右，今年是4.5~5%，如果仅仅坚持了一年就把它调到4%，对经济预期不好。 但2027年实现4.5%以上的目标会有一定挑战。首先明年扩大需求不能再依赖投资。前10个月的",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIxSJSsdAT46XDJuqUQmNs261126.shtml",
-          "published": "Thu, 26 Nov 2026 18:03:45 GMT"
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-27/102509205.html",
+          "published": "Fri, 27 Nov 2026 04:22:02 GMT"
         },
         {
-          "title": "便捷+专业！家门口的智能康复中心上新",
-          "summary": "[!--begin:htmlVideoCode--]7360d7b01d9b465489e4baad3dfb7c75,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 ：为破解康复患者往返大医院不便、外地康复支出数额巨大等痛点，2025年开始，四川推进社区智能康复中心建设，引进多种智能化康复设备，让康复患者在家门口就能获得专业的康复治疗。目前，已建成",
+          "title": "马来西亚空军军官涉嫌贩毒 涉案毒品价值高达2.5亿元",
+          "summary": "此前，马来西亚航空一名39岁的副机长在印尼雅加达国际机场被捕，印尼执法人员在其行李中查获逾7万粒摇头丸 【财新网】 马来西亚多名空军军官涉嫌利用军方航空运输设施参与跨国毒品走私活动。11月26日，马来西亚内政部长赛夫丁在国会下议院答询时披露，自2024年8月以来，涉案贩毒集团至少进行了21次毒品交易，涉及约3吨毒品，总值高达1.56亿林吉特（约合人民币2.5亿元）。 赛夫丁称，马来西亚全国警察总部",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIou5JmnZHyMpxLw4al0X2261127.shtml",
-          "published": "Thu, 26 Nov 2026 17:28:27 GMT"
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-27/102509199.html",
+          "published": "Fri, 27 Nov 2026 04:18:06 GMT"
         },
         {
-          "title": "全国技工院校将培养培训超200万高技能人才",
-          "summary": "新华社北京11月26日电（记者张晓洁、邹雨沁）记者11月26日获悉，人力资源社会保障部等5部门近日联合印发关于推进技工教育高质量特色发展的意见，明确“十五五”期间，全国技工院校在校生规模和职业培训规模力争保持总体稳定，毕业生毕业去向落实率97%以上，累计培养培训高技能人才达到200万人以上。 意见对“十五五”时期技工教育改革发展作出5方面部署。 落实立德树人根本任务方面，意见明确，大力弘扬劳模精神",
+          "title": "能源内参｜商务部：坚决反对美对中国等经济体加征301关税；中国华能原总会计师王益华被开除党籍",
+          "summary": "比亚迪在法国洽购产能 筹划西欧地区首座乘用车工厂；蔚来秦力洪：2027年车市或延续低迷 车企需调整经营预期 【财新网】 商务部：坚决反对美对中国等经济体加征301关税 财新网11月26日报道，中国商务部反对美国对华新征关税。11月26日，商务部办公厅副主任兼新闻发言人何亚东就美国贸易代表办公室宣布“产能过剩”301调查结果、发布拟议措施，提出对包括中国在内的14个经济体加征301关税做出回应，美方",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIuu596eV6sGHsjY1FGyQj261127.shtml",
-          "published": "Thu, 26 Nov 2026 17:06:42 GMT"
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-27/102509196.html",
+          "published": "Fri, 27 Nov 2026 04:00:13 GMT"
         },
         {
-          "title": "五中全会精神在基层丨六尺巷世代存礼让 党组织基层暖人心",
-          "summary": "安徽桐城六尺巷巷口尽头的牌坊上写着“礼让”二字（11月10日摄）。新华社记者 鲁金博 摄 新华社合肥11月25日电 题：六尺巷世代存礼让 党组织基层暖人心 新华社记者屈辰、陈尚营 初冬，一条仅两米宽、百米长的古朴小巷迎来全国各地游客。巷口尽头的牌坊上，记者远远望见“礼让”二字。 “一纸书来只为墙，让他三尺又何妨”。地处安徽桐城的六尺巷，因清代大学士张英与邻居吴家互相退让三尺地基而成，是中国邻里和谐",
+          "title": "莫斯科河上：彼得大帝的哥伦布传说｜奇行怪记",
+          "summary": "300多年前，彼得大帝费尽心思把首都从莫斯科搬到了圣彼得堡。数百年后，莫斯科却为他竖起了一座近百米高的雕像。只是人们津津乐道的，已经不只是彼得大帝的故事 住在莫斯科河边的酒店，从窗户往外望去，最抢眼的是一座巨大雕像。一个身披铠甲的巨人，站在桅杆林立的大帆船上，手里举着卷轴，脚下波涛翻滚。整座雕像高达98米，比一幢二三十层的楼还高。造型气势磅礴，却又有些古怪。 这位巨人就是彼得大帝。不过，关于这座雕",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIS4lHqBT0G0IQwxQ311CA261126.shtml",
-          "published": "Thu, 26 Nov 2026 13:39:35 GMT"
-        },
-        {
-          "title": "中国经济看“新”丨人工智能训练师走俏，具身智能产业“解锁”新图景",
-          "summary": "机器人缓缓抬起手臂，一点点伸向货架上的目标商品，手指灵活开合、稳稳捏住，最后收回手臂、打开手指，将货物放入购物篮中……记者见到22岁的李必修时，他正通过手柄遥控一台人形机器人做动作，两“人”十分默契。 “我最近在训练机器人下架过期商品，摆放促销标识牌。”李必修说，机器人手腕处装了摄像头，过程中产生的视觉和运动轨迹数据，都会被记录下来。 这里是湖北人形机器人创新中心三楼训练场，李必修的工作有点特别—",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://jingji.cctv.com/2026/11/26/ARTIswj2zeAST5w42HPqcXWF261126.shtml",
-          "published": "Thu, 26 Nov 2026 13:38:21 GMT"
-        },
-        {
-          "title": "呵护“一老一小”，托起万家幸福",
-          "summary": "“一老一小”，一头连着“夕阳”，一头连着“朝阳”，是每个家庭最柔软的部分。“老”是我们的财富，“小”是我们的未来。孩子的抚育、老人的医养，关乎民生、连接民心，是家事也是国事。 近日，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部联合印发《“一老一小”服务体系建设实施方案》（以下简称《方案》），明确到2030年，养老、托育服务设施布局更加合理、条件明显改善，医养结合持续深化，“一老一小",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIZxKyIIwjoYxOd2P0wsOI261126.shtml",
-          "published": "Thu, 26 Nov 2026 12:44:21 GMT"
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-27/102509178.html",
+          "published": "Fri, 27 Nov 2026 02:39:24 GMT"
         }
       ]
     },
@@ -443,26 +437,90 @@
       "summary": "",
       "items": [
         {
-          "title": "全国技工院校将培养培训超200万高技能人才",
-          "summary": "新华社北京11月26日电（记者张晓洁、邹雨沁）记者11月26日获悉，人力资源社会保障部等5部门近日联合印发关于推进技工教育高质量特色发展的意见，明确“十五五”期间，全国技工院校在校生规模和职业培训规模力争保持总体稳定，毕业生毕业去向落实率97%以上，累计培养培训高技能人才达到200万人以上。 意见对“十五五”时期技工教育改革发展作出5方面部署。 落实立德树人根本任务方面，意见明确，大力弘扬劳模精神",
+          "title": "中国驻日本大使馆再次提醒中国公民注意防范地震等自然灾害",
+          "summary": "央视网消息 ：据中国驻日本大使馆消息，近期，日本熊本县、茨城县、千叶县、静冈县、北海道近海等地地震频发。日政府于11月2日正式成立防灾厅，以应对可能发生的首都直下型地震、南海海槽地震等大规模自然灾害。 中国驻日本大使馆再次提醒在日中国公民注意防范地震等自然灾害： 一、切实增强防范意识，对老旧住宅进行抗震性能检查，对书柜、冰箱、大型电器等家具进行防震加固，提前了解住所、工作地等经常出入场所是否面临地",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIuu596eV6sGHsjY1FGyQj261127.shtml",
-          "published": "Thu, 26 Nov 2026 17:06:42 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIKDD6esSf3VsFX3i2wfRG261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:16:26 GMT"
         }
       ]
     },
     {
-      "name": "心理学",
+      "name": "教育 / 升学",
       "summary": "",
       "items": [
         {
-          "title": "北京警方发布重要提示：多人违规携无人机进京被查处 请遵守相关规定",
-          "summary": "自 2026 年 11 月 15 日新修订的《北京市无人驾驶航空器管理规定》（以下简称《规定》）正式实施以来，北京警方已依法查处多起违规携带无人机及其核心部件进京案件。北京警方提示，广大市民群众和来京人员应提前了解相关规定，避免因不了解规定而遭受不必要的处罚和损失。 《规定》明确了四项禁止性要求：禁止在本市行政区域内实施无人驾驶航空器飞行活动；禁止在本市行政区域内持有、存放无人驾驶航空器及其核心部",
+          "title": "美国民众或迎来“汽油最贵的感恩节”",
+          "summary": "新华社北京11月27日电　美国油价跟踪企业预测，相比去年，今年截至11月29日的5天感恩节假期里，美国人要多花约9.8亿美元加油。 据美国有线电视新闻网报道，尽管进入11月以来美国油价有所下滑，但仍明显高于去年感恩节油价水平。美国油价跟踪企业“汽油伙伴”公司因此预测，今年可能成为“汽油最贵的感恩节”。 这是9月15日在美国纽约拍摄的车流。新华社记者张凤国摄 该公司石油分析负责人帕特里克·德汉恩说，",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTIMWIW7zJEXpcI0g91mbUT261126.shtml",
-          "published": "Thu, 26 Nov 2026 13:33:28 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIWcIFeZntXzmFxUPwFsxb261127.shtml",
+          "published": "Fri, 27 Nov 2026 06:02:29 GMT"
+        },
+        {
+          "title": "畅享冬趣全天候精彩！国内外游客乐享“冰雪+” 催热冬季文旅“新”消费",
+          "summary": "[!--begin:htmlVideoCode--]5bfa7334f58141a8b3221b27bc4d17b5,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在内蒙古兴安盟，第二十一届阿尔山冰雪节已于11月25日启动，当地依托冰雪、温泉资源，整合多元文旅产品，吸引各地游客和多国旅行商前来，冬季文旅市场持续火热。 内蒙古阿尔山地处大兴安岭西",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIeinEoMut3FQgL1pvtMlY261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:59:24 GMT"
+        },
+        {
+          "title": "建设优质课堂、课程、专业、院校 工学一体化专业与学生覆盖面扩大",
+          "summary": "[!--begin:htmlVideoCode--]99b727bc67164e13a76683baf20ca1d7,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 近日，人力资源社会保障部等五部门联合印发《关于推进技工教育高质量特色发展的意见》（以下简称《意见》），明确“十五五”时期技工教育改革发展路径。 《意见》明确，“十五五”时期，全国技工",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIphpqlo0bmrQWRo91Xtb9261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:58:22 GMT"
+        },
+        {
+          "title": "公交线路“跟人走”出行更从容 民生服务响应更快、落地更实",
+          "summary": "[!--begin:htmlVideoCode--]f36521ba20aa4e78853afa2eaa9f1e70,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 公交线路“跟人走”出行更从容。近期，成都公交新开通16条通学专线，线路一头连着小区，一头连着校门，让学生的通学路安全、便捷。 早上7时，天色微亮。成都天府新区一处小区门口，专线公交准",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIAI73fWy3gBy4cuX0Sywf261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:41:47 GMT"
+        },
+        {
+          "title": "浙江湖州：冬日里的温暖路口",
+          "summary": "浙江湖州：冬日里的温暖路口 11月26日，在浙大儿院莫干山院区东门附近，患儿家属在排队等待领取物资。 今年10月起，位于浙江省湖州市德清县的浙江大学医学院附属儿童医院（简称浙大儿院）莫干山院区东门附近，爱心人士自发组织“爱心市集”，将水果、衣物、洗漱用品、玩具等物资免费发放给患儿家属。眼下，这份善意持续“扩圈”，当地商户和各地网友纷纷加入。 有爱心人士凌晨制作蛋糕、云吞专程从杭州送来；有人送去20",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://photo.cctv.com/2026/11/27/PHOAYAwmDD0ock1i5mAcNsEe261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:39:40 GMT"
+        },
+        {
+          "title": "百年银杏“金叶”带动文旅发展 成为村民增收致富“金色产业”",
+          "summary": "[!--begin:htmlVideoCode--]17cb5dade1204ee58b8ae605e167f5b6,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 眼下，在广西桂林灵川县海洋乡，银杏换上金装，层层金叶环绕古村。独特的林间景致吸引了不少游客到来。 这里是广西灵川县海洋乡画眉弄村的银杏林。此时此刻，银杏树全部进入观赏的最佳时期，满树",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIokmrNtKQO6gQxQz5bkNI261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:45 GMT"
+        },
+        {
+          "title": "73%、70%；托得近、托得放心 透过关键词读懂照护“一老一小”服务体系搭建",
+          "summary": "[!--begin:htmlVideoCode--]c851ee545bf742658987777691fd8440,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： “一老一小”是一个家庭最牵挂的两端。近日，国家四部门联合印发《“一老一小”服务体系建设实施方案》（以下简称《实施方案》），明确到2030年，养老、托育服务设施布局要更加合理。具体该怎",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIdxy1k4qsYDHz4OAr1VvP261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:26:54 GMT"
+        },
+        {
+          "title": "涉150亿元非吸案嫌疑人被引渡回国 或指向浙江中涌案",
+          "summary": "舒某某以高息理财为诱饵，向不特定人群非法吸收存款，涉案金额超150亿元人民币，2024年10月被浙江宁波警方立案侦查，2025年11月在俄罗斯被抓。其涉案主体或为浙江中涌系 【财新网】 一名涉嫌非法吸收公众存款的逃犯从俄罗斯被引渡回国，涉案金额超150亿元。11月25日，公安部经侦局通报了这一消息。据财新查证，此人或涉浙江中涌理财案。 公安部经侦局通报指，犯罪嫌疑人舒某某在未经金融监管部门批准、不",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-27/102509267.html",
+          "published": "Fri, 27 Nov 2026 06:53:00 GMT"
+        },
+        {
+          "title": "武大一教授被举报靠权色交易上位 校方调查称不属实",
+          "summary": "武汉大学表示，经调查核实，付磊担任人事部门负责人期间，在曾梦琪相关评审中均执行了“导师回避”规定，未发现其利用职务影响为曾梦琪提供便利，以上评审程序和流程规范，未发现违规问题；但曾梦琪存在违规使用科研经费问题，违反财经纪律，造成不良社会影响，给予其党内严重警告处分，免去其物理化学研究所副所长职务 【财新网】 两个多月前，一封举报材料引发舆论关注。武汉大学教授曾梦琪被指靠权色交易上位，从2016年开",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://china.caixin.com/2026-11-27/102509262.html",
+          "published": "Fri, 27 Nov 2026 06:29:58 GMT"
         }
       ]
     },
@@ -471,34 +529,103 @@
       "summary": "",
       "items": [
         {
-          "title": "我国将加快培育服务贸易发展新动能",
-          "summary": "[!--begin:htmlVideoCode--]57e465d574b24a92848d32eeeeb027d2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者11月26日从商务部了解到，“十五五”时期，我国将以“培育发展新动能”为主线，培育“中国服务”品牌，推动服务贸易高质量发展；从生产性服务和生活性服务两个维度拓展服务贸",
+          "title": "摸清“家底”推动价值转化 构建农业文化遗产大保护格局",
+          "summary": "[!--begin:htmlVideoCode--]633ebf181a904464a8532a0202e5af88,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从农业农村部了解到，“十五五”期间，我国将深入实施农耕文化传承保护工程。到2030年，摸清遗产资源，构建农业文化遗产大保护格局。 截至目前，农业农村部已分8批认定了276项中国重",
           "importance": "medium",
           "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/26/ARTI71qA8f1PySlNHwuruSgT261126.shtml",
-          "published": "Thu, 26 Nov 2026 11:58:40 GMT"
+          "link": "https://news.cctv.com/2026/11/27/ARTIuImqy06GQ8fhWtnj96qz261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:59:02 GMT"
         },
         {
-          "title": "内塔尼亚胡涉腐案件出现关键转折 以色列选后政局仍在悬峙",
-          "summary": "这一进展被外界视为内塔尼亚胡在司法上的重大胜利，同时也是对以色列检方的一次打击 【财新网】 目前担任以色列看守政府总理、面临多项腐败指控的内塔尼亚胡，在其所涉的刑事案件审判中获得了对其有利的进展。 当地时间11月25日，耶路撒冷地方法院的法官建议以色列检方撤销对内塔尼亚胡的一项腐败指控。这一进展被外界视为内塔尼亚胡在司法上的重大胜利，同时也是对以色列检方的一次打击。 内塔尼亚胡所涉的“4000号案",
+          "title": "从“初次握手”到“价值共创” 搭乘高交会“快车”中外客商共觅科创商机",
+          "summary": "[!--begin:htmlVideoCode--]6cae448475df4a5682f666ddbf78615a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 第二十八届中国国际高新技术成果交易会11月26日在深圳开幕。高交会是中国科技创新发展的风向标之一。本届高交会以“创新引领变革，合作链接全球”为主题，吸引5000余家企业及机构参展。开",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIpcNvW87mKPPyCmOR4Aja261127.shtml",
+          "published": "Fri, 27 Nov 2026 03:28:03 GMT"
+        },
+        {
+          "title": "网传新版九年级教材有多处错误？全国教育辟谣平台：均为盗版",
+          "summary": "近期，部分自媒体在抖音、小红书、微信等平台发布“新版九年级下册《道德与法治》教材封面人物有六根手指、正文存在错字别字、漏字、病句”等信息，引发家长关注。 对此，全国教育辟谣平台展开调查并从有关部门获悉：网络平台上售卖、传播并引发讨论的“2027春季九年级下册人教版教材”均为盗版，正版教材尚未出版。 网传信息不实：网传“新版教材”均为盗版 图片说明：网传盗版视频截图。 图片说明：部分店家标注2027",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIYzSBsYK56iMnHfGhrcFU261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:44:59 GMT"
+        },
+        {
+          "title": "办事员的屋子里，藏着一个学步孩童：达特茅斯幻梦｜AI历史⑥",
+          "summary": "让机器人平稳识别、拿起一只咖啡杯，这件看起来微不足道的小事，在几十年里一直难以实现。而实现的关键，是学界慢慢放下了办事员那套僵硬的规则手册，转向可以自主学习的模型 《AI历史》“财新mini+”连载中，查看 已更新内容 达特茅斯的学者们尽管各有争执，逻辑理论家的成功，却让整个时代笃定了一个信念：所谓思考，就是依照既定规则操纵符号。 时隔20年，纽厄尔与西蒙在他们的图灵讲座上，把这套想法凝练成一句纲",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://international.caixin.com/2026-11-26/102509022.html",
-          "published": "Thu, 26 Nov 2026 13:30:38 GMT"
+          "link": "https://mini.caixin.com/2026-11-27/102509275.html",
+          "published": "Fri, 27 Nov 2026 07:11:56 GMT"
+        },
+        {
+          "title": "能把事情做到100分的日本，却为何少见0到1的创新",
+          "summary": "中日像一枚硬币的两面：中国拥有速度、规模、竞争和极强的试错能力，但也伴随着焦虑、内卷、粗糙和短期主义；日本拥有秩序、质量、稳定和长期主义，却也面临路径依赖、节奏缓慢和创新动力不足的问题 今年的日本之行，我一直怀有一种很复杂的情绪。 一方面，我依然会被这个国家深深打动。秩序、干净、礼貌、克制，以及对细节近乎执拗的打磨，都让人很自然地理解，为什么日本能够长期在制造业、材料、精密工程等领域保持世界级的领",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-27/102509248.html",
+          "published": "Fri, 27 Nov 2026 05:51:16 GMT"
+        },
+        {
+          "title": "马来西亚空军军官涉嫌贩毒 涉案毒品价值高达2.5亿元",
+          "summary": "此前，马来西亚航空一名39岁的副机长在印尼雅加达国际机场被捕，印尼执法人员在其行李中查获逾7万粒摇头丸 【财新网】 马来西亚多名空军军官涉嫌利用军方航空运输设施参与跨国毒品走私活动。11月26日，马来西亚内政部长赛夫丁在国会下议院答询时披露，自2024年8月以来，涉案贩毒集团至少进行了21次毒品交易，涉及约3吨毒品，总值高达1.56亿林吉特（约合人民币2.5亿元）。 赛夫丁称，马来西亚全国警察总部",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://international.caixin.com/2026-11-27/102509199.html",
+          "published": "Fri, 27 Nov 2026 04:18:06 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "“劫持”多巴胺系统，沉迷短剧难自控？这样科学“刹车”！",
+          "summary": "[!--begin:htmlVideoCode--]cf0ab59df45c45e7ac14474a61891953,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 《中国网络视听发展研究报告（2026）》显示，截至2025年底，微短剧应用人均单日使用时长达129分钟。不少人感叹，追短剧太“上头”，但刷剧后会格外空虚，记忆力和注意力都明显下滑，甚",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTI2uQZXzoVQoUpeD4LYCGI261127.shtml",
+          "published": "Fri, 27 Nov 2026 05:41:04 GMT"
+        },
+        {
+          "title": "中国驻南非使领馆再次提醒中国公民近期暂勿前往斯威士兰",
+          "summary": "央视网消息 ：11月27日，中国驻南非大使馆发布领事提醒：当前，斯威士兰安全形势复杂，排外情绪上升。斯当局拟出台的有关经济领域法律和政策可能伤害外国公民利益。 驻南非使领馆提醒中国公民近期暂勿前往斯威士兰，已在当地的中国公民和机构请密切关注局势发展，加强安全防范和应急准备，并尽快撤离或转移至南非等相对安全区域。如遇紧急情况，请及时报警并与中国驻南非使领馆联系寻求协助。执意前往或驻留人员将面临极高安",
+          "importance": "medium",
+          "source": "央视新闻",
+          "link": "https://news.cctv.com/2026/11/27/ARTIXvpylHoZDJ2X0fGyTk5u261127.shtml",
+          "published": "Fri, 27 Nov 2026 02:15:45 GMT"
+        },
+        {
+          "title": "从集体无意识到文化无意识｜心理",
+          "summary": "文化无意识不仅会影响我们的个体行为，还会影响族群之间乃至整个国家层面更广泛的关系。它关乎社会冲突与和谐、战争与和平 【财新网】 你是否了解荣格心理学，或是有兴趣探索它那些引人入胜的想法？如果有，集体无意识是一个至关重要的概念。一个多世纪以前，卡尔・荣格提出这一概念。部分依据是建立在他对精神疾病患者开展的治疗工作中。依托于对东西方艺术、民俗与神话的调查研究，他提出：世界各地的人类拥有相同的，与生俱来",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-27/102509250.html",
+          "published": "Fri, 27 Nov 2026 05:59:30 GMT"
+        },
+        {
+          "title": "能把事情做到100分的日本，却为何少见0到1的创新",
+          "summary": "中日像一枚硬币的两面：中国拥有速度、规模、竞争和极强的试错能力，但也伴随着焦虑、内卷、粗糙和短期主义；日本拥有秩序、质量、稳定和长期主义，却也面临路径依赖、节奏缓慢和创新动力不足的问题 今年的日本之行，我一直怀有一种很复杂的情绪。 一方面，我依然会被这个国家深深打动。秩序、干净、礼貌、克制，以及对细节近乎执拗的打磨，都让人很自然地理解，为什么日本能够长期在制造业、材料、精密工程等领域保持世界级的领",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://opinion.caixin.com/2026-11-27/102509248.html",
+          "published": "Fri, 27 Nov 2026 05:51:16 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 55,
-    "total_collected": 43,
-    "sources": 6,
+    "total_items": 71,
+    "total_collected": 54,
+    "sources": 5,
     "source_list": [
-      "BBC中文",
+      "B站科技热门",
       "Hacker News",
-      "TechCrunch",
-      "The Verge",
       "央视新闻",
+      "观察者网",
       "财新网"
     ],
     "domains": 7
