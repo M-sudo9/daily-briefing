@@ -1,0 +1,204 @@
+{
+  "id": "2026-11-28-06",
+  "datetime": "2026-11-28 06:47:27",
+  "date": "2026-11-28",
+  "time": "06:47",
+  "period": "上午",
+  "summary": "本期采集 17 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 19 条摘要",
+  "domains": [
+    {
+      "name": "国际军事",
+      "summary": "",
+      "items": [
+        {
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 128 # Comments: 9",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://unkernel.dev",
+          "published": "Sat, 28 Nov 2026 03:19:20 +0000"
+        },
+        {
+          "title": "Atari Homebrew Awards Cancelled",
+          "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 160 # Comments: 154",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+          "published": "Sat, 28 Nov 2026 02:03:25 +0000"
+        },
+        {
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 287 # Comments: 106",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "Fri, 27 Nov 2026 23:06:29 +0000"
+        },
+        {
+          "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+          "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 79 # Comments: 30",
+          "importance": "medium",
+          "source": "Hacker News",
+          "link": "https://tabernet.es/",
+          "published": "Fri, 27 Nov 2026 23:00:30 +0000"
+        }
+      ]
+    },
+    {
+      "name": "AI / 人工智能",
+      "summary": "",
+      "items": [
+        {
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "summary": "The M5-powered MacBook Air is $300 off in both size configurations for Black Friday. | Photo: Antonio G. Di Benedetto / The Verge If you’ve been holding off on buying a new MacBook Air since Apple rai",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "published": "2026-11-27T22:30:00-05:00"
+        },
+        {
+          "title": "The absolute best Black Friday deals you can still get",
+          "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games , wireless earbuds , TV",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "published": "2026-11-27T22:28:32-05:00"
+        },
+        {
+          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+          "summary": "The MacBook Pro with PROLED XDR has hit a new low price just a few months after release. | Photo: Antonio G. Di Benedetto / The Verge Black Friday is entering the evening, which means one of the best ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+          "published": "2026-11-27T18:53:19-05:00"
+        },
+        {
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "The fan-favorite folding design returns with the comfortable, slightly improved XM4C headphones. | Photo: John Higgins / The Verge Instead of purely looking forward with its headphone designs, Sony we",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-27T18:32:00-05:00"
+        },
+        {
+          "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+          "summary": "Yooka-Laylee and the Impossible Lair: Definitive Edition | Image: Playtronic Games Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+          "published": "2026-11-27T18:30:32-05:00"
+        },
+        {
+          "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+          "summary": "Blade Runner 2049 looks fantastic, even if you pick up the 1080p Blu-ray version. | Image: Alcon Entertainment No shade to those who love their subscription services, but viewing physical movies is a ",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+          "published": "2026-11-27T18:30:00-05:00"
+        },
+        {
+          "title": "《爱的缄默法则》首曝PV丨归来",
+          "summary": "一纸禁令封禁了全城的美酒，却无法禁绝欲望的汹涌暗流。\n权力的棋局、对立的身份、神前的誓言、暗中的守候……\n那些他们坚守多年的戒律与防线，都在你走下列车的那一刻悄然失守。 \n掌心的家族戒指尚有余温，推开车门吧——\n在这座禁止沉醉的城市里，去见那些等了你太久的人。\n\n——心动无法宣之于口，缄默即是爱的法则——\n沉浸式复古美学恋爱手游《爱的缄默法则》现已开启预约，邀你即刻前往https://www.bi",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1qQykzCEwK",
+          "published": "Sat, 28 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "【周刊提前读】深度：AI流水线制造短剧 传统影视急寻出路",
+          "summary": "【本文系数据通用户提前专享】电影、长剧大幅减产，AI应用更极致，短剧流水线化，传统影视业出路何在？",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-28/102509494.html",
+          "published": "Sat, 28 Nov 2026 00:55:55 GMT"
+        },
+        {
+          "title": "【周刊提前读】深度：特朗普力挺黄仁勋 AI产业链调整才刚开始",
+          "summary": "【本文系数据通用户提前专享】特朗普介入，董事会立场反转，黄仁勋重返英伟达，但风波并未结束，AI行业的尴尬处境也才开始",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-28/102509487.html",
+          "published": "Sat, 28 Nov 2026 00:43:14 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "《爱的缄默法则》首曝PV丨归来",
+          "summary": "一纸禁令封禁了全城的美酒，却无法禁绝欲望的汹涌暗流。\n权力的棋局、对立的身份、神前的誓言、暗中的守候……\n那些他们坚守多年的戒律与防线，都在你走下列车的那一刻悄然失守。 \n掌心的家族戒指尚有余温，推开车门吧——\n在这座禁止沉醉的城市里，去见那些等了你太久的人。\n\n——心动无法宣之于口，缄默即是爱的法则——\n沉浸式复古美学恋爱手游《爱的缄默法则》现已开启预约，邀你即刻前往https://www.bi",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1qQykzCEwK",
+          "published": "Sat, 28 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "央行完善贷款罚息规则：从“加收30%—50%”改为“协商确定”",
+          "summary": "央行将引导金融机构平衡好防范道德风险和兼顾借款人偿付能力的关系，通过在合同利率上加点等形式合理确定罚息利率水平，预计罚息利率总体将有所下行 【财新网】 目前，如果企业或个人的银行贷款逾期未能偿还，银行通常会在原有贷款利率水平上加收50%作为罚息利率，比如5%的年利率能上浮到7.5%；这一情况即将发生改变，罚息利率是多少，将可由借贷双方协商确定。 2026年11月27日，央行发布《人民币存贷款利率管",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-28/102509472.html",
+          "published": "Sat, 28 Nov 2026 00:12:46 GMT"
+        }
+      ]
+    },
+    {
+      "name": "心理学",
+      "summary": "",
+      "items": [
+        {
+          "title": "零跑徐军：新能源车市趋于成熟 车企需加快规模扩张",
+          "summary": "零跑汽车持续扩大销量规模，2026年全年销量向百万辆迈进 【财新网】 随着新能源汽车支持政策逐步退坡、消费者认知和行业技术趋于成熟，车企建立竞争优势的时间窗口正在收窄，需加快规模扩张。11月27日，在广州车展期间，零跑汽车（09863.HK）高级副总裁徐军提出上述观点。 国家新能源汽车购车补贴已于2022年底退出，2026年起新能源汽车车辆购置税由免征调整为减半征收，现行减免政策将于2027年底到",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-28/102509540.html",
+          "published": "Sat, 28 Nov 2026 03:44:50 GMT"
+        },
+        {
+          "title": "财新闻｜金价大跌，六福集团半年赚6亿，但“一口价”首饰销量下降5.3%",
+          "summary": "演员杨蓉自曝病情：11岁确诊，现已蔓延到全身，紧张焦虑时抖得更厉害；医生：无法根治，但不等于无计可施；湖北通城县博物馆疑存赝品、展品断代有误？官方最新回应：待省级专家核查确认；美团、淘宝闪购官宣：全面取消 演员杨蓉自曝病情：11岁确诊，现已蔓延到全身，紧张焦虑时抖得更厉害；医生：无法根治，但不等于无计可施 11月26日，演员杨蓉在社交平台发布视频，自曝11岁确诊特发性震颤：“小时候学舞蹈的时候就发",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-28/102509471.html",
+          "published": "Fri, 27 Nov 2026 23:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "金融 / 投资",
+      "summary": "",
+      "items": [
+        {
+          "title": "监管部门约谈15家电动自行车企业 要求妥善处理退车诉求",
+          "summary": "市场监管总局称，将坚持严管严治、一严到底，维护3C认证制度的严肃性和公信力 【财新网】 电动自行车强制性产品认证（下称“3C认证”）证书大面积暂停后，部分消费者购车后无法正常上牌使用。 11月27日，市场监管总局集中约谈雅迪、台铃、爱玛等15家电动自行车企业，要求企业主动做好售后服务，不得要求消费者折价退车，也不得以证书很快恢复为由拒绝退车。 “十一”假期前后，监管部门组织认证机构对电动自行车生产",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://www.caixin.com/2026-11-28/102509530.html",
+          "published": "Sat, 28 Nov 2026 03:20:27 GMT"
+        },
+        {
+          "title": "央行完善贷款罚息规则：从“加收30%—50%”改为“协商确定”",
+          "summary": "央行将引导金融机构平衡好防范道德风险和兼顾借款人偿付能力的关系，通过在合同利率上加点等形式合理确定罚息利率水平，预计罚息利率总体将有所下行 【财新网】 目前，如果企业或个人的银行贷款逾期未能偿还，银行通常会在原有贷款利率水平上加收50%作为罚息利率，比如5%的年利率能上浮到7.5%；这一情况即将发生改变，罚息利率是多少，将可由借贷双方协商确定。 2026年11月27日，央行发布《人民币存贷款利率管",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-28/102509472.html",
+          "published": "Sat, 28 Nov 2026 00:12:46 GMT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_items": 19,
+    "total_collected": 17,
+    "sources": 4,
+    "source_list": [
+      "B站科技热门",
+      "Hacker News",
+      "The Verge",
+      "财新网"
+    ],
+    "domains": 5
+  }
+}

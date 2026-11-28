@@ -1,118 +1,46 @@
 {
-  "id": "2026-11-27-17",
-  "datetime": "2026-11-27 17:54:40",
-  "date": "2026-11-27",
-  "time": "17:54",
-  "period": "下午",
-  "summary": "本期采集 40 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 48 条摘要",
+  "id": "2026-11-28-06",
+  "datetime": "2026-11-28 06:47:27",
+  "date": "2026-11-28",
+  "time": "06:47",
+  "period": "上午",
+  "summary": "本期采集 17 篇文章，来自 4 个信息源，覆盖 5 个领域，精选 19 条摘要",
   "domains": [
     {
       "name": "国际军事",
       "summary": "",
       "items": [
         {
-          "title": "France Slips into Recession as Exports Sag",
-          "summary": "Article URL: https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5 Comments URL: https://news.ycombinator.com/item?id=50669280 Points: 7 # Comments: 4",
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 128 # Comments: 9",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5",
-          "published": "Fri, 27 Nov 2026 17:21:51 +0000"
+          "link": "https://unkernel.dev",
+          "published": "Sat, 28 Nov 2026 03:19:20 +0000"
         },
         {
-          "title": "Palliative Care for the Chronically Online",
-          "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 12 # Comments: 3",
+          "title": "Atari Homebrew Awards Cancelled",
+          "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 160 # Comments: 154",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
-          "published": "Fri, 27 Nov 2026 17:01:51 +0000"
+          "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+          "published": "Sat, 28 Nov 2026 02:03:25 +0000"
         },
         {
-          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-          "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 100 # Comments: 45",
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 287 # Comments: 106",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-          "published": "Fri, 27 Nov 2026 15:40:31 +0000"
+          "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "Fri, 27 Nov 2026 23:06:29 +0000"
         },
         {
-          "title": "False computer-checked proofs",
-          "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 66 # Comments: 26",
+          "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+          "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 79 # Comments: 30",
           "importance": "medium",
           "source": "Hacker News",
-          "link": "https://cr.yp.to/proofs/falseccp.html",
-          "published": "Fri, 27 Nov 2026 15:26:09 +0000"
-        },
-        {
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
-          "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 100 # Comments: 43",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-          "published": "Fri, 27 Nov 2026 15:03:17 +0000"
-        },
-        {
-          "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
-          "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a develope",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
-          "published": "Fri, 27 Nov 2026 14:37:02 +0000"
-        },
-        {
-          "title": "Making a 3D fantasy map like a 16th-Century atlas",
-          "summary": "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 24 # Comments: 3",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-          "published": "Fri, 27 Nov 2026 14:02:52 +0000"
-        },
-        {
-          "title": "Mental Health Resources and Political Engagement",
-          "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 97 # Comments: 173",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-          "published": "Fri, 27 Nov 2026 13:01:02 +0000"
-        },
-        {
-          "title": "US Air Force's cloud computing platform hacked",
-          "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 204 # Comments: 121",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-          "published": "Fri, 27 Nov 2026 12:54:11 +0000"
-        },
-        {
-          "title": "New York and California age gating rules go into effect in the new year",
-          "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 133 # Comments: 155",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-          "published": "Fri, 27 Nov 2026 12:43:40 +0000"
-        },
-        {
-          "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-          "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 178 # Comments: 77",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://eprint.iacr.org/2026/3020.pdf",
-          "published": "Fri, 27 Nov 2026 12:08:51 +0000"
-        },
-        {
-          "title": "Kimi for Science: More scientific ideas, made possible",
-          "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 144 # Comments: 115",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.kimi.ai/news/kimi-for-science-program",
-          "published": "Fri, 27 Nov 2026 12:03:11 +0000"
-        },
-        {
-          "title": "下周前瞻：国际刑事法院审理杜特尔特案；黄仁勋出席国会参院听证会",
-          "summary": "2026年11月30日—12月6日全球大事预报 【财新网】 11月30日 国际刑事法院审理杜特尔特案 位于荷兰海牙的国际刑事法院将从11月30日起正式开庭审理菲律宾前总统杜特尔特案，他面临三项危害人类罪指控，涉及任内“禁毒战争”中的谋杀和未遂谋杀行为。从他2025年3月在马尼拉机场被拘留、随后移交海牙算起，他已经被关了超过18个月。 IMF副总裁交接 国际货币基金组织（IMF）总裁克里斯塔利娜·格",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://china.caixin.com/2026-11-27/102509363.html",
-          "published": "Fri, 27 Nov 2026 11:05:06 GMT"
+          "link": "https://tabernet.es/",
+          "published": "Fri, 27 Nov 2026 23:00:30 +0000"
         }
       ]
     },
@@ -121,108 +49,98 @@
       "summary": "",
       "items": [
         {
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
-          "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 100 # Comments: 43",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-          "published": "Fri, 27 Nov 2026 15:03:17 +0000"
-        },
-        {
-          "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-          "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a sma",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://bouncemarket.minhanhday.com/",
-          "published": "Fri, 27 Nov 2026 15:01:50 +0000"
-        },
-        {
-          "title": "US Air Force's cloud computing platform hacked",
-          "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 204 # Comments: 121",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-          "published": "Fri, 27 Nov 2026 12:54:11 +0000"
-        },
-        {
-          "title": "Kimi for Science: More scientific ideas, made possible",
-          "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 144 # Comments: 115",
-          "importance": "medium",
-          "source": "Hacker News",
-          "link": "https://www.kimi.ai/news/kimi-for-science-program",
-          "published": "Fri, 27 Nov 2026 12:03:11 +0000"
-        },
-        {
-          "title": "Here are the best Black Friday deals you can grab for $30 or less",
-          "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instan",
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "summary": "The M5-powered MacBook Air is $300 off in both size configurations for Black Friday. | Photo: Antonio G. Di Benedetto / The Verge If you’ve been holding off on buying a new MacBook Air since Apple rai",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
-          "published": "2026-11-27T12:30:00-05:00"
+          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "published": "2026-11-27T22:30:00-05:00"
         },
         {
-          "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-          "summary": "The MacBook Pro with PROLED XDR has hit a new low price just a few months after release. | Photo: Antonio G. Di Benedetto / The Verge Black Friday is one of the best times of the year to save some cas",
+          "title": "The absolute best Black Friday deals you can still get",
+          "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games , wireless earbuds , TV",
+          "importance": "medium",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "published": "2026-11-27T22:28:32-05:00"
+        },
+        {
+          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+          "summary": "The MacBook Pro with PROLED XDR has hit a new low price just a few months after release. | Photo: Antonio G. Di Benedetto / The Verge Black Friday is entering the evening, which means one of the best ",
           "importance": "medium",
           "source": "The Verge",
           "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-          "published": "2026-11-27T11:30:37-05:00"
+          "published": "2026-11-27T18:53:19-05:00"
         },
         {
-          "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-          "summary": "AirPods Pro 3 | Photo: Amelia Holowaty Krales / The Verge The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on ",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "The fan-favorite folding design returns with the comfortable, slightly improved XM4C headphones. | Photo: John Higgins / The Verge Instead of purely looking forward with its headphone designs, Sony we",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-          "published": "2026-11-27T10:15:28-05:00"
+          "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-27T18:32:00-05:00"
         },
         {
-          "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-          "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs",
+          "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+          "summary": "Yooka-Laylee and the Impossible Lair: Definitive Edition | Image: Playtronic Games Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-          "published": "2026-11-27T09:00:00-05:00"
+          "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+          "published": "2026-11-27T18:30:32-05:00"
         },
         {
-          "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
-          "summary": "In most Grand Theft Auto games, and most open-world games for that matter, the world is left open for you to explore once the credits roll. It could be Los Santos or a twisted take on Manhattan , but ",
+          "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+          "summary": "Blade Runner 2049 looks fantastic, even if you pick up the 1080p Blu-ray version. | Image: Alcon Entertainment No shade to those who love their subscription services, but viewing physical movies is a ",
           "importance": "medium",
           "source": "The Verge",
-          "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
-          "published": "2026-11-27T08:00:00-05:00"
+          "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+          "published": "2026-11-27T18:30:00-05:00"
         },
         {
-          "title": "打造创新支柱，促进亚太共同繁荣（亚太合作启新程）",
-          "summary": "“建设亚太共同体，要坚持开拓创新”“促进亚太共同繁荣，要激发创新增长动力”，在亚太经合组织（APEC）第三十三次领导人非正式会议及相关活动上，习近平主席多次强调“创新”的重要性，倡导“积极构建科技创新伙伴关系，深化数字经济、人工智能合作，促进绿色低碳转型，不断将创新优势转化为增长动能，为亚太经济增长提供强劲动力”。 “创新”是2026年APEC“中国年”确定的三大优先领域之一。在深圳APEC会议上",
+          "title": "《爱的缄默法则》首曝PV丨归来",
+          "summary": "一纸禁令封禁了全城的美酒，却无法禁绝欲望的汹涌暗流。\n权力的棋局、对立的身份、神前的誓言、暗中的守候……\n那些他们坚守多年的戒律与防线，都在你走下列车的那一刻悄然失守。 \n掌心的家族戒指尚有余温，推开车门吧——\n在这座禁止沉醉的城市里，去见那些等了你太久的人。\n\n——心动无法宣之于口，缄默即是爱的法则——\n沉浸式复古美学恋爱手游《爱的缄默法则》现已开启预约，邀你即刻前往https://www.bi",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIaXAfKfvcmpYXIFFLEIBS261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:47:53 GMT"
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1qQykzCEwK",
+          "published": "Sat, 28 Nov 2026 01:00:00 GMT"
         },
         {
-          "title": "1—10月份规模以上工业企业利润同比增长16.0%",
-          "summary": "[!--begin:htmlVideoCode--]397fba4ae659436d80c420e4f8437ef0,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：国家统计局11月27日发布的数据显示，1—10月份全国工业生产总体平稳，在新动能快速成长带动下，规模以上工业企业利润保持较快增长，共实现利润总额67373.6亿元，同比增",
+          "title": "【周刊提前读】深度：AI流水线制造短剧 传统影视急寻出路",
+          "summary": "【本文系数据通用户提前专享】电影、长剧大幅减产，AI应用更极致，短剧流水线化，传统影视业出路何在？",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTI5bWdOZHLurYnINviJhxX261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:04:36 GMT"
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-28/102509494.html",
+          "published": "Sat, 28 Nov 2026 00:55:55 GMT"
         },
         {
-          "title": "我国工程机械行业持续稳中向好",
-          "summary": "[!--begin:htmlVideoCode--]e17158a9adc04762b8bb40194bafd10a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从中国工程机械工业协会了解到，今年以来，工程机械行业保持增长，行业整体延续稳中向好运行态势。 最新数据显示，今年1—10月份，工程机械行业的代表产品挖掘机累计销售23",
+          "title": "【周刊提前读】深度：特朗普力挺黄仁勋 AI产业链调整才刚开始",
+          "summary": "【本文系数据通用户提前专享】特朗普介入，董事会立场反转，黄仁勋重返英伟达，但风波并未结束，AI行业的尴尬处境也才开始",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTImv4BzITHOpj7btEG3gnz261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:04:28 GMT"
+          "source": "财新网",
+          "link": "https://database.caixin.com/2026-11-28/102509487.html",
+          "published": "Sat, 28 Nov 2026 00:43:14 GMT"
+        }
+      ]
+    },
+    {
+      "name": "哲学",
+      "summary": "",
+      "items": [
+        {
+          "title": "《爱的缄默法则》首曝PV丨归来",
+          "summary": "一纸禁令封禁了全城的美酒，却无法禁绝欲望的汹涌暗流。\n权力的棋局、对立的身份、神前的誓言、暗中的守候……\n那些他们坚守多年的戒律与防线，都在你走下列车的那一刻悄然失守。 \n掌心的家族戒指尚有余温，推开车门吧——\n在这座禁止沉醉的城市里，去见那些等了你太久的人。\n\n——心动无法宣之于口，缄默即是爱的法则——\n沉浸式复古美学恋爱手游《爱的缄默法则》现已开启预约，邀你即刻前往https://www.bi",
+          "importance": "medium",
+          "source": "B站科技热门",
+          "link": "https://www.bilibili.com/video/BV1qQykzCEwK",
+          "published": "Sat, 28 Nov 2026 01:00:00 GMT"
         },
         {
-          "title": "国家网信办等十一部门联合公布《分布式数字身份互通互认应用规定》",
-          "summary": "央视网消息 ：据“网信中国”微信公众号消息，近日，国家网信办、中央编办、工业和信息化部、公安部、交通运输部、中国人民银行、海关总署、税务总局、市场监管总局、国家外汇局、国家密码管理局联合公布《分布式数字身份互通互认应用规定》（以下简称《规定》），自2027年3月1日起施行。 《规定》贯彻落实党中央、国务院决策部署，旨在促进分布式数字身份创新发展与互通互认应用，建立健全分布式数字身份公共服务体系，支",
+          "title": "央行完善贷款罚息规则：从“加收30%—50%”改为“协商确定”",
+          "summary": "央行将引导金融机构平衡好防范道德风险和兼顾借款人偿付能力的关系，通过在合同利率上加点等形式合理确定罚息利率水平，预计罚息利率总体将有所下行 【财新网】 目前，如果企业或个人的银行贷款逾期未能偿还，银行通常会在原有贷款利率水平上加收50%作为罚息利率，比如5%的年利率能上浮到7.5%；这一情况即将发生改变，罚息利率是多少，将可由借贷双方协商确定。 2026年11月27日，央行发布《人民币存贷款利率管",
           "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIzqr8He7EccKCLPpvu1n8261127.shtml",
-          "published": "Fri, 27 Nov 2026 11:12:06 GMT"
+          "source": "财新网",
+          "link": "https://finance.caixin.com/2026-11-28/102509472.html",
+          "published": "Sat, 28 Nov 2026 00:12:46 GMT"
         }
       ]
     },
@@ -231,50 +149,20 @@
       "summary": "",
       "items": [
         {
-          "title": "给足孩子真正的底气，离不开这三种力量",
-          "summary": "最近，一段小孩哥回应嘲笑的视频打动了不少人。因为穿的鞋“没牌子”，有同学笑他“真土”。他不生气，回答道：“我穿它去地里拔过花生，去山上爬过树，特别结实。鞋子合不合脚只有自己知道。” 真正的自信，不是“我也有名牌”，而是“我不必靠名牌证明自己”。这份底气从哪里来？德西和瑞恩的“自我决定论”认为，人的内在动力，来自归属感、自主感和胜任感。能支撑孩子一生的，不是外在的堆砌，而是心底长出的这三种力量。 今",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/28/ARTIFAPygRcNLs36WhRE5QX8261128.shtml",
-          "published": "Fri, 27 Nov 2026 17:28:13 GMT"
-        }
-      ]
-    },
-    {
-      "name": "教育 / 升学",
-      "summary": "",
-      "items": [
-        {
-          "title": "菌草，岛国农业的新希望（第一现场）",
-          "summary": "楠迪瓦图莱鲁学院师生和中国专家林兴生在采摘、包装平菇时合影。 楠迪瓦图莱鲁学院学生在冷藏集装箱菇房里采摘平菇。 斐济农业部勒嘎勒嘎研究站站长苏富瓦瓦纳·胡赛因参观中国援斐济菌草技术示范中心菇棚。 中国援斐济菌草技术示范中心培育的鹿角灵芝。 农场主詹姆斯·古图瓦卡卡用菌草喂养农场的牛羊。 中国技术专家向斐济雷瓦省残疾人协会主席莉蒂亚（左二）赠送鹿角灵芝产品。 以上图片均为本报记者车斌摄 1986年1",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTI8unqgExfQ7UsKfTe8aEZ261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:53:08 GMT"
-        },
-        {
-          "title": "到社区医院健身！社区卫生服务中心“健身房”能练点啥？",
-          "summary": "[!--begin:htmlVideoCode--]c5b289eb1e8d4ec69b302b866f433211,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在大多数人的印象里，健身房常常是年轻人的地盘，大重量器械、快节奏团课让不少老年人望而却步。同时，一些成长过程中面临体态问题的青少年也常常找不到特别合适的健身指导。面对这些实际需求，最",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIDIIkI0ewb8U4PXRipkgl261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:48:30 GMT"
-        },
-        {
-          "title": "将开放优势转化为发展的持久动力",
-          "summary": "【光明论坛】 作者：唐啸（清华大学公共管理学院长聘副教授） 习近平主席在2026年亚太经合组织工商领导人峰会开幕式上发表主旨演讲指出：“亚太地区汇集了世界上最重要的湾区，湾区经济具有鲜明的开放性、协同性、外溢性。我们所在的深圳就位于粤港澳大湾区。中方支持成立世界湾区经济合作联盟，深化各湾区交流互动，探索亚太经济合作新路径。” 湾区依海而生、因港而兴，是陆海资源交汇、港口城市集聚、产业和市场紧密联系",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTINdCKjflNzMhqJhjNkImV261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:38:11 GMT"
-        },
-        {
-          "title": "华润置地总裁徐荣近期被带走 履新不到两年即辞任",
-          "summary": "按照华润置地董事会规定，徐荣任期三年。至这次辞任，他履职不足两年 【财新网】 华润置地有限公司（01109.HK，下称“华润置地”）于11月25日晚间披露，该公司执行董事、总裁徐荣因个人事务安排辞去职务。 徐荣此时辞职略显仓促。财新从多个信源处获悉，徐荣已被有关部门带走调查。一名知情人士透露，早在9月，有关部门就曾约谈了徐荣。 徐荣是江苏江阴人，现年58岁，拥有华中科技大学建筑学学士、建筑设计专业",
+          "title": "零跑徐军：新能源车市趋于成熟 车企需加快规模扩张",
+          "summary": "零跑汽车持续扩大销量规模，2026年全年销量向百万辆迈进 【财新网】 随着新能源汽车支持政策逐步退坡、消费者认知和行业技术趋于成熟，车企建立竞争优势的时间窗口正在收窄，需加快规模扩张。11月27日，在广州车展期间，零跑汽车（09863.HK）高级副总裁徐军提出上述观点。 国家新能源汽车购车补贴已于2022年底退出，2026年起新能源汽车车辆购置税由免征调整为减半征收，现行减免政策将于2027年底到",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-27/102509396.html",
-          "published": "Fri, 27 Nov 2026 13:54:47 GMT"
+          "link": "https://www.caixin.com/2026-11-28/102509540.html",
+          "published": "Sat, 28 Nov 2026 03:44:50 GMT"
+        },
+        {
+          "title": "财新闻｜金价大跌，六福集团半年赚6亿，但“一口价”首饰销量下降5.3%",
+          "summary": "演员杨蓉自曝病情：11岁确诊，现已蔓延到全身，紧张焦虑时抖得更厉害；医生：无法根治，但不等于无计可施；湖北通城县博物馆疑存赝品、展品断代有误？官方最新回应：待省级专家核查确认；美团、淘宝闪购官宣：全面取消 演员杨蓉自曝病情：11岁确诊，现已蔓延到全身，紧张焦虑时抖得更厉害；医生：无法根治，但不等于无计可施 11月26日，演员杨蓉在社交平台发布视频，自曝11岁确诊特发性震颤：“小时候学舞蹈的时候就发",
+          "importance": "medium",
+          "source": "财新网",
+          "link": "https://mini.caixin.com/2026-11-28/102509471.html",
+          "published": "Fri, 27 Nov 2026 23:38:00 GMT"
         }
       ]
     },
@@ -283,152 +171,32 @@
       "summary": "",
       "items": [
         {
-          "title": "解读·稳股市“国家队”和长钱怎么发力？→",
-          "summary": "[!--begin:htmlVideoCode--]c9abce9edcd140198201d816179a6be3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 11月27日举行的国务院常务会议研究持续深化资本市场投融资综合改革工作。指出要实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。会议释放出哪些信号？ 11月27日的国务院常",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIyo6Xv04v42IzvvYFvX7r261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:48:52 GMT"
-        },
-        {
-          "title": "打造创新支柱，促进亚太共同繁荣（亚太合作启新程）",
-          "summary": "“建设亚太共同体，要坚持开拓创新”“促进亚太共同繁荣，要激发创新增长动力”，在亚太经合组织（APEC）第三十三次领导人非正式会议及相关活动上，习近平主席多次强调“创新”的重要性，倡导“积极构建科技创新伙伴关系，深化数字经济、人工智能合作，促进绿色低碳转型，不断将创新优势转化为增长动能，为亚太经济增长提供强劲动力”。 “创新”是2026年APEC“中国年”确定的三大优先领域之一。在深圳APEC会议上",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIaXAfKfvcmpYXIFFLEIBS261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:47:53 GMT"
-        },
-        {
-          "title": "将开放优势转化为发展的持久动力",
-          "summary": "【光明论坛】 作者：唐啸（清华大学公共管理学院长聘副教授） 习近平主席在2026年亚太经合组织工商领导人峰会开幕式上发表主旨演讲指出：“亚太地区汇集了世界上最重要的湾区，湾区经济具有鲜明的开放性、协同性、外溢性。我们所在的深圳就位于粤港澳大湾区。中方支持成立世界湾区经济合作联盟，深化各湾区交流互动，探索亚太经济合作新路径。” 湾区依海而生、因港而兴，是陆海资源交汇、港口城市集聚、产业和市场紧密联系",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTINdCKjflNzMhqJhjNkImV261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:38:11 GMT"
-        },
-        {
-          "title": "关注历史经典产业丨景德镇：千年窑火“烧”出千亿级陶瓷产业",
-          "summary": "新华社南昌11月26日电 题：景德镇：千年窑火“烧”出千亿级陶瓷产业 新华社记者黄浩然 在江西景德镇市昌江区昌南里世界陶瓷潮玩小镇，一座“大碗”建筑格外醒目。它形似瓷碗，通体洁白，如一件巨型陶瓷艺术品静立城中。 这里是全球潮玩艺术中心。走进“大碗”内部，整面墙壁陈列着全球知名动漫IP形象。展厅内，诞生于荷兰的米菲兔“穿着”青花外衣站在“C位”。 “陶瓷本身具有独特的材料美和工艺美。它不仅是器物，更",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIrj3CMQJZobhOrlUk7BkR261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:33:57 GMT"
-        },
-        {
-          "title": "多国市长代表相聚新疆 感受丝路城市发展活力",
-          "summary": "11月24日，在新疆喀什古城景区，参加活动的嘉宾在坎土曼巴扎铁业社参观。新华社记者 丁磊 摄 新华社乌鲁木齐11月26日电 题：多国市长代表相聚新疆 感受丝路城市发展活力 新华社记者潘莹、李元昊、古扎丽努尔 准噶尔盆地西北缘，克拉玛依黑油山景区内，多国市长代表驻足参观。木栈道边油泉汩汩涌动，斑斓油膜浮于池面。 “奥伦堡州同样发展油气产业，这里将石油遗存妥善保护、转化为特色文旅资源，让人读懂石油发展",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIIWWaYKhwNFGik90oyojx261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:32:35 GMT"
-        },
-        {
-          "title": "高铁“上新”带动冬季文旅市场持续升温",
-          "summary": "[!--begin:htmlVideoCode--]51fd44b71a314ea1a9264981a22922bc,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：今年以来，我国铁路建设投资保持增长态势，多条高铁新线密集开通，便利沿线群众出行，有效盘活当地文旅资源，带动冬季旅游市场持续升温。 11月27日，安徽巢湖至马鞍山、淮北至蚌",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTImRcJoPjmtEy1YJus3FtJ261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:13:19 GMT"
-        },
-        {
-          "title": "“三北”工程攻坚战将推行分区差异化治理",
-          "summary": "[!--begin:htmlVideoCode--]ce0b51116b0c4e289a547a25beb38908,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从国家林业和草原局了解到，今年，“三北”工程攻坚战取得明显成效。全年安排中央投资277亿元，实施重点项目328个，目前已完成各类建设任务6874万亩，进度为92.3%",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTILkPwTgKvBPbTmVB7lNMN261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:09:42 GMT"
-        },
-        {
-          "title": "我国工程机械行业持续稳中向好",
-          "summary": "[!--begin:htmlVideoCode--]e17158a9adc04762b8bb40194bafd10a,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：记者从中国工程机械工业协会了解到，今年以来，工程机械行业保持增长，行业整体延续稳中向好运行态势。 最新数据显示，今年1—10月份，工程机械行业的代表产品挖掘机累计销售23",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTImv4BzITHOpj7btEG3gnz261127.shtml",
-          "published": "Fri, 27 Nov 2026 12:04:28 GMT"
-        },
-        {
-          "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
-          "summary": "[!--begin:htmlVideoCode--]e1f91f043cb04d31bceb0b8377349f74,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息 （新闻联播）：当地时间11月27日，由中国中央广播电视总台制作的专题片《习近平的文化情缘》在斯里兰卡科伦坡启播。 《习近平的文化情缘》讲述习近平主席高度重视、亲自擘画推动文物保护利用和",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIHPb6RITl7WvU4BR6O035261127.shtml",
-          "published": "Fri, 27 Nov 2026 11:56:00 GMT"
-        },
-        {
-          "title": "国家网信办等十一部门联合公布《分布式数字身份互通互认应用规定》",
-          "summary": "央视网消息 ：据“网信中国”微信公众号消息，近日，国家网信办、中央编办、工业和信息化部、公安部、交通运输部、中国人民银行、海关总署、税务总局、市场监管总局、国家外汇局、国家密码管理局联合公布《分布式数字身份互通互认应用规定》（以下简称《规定》），自2027年3月1日起施行。 《规定》贯彻落实党中央、国务院决策部署，旨在促进分布式数字身份创新发展与互通互认应用，建立健全分布式数字身份公共服务体系，支",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIzqr8He7EccKCLPpvu1n8261127.shtml",
-          "published": "Fri, 27 Nov 2026 11:12:06 GMT"
-        },
-        {
-          "title": "中国人民银行有关部门负责人就 《大额存单管理办法》答记者问",
-          "summary": "央视网消息 ：据中国人民银行消息， 中国人民银行有关部门负责人就 《大额存单管理办法》答记者问。 1、《大额存单管理办法》（以下简称《办法》）出台背景是什么？ 答：自2015年《大额存单管理暂行办法》（中国人民银行公告〔2015〕第13号）出台以来，大额存单市场取得长足发展，市场规模持续扩大，已成为金融机构流动性管理和居民、企业财富管理的重要渠道。 随着我国利率市场化改革深入推进和货币政策调控框架",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIgKmrmpYUnQWWQn8hOoAG261127.shtml",
-          "published": "Fri, 27 Nov 2026 10:40:35 GMT"
-        },
-        {
-          "title": "中国人民银行有关部门负责人就 《人民币存贷款利率管理规定》答记者问",
-          "summary": "央视网消息 ：据中国人民银行消息，中国人民银行有关部门负责人就 《人民币存贷款利率管理规定》答记者问。 1、《人民币存贷款利率管理规定》（以下简称《规定》）出台背景是什么？ 答：随着利率市场化改革不断推进，利率的行政性管制逐步放开，各项存贷款利率由金融机构按市场化原则自主确定，中国人民银行负责利率政策的制定、执行和监管。同时，市场利率定价自律机制等行业自律组织也发挥着日益重要的作用。1999年制定",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIUDOZlBuFinx6gceZpwAB261127.shtml",
-          "published": "Fri, 27 Nov 2026 10:35:59 GMT"
-        },
-        {
-          "title": "中国建设银行青岛市分行原党委书记、行长郝子建被开除党籍",
-          "summary": "央视网消息 ：中央纪委国家监委网站通报，据中央纪委国家监委驻中国建设银行纪检监察组消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国建设银行纪检监察组、北京市朝阳区监委对中国建设银行青岛市分行原党委书记、行长郝子建严重违纪违法问题进行了立案审查调查。 经查，郝子建丧失理想信念，背弃初心使命，政绩观错位，背离高质量发展要求，盲目扩张信贷业务规模，造成严重后果，对抗组织审查；违反中央八项规定精",
-          "importance": "medium",
-          "source": "央视新闻",
-          "link": "https://news.cctv.com/2026/11/27/ARTIrfgMtgBsG4KOQq962dPg261127.shtml",
-          "published": "Fri, 27 Nov 2026 10:09:06 GMT"
-        },
-        {
-          "title": "广汽埃安个人用户销量占比突破八成 淡化“网约车”标签",
-          "summary": "埃安汽车销量在2026年逆市回升，销售结构亦明显改善，全年零售销量预计将重回40万辆以上 【财新网】 广汽埃安2026年累计交付的汽车中，C端（即个人消费者市场）占比达到81%。11月27日广州车展期间，广汽集团昊铂埃安事业部总裁张雄公布了上述数据。 国内车市在2026年遇冷。据中国汽车工业协会统计，前十个月，中国汽车行业乘用车销量为2262.2万辆，同比下降6.6%，其中内销同比降幅达到25.2",
+          "title": "监管部门约谈15家电动自行车企业 要求妥善处理退车诉求",
+          "summary": "市场监管总局称，将坚持严管严治、一严到底，维护3C认证制度的严肃性和公信力 【财新网】 电动自行车强制性产品认证（下称“3C认证”）证书大面积暂停后，部分消费者购车后无法正常上牌使用。 11月27日，市场监管总局集中约谈雅迪、台铃、爱玛等15家电动自行车企业，要求企业主动做好售后服务，不得要求消费者折价退车，也不得以证书很快恢复为由拒绝退车。 “十一”假期前后，监管部门组织认证机构对电动自行车生产",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-27/102509456.html",
-          "published": "Fri, 27 Nov 2026 15:00:31 GMT"
+          "link": "https://www.caixin.com/2026-11-28/102509530.html",
+          "published": "Sat, 28 Nov 2026 03:20:27 GMT"
         },
         {
-          "title": "大额存单认购门槛减半：个人10万元、机构500万元",
-          "summary": "央行修订后的《办法》进一步拓宽了转让渠道，明确第三方平台和银行自有渠道均可开展大额存单的转让、提前支取和赎回 【财新网】 性质上属于存款、但利息比定期存款高的大额存单，个人认购起点将较之前下降一半，降至10万元。 2026年11月27日，央行公布修订后的《大额存单管理办法》（下称《办法》）：个人投资人认购起点金额由不低于20万元降至不低于10万元，机构投资人由不低于1000万元降至不低于500万元",
+          "title": "央行完善贷款罚息规则：从“加收30%—50%”改为“协商确定”",
+          "summary": "央行将引导金融机构平衡好防范道德风险和兼顾借款人偿付能力的关系，通过在合同利率上加点等形式合理确定罚息利率水平，预计罚息利率总体将有所下行 【财新网】 目前，如果企业或个人的银行贷款逾期未能偿还，银行通常会在原有贷款利率水平上加收50%作为罚息利率，比如5%的年利率能上浮到7.5%；这一情况即将发生改变，罚息利率是多少，将可由借贷双方协商确定。 2026年11月27日，央行发布《人民币存贷款利率管",
           "importance": "medium",
           "source": "财新网",
-          "link": "https://finance.caixin.com/2026-11-27/102509400.html",
-          "published": "Fri, 27 Nov 2026 14:29:07 GMT"
-        },
-        {
-          "title": "美团外卖业务现拐点 收入超预期、利润同比转正",
-          "summary": "三季度，外卖行业平均客单价同比回升、低价订单占比下降、暑期旺季行业补贴更趋理性化 11月27日晚间，美团发布2026年三季度财报，当季实现收入1155.56亿元，高于市场预期的1133.71亿元，同比增长21.6%。图：视觉中国 【财新网】 外卖战平息叠加暑期旺季效应，美团业绩继续修复。11月27日晚间，美团（03690.HK）发布2026年三季度财报，当季实现收入1155.56亿元，高于市场预期",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://www.caixin.com/2026-11-27/102509392.html",
-          "published": "Fri, 27 Nov 2026 13:23:48 GMT"
-        },
-        {
-          "title": "下周前瞻：国际刑事法院审理杜特尔特案；黄仁勋出席国会参院听证会",
-          "summary": "2026年11月30日—12月6日全球大事预报 【财新网】 11月30日 国际刑事法院审理杜特尔特案 位于荷兰海牙的国际刑事法院将从11月30日起正式开庭审理菲律宾前总统杜特尔特案，他面临三项危害人类罪指控，涉及任内“禁毒战争”中的谋杀和未遂谋杀行为。从他2025年3月在马尼拉机场被拘留、随后移交海牙算起，他已经被关了超过18个月。 IMF副总裁交接 国际货币基金组织（IMF）总裁克里斯塔利娜·格",
-          "importance": "medium",
-          "source": "财新网",
-          "link": "https://china.caixin.com/2026-11-27/102509363.html",
-          "published": "Fri, 27 Nov 2026 11:05:06 GMT"
+          "link": "https://finance.caixin.com/2026-11-28/102509472.html",
+          "published": "Sat, 28 Nov 2026 00:12:46 GMT"
         }
       ]
     }
   ],
   "stats": {
-    "total_items": 48,
-    "total_collected": 40,
+    "total_items": 19,
+    "total_collected": 17,
     "sources": 4,
     "source_list": [
+      "B站科技热门",
       "Hacker News",
       "The Verge",
-      "央视新闻",
       "财新网"
     ],
     "domains": 5
